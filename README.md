@@ -23,7 +23,7 @@ There are two source files for each style:
 
 2. MerriweatherSans-Style.ufo Original Source Files with contour overlaps for v1.005 and later
 
-To contribute to the project visit <https://github.com/EbenSorkin/Merriweather-Sans>
+Older efforts and issues with this project can be seen here: <https://github.com/EbenSorkin/Merriweather-Sans>
 
 ## ChangeLog
 
