@@ -27,6 +27,17 @@ To contribute to the project visit <https://github.com/EbenSorkin/Merriweather-S
 
 ## ChangeLog
 
+1 April 2019 (Eben Sorkin) Merriweather Sans v1.006
+
+- Version numbering updated to 1.006
+- Added Variable support
+- Added Small caps
+- Added Additional full and small numbers styles and fractions
+- Added Kerning
+- Added OpenType feature code to support the above features
+- Added additional language support
+- Added Additional currencies, symbols and diacritics 
+
 21 Jan 2016 (Dave Crossland) Merriweather Sans v1.005
 
 - Version numbering updated to 1.005
