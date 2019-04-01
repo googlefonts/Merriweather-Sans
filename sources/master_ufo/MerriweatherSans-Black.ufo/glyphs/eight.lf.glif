@@ -6,8 +6,12 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eight</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>eight</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 15:40:38</string>
     </dict>
   </lib>
 </glyph>

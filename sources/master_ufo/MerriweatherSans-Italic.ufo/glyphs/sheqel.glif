@@ -1,60 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sheqel" format="2">
-  <advance width="829.6"/>
+  <advance width="788.0"/>
   <unicode hex="20AA"/>
   <note>
 uni20AA
 </note>
   <outline>
     <contour>
-      <point x="33.0" y="0.0" type="line"/>
-      <point x="128.825" y="0.0" type="line"/>
-      <point x="224.825" y="662.225" type="line"/>
-      <point x="409.0" y="662.225" type="line" smooth="yes"/>
-      <point x="483.375" y="662.225"/>
-      <point x="521.525" y="644.325"/>
-      <point x="514.1" y="568.525" type="curve" smooth="yes"/>
-      <point x="513.425" y="558.55"/>
-      <point x="513.1" y="547.225"/>
-      <point x="511.425" y="534.2" type="curve" smooth="yes"/>
-      <point x="455.025" y="181.6" type="line"/>
-      <point x="556.475" y="181.6" type="line"/>
-      <point x="611.5" y="538.0" type="line" smooth="yes"/>
-      <point x="613.85" y="558.45"/>
-      <point x="616.875" y="576.525"/>
-      <point x="617.55" y="592.55" type="curve" smooth="yes"/>
-      <point x="622.95" y="697.625"/>
-      <point x="578.975" y="745.7"/>
-      <point x="470.3" y="745.7" type="curve" smooth="yes"/>
-      <point x="136.675" y="745.7" type="line"/>
+      <point x="13.0" y="0.0" type="line"/>
+      <point x="109.0" y="0.0" type="line"/>
+      <point x="205.0" y="662.0" type="line"/>
+      <point x="389.0" y="662.0" type="line" smooth="yes"/>
+      <point x="463.0" y="662.0"/>
+      <point x="502.0" y="644.0"/>
+      <point x="494.0" y="569.0" type="curve" smooth="yes"/>
+      <point x="493.0" y="559.0"/>
+      <point x="493.0" y="547.0"/>
+      <point x="491.0" y="534.0" type="curve" smooth="yes"/>
+      <point x="435.0" y="182.0" type="line"/>
+      <point x="536.0" y="182.0" type="line"/>
+      <point x="592.0" y="538.0" type="line" smooth="yes"/>
+      <point x="594.0" y="558.0"/>
+      <point x="597.0" y="577.0"/>
+      <point x="598.0" y="593.0" type="curve" smooth="yes"/>
+      <point x="603.0" y="698.0"/>
+      <point x="559.0" y="746.0"/>
+      <point x="450.0" y="746.0" type="curve" smooth="yes"/>
+      <point x="117.0" y="746.0" type="line"/>
     </contour>
     <contour>
-      <point x="417.775" y="0.0" type="curve" smooth="yes"/>
-      <point x="719.9" y="0.0" type="line"/>
-      <point x="820.3" y="745.7" type="line"/>
-      <point x="722.5" y="745.7" type="line"/>
-      <point x="631.45" y="77.6" type="line"/>
-      <point x="490.0" y="77.6" type="line" smooth="yes"/>
-      <point x="388.6" y="77.6"/>
-      <point x="340.525" y="106.6"/>
-      <point x="340.525" y="150.6" type="curve" smooth="yes"/>
-      <point x="340.525" y="153.6"/>
-      <point x="340.525" y="158.6"/>
-      <point x="341.525" y="166.275" type="curve" smooth="yes"/>
-      <point x="403.6" y="561.525" type="line"/>
-      <point x="302.5" y="561.525" type="line"/>
-      <point x="241.45" y="159.0" type="line" smooth="yes"/>
-      <point x="240.45" y="150.675"/>
-      <point x="240.45" y="143.325"/>
-      <point x="240.45" y="136.625" type="curve" smooth="yes"/>
-      <point x="240.45" y="43.3"/>
-      <point x="311.05" y="0.0"/>
+      <point x="398.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="700.0" y="0.0" type="line"/>
+      <point x="800.0" y="746.0" type="line"/>
+      <point x="703.0" y="746.0" type="line"/>
+      <point x="611.0" y="78.0" type="line"/>
+      <point x="470.0" y="78.0" type="line" smooth="yes"/>
+      <point x="369.0" y="78.0"/>
+      <point x="321.0" y="107.0"/>
+      <point x="321.0" y="151.0" type="curve" smooth="yes"/>
+      <point x="321.0" y="154.0"/>
+      <point x="321.0" y="159.0"/>
+      <point x="322.0" y="166.0" type="curve" smooth="yes"/>
+      <point x="384.0" y="562.0" type="line"/>
+      <point x="283.0" y="562.0" type="line"/>
+      <point x="221.0" y="159.0" type="line" smooth="yes"/>
+      <point x="220.0" y="151.0"/>
+      <point x="220.0" y="143.0"/>
+      <point x="220.0" y="137.0" type="curve" smooth="yes"/>
+      <point x="220.0" y="43.0"/>
+      <point x="291.0" y="0.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:03:58</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright.case" format="2">
-  <advance width="580.0"/>
+  <advance width="533.0"/>
   <note>
 guilsinglright
 </note>
   <outline>
-    <contour>
-      <point x="117.0" y="144.0" type="line"/>
-      <point x="457.0" y="347.0" type="line"/>
-      <point x="465.0" y="405.0" type="line"/>
-      <point x="180.0" y="600.0" type="line"/>
-      <point x="154.0" y="559.0" type="line"/>
-      <point x="375.0" y="375.0" type="line"/>
-      <point x="103.0" y="188.0" type="line"/>
-    </contour>
+    <component base="guilsinglright" xOffset="9.0" yOffset="72.0"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +18,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 19:58:45</string>
     </dict>
   </lib>
 </glyph>

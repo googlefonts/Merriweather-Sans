@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex" format="2">
-  <advance width="639.0"/>
+  <advance width="640.0"/>
   <unicode hex="0125"/>
   <anchor x="320.0" y="0.0" name="bottom"/>
   <anchor x="328.0" y="-83.0" name="btm"/>
@@ -13,7 +13,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 02:44:29</string>
     </dict>
   </lib>
 </glyph>

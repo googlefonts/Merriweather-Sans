@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright.case" format="2">
-  <advance width="408.0"/>
+  <advance width="412.0478627692308"/>
   <outline>
-    <component base="parenleft" xScale="-1.0" yScale="-1.0" xOffset="403.0" yOffset="695.0"/>
+    <component base="parenleft" xScale="-1.0" yScale="-1.0" xOffset="409.38793846153845" yOffset="695.1389538461539"/>
   </outline>
   <lib>
     <dict>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edieresis" format="2">
-  <advance width="579.0"/>
+  <advance width="578.5909090909091"/>
   <unicode hex="00CB"/>
   <note>
 Edieresis
 </note>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="485.744" y="10.0" name="ogonek"/>
-  <anchor x="391.641" y="972.487" name="top"/>
-  <anchor x="82.0" y="748.769" name="topleft"/>
+  <anchor x="485.59280303030306" y="10.0" name="ogonek"/>
+  <anchor x="396.12045454545455" y="975.7140151515151" name="top"/>
+  <anchor x="82.0" y="747.3397727272727" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="dieresiscomb.case" xOffset="300.0"/>
+    <component base="dieresiscomb.case" xOffset="303.9848484848485"/>
   </outline>
   <lib>
     <dict>

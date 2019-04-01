@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l.sc" format="2">
-  <advance width="473.15"/>
+  <advance width="472.0"/>
   <note>
 L
 </note>
-  <anchor x="199.575" y="0.0" name="bottom"/>
-  <anchor x="242.9" y="326.0" name="center"/>
-  <anchor x="285.575" y="651.0" name="top"/>
-  <anchor x="500.475" y="651.0" name="topright"/>
+  <anchor x="199.0" y="0.0" name="bottom"/>
+  <anchor x="242.0" y="326.0" name="center"/>
+  <anchor x="186.0" y="640.0" name="top"/>
+  <anchor x="396.0" y="394.0" name="topright"/>
   <outline>
     <contour>
-      <point x="47.75" y="0.0" type="line"/>
-      <point x="416.575" y="0.0" type="line"/>
-      <point x="428.2" y="91.75" type="line"/>
-      <point x="168.725" y="88.1" type="line"/>
-      <point x="242.7" y="646.0" type="line"/>
-      <point x="132.025" y="646.0" type="line"/>
+      <point x="47.0" y="0.0" type="line"/>
+      <point x="416.0" y="0.0" type="line"/>
+      <point x="427.0" y="92.0" type="line"/>
+      <point x="168.0" y="88.0" type="line"/>
+      <point x="242.0" y="646.0" type="line"/>
+      <point x="131.0" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,10 +35,10 @@ L
       <string>NPUSHB[ ]	/* 28 values pushed */
 3 1 2 2 17 75 0 0 0 1 89 0 1 1 18 1 76 0 0 0 5 0 5 17 17 4 7 22 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/23 14:01:00</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

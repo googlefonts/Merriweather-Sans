@@ -7,10 +7,10 @@ backslash
 </note>
   <outline>
     <contour>
-      <point x="286.949" y="-177.0" type="line"/>
-      <point x="404.795" y="-177.0" type="line"/>
-      <point x="123.385" y="780.0" type="line"/>
-      <point x="5.948999999999998" y="780.0" type="line"/>
+      <point x="286.9185606060606" y="-177.0" type="line"/>
+      <point x="405.14469696969695" y="-177.0" type="line"/>
+      <point x="123.25795454545454" y="780.0" type="line"/>
+      <point x="5.9185606060606055" y="780.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@ PUSHB[ ]	/* 5 values pushed */
 17 16 2 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 20:51:48</string>
     </dict>
   </lib>
 </glyph>

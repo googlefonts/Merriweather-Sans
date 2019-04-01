@@ -1,33 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h.sc" format="2">
-  <advance width="739.08889"/>
-  <anchor x="369.956" y="0.0" name="bottom"/>
-  <anchor x="364.533" y="-72.0" name="btm"/>
-  <anchor x="369.956" y="323.0" name="center"/>
-  <anchor x="369.133" y="722.0" name="top"/>
-  <anchor x="20.0" y="646.0" name="topleft"/>
+  <advance width="727.0"/>
+  <anchor x="364.0" y="0.0" name="bottom"/>
+  <anchor x="359.0" y="-72.0" name="btm"/>
+  <anchor x="364.0" y="323.0" name="center"/>
+  <anchor x="363.0" y="900.0" name="top"/>
+  <anchor x="14.0" y="646.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="92.111" y="0.0" type="line"/>
-      <point x="210.467" y="0.0" type="line"/>
-      <point x="210.467" y="282.156" type="line"/>
-      <point x="528.8" y="282.156" type="line"/>
-      <point x="528.8" y="0.0" type="line"/>
-      <point x="646.978" y="0.0" type="line"/>
-      <point x="646.978" y="646.0" type="line"/>
-      <point x="528.8" y="646.0" type="line"/>
-      <point x="528.8" y="371.667" type="line"/>
-      <point x="210.467" y="371.667" type="line"/>
-      <point x="210.467" y="646.0" type="line"/>
-      <point x="92.111" y="646.0" type="line"/>
+      <point x="86.0" y="0.0" type="line"/>
+      <point x="204.0" y="0.0" type="line"/>
+      <point x="204.0" y="282.0" type="line"/>
+      <point x="523.0" y="282.0" type="line"/>
+      <point x="523.0" y="0.0" type="line"/>
+      <point x="641.0" y="0.0" type="line"/>
+      <point x="641.0" y="646.0" type="line"/>
+      <point x="523.0" y="646.0" type="line"/>
+      <point x="523.0" y="372.0" type="line"/>
+      <point x="204.0" y="372.0" type="line"/>
+      <point x="204.0" y="646.0" type="line"/>
+      <point x="86.0" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 13:42:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

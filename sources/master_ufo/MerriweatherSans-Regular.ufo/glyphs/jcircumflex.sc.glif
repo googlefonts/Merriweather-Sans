@@ -3,17 +3,15 @@
   <advance width="350.0"/>
   <anchor x="175.2" y="0.0" name="bottom"/>
   <anchor x="128.467" y="-72.0" name="btm"/>
-  <anchor x="186.0" y="949.0" name="top"/>
+  <anchor x="188.0" y="1123.0" name="top"/>
   <outline>
     <component base="j.sc"/>
-    <component base="circumflexcomb" xOffset="186.0" yOffset="-108.0"/>
+    <component base="circumflexcomb" xOffset="188.0" yOffset="66.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 04:48:22</string>
     </dict>
   </lib>
 </glyph>

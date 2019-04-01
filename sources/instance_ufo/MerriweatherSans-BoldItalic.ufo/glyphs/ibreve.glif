@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ibreve" format="2">
-  <advance width="313.0"/>
+  <advance width="312.8484848484849"/>
   <unicode hex="012D"/>
   <note>
 ibreve
 </note>
-  <anchor x="119.692" y="0.0" name="bottom"/>
-  <anchor x="211.077" y="10.0" name="ogonek"/>
-  <anchor x="224.0" y="788.0" name="top"/>
+  <anchor x="119.51136363636364" y="0.0" name="bottom"/>
+  <anchor x="213.3568181818182" y="10.0" name="ogonek"/>
+  <anchor x="223.42424242424244" y="788.0" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="brevecomb" xOffset="157.0"/>
+    <component base="brevecomb" xOffset="156.42424242424244"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/28 02:06:29</string>
     </dict>
   </lib>
 </glyph>

@@ -5,9 +5,9 @@
   <anchor x="299.556" y="0.0" name="bottom"/>
   <anchor x="296.556" y="-83.0" name="btm"/>
   <anchor x="299.556" y="279.0" name="center"/>
-  <anchor x="323.2" y="25.0" name="ogonek"/>
+  <anchor x="349.0" y="0.0" name="ogonek"/>
   <anchor x="304.378" y="830.0" name="top"/>
-  <anchor x="579.111" y="557.0" name="topright"/>
+  <anchor x="416.0" y="527.0" name="topright"/>
   <outline>
     <contour>
       <point x="294.556" y="-8.0" type="curve" smooth="yes"/>
@@ -41,7 +41,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 02:34:52</string>
     </dict>
   </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="606.07692"/>
+  <advance width="606.0045454545455"/>
   <unicode hex="0111"/>
   <note>
 dcroat
 </note>
-  <anchor x="266.333" y="0.0" name="bottom"/>
-  <anchor x="303.333" y="279.0" name="center"/>
+  <anchor x="266.17651515151516" y="0.0" name="bottom"/>
+  <anchor x="303.17651515151516" y="279.0" name="center"/>
   <anchor x="265.0" y="557.0" name="top"/>
-  <anchor x="623.077" y="557.0" name="topright"/>
+  <anchor x="623.0045454545455" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="311.231" y="616.0" type="line"/>
-      <point x="650.641" y="616.0" type="line"/>
-      <point x="658.641" y="680.0" type="line"/>
-      <point x="319.231" y="680.0" type="line"/>
+      <point x="311.24886363636364" y="616.0" type="line"/>
+      <point x="651.135606060606" y="616.0" type="line"/>
+      <point x="659.135606060606" y="680.0" type="line"/>
+      <point x="319.01363636363635" y="680.0" type="line"/>
     </contour>
     <component base="d"/>
   </outline>

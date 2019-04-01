@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="questiondown.case" format="2">
-  <advance width="511.0"/>
+  <advance width="515.0"/>
   <outline>
     <contour>
       <point x="322.0" y="659.0" type="curve"/>
@@ -50,7 +50,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>question</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 01:57:47</string>
     </dict>
   </lib>
 </glyph>

@@ -2,20 +2,12 @@
 <glyph name="seven.lf" format="2">
   <advance width="540.0"/>
   <outline>
-    <contour>
-      <point x="217.0" y="0.0" type="line"/>
-      <point x="539.0" y="729.0" type="line"/>
-      <point x="525.0" y="747.0" type="line"/>
-      <point x="78.0" y="747.0" type="line"/>
-      <point x="74.0" y="687.0" type="line"/>
-      <point x="455.0" y="688.0" type="line"/>
-      <point x="131.0" y="1.0" type="line"/>
-    </contour>
+    <component base="seven"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 18:09:05</string>
     </dict>
   </lib>
 </glyph>

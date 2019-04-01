@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <outline>
+    <contour>
+      <point x="340.0" y="0.0" type="line"/>
+      <point x="445.0" y="0.0" type="line"/>
+      <point x="462.0" y="149.0" type="line"/>
+      <point x="572.0" y="149.0" type="line"/>
+      <point x="584.0" y="243.0" type="line"/>
+      <point x="473.0" y="236.0" type="line"/>
+      <point x="503.0" y="456.0" type="line"/>
+      <point x="396.0" y="437.0" type="line"/>
+      <point x="369.0" y="231.0" type="line"/>
+      <point x="148.0" y="223.0" type="line"/>
+      <point x="178.0" y="272.0" type="line"/>
+      <point x="392.0" y="708.0" type="line"/>
+      <point x="332.0" y="748.0" type="line"/>
+      <point x="283.0" y="748.0" type="line"/>
+      <point x="202.0" y="572.0"/>
+      <point x="124.0" y="364.0"/>
+      <point x="29.0" y="203.0" type="curve"/>
+      <point x="51.0" y="149.0" type="line"/>
+      <point x="358.0" y="149.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.nodeUserData.0.16</key>
+      <dict>
+        <key>name</key>
+        <string>hr00</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorntilde.sc" format="2">
-  <advance width="722.0"/>
-  <anchor x="361.0" y="0.0" name="bottom"/>
-  <anchor x="362.0" y="-72.0" name="btm"/>
-  <anchor x="363.0" y="921.0" name="top"/>
+  <advance width="703.9538461538461"/>
+  <anchor x="352.26153846153846" y="0.0" name="bottom"/>
+  <anchor x="421.6615384615385" y="0.0" name="ogonek"/>
+  <anchor x="353.55384615384617" y="1105.553846153846" name="top"/>
+  <anchor x="517.876923076923" y="646.0" name="topright"/>
   <outline>
     <component base="uhorn.sc"/>
-    <component base="tildecomb" xOffset="363.0" yOffset="-108.0"/>
+    <component base="tildecomb" xOffset="353.55384615384617" yOffset="70.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <string>2019/03/30 17:31:57</string>
     </dict>
   </lib>
 </glyph>

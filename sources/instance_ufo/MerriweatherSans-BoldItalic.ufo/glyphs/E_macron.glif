@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Emacron" format="2">
-  <advance width="579.0"/>
+  <advance width="578.5909090909091"/>
   <unicode hex="0112"/>
   <note>
 Emacron
 </note>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="485.744" y="10.0" name="ogonek"/>
-  <anchor x="382.769" y="912.41" name="top"/>
-  <anchor x="82.0" y="748.769" name="topleft"/>
+  <anchor x="485.59280303030306" y="10.0" name="ogonek"/>
+  <anchor x="385.5598484848485" y="911.2401515151515" name="top"/>
+  <anchor x="82.0" y="747.3397727272727" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="300.0"/>
+    <component base="macroncomb.case" xOffset="303.9848484848485"/>
   </outline>
   <lib>
     <dict>

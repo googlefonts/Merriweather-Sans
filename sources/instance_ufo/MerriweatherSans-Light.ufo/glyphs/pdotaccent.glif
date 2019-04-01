@@ -4,7 +4,7 @@
   <unicode hex="1E57"/>
   <anchor x="305.0" y="0.0" name="bottom"/>
   <anchor x="308.0" y="-83.0" name="btm"/>
-  <anchor x="340.0" y="977.0" name="top"/>
+  <anchor x="340.0" y="985.0" name="top"/>
   <outline>
     <component base="p"/>
     <component base="dotaccentcomb" xOffset="340.0"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/29 03:45:24</string>
     </dict>
   </lib>
 </glyph>

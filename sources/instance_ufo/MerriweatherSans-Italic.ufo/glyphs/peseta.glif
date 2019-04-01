@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peseta" format="2">
-  <advance width="735.975"/>
+  <advance width="776.0"/>
   <unicode hex="20A7"/>
   <note>
 peseta
 </note>
   <outline>
     <contour>
-      <point x="101.725" y="0.0" type="line"/>
-      <point x="215.7" y="0.0" type="line"/>
-      <point x="247.375" y="251.475" type="line"/>
-      <point x="269.575" y="248.8"/>
-      <point x="302.25" y="247.8"/>
-      <point x="344.075" y="247.8" type="curve" smooth="yes"/>
-      <point x="492.975" y="247.8"/>
-      <point x="608.9" y="323.825"/>
-      <point x="642.225" y="463.75" type="curve"/>
-      <point x="743.325" y="463.75" type="line"/>
-      <point x="753.325" y="535.75" type="line"/>
-      <point x="652.55" y="535.75" type="line"/>
-      <point x="670.175" y="670.275"/>
-      <point x="577.55" y="754.35"/>
-      <point x="424.35" y="754.35" type="curve" smooth="yes"/>
-      <point x="379.15" y="754.35"/>
-      <point x="298.725" y="746.35"/>
-      <point x="260.225" y="746.35" type="curve" smooth="yes"/>
-      <point x="197.675" y="746.35" type="line"/>
-      <point x="170.375" y="535.75" type="line"/>
-      <point x="76.625" y="535.75" type="line"/>
-      <point x="66.625" y="463.75" type="line"/>
-      <point x="161.375" y="463.75" type="line"/>
+      <point x="109.0" y="0.0" type="line"/>
+      <point x="223.0" y="0.0" type="line"/>
+      <point x="254.0" y="251.0" type="line"/>
+      <point x="277.0" y="249.0"/>
+      <point x="309.0" y="248.0"/>
+      <point x="351.0" y="248.0" type="curve" smooth="yes"/>
+      <point x="500.0" y="248.0"/>
+      <point x="616.0" y="324.0"/>
+      <point x="649.0" y="464.0" type="curve"/>
+      <point x="750.0" y="464.0" type="line"/>
+      <point x="760.0" y="536.0" type="line"/>
+      <point x="660.0" y="536.0" type="line"/>
+      <point x="677.0" y="670.0"/>
+      <point x="585.0" y="754.0"/>
+      <point x="431.0" y="754.0" type="curve" smooth="yes"/>
+      <point x="386.0" y="754.0"/>
+      <point x="306.0" y="746.0"/>
+      <point x="267.0" y="746.0" type="curve" smooth="yes"/>
+      <point x="205.0" y="746.0" type="line"/>
+      <point x="177.0" y="536.0" type="line"/>
+      <point x="84.0" y="536.0" type="line"/>
+      <point x="74.0" y="464.0" type="line"/>
+      <point x="168.0" y="464.0" type="line"/>
     </contour>
     <contour>
-      <point x="346.975" y="333.6" type="curve" smooth="yes"/>
-      <point x="316.725" y="333.6"/>
-      <point x="277.95" y="336.275"/>
-      <point x="259.0" y="339.6" type="curve"/>
-      <point x="274.675" y="463.75" type="line"/>
-      <point x="528.55" y="463.75" type="line"/>
-      <point x="504.875" y="376.975"/>
-      <point x="445.475" y="333.925"/>
+      <point x="354.0" y="334.0" type="curve" smooth="yes"/>
+      <point x="324.0" y="334.0"/>
+      <point x="285.0" y="336.0"/>
+      <point x="266.0" y="340.0" type="curve"/>
+      <point x="282.0" y="464.0" type="line"/>
+      <point x="536.0" y="464.0" type="line"/>
+      <point x="512.0" y="377.0"/>
+      <point x="452.0" y="334.0"/>
     </contour>
     <contour>
-      <point x="283.675" y="535.75" type="line"/>
-      <point x="300.35" y="661.875" type="line"/>
-      <point x="328.025" y="667.9"/>
-      <point x="377.1" y="671.9"/>
-      <point x="404.1" y="671.9" type="curve" smooth="yes"/>
-      <point x="503.55" y="671.9"/>
-      <point x="540.9" y="630.525"/>
-      <point x="538.875" y="535.75" type="curve"/>
+      <point x="291.0" y="536.0" type="line"/>
+      <point x="307.0" y="662.0" type="line"/>
+      <point x="335.0" y="668.0"/>
+      <point x="384.0" y="672.0"/>
+      <point x="411.0" y="672.0" type="curve" smooth="yes"/>
+      <point x="511.0" y="672.0"/>
+      <point x="548.0" y="631.0"/>
+      <point x="546.0" y="536.0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -80,8 +80,10 @@ EIF[ ]	/* EndIf */
 NPUSHB[ ]	/* 26 values pushed */
 34 34 26 26 34 41 34 41 38 36 26 33 26 32 20 17 17 34 36 17 19 34 16 14 7 29 
 CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:03:00</string>
     </dict>
   </lib>
 </glyph>

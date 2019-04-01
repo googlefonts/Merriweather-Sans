@@ -1,57 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="s.sc" format="2">
-  <advance width="544.86667"/>
-  <anchor x="272.844" y="0.0" name="bottom"/>
-  <anchor x="269.556" y="-72.0" name="btm"/>
-  <anchor x="294.022" y="892.0" name="top"/>
+  <advance width="543.0"/>
+  <anchor x="266.0" y="0.0" name="bottom"/>
+  <anchor x="263.0" y="-72.0" name="btm"/>
+  <anchor x="287.0" y="892.0" name="top"/>
   <outline>
     <contour>
-      <point x="269.089" y="-7.0" type="curve" smooth="yes"/>
-      <point x="411.044" y="-7.0"/>
-      <point x="509.867" y="54.667"/>
-      <point x="509.867" y="172.311" type="curve" smooth="yes"/>
-      <point x="509.867" y="278.6"/>
-      <point x="402.556" y="330.711"/>
-      <point x="312.222" y="372.489" type="curve" smooth="yes"/>
-      <point x="214.533" y="417.711"/>
-      <point x="175.244" y="438.889"/>
-      <point x="175.244" y="492.867" type="curve" smooth="yes"/>
-      <point x="175.244" y="539.022"/>
-      <point x="233.022" y="563.489"/>
-      <point x="303.267" y="563.489" type="curve" smooth="yes"/>
-      <point x="380.489" y="563.489"/>
-      <point x="421.333" y="543.311"/>
-      <point x="451.867" y="525.778" type="curve"/>
-      <point x="474.4" y="617.644" type="line"/>
-      <point x="449.4" y="632.467"/>
-      <point x="389.267" y="653.0"/>
-      <point x="302.667" y="653.0" type="curve" smooth="yes"/>
-      <point x="181.289" y="653.0"/>
-      <point x="61.711" y="606.689"/>
-      <point x="61.711" y="482.578" type="curve" smooth="yes"/>
-      <point x="61.711" y="384.689"/>
-      <point x="149.178" y="325.044"/>
-      <point x="239.0" y="285.222" type="curve" smooth="yes"/>
-      <point x="341.6" y="239.689"/>
-      <point x="392.156" y="216.933"/>
-      <point x="392.156" y="162.778" type="curve" smooth="yes"/>
-      <point x="392.156" y="109.8"/>
-      <point x="347.067" y="86.222"/>
-      <point x="261.378" y="86.222" type="curve" smooth="yes"/>
-      <point x="191.956" y="86.222"/>
-      <point x="124.422" y="107.578"/>
-      <point x="87.889" y="126.4" type="curve"/>
-      <point x="64.422" y="31.356" type="line"/>
-      <point x="90.244" y="16.356"/>
-      <point x="173.733" y="-7.0"/>
+      <point x="262.0" y="-7.0" type="curve" smooth="yes"/>
+      <point x="404.0" y="-7.0"/>
+      <point x="503.0" y="55.0"/>
+      <point x="503.0" y="172.0" type="curve" smooth="yes"/>
+      <point x="503.0" y="279.0"/>
+      <point x="396.0" y="331.0"/>
+      <point x="305.0" y="372.0" type="curve" smooth="yes"/>
+      <point x="208.0" y="418.0"/>
+      <point x="168.0" y="439.0"/>
+      <point x="168.0" y="493.0" type="curve" smooth="yes"/>
+      <point x="168.0" y="539.0"/>
+      <point x="226.0" y="563.0"/>
+      <point x="296.0" y="563.0" type="curve" smooth="yes"/>
+      <point x="373.0" y="563.0"/>
+      <point x="414.0" y="543.0"/>
+      <point x="445.0" y="526.0" type="curve"/>
+      <point x="467.0" y="618.0" type="line"/>
+      <point x="442.0" y="632.0"/>
+      <point x="382.0" y="653.0"/>
+      <point x="296.0" y="653.0" type="curve" smooth="yes"/>
+      <point x="174.0" y="653.0"/>
+      <point x="55.0" y="607.0"/>
+      <point x="55.0" y="483.0" type="curve" smooth="yes"/>
+      <point x="55.0" y="385.0"/>
+      <point x="142.0" y="325.0"/>
+      <point x="232.0" y="285.0" type="curve" smooth="yes"/>
+      <point x="335.0" y="240.0"/>
+      <point x="385.0" y="217.0"/>
+      <point x="385.0" y="163.0" type="curve" smooth="yes"/>
+      <point x="385.0" y="110.0"/>
+      <point x="340.0" y="86.0"/>
+      <point x="254.0" y="86.0" type="curve" smooth="yes"/>
+      <point x="185.0" y="86.0"/>
+      <point x="117.0" y="108.0"/>
+      <point x="81.0" y="126.0" type="curve"/>
+      <point x="57.0" y="31.0" type="line"/>
+      <point x="83.0" y="16.0"/>
+      <point x="167.0" y="-7.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:29:26</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

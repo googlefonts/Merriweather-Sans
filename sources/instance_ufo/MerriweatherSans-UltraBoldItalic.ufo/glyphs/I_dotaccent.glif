@@ -7,7 +7,7 @@ Idotaccent
 </note>
   <anchor x="136.0" y="0.0" name="bottom"/>
   <anchor x="276.0" y="10.0" name="ogonek"/>
-  <anchor x="264.0" y="939.0" name="top"/>
+  <anchor x="268.0" y="969.0" name="top"/>
   <anchor x="82.0" y="747.0" name="topleft"/>
   <outline>
     <component base="I"/>

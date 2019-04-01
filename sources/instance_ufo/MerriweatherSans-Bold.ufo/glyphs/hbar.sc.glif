@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar.sc" format="2">
-  <advance width="767.0"/>
+  <advance width="764.2676923076923"/>
   <outline>
     <contour>
-      <point x="88.0" y="0.0" type="line"/>
-      <point x="247.0" y="0.0" type="line"/>
-      <point x="247.0" y="247.0" type="line"/>
-      <point x="519.0" y="247.0" type="line"/>
-      <point x="519.0" y="0.0" type="line"/>
-      <point x="679.0" y="0.0" type="line"/>
-      <point x="679.0" y="646.0" type="line"/>
-      <point x="519.0" y="646.0" type="line"/>
-      <point x="519.0" y="358.0" type="line"/>
-      <point x="247.0" y="358.0" type="line"/>
-      <point x="247.0" y="646.0" type="line"/>
-      <point x="88.0" y="646.0" type="line"/>
+      <point x="86.3555076923077" y="0.0" type="line"/>
+      <point x="245.07716923076924" y="0.0" type="line"/>
+      <point x="245.07716923076924" y="246.5952615384615" type="line"/>
+      <point x="519.4679384615384" y="246.5952615384615" type="line"/>
+      <point x="519.4679384615384" y="0.0" type="line"/>
+      <point x="677.9121846153846" y="0.0" type="line"/>
+      <point x="677.9121846153846" y="646.0" type="line"/>
+      <point x="519.4679384615384" y="646.0" type="line"/>
+      <point x="519.4679384615384" y="357.9242461538461" type="line"/>
+      <point x="245.07716923076924" y="357.9242461538461" type="line"/>
+      <point x="245.07716923076924" y="646.0" type="line"/>
+      <point x="86.3555076923077" y="646.0" type="line"/>
     </contour>
     <contour>
-      <point x="14.0" y="440.0" type="line"/>
-      <point x="754.0" y="440.0" type="line"/>
-      <point x="754.0" y="532.0" type="line"/>
-      <point x="14.0" y="532.0" type="line"/>
+      <point x="13.228184615384617" y="439.77230769230766" type="line"/>
+      <point x="752.9628307692308" y="439.77230769230766" type="line"/>
+      <point x="752.9628307692308" y="531.8104000000001" type="line"/>
+      <point x="13.228184615384617" y="531.8104000000001" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,10 +36,8 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/23 02:58:27</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

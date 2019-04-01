@@ -7,24 +7,24 @@ exclamdown
 </note>
   <outline>
     <contour>
-      <point x="19.615" y="-212.0" type="line"/>
-      <point x="177.564" y="-212.0" type="line"/>
-      <point x="246.513" y="418.0" type="line"/>
-      <point x="135.256" y="418.0" type="line"/>
+      <point x="19.50681818181818" y="-212.0" type="line"/>
+      <point x="177.66060606060606" y="-212.0" type="line"/>
+      <point x="246.57916666666665" y="418.0" type="line"/>
+      <point x="134.93674242424242" y="418.0" type="line"/>
     </contour>
     <contour>
-      <point x="202.821" y="503.974" type="curve" smooth="yes"/>
-      <point x="258.282" y="503.974"/>
-      <point x="299.692" y="548.846"/>
-      <point x="299.692" y="601.897" type="curve" smooth="yes"/>
-      <point x="299.692" y="641.769"/>
-      <point x="271.872" y="669.41"/>
-      <point x="229.0" y="669.41" type="curve" smooth="yes"/>
-      <point x="171.718" y="669.41"/>
-      <point x="130.308" y="629.179"/>
-      <point x="130.308" y="570.487" type="curve" smooth="yes"/>
-      <point x="130.308" y="531.026"/>
-      <point x="152.538" y="503.974"/>
+      <point x="203.06780303030303" y="503.60643939393935" type="curve" smooth="yes"/>
+      <point x="257.8598484848485" y="503.60643939393935"/>
+      <point x="299.9818181818182" y="548.9909090909091"/>
+      <point x="299.9818181818182" y="601.3666666666667" type="curve" smooth="yes"/>
+      <point x="299.9818181818182" y="641.7511363636363"/>
+      <point x="271.9140151515152" y="669.1810606060606"/>
+      <point x="229.0" y="669.1810606060606" type="curve" smooth="yes"/>
+      <point x="171.90492424242424" y="669.1810606060606"/>
+      <point x="130.2534090909091" y="630.1083333333333"/>
+      <point x="130.2534090909091" y="570.185606060606" type="curve" smooth="yes"/>
+      <point x="130.2534090909091" y="531.1583333333333"/>
+      <point x="152.7375" y="503.60643939393935"/>
     </contour>
   </outline>
   <lib>

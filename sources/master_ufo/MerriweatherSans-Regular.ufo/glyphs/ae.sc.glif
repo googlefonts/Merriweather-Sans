@@ -3,19 +3,19 @@
   <advance width="886.57778"/>
   <anchor x="443.378" y="0.0" name="bottom"/>
   <anchor x="652.778" y="-72.0" name="btm"/>
-  <anchor x="465.556" y="913.0" name="top"/>
+  <anchor x="536.0" y="913.0" name="top"/>
   <outline>
     <contour>
       <point x="-37.844" y="0.0" type="line"/>
       <point x="91.689" y="0.0" type="line"/>
-      <point x="404.089" y="598.289" type="line"/>
+      <point x="393.0" y="598.0" type="line"/>
       <point x="306.111" y="646.0" type="line"/>
     </contour>
     <contour>
       <point x="397.778" y="646.0" type="line"/>
       <point x="306.111" y="646.0" type="line"/>
-      <point x="321.467" y="585.0" type="line"/>
-      <point x="433.644" y="585.0" type="line"/>
+      <point x="321.0" y="555.0" type="line"/>
+      <point x="434.0" y="555.0" type="line"/>
     </contour>
     <contour>
       <point x="113.489" y="157.911" type="line"/>
@@ -40,10 +40,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 13:45:11</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

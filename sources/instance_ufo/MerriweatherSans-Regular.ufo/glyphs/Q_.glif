@@ -5,10 +5,10 @@
   <anchor x="384.244" y="0.0" name="bottom"/>
   <anchor x="384.067" y="-83.0" name="btm"/>
   <anchor x="384.067" y="830.0" name="top"/>
-  <anchor x="384.244" y="372.0" name="center"/>
-  <anchor x="691.133" y="10.0" name="ogonek"/>
-  <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="748.311" y="743.0" name="topright"/>
+  <anchor x="382.0" y="372.0" name="center"/>
+  <anchor x="477.0" y="10.0" name="ogonek"/>
+  <anchor x="18.0" y="743.0" name="topleft"/>
+  <anchor x="512.0" y="721.0" name="topright"/>
   <outline>
     <contour>
       <point x="598.356" y="-146.667" type="curve" smooth="yes"/>
@@ -32,7 +32,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 14:28:41</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

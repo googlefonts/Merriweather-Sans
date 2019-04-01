@@ -14,11 +14,6 @@
         <dimension name="Weight" xvalue="173"/>
       </location>
     </source>
-    <source filename="MerriweatherSans-BoldItalic.ufo" name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic">
-      <location>
-        <dimension name="Weight" xvalue="150"/>
-      </location>
-    </source>
     <source filename="MerriweatherSans-Italic.ufo" name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>

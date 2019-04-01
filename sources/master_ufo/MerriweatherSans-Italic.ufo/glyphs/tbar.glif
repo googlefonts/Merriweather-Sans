@@ -5,10 +5,10 @@
   <note>
 tbar
 </note>
-  <anchor x="147.9" y="0.0" name="bottom"/>
-  <anchor x="184.9" y="279.0" name="center"/>
-  <anchor x="218.475" y="655.275" name="top"/>
-  <anchor x="386.8" y="557.0" name="topright"/>
+  <anchor x="142.0" y="0.0" name="bottom"/>
+  <anchor x="179.0" y="279.0" name="center"/>
+  <anchor x="212.0" y="655.0" name="top"/>
+  <anchor x="381.0" y="557.0" name="topright"/>
   <outline>
     <contour>
       <point x="340.55" y="364.45" type="line"/>

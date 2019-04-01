@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scommaaccent" format="2">
-  <advance width="559.0"/>
+  <advance width="565.0"/>
   <unicode hex="0218"/>
   <anchor x="280.022" y="-273.0" name="bottom"/>
   <anchor x="276.911" y="-83.0" name="btm"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 03:08:48</string>
     </dict>
   </lib>
 </glyph>

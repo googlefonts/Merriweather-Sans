@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.sc" format="2">
-  <advance width="323.71795"/>
+  <advance width="311.94242424242424"/>
   <note>
 I
 </note>
-  <anchor x="125.564" y="0.0" name="bottom"/>
-  <anchor x="255.487" y="9.0" name="ogonek"/>
-  <anchor x="216.154" y="650.0" name="top"/>
-  <anchor x="70.0" y="650.179" name="topleft"/>
+  <anchor x="117.84242424242424" y="0.0" name="bottom"/>
+  <anchor x="247.60265151515154" y="9.0" name="ogonek"/>
+  <anchor x="207.07575757575756" y="646.5151515151515" name="top"/>
+  <anchor x="62.18181818181818" y="649.6969696969697" name="topleft"/>
   <outline>
     <contour>
-      <point x="49.128" y="0.0" type="line"/>
-      <point x="201.718" y="0.0" type="line"/>
-      <point x="293.179" y="647.0" type="line"/>
-      <point x="140.59" y="647.0" type="line"/>
+      <point x="41.26780303030303" y="0.0" type="line"/>
+      <point x="193.85151515151517" y="0.0" type="line"/>
+      <point x="285.11401515151516" y="647.0" type="line"/>
+      <point x="132.53030303030303" y="647.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,10 +33,8 @@ I
       <string>NPUSHB[ ]	/* 22 values pushed */
 2 1 1 1 17 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/23 14:02:21</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

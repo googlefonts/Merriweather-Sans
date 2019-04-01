@@ -5,7 +5,7 @@
 AE
 </note>
   <anchor x="390.775" y="0.0" name="bottom"/>
-  <anchor x="477.1" y="651.0" name="top"/>
+  <anchor x="497.0" y="641.0" name="top"/>
   <outline>
     <contour>
       <point x="-59.35" y="0.0" type="line"/>
@@ -30,18 +30,16 @@ AE
     <contour>
       <point x="197.3" y="237.375" type="line"/>
       <point x="391.375" y="568.575" type="line"/>
-      <point x="432.4" y="565.575" type="line"/>
+      <point x="432.0" y="569.0" type="line"/>
       <point x="389.075" y="237.375" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 17:13:24</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

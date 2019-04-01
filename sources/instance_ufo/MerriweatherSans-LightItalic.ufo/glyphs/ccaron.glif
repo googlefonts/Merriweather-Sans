@@ -6,7 +6,7 @@
 ccaron
 </note>
   <anchor x="225.0" y="0.0" name="bottom"/>
-  <anchor x="349.0" y="788.0" name="top"/>
+  <anchor x="347.0" y="788.0" name="top"/>
   <outline>
     <component base="c"/>
     <component base="caroncomb" xOffset="282.0"/>

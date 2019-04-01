@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thorn.sc" format="2">
-  <advance width="607.25641"/>
+  <advance width="594.7575757575758"/>
   <note>
 Thorn
 </note>
   <outline>
     <contour>
-      <point x="38.718" y="0.0" type="line"/>
-      <point x="193.718" y="0.0" type="line"/>
-      <point x="210.128" y="114.769" type="line"/>
-      <point x="230.974" y="114.41"/>
-      <point x="264.308" y="109.769"/>
-      <point x="284.667" y="109.769" type="curve" smooth="yes"/>
-      <point x="409.538" y="109.769"/>
-      <point x="504.769" y="159.0"/>
-      <point x="551.949" y="236.949" type="curve" smooth="yes"/>
-      <point x="575.769" y="276.179"/>
-      <point x="586.359" y="320.128"/>
-      <point x="585.179" y="364.256" type="curve" smooth="yes"/>
-      <point x="584.59" y="483.308"/>
-      <point x="495.718" y="547.179"/>
-      <point x="338.564" y="547.179" type="curve" smooth="yes"/>
-      <point x="316.205" y="547.179"/>
-      <point x="293.718" y="546.59"/>
-      <point x="268.769" y="544.59" type="curve"/>
-      <point x="283.179" y="650.0" type="line"/>
-      <point x="128.769" y="650.0" type="line"/>
+      <point x="36.298863636363635" y="0.0" type="line"/>
+      <point x="190.82840909090908" y="0.0" type="line"/>
+      <point x="207.24469696969697" y="114.51590909090909" type="line"/>
+      <point x="222.11969696969697" y="115.1219696969697"/>
+      <point x="258.3541666666667" y="109.75113636363636"/>
+      <point x="282.2174242424243" y="109.75113636363636" type="curve" smooth="yes"/>
+      <point x="407.1314393939394" y="109.75113636363636"/>
+      <point x="501.9098484848485" y="159.47045454545454"/>
+      <point x="548.371590909091" y="235.9776515151515" type="curve" smooth="yes"/>
+      <point x="572.2041666666667" y="275.2265151515151"/>
+      <point x="583.0231060606061" y="317.49848484848485"/>
+      <point x="582.7965909090909" y="361.34924242424245" type="curve" smooth="yes"/>
+      <point x="582.6833333333334" y="481.8420454545454"/>
+      <point x="494.94545454545454" y="547.1674242424242"/>
+      <point x="335.58409090909095" y="547.1674242424242" type="curve" smooth="yes"/>
+      <point x="315.8367424242424" y="547.1674242424242"/>
+      <point x="287.5352272727273" y="546.3484848484849"/>
+      <point x="266.1450757575758" y="544.3484848484849" type="curve"/>
+      <point x="280.7965909090909" y="650.0" type="line"/>
+      <point x="126.14507575757575" y="650.0" type="line"/>
     </contour>
     <contour>
-      <point x="286.667" y="222.436" type="curve" smooth="yes"/>
-      <point x="264.256" y="222.436"/>
-      <point x="236.538" y="224.436"/>
-      <point x="224.359" y="228.026" type="curve"/>
-      <point x="255.949" y="441.385" type="line"/>
-      <point x="312.154" y="441.154"/>
-      <point x="266.872" y="442.333"/>
-      <point x="312.282" y="442.333" type="curve" smooth="yes"/>
-      <point x="398.462" y="442.333"/>
-      <point x="436.59" y="415.974"/>
-      <point x="435.0" y="361.949" type="curve" smooth="yes"/>
-      <point x="432.41" y="269.744"/>
-      <point x="385.103" y="222.436"/>
+      <point x="283.0412878787879" y="222.33939393939394" type="curve" smooth="yes"/>
+      <point x="260.625" y="222.33939393939394"/>
+      <point x="233.66098484848487" y="224.33939393939394"/>
+      <point x="221.25833333333333" y="227.6878787878788" type="curve"/>
+      <point x="253.78295454545454" y="441.4931818181818" type="line"/>
+      <point x="322.3405303030303" y="441.2443181818182"/>
+      <point x="254.89886363636361" y="442.17651515151516"/>
+      <point x="309.2537878787879" y="442.17651515151516" type="curve" smooth="yes"/>
+      <point x="394.95075757575756" y="442.17651515151516"/>
+      <point x="433.50719696969696" y="415.6064393939394"/>
+      <point x="432.3939393939394" y="362.8594696969697" type="curve" smooth="yes"/>
+      <point x="430.5159090909091" y="269.8280303030303"/>
+      <point x="382.7920454545455" y="222.33939393939394"/>
     </contour>
   </outline>
   <lib>
@@ -73,10 +73,12 @@ EIF[ ]	/* EndIf */
 NPUSHB[ ]	/* 10 values pushed */
 37 36 34 17 17 18 34 7 7 27 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 18:26:13</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

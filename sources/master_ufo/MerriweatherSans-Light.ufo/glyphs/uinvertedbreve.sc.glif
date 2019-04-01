@@ -2,20 +2,17 @@
 <glyph name="uinvertedbreve.sc" format="2">
   <advance width="695.0"/>
   <anchor x="348.0" y="0.0" name="bottom"/>
-  <anchor x="353.0" y="-72.0" name="btm"/>
-  <anchor x="626.0" y="10.0" name="ogonek"/>
-  <anchor x="352.0" y="875.0" name="top"/>
-  <anchor x="675.0" y="646.0" name="topright"/>
+  <anchor x="392.0" y="0.0" name="ogonek"/>
+  <anchor x="353.0" y="1053.0" name="top"/>
+  <anchor x="554.0" y="646.0" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="breveinvertedcomb" xOffset="352.0" yOffset="-108.0"/>
+    <component base="breveinvertedcomb" xOffset="353.0" yOffset="70.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/30 17:31:57</string>
     </dict>
   </lib>
 </glyph>

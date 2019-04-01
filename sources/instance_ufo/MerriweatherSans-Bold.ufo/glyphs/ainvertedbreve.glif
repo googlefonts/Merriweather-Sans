@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ainvertedbreve" format="2">
-  <advance width="592.0"/>
+  <advance width="592.0153846153846"/>
   <unicode hex="0203"/>
-  <anchor x="296.0" y="0.0" name="bottom"/>
-  <anchor x="290.0" y="-100.0" name="btm"/>
-  <anchor x="507.0" y="25.0" name="ogonek"/>
-  <anchor x="290.0" y="982.0" name="top"/>
+  <anchor x="296.31643076923075" y="0.0" name="bottom"/>
+  <anchor x="292.2262769230769" y="-100.0" name="btm"/>
+  <anchor x="520.1174153846154" y="25.0" name="ogonek"/>
+  <anchor x="287.8" y="982.4307692307692" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="breveinvertedcomb" xOffset="290.0" yOffset="-1.0"/>
+    <component base="breveinvertedcomb" xOffset="287.8" yOffset="-0.5692307692307695"/>
   </outline>
   <lib>
     <dict>

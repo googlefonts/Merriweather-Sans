@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbar" format="2">
-  <advance width="792.0"/>
+  <advance width="787.4208566153847"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="92.0" y="0.0" type="line"/>
-      <point x="249.0" y="0.0" type="line"/>
-      <point x="249.0" y="303.0" type="line"/>
-      <point x="542.0" y="303.0" type="line"/>
-      <point x="542.0" y="0.0" type="line"/>
-      <point x="700.0" y="0.0" type="line"/>
-      <point x="700.0" y="743.0" type="line"/>
-      <point x="542.0" y="743.0" type="line"/>
-      <point x="542.0" y="417.0" type="line"/>
-      <point x="249.0" y="417.0" type="line"/>
-      <point x="249.0" y="743.0" type="line"/>
-      <point x="92.0" y="743.0" type="line"/>
+      <point x="88.50886153846153" y="0.0" type="line"/>
+      <point x="246.1538461538462" y="0.0" type="line"/>
+      <point x="246.1538461538462" y="299.1166769230769" type="line"/>
+      <point x="541.5446153846153" y="299.1166769230769" type="line"/>
+      <point x="541.5446153846153" y="0.0" type="line"/>
+      <point x="698.9121846153846" y="0.0" type="line"/>
+      <point x="698.9121846153846" y="743.0" type="line"/>
+      <point x="541.5446153846153" y="743.0" type="line"/>
+      <point x="541.5446153846153" y="411.5985846153846" type="line"/>
+      <point x="246.1538461538462" y="411.5985846153846" type="line"/>
+      <point x="246.1538461538462" y="743.0" type="line"/>
+      <point x="88.50886153846153" y="743.0" type="line"/>
     </contour>
     <contour>
-      <point x="12.0" y="510.0" type="line"/>
-      <point x="781.0" y="510.0" type="line"/>
-      <point x="781.0" y="604.0" type="line"/>
-      <point x="12.0" y="604.0" type="line"/>
+      <point x="10.304861538461541" y="510.6956307692308" type="line"/>
+      <point x="779.0395076923077" y="510.6956307692308" type="line"/>
+      <point x="779.0395076923077" y="603.8104000000001" type="line"/>
+      <point x="10.304861538461541" y="603.8104000000001" type="line"/>
     </contour>
   </outline>
   <lib>

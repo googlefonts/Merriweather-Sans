@@ -5,16 +5,15 @@
   <anchor x="344.533" y="0.0" name="bottom"/>
   <anchor x="332.0" y="-83.0" name="btm"/>
   <anchor x="619.244" y="10.0" name="ogonek"/>
-  <anchor x="344.0" y="1201.622" name="top"/>
+  <anchor x="356.0" y="1239.778" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="344.0"/>
-    <component base="tildecomb.case" xOffset="344.0" yOffset="176.0"/>
+    <component base="circumflexcomb_tildecomb.case" xOffset="344.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 15:50:16</string>
     </dict>
   </lib>
 </glyph>

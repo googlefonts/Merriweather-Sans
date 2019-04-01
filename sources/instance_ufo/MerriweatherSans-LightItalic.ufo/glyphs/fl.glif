@@ -8,7 +8,7 @@ fl
   <anchor x="133.0" y="0.0" name="bottom_1"/>
   <anchor x="443.0" y="0.0" name="bottom_2"/>
   <anchor x="505.0" y="492.0" name="center"/>
-  <anchor x="244.0" y="747.0" name="top_1"/>
+  <anchor x="310.0" y="806.0" name="top_1"/>
   <anchor x="546.0" y="778.0" name="top_2"/>
   <anchor x="656.0" y="711.0" name="topright"/>
   <outline>

@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aring.sc" format="2">
-  <advance width="691.0"/>
-  <anchor x="346.0" y="0.0" name="bottom"/>
-  <anchor x="344.0" y="-109.0" name="btm"/>
-  <anchor x="622.0" y="10.0" name="ogonek"/>
-  <anchor x="429.0" y="1103.0" name="top"/>
+  <advance width="683.0"/>
+  <anchor x="342.0" y="0.0" name="bottom"/>
+  <anchor x="340.0" y="-109.0" name="btm"/>
+  <anchor x="633.0" y="0.0" name="ogonek"/>
+  <anchor x="449.0" y="1107.0" name="top"/>
   <outline>
     <component base="a.sc"/>
-    <component base="ringcomb" xOffset="346.0" yOffset="66.0"/>
+    <component base="ringcomb" xOffset="336.0" yOffset="70.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/29 21:03:00</string>
     </dict>
   </lib>
 </glyph>

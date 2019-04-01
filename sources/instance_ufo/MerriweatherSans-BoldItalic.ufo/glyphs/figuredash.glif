@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="figuredash" format="2">
-  <advance width="624.0"/>
+  <advance width="612.0909090909091"/>
   <unicode hex="2012"/>
   <outline>
     <contour>
-      <point x="108.41" y="303.077" type="line"/>
-      <point x="518.769" y="303.077" type="line"/>
-      <point x="534.41" y="411.513" type="line"/>
-      <point x="123.462" y="411.513" type="line"/>
+      <point x="103.62045454545455" y="302.5340909090909" type="line"/>
+      <point x="513.9553030303031" y="302.5340909090909" type="line"/>
+      <point x="529.3852272727273" y="411.57916666666665" type="line"/>
+      <point x="118.93712121212121" y="411.57916666666665" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>hyphen</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
-      <string>zero</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 18:14:47</string>
     </dict>
   </lib>
 </glyph>

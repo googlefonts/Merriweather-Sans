@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.dnom" format="2">
-  <advance width="382.0"/>
+  <advance width="400.0382910769231"/>
   <outline>
     <contour>
-      <point x="155.0" y="0.0" type="line"/>
-      <point x="281.0" y="0.0" type="line"/>
-      <point x="282.0" y="543.0" type="line"/>
-      <point x="222.0" y="559.0" type="line"/>
-      <point x="222.0" y="558.0" type="line"/>
-      <point x="193.0" y="530.0"/>
-      <point x="128.0" y="478.0"/>
-      <point x="30.0" y="461.0" type="curve"/>
-      <point x="44.0" y="393.0" type="line"/>
-      <point x="107.0" y="397.0"/>
-      <point x="123.0" y="403.0"/>
-      <point x="155.0" y="416.0" type="curve"/>
+      <point x="170.2172923076923" y="0.0" type="line"/>
+      <point x="299.39243076923077" y="0.0" type="line"/>
+      <point x="300.0383384615385" y="540.7356307692307" type="line"/>
+      <point x="224.94744615384616" y="560.7202461538461" type="line"/>
+      <point x="223.88473846153846" y="561.5673230769231" type="line"/>
+      <point x="190.47027692307694" y="527.6598769230769"/>
+      <point x="127.13987692307691" y="471.18178461538463"/>
+      <point x="30.0" y="453.61255384615384" type="curve"/>
+      <point x="47.41538461538462" y="381.89372307692304" type="line"/>
+      <point x="92.1368" y="383.83193846153847"/>
+      <point x="135.87716923076923" y="391.9694769230769"/>
+      <point x="170.2172923076923" y="409.5865230769231" type="curve"/>
     </contour>
   </outline>
   <lib>

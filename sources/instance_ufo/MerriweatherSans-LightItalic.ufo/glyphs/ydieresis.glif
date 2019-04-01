@@ -6,15 +6,15 @@
 ydieresis
 </note>
   <anchor x="359.0" y="0.0" name="bottom"/>
-  <anchor x="297.0" y="752.0" name="top"/>
+  <anchor x="316.0" y="730.0" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="dieresiscomb" xOffset="236.0"/>
+    <component base="dieresiscomb" xOffset="256.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 17:20:05</string>
     </dict>
   </lib>
 </glyph>

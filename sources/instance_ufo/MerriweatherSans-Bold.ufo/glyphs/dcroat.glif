@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat" format="2">
-  <advance width="654.0"/>
+  <advance width="647.6752141538461"/>
   <unicode hex="0111"/>
-  <anchor x="325.0" y="0.0" name="bottom"/>
-  <anchor x="315.0" y="-83.0" name="btm"/>
-  <anchor x="325.0" y="279.0" name="center"/>
-  <anchor x="202.0" y="831.0" name="top"/>
-  <anchor x="630.0" y="557.0" name="topright"/>
+  <anchor x="322.54603076923075" y="0.0" name="bottom"/>
+  <anchor x="315.6705230769231" y="-83.0" name="btm"/>
+  <anchor x="322.54603076923075" y="279.0" name="center"/>
+  <anchor x="200.76024615384617" y="830.6459076923077" name="top"/>
+  <anchor x="626.2305230769231" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="309.0" y="631.0" type="line"/>
-      <point x="634.0" y="631.0" type="line"/>
-      <point x="634.0" y="719.0" type="line"/>
-      <point x="309.0" y="719.0" type="line"/>
+      <point x="300.7143384615385" y="633.4795076923077" type="line"/>
+      <point x="633.3550153846154" y="633.4795076923077" type="line"/>
+      <point x="633.3550153846154" y="720.4419076923077" type="line"/>
+      <point x="300.7143384615385" y="720.4419076923077" type="line"/>
     </contour>
     <component base="d"/>
   </outline>

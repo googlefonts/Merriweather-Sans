@@ -6,7 +6,7 @@
 Ntilde
 </note>
   <anchor x="306.0" y="0.0" name="bottom"/>
-  <anchor x="437.0" y="976.0" name="top"/>
+  <anchor x="434.0" y="939.0" name="top"/>
   <outline>
     <component base="N"/>
     <component base="tildecomb.case" xOffset="343.0"/>

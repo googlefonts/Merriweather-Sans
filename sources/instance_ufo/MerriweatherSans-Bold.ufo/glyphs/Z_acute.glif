@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zacute" format="2">
-  <advance width="638.0"/>
+  <advance width="621.4"/>
   <unicode hex="0179"/>
-  <anchor x="319.0" y="0.0" name="bottom"/>
-  <anchor x="312.0" y="-83.0" name="btm"/>
-  <anchor x="319.0" y="372.0" name="center"/>
-  <anchor x="330.0" y="1043.0" name="top"/>
+  <anchor x="304.26153846153846" y="0.0" name="bottom"/>
+  <anchor x="297.84615384615387" y="-83.0" name="btm"/>
+  <anchor x="304.26153846153846" y="372.0" name="center"/>
+  <anchor x="314.1384615384615" y="1034.853723076923" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acutecomb.case" xOffset="330.0"/>
+    <component base="acutecomb.case" xOffset="314.1384615384615"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 03:08:48</string>
     </dict>
   </lib>
 </glyph>

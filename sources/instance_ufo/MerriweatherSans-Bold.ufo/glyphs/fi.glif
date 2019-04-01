@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="731.0"/>
+  <advance width="731.4307692307692"/>
   <unicode hex="FB01"/>
-  <anchor x="365.5" y="0.0" name="caret_1"/>
-  <anchor x="210.0" y="0.0" name="bottom"/>
-  <anchor x="203.0" y="-83.0" name="btm"/>
-  <anchor x="158.0" y="994.0" name="top"/>
+  <anchor x="368.8396307692308" y="0.0" name="caret_1"/>
+  <anchor x="208.59575384615385" y="0.0" name="bottom"/>
+  <anchor x="198.47126153846153" y="-83.0" name="btm"/>
+  <anchor x="147.6923076923077" y="1025.9692307692308" name="top"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="419.0"/>
+    <component base="i" xOffset="417.0769230769231"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:21</string>
+      <string>2019/04/01 02:29:01</string>
     </dict>
   </lib>
 </glyph>

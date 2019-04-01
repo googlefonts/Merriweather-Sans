@@ -3,7 +3,7 @@
   <advance width="517.0"/>
   <unicode hex="1E66"/>
   <anchor x="222.0" y="0.0" name="bottom"/>
-  <anchor x="397.0" y="1168.0" name="top"/>
+  <anchor x="401.0" y="1198.0" name="top"/>
   <outline>
     <component base="S"/>
     <component base="caroncomb.case" xOffset="279.0"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 20:28:54</string>
     </dict>
   </lib>
 </glyph>

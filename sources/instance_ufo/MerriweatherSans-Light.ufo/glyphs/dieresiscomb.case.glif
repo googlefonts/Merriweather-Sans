@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
   <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="0.0" y="963.0" name="top"/>
+  <anchor x="0.0" y="983.0" name="top"/>
   <outline>
     <contour>
       <point x="-121.0" y="816.0" type="curve" smooth="yes"/>
@@ -35,7 +35,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 15:46:57</string>
     </dict>
   </lib>
 </glyph>

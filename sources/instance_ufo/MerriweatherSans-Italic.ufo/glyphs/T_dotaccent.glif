@@ -4,7 +4,7 @@
   <unicode hex="1E6A"/>
   <anchor x="238.3" y="0.0" name="bottom"/>
   <anchor x="288.3" y="374.325" name="center"/>
-  <anchor x="362.0" y="940.0" name="top"/>
+  <anchor x="362.0" y="934.0" name="top"/>
   <outline>
     <component base="T"/>
     <component base="dotaccentcomb.case" xOffset="275.0" yOffset="1.0"/>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
-  <advance width="1039.97436"/>
+  <advance width="1040.939393939394"/>
   <note>
 f_f_l
 </note>
-  <anchor x="144.692" y="0.0" name="bottom_1"/>
-  <anchor x="507.692" y="0.0" name="bottom_2"/>
-  <anchor x="852.872" y="0.0" name="bottom_3"/>
-  <anchor x="912.1030000000001" y="492.0" name="center"/>
-  <anchor x="274.692" y="748.769" name="top_1"/>
-  <anchor x="637.692" y="748.769" name="top_2"/>
-  <anchor x="953.692" y="780.462" name="top_3"/>
-  <anchor x="1084.0" y="711.0" name="topright"/>
+  <anchor x="144.98181818181817" y="0.0" name="bottom_1"/>
+  <anchor x="508.8757575757576" y="0.0" name="bottom_2"/>
+  <anchor x="852.1772727272727" y="0.0" name="bottom_3"/>
+  <anchor x="912.6022727272727" y="492.0" name="center"/>
+  <anchor x="295.1363636363636" y="793.8787878787879" name="top_1"/>
+  <anchor x="659.030303030303" y="793.8787878787879" name="top_2"/>
+  <anchor x="953.7155303030304" y="781.9090909090909" name="top_3"/>
+  <anchor x="1077.3825757575758" y="711.0" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="363.0"/>
-    <component base="l" xOffset="727.0"/>
+    <component base="f" xOffset="363.8939393939394"/>
+    <component base="l" xOffset="727.439393939394"/>
   </outline>
   <lib>
     <dict>

@@ -5,7 +5,7 @@
 W
 </note>
   <anchor x="382.3" y="0.0" name="bottom"/>
-  <anchor x="468.3" y="651.0" name="top"/>
+  <anchor x="463.0" y="640.0" name="top"/>
   <outline>
     <contour>
       <point x="159.825" y="-2.35" type="line"/>
@@ -15,19 +15,19 @@ W
       <point x="443.375" y="311.975" type="line"/>
       <point x="488.8" y="-2.35" type="line"/>
       <point x="607.025" y="-2.35" type="line"/>
-      <point x="889.425" y="650.0" type="line"/>
-      <point x="777.1" y="650.0" type="line"/>
+      <point x="889.0" y="646.0" type="line"/>
+      <point x="777.0" y="646.0" type="line"/>
       <point x="597.275" y="203.75" type="line"/>
       <point x="565.55" y="111.1" type="line"/>
       <point x="556.575" y="204.425" type="line"/>
-      <point x="502.45" y="650.0" type="line"/>
-      <point x="396.45" y="650.0" type="line"/>
+      <point x="502.0" y="646.0" type="line"/>
+      <point x="396.0" y="646.0" type="line"/>
       <point x="410.075" y="537.925" type="line"/>
       <point x="263.575" y="203.75" type="line"/>
       <point x="234.925" y="111.1" type="line"/>
       <point x="220.9" y="204.425" type="line"/>
-      <point x="157.725" y="650.0" type="line"/>
-      <point x="47.725" y="650.0" type="line"/>
+      <point x="158.0" y="646.0" type="line"/>
+      <point x="48.0" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,10 +47,8 @@ W
       <string>NPUSHB[ ]	/* 36 values pushed */
 17 11 4 3 0 2 1 74 5 4 3 3 2 2 17 75 1 1 0 0 18 0 76 0 0 0 19 0 19 21 17 20 17 6 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 21:07:44</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -7,7 +7,7 @@ ecaron
 </note>
   <anchor x="245.0" y="0.0" name="bottom"/>
   <anchor x="318.0" y="10.0" name="ogonek"/>
-  <anchor x="359.0" y="788.0" name="top"/>
+  <anchor x="357.0" y="788.0" name="top"/>
   <outline>
     <component base="e"/>
     <component base="caroncomb" xOffset="292.0"/>

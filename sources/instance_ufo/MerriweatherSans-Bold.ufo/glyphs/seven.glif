@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="628.0"/>
+  <advance width="627.6078627692308"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="138.0" y="0.0" type="curve"/>
-      <point x="313.0" y="0.0" type="line"/>
-      <point x="578.0" y="688.0" type="line"/>
-      <point x="541.0" y="746.0" type="line"/>
-      <point x="52.0" y="746.0" type="line"/>
-      <point x="52.0" y="612.0" type="line"/>
-      <point x="408.0" y="611.0" type="line"/>
-      <point x="342.0" y="450.0"/>
-      <point x="242.0" y="216.0"/>
+      <point x="153.95101538461537" y="0.0" type="curve"/>
+      <point x="325.5481846153846" y="0.0" type="line"/>
+      <point x="581.8707692307693" y="696.0705230769231" type="line"/>
+      <point x="548.6908923076924" y="743.2296" type="line"/>
+      <point x="64.34603076923077" y="743.2296" type="line"/>
+      <point x="63.99193846153845" y="607.0920615384615" type="line"/>
+      <point x="410.5803692307692" y="606.0920615384615" type="line"/>
+      <point x="354.28283076923077" y="460.9798769230769"/>
+      <point x="233.33513846153846" y="166.6920615384615"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 03:43:34</string>
     </dict>
   </lib>
 </glyph>

@@ -5,18 +5,18 @@
   <note>
 Lcommaaccent
 </note>
-  <anchor x="180.0" y="-199.0" name="bottom"/>
+  <anchor x="230.0" y="-199.0" name="bottom"/>
   <anchor x="255.575" y="374.325" name="center"/>
-  <anchor x="304.575" y="747.975" name="top"/>
+  <anchor x="204.0" y="748.0" name="top"/>
   <anchor x="527.15" y="747.975" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccentcomb.case" xOffset="206.0"/>
+    <component base="commaaccentcomb.case" xOffset="256.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 17:03:10</string>
     </dict>
   </lib>
 </glyph>

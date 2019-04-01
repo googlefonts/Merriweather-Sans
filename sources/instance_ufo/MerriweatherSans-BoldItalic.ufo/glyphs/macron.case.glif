@@ -7,10 +7,10 @@ macron.cap
   <anchor x="87.0" y="939.0" name="top"/>
   <outline>
     <contour>
-      <point x="-59.692" y="836.538" type="line"/>
-      <point x="212.462" y="836.538" type="line"/>
-      <point x="220.103" y="930.103" type="line"/>
-      <point x="-53.051" y="930.103" type="line"/>
+      <point x="-59.51136363636364" y="836.2670454545455" type="line"/>
+      <point x="212.02727272727273" y="836.2670454545455" type="line"/>
+      <point x="219.92765151515152" y="930.3981060606061" type="line"/>
+      <point x="-52.61098484848485" y="930.3981060606061" type="line"/>
     </contour>
   </outline>
   <lib>

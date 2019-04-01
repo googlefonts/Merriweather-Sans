@@ -1,22 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odblgrave.sc" format="2">
-  <advance width="657.0"/>
-  <anchor x="291.821" y="0.0" name="bottom"/>
-  <anchor x="335.821" y="325.59" name="center"/>
-  <anchor x="418.538" y="9.0" name="ogonek"/>
-  <anchor x="410.0" y="882.0" name="top"/>
-  <anchor x="71.0" y="650.179" name="topleft"/>
-  <anchor x="684.641" y="650.179" name="topright"/>
+  <advance width="653.3030303030303"/>
+  <anchor x="290.2943181818182" y="0.0" name="bottom"/>
+  <anchor x="334.2943181818182" y="325.3484848484849" name="center"/>
+  <anchor x="421.43333333333334" y="9.0" name="ogonek"/>
+  <anchor x="413.8636363636364" y="872.0" name="top"/>
+  <anchor x="69.46174242424243" y="649.6969696969697" name="topleft"/>
+  <anchor x="683.126893939394" y="649.6969696969697" name="topright"/>
   <outline>
     <component base="o.sc"/>
-    <component base="dblgravecomb" xOffset="342.0" yOffset="93.0"/>
+    <component base="dblgravecomb" xOffset="345.8636363636364" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 18:33:19</string>
     </dict>
   </lib>
 </glyph>

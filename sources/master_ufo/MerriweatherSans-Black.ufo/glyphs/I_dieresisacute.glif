@@ -5,17 +5,17 @@
   <anchor x="184.0" y="0.0" name="bottom"/>
   <anchor x="184.0" y="-83.0" name="btm"/>
   <anchor x="258.0" y="10.0" name="ogonek"/>
-  <anchor x="185.0" y="1246.0" name="top"/>
+  <anchor x="185.0" y="1266.0" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="dieresiscomb.case" xOffset="185.0"/>
-    <component base="acutecomb.case" xOffset="185.0" yOffset="203.0"/>
+    <component base="acutecomb.case" xOffset="185.0" yOffset="223.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 15:46:59</string>
     </dict>
   </lib>
 </glyph>

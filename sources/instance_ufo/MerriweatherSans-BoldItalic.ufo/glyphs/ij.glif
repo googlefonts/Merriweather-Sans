@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-  <advance width="624.41026"/>
+  <advance width="624.6515151515151"/>
   <unicode hex="0133"/>
   <note>
 ij
 </note>
-  <anchor x="119.692" y="0.0" name="bottom_1"/>
-  <anchor x="396.103" y="-273.0" name="bottom_2"/>
-  <anchor x="211.077" y="10.0" name="ogonek"/>
-  <anchor x="193.692" y="557.0" name="top_1"/>
-  <anchor x="506.103" y="557.0" name="top_2"/>
+  <anchor x="119.51136363636364" y="0.0" name="bottom_1"/>
+  <anchor x="396.0113636363636" y="-273.0" name="bottom_2"/>
+  <anchor x="213.3568181818182" y="10.0" name="ogonek"/>
+  <anchor x="193.51136363636363" y="557.0" name="top_1"/>
+  <anchor x="513.9242424242424" y="557.0" name="top_2"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccent" xOffset="135.103" yOffset="0.59"/>
-    <component base="jdotless" xOffset="313.0"/>
-    <component base="dotaccent" xOffset="442.949" yOffset="0.59"/>
+    <component base="dotaccent" xOffset="135.16287878787878" yOffset="0.5837121212121211"/>
+    <component base="jdotless" xOffset="312.8484848484849"/>
+    <component base="dotaccent" xOffset="442.9185606060606" yOffset="0.5837121212121211"/>
   </outline>
   <lib>
     <dict>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l.sc" format="2">
-  <advance width="496.61538"/>
+  <advance width="479.8181818181818"/>
   <note>
 L
 </note>
-  <anchor x="211.513" y="0.0" name="bottom"/>
-  <anchor x="255.513" y="325.59" name="center"/>
-  <anchor x="297.513" y="650.179" name="top"/>
-  <anchor x="524.615" y="650.179" name="topright"/>
+  <anchor x="210.07575757575756" y="0.0" name="bottom"/>
+  <anchor x="253.72727272727272" y="325.3484848484849" name="center"/>
+  <anchor x="202.28787878787878" y="640.0" name="top"/>
+  <anchor x="396.0" y="376.4090909090909" name="topright"/>
   <outline>
     <contour>
-      <point x="37.308" y="0.0" type="line"/>
-      <point x="428.103" y="0.0" type="line"/>
-      <point x="444.744" y="123.897" type="line"/>
-      <point x="204.538" y="118.077" type="line"/>
-      <point x="281.359" y="646.0" type="line"/>
-      <point x="128.769" y="646.0" type="line"/>
+      <point x="35.92424242424242" y="0.0" type="line"/>
+      <point x="426.42424242424244" y="0.0" type="line"/>
+      <point x="442.6363636363636" y="123.92424242424244" type="line"/>
+      <point x="203.1818181818182" y="117.96969696969697" type="line"/>
+      <point x="279.7878787878788" y="646.0" type="line"/>
+      <point x="127.0909090909091" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,10 +35,10 @@ L
       <string>NPUSHB[ ]	/* 28 values pushed */
 3 1 2 2 17 75 0 0 0 1 89 0 1 1 18 1 76 0 0 0 5 0 5 17 17 4 7 22 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/23 14:01:00</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

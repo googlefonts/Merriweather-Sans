@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzcaron" format="2">
-  <advance width="1191.0"/>
+  <advance width="1171.1076923076923"/>
   <unicode hex="01C6"/>
-  <anchor x="325.0" y="0.0" name="bottom_1"/>
-  <anchor x="921.0" y="0.0" name="bottom_2"/>
-  <anchor x="315.0" y="-83.0" name="btm_1"/>
-  <anchor x="921.0" y="-83.0" name="btm_2"/>
-  <anchor x="325.0" y="279.0" name="center_1"/>
-  <anchor x="921.0" y="279.0" name="center_2"/>
-  <anchor x="202.0" y="831.0" name="top_1"/>
-  <anchor x="929.0" y="830.0" name="top_2"/>
-  <anchor x="630.0" y="557.0" name="topright"/>
+  <anchor x="322.54603076923075" y="0.0" name="bottom_1"/>
+  <anchor x="904.4153846153846" y="0.0" name="bottom_2"/>
+  <anchor x="315.6705230769231" y="-83.0" name="btm_1"/>
+  <anchor x="904.9846153846154" y="-83.0" name="btm_2"/>
+  <anchor x="322.54603076923075" y="279.0" name="center_1"/>
+  <anchor x="904.4153846153846" y="279.0" name="center_2"/>
+  <anchor x="200.76024615384617" y="830.6459076923077" name="top_1"/>
+  <anchor x="913.1076923076923" y="830.0" name="top_2"/>
+  <anchor x="626.2305230769231" y="557.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="650.0"/>
-    <component base="caron" xOffset="713.0" yOffset="6.0"/>
+    <component base="z" xOffset="646.1538461538462"/>
+    <component base="caron" xOffset="698.7076923076924" yOffset="7.307692307692305"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/31 05:09:38</string>
     </dict>
   </lib>
 </glyph>

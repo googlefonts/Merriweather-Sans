@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.sc" format="2">
-  <advance width="347.0"/>
-  <anchor x="174.0" y="0.0" name="bottom"/>
-  <anchor x="174.0" y="-72.0" name="btm"/>
-  <anchor x="312.0" y="10.0" name="ogonek"/>
-  <anchor x="173.0" y="892.0" name="top"/>
+  <advance width="343.002736"/>
+  <anchor x="171.82436923076924" y="0.0" name="bottom"/>
+  <anchor x="172.3174153846154" y="-72.0" name="btm"/>
+  <anchor x="211.61538461538464" y="0.0" name="ogonek"/>
+  <anchor x="171.0923076923077" y="900.0" name="top"/>
   <outline>
     <contour>
-      <point x="94.0" y="0.0" type="line"/>
-      <point x="252.0" y="0.0" type="line"/>
-      <point x="252.0" y="646.0" type="line"/>
-      <point x="94.0" y="646.0" type="line"/>
+      <point x="91.78627692307693" y="0.0" type="line"/>
+      <point x="250.78578461538464" y="0.0" type="line"/>
+      <point x="250.78578461538464" y="646.0" type="line"/>
+      <point x="91.78627692307693" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,10 +26,8 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:44:01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

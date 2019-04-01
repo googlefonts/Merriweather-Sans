@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="325.0"/>
+  <advance width="322.63452800000005"/>
   <unicode hex="0060"/>
-  <anchor x="239.0" y="831.0" name="_top"/>
+  <anchor x="237.97538461538463" y="830.6459076923077" name="_top"/>
   <outline>
     <contour>
-      <point x="298.0" y="678.0" type="line"/>
-      <point x="241.0" y="731.0"/>
-      <point x="172.0" y="813.0"/>
-      <point x="132.0" y="883.0" type="curve"/>
-      <point x="27.0" y="798.0" type="line"/>
-      <point x="60.0" y="727.0"/>
-      <point x="185.0" y="630.0"/>
-      <point x="226.0" y="611.0" type="curve"/>
+      <point x="298.0506461538462" y="675.0148923076923" type="line"/>
+      <point x="245.74344615384618" y="727.2179692307692"/>
+      <point x="174.5297230769231" y="817.9841230769231"/>
+      <point x="131.83550769230771" y="883.3034461538462" type="curve"/>
+      <point x="28.783446153846157" y="801.0487384615385" type="line"/>
+      <point x="62.35267692307693" y="734.6402461538462"/>
+      <point x="183.8108923076923" y="630.8220307692308"/>
+      <point x="226.7337230769231" y="610.4688615384615" type="curve"/>
     </contour>
   </outline>
   <lib>

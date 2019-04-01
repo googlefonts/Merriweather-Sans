@@ -8,10 +8,10 @@ macron
   <anchor x="58.0" y="726.0" name="top"/>
   <outline>
     <contour>
-      <point x="-95.0" y="646.0" type="line"/>
-      <point x="196.0" y="646.0" type="line"/>
-      <point x="209.0" y="753.0" type="line"/>
-      <point x="-82.0" y="753.0" type="line"/>
+      <point x="-95.0" y="650.0" type="line"/>
+      <point x="196.0" y="650.0" type="line"/>
+      <point x="209.0" y="757.0" type="line"/>
+      <point x="-82.0" y="757.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 20:19:01</string>
     </dict>
   </lib>
 </glyph>

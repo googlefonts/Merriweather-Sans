@@ -1,21 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot.sc" format="2">
-  <advance width="600.0"/>
-  <anchor x="253.0" y="0.0" name="bottom"/>
-  <anchor x="278.0" y="-72.0" name="btm"/>
-  <anchor x="253.0" y="323.0" name="center"/>
-  <anchor x="140.0" y="722.0" name="top"/>
-  <anchor x="485.0" y="646.0" name="topright"/>
+  <advance width="610.0"/>
+  <anchor x="273.0" y="0.0" name="bottom"/>
+  <anchor x="243.0" y="323.0" name="center"/>
+  <anchor x="132.0" y="896.0" name="top"/>
+  <anchor x="404.0" y="394.0" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="periodcentered"/>
+    <component base="periodcentered" xOffset="321.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>periodcentered</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 18:08:23</string>
     </dict>
   </lib>
 </glyph>

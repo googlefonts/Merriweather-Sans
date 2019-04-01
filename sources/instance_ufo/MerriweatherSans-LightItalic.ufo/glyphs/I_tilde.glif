@@ -7,7 +7,7 @@ Itilde
 </note>
   <anchor x="103.0" y="0.0" name="bottom"/>
   <anchor x="216.0" y="10.0" name="ogonek"/>
-  <anchor x="236.0" y="976.0" name="top"/>
+  <anchor x="233.0" y="939.0" name="top"/>
   <anchor x="82.0" y="747.0" name="topleft"/>
   <outline>
     <component base="I"/>

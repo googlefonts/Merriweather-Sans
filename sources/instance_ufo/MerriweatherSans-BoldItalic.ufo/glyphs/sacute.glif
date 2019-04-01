@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacute" format="2">
-  <advance width="462.0"/>
+  <advance width="462.0151515151515"/>
   <unicode hex="015B"/>
   <note>
 sacute
 </note>
-  <anchor x="194.333" y="0.0" name="bottom"/>
-  <anchor x="238.41" y="731.077" name="top"/>
+  <anchor x="193.0003787878788" y="0.0" name="bottom"/>
+  <anchor x="230.92462121212122" y="739.2375" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="244.0"/>
+    <component base="acutecomb" xOffset="231.33333333333334"/>
   </outline>
   <lib>
     <dict>

@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelow.sc" format="2">
-  <advance width="499.0"/>
-  <anchor x="187.0" y="-199.0" name="bottom"/>
-  <anchor x="313.923" y="650.0" name="top"/>
+  <advance width="487.3939393939394"/>
+  <anchor x="181.04545454545456" y="-199.0" name="bottom"/>
+  <anchor x="308.469696969697" y="640.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="dotbelowcomb" xOffset="213.0"/>
+    <component base="dotbelowcomb" xOffset="207.04545454545456"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 19:23:26</string>
     </dict>
   </lib>
 </glyph>

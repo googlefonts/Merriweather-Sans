@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron" format="2">
-  <advance width="407.0"/>
+  <advance width="404.0905987692308"/>
   <unicode hex="02C7"/>
-  <anchor x="216.0" y="824.0" name="_top"/>
+  <anchor x="214.38104615384614" y="822.8740923076923" name="_top"/>
   <outline>
     <contour>
-      <point x="21.0" y="786.0" type="line"/>
-      <point x="161.0" y="604.0" type="line"/>
-      <point x="270.0" y="604.0" type="line"/>
-      <point x="408.0" y="786.0" type="line"/>
-      <point x="329.0" y="830.0" type="line"/>
-      <point x="215.0" y="709.0" type="line"/>
-      <point x="97.0" y="830.0" type="line"/>
+      <point x="18.292799999999996" y="791.6797538461539" type="line"/>
+      <point x="161.6449846153846" y="616.9784615384616" type="line"/>
+      <point x="266.0404923076923" y="616.9784615384616" type="line"/>
+      <point x="407.2537230769231" y="790.7564307692307" type="line"/>
+      <point x="328.8736" y="835.9200000000001" type="line"/>
+      <point x="213.52" y="724.8627076923077" type="line"/>
+      <point x="94.67243076923077" y="835.9200000000001" type="line"/>
     </contour>
   </outline>
   <lib>

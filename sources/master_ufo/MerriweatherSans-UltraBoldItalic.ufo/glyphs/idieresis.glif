@@ -7,7 +7,7 @@ idieresis
 </note>
   <anchor x="125.0" y="0.0" name="bottom"/>
   <anchor x="227.0" y="10.0" name="ogonek"/>
-  <anchor x="229.0" y="788.0" name="top"/>
+  <anchor x="229.0" y="765.0" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dieresiscomb" xOffset="162.0"/>
@@ -15,7 +15,7 @@ idieresis
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/28 02:06:16</string>
     </dict>
   </lib>
 </glyph>

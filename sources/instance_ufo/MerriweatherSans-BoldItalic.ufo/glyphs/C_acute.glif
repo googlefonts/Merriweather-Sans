@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Cacute" format="2">
-  <advance width="574.92308"/>
+  <advance width="574.6818181818181"/>
   <unicode hex="0106"/>
   <note>
 Cacute
 </note>
   <anchor x="302.0" y="0.0" name="bottom"/>
-  <anchor x="455.0" y="978.0" name="top"/>
+  <anchor x="455.54545454545456" y="976.3484848484849" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="acutecomb.case" xOffset="362.0" yOffset="2.0"/>
+    <component base="acutecomb.case" xOffset="362.54545454545456" yOffset="0.34848484848484845"/>
   </outline>
   <lib>
     <dict>

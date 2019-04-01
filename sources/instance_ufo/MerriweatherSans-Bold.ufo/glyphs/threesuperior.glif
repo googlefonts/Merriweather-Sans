@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threesuperior" format="2">
-  <advance width="457.0"/>
+  <advance width="446.6615384615385"/>
   <unicode hex="00B3"/>
   <outline>
     <component base="three.dnom" yOffset="400.0"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/31 01:23:12</string>
     </dict>
   </lib>
 </glyph>

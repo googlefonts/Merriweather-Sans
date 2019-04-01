@@ -1,23 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij.sc" format="2">
-  <advance width="726.0"/>
-  <anchor x="174.0" y="0.0" name="bottom_1"/>
-  <anchor x="537.0" y="0.0" name="bottom_2"/>
-  <anchor x="174.0" y="-72.0" name="btm_1"/>
-  <anchor x="473.0" y="-72.0" name="btm_2"/>
-  <anchor x="312.0" y="10.0" name="ogonek"/>
-  <anchor x="173.0" y="892.0" name="top_1"/>
-  <anchor x="550.0" y="723.0" name="top_2"/>
+  <advance width="712.5384615384615"/>
+  <anchor x="171.82436923076924" y="0.0" name="bottom_1"/>
+  <anchor x="527.9476923076924" y="0.0" name="bottom_2"/>
+  <anchor x="172.3174153846154" y="-72.0" name="btm_1"/>
+  <anchor x="461.1396307692308" y="-72.0" name="btm_2"/>
+  <anchor x="211.61538461538464" y="0.0" name="ogonek"/>
+  <anchor x="171.0923076923077" y="900.0" name="top_1"/>
+  <anchor x="544.8461538461538" y="896.0" name="top_2"/>
   <outline>
     <component base="i.sc"/>
-    <component base="j.sc" xOffset="347.0"/>
+    <component base="j.sc" xOffset="343.1846153846154"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/23 02:58:27</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

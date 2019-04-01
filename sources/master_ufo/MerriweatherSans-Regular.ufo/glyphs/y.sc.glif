@@ -3,7 +3,7 @@
   <advance width="593.46667"/>
   <anchor x="296.822" y="0.0" name="bottom"/>
   <anchor x="301.289" y="-72.0" name="btm"/>
-  <anchor x="300.644" y="892.0" name="top"/>
+  <anchor x="297.0" y="900.0" name="top"/>
   <anchor x="20.0" y="646.0" name="topleft"/>
   <outline>
     <contour>
@@ -12,7 +12,7 @@
       <point x="358.378" y="268.689" type="line"/>
       <point x="341.733" y="211.333" type="line"/>
       <point x="590.8" y="646.0" type="line"/>
-      <point x="466.378" y="646.0" type="line"/>
+      <point x="465.0" y="646.0" type="line"/>
       <point x="317.822" y="387.422" type="line"/>
       <point x="292.289" y="315.089" type="line"/>
       <point x="310.467" y="315.089" type="line"/>
@@ -25,10 +25,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 16:34:16</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

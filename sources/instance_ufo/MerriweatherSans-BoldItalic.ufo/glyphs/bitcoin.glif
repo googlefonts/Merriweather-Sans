@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bitcoin" format="2">
-  <advance width="666.23077"/>
+  <advance width="669.4848484848485"/>
   <unicode hex="20BF"/>
-  <anchor x="285.333" y="0.0" name="bottom"/>
-  <anchor x="384.333" y="748.769" name="top"/>
+  <anchor x="285.17651515151516" y="0.0" name="bottom"/>
+  <anchor x="384.17651515151516" y="747.3397727272727" name="top"/>
   <outline>
     <contour>
       <point x="393.0" y="713.0" type="line"/>
@@ -12,16 +12,16 @@
       <point x="415.0" y="852.0" type="line"/>
     </contour>
     <contour>
-      <point x="143.59" y="-92.0" type="line"/>
-      <point x="199.59" y="-92.0" type="line"/>
-      <point x="221.59" y="47.0" type="line"/>
-      <point x="165.59" y="47.0" type="line"/>
+      <point x="143.34848484848484" y="-92.0" type="line"/>
+      <point x="199.34848484848484" y="-92.0" type="line"/>
+      <point x="221.34848484848484" y="47.0" type="line"/>
+      <point x="165.34848484848484" y="47.0" type="line"/>
     </contour>
     <contour>
-      <point x="287.59" y="-92.0" type="line"/>
-      <point x="343.59" y="-92.0" type="line"/>
-      <point x="365.59" y="47.0" type="line"/>
-      <point x="309.59" y="47.0" type="line"/>
+      <point x="287.3484848484849" y="-92.0" type="line"/>
+      <point x="343.3484848484849" y="-92.0" type="line"/>
+      <point x="365.3484848484849" y="47.0" type="line"/>
+      <point x="309.3484848484849" y="47.0" type="line"/>
     </contour>
     <contour>
       <point x="249.0" y="713.0" type="line"/>
@@ -34,7 +34,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 02:10:55</string>
     </dict>
   </lib>
 </glyph>

@@ -7,7 +7,7 @@ zcaron
 </note>
   <anchor x="203.0" y="0.0" name="bottom"/>
   <anchor x="240.0" y="279.0" name="center"/>
-  <anchor x="330.0" y="788.0" name="top"/>
+  <anchor x="328.0" y="788.0" name="top"/>
   <outline>
     <component base="z"/>
     <component base="caroncomb" xOffset="263.0"/>

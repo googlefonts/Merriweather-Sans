@@ -6,8 +6,8 @@
 approxequal
 </note>
   <outline>
-    <component base="asciitilde" xOffset="-39.41" yOffset="-212.0"/>
-    <component base="asciitilde" xOffset="-7.769" yOffset="22.923"/>
+    <component base="asciitilde" xOffset="-39.416287878787884" yOffset="-212.0"/>
+    <component base="asciitilde" xOffset="-7.986363636363635" yOffset="22.760227272727274"/>
   </outline>
   <lib>
     <dict>

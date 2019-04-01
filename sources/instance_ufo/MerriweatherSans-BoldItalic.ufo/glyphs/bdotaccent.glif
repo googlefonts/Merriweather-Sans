@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bdotaccent" format="2">
-  <advance width="612.0"/>
+  <advance width="611.9049242424243"/>
   <unicode hex="1E03"/>
-  <anchor x="269.154" y="0.0" name="bottom"/>
-  <anchor x="447.821" y="775.385" name="top"/>
+  <anchor x="269.0090909090909" y="0.0" name="bottom"/>
+  <anchor x="448.4083333333333" y="779.9625" name="top"/>
   <outline>
     <component base="b"/>
-    <component base="dotaccentcomb" xOffset="382.0"/>
+    <component base="dotaccentcomb" xOffset="382.57575757575756"/>
   </outline>
   <lib>
     <dict>

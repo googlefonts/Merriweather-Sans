@@ -1,30 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tf" format="2">
-  <advance width="591.0"/>
+  <advance width="618.0"/>
   <outline>
     <contour>
-      <point x="68.077" y="0.0" type="line"/>
-      <point x="502.282" y="0.0" type="line"/>
-      <point x="513.103" y="99.564" type="line"/>
-      <point x="369.744" y="99.564" type="line"/>
-      <point x="461.103" y="737.0" type="line"/>
-      <point x="358.923" y="747.0" type="line"/>
-      <point x="356.923" y="747.0" type="line"/>
-      <point x="307.333" y="711.0"/>
-      <point x="215.41" y="664.282"/>
-      <point x="100.923" y="643.051" type="curve"/>
-      <point x="117.974" y="559.308" type="line"/>
-      <point x="179.077" y="563.897"/>
-      <point x="250.564" y="574.615"/>
-      <point x="285.154" y="583.205" type="curve"/>
-      <point x="215.795" y="99.564" type="line"/>
-      <point x="78.487" y="99.564" type="line"/>
+      <point x="216.71212121212122" y="3.0" type="line"/>
+      <point x="365.3636363636364" y="3.0" type="line"/>
+      <point x="482.8030303030303" y="743.3484848484849" type="line"/>
+      <point x="407.1363636363636" y="754.6515151515151" type="line"/>
+      <point x="405.4848484848485" y="754.6515151515151" type="line"/>
+      <point x="327.22727272727275" y="703.1818181818181"/>
+      <point x="191.28787878787878" y="657.3484848484849"/>
+      <point x="93.96969696969697" y="644.6060606060606" type="curve"/>
+      <point x="114.71212121212122" y="545.5454545454545" type="line"/>
+      <point x="192.63636363636363" y="546.2878787878788"/>
+      <point x="252.03030303030303" y="563.4242424242424"/>
+      <point x="312.59090909090907" y="581.6818181818181" type="curve"/>
+    </contour>
+    <contour>
+      <point x="39.06060606060606" y="0.0" type="line"/>
+      <point x="541.5909090909091" y="0.0" type="line"/>
+      <point x="556.8030303030303" y="109.10606060606062" type="line"/>
+      <point x="54.27272727272727" y="109.10606060606062" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>618</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 17:11:08</string>
     </dict>
   </lib>
 </glyph>

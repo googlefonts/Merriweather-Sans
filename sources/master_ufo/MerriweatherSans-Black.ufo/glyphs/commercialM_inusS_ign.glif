@@ -4,13 +4,13 @@
   <unicode hex="2052"/>
   <outline>
     <component base="fraction" xOffset="313.0"/>
-    <component base="bullet" xOffset="-35.0" yOffset="245.0"/>
+    <component base="bullet" xOffset="15.0" yOffset="265.0"/>
     <component base="bullet" xOffset="441.0" yOffset="-157.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 17:34:03</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

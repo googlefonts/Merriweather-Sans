@@ -3,14 +3,14 @@
   <advance width="658.0"/>
   <anchor x="329.0" y="0.0" name="bottom"/>
   <anchor x="333.0" y="-109.0" name="btm"/>
-  <anchor x="592.0" y="10.0" name="ogonek"/>
-  <anchor x="333.0" y="896.0" name="top"/>
+  <anchor x="608.0" y="0.0" name="ogonek"/>
+  <anchor x="333.0" y="900.0" name="top"/>
   <outline>
     <contour>
-      <point x="105.0" y="0.0" type="line"/>
-      <point x="315.0" y="508.0" type="line"/>
-      <point x="333.0" y="565.0" type="line"/>
-      <point x="351.0" y="508.0" type="line"/>
+      <point x="103.0" y="0.0" type="line"/>
+      <point x="315.0" y="518.0" type="line"/>
+      <point x="333.0" y="575.0" type="line"/>
+      <point x="349.0" y="518.0" type="line"/>
       <point x="551.0" y="0.0" type="line"/>
       <point x="642.0" y="0.0" type="line"/>
       <point x="373.0" y="653.0" type="line"/>
@@ -37,10 +37,8 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:42:21</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

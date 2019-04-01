@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tbar" format="2">
-  <advance width="610.0"/>
+  <advance width="620.3473513846154"/>
   <unicode hex="0166"/>
-  <anchor x="305.0" y="0.0" name="bottom"/>
-  <anchor x="303.0" y="-83.0" name="btm"/>
-  <anchor x="305.0" y="372.0" name="center"/>
-  <anchor x="303.0" y="830.0" name="top"/>
+  <anchor x="310.17372307692307" y="0.0" name="bottom"/>
+  <anchor x="310.17372307692307" y="372.0" name="center"/>
+  <anchor x="308.0343384615384" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="94.0" y="292.0" type="line"/>
-      <point x="525.0" y="292.0" type="line"/>
-      <point x="525.0" y="389.0" type="line"/>
-      <point x="94.0" y="389.0" type="line"/>
+      <point x="99.36332307692307" y="289.8243692307692" type="line"/>
+      <point x="530.1356307692308" y="289.8243692307692" type="line"/>
+      <point x="530.1356307692308" y="389.0" type="line"/>
+      <point x="99.36332307692307" y="389.0" type="line"/>
     </contour>
     <component base="T"/>
   </outline>

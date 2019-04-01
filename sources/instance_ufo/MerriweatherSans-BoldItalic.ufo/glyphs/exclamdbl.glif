@@ -6,7 +6,7 @@
 exclamdbl
 </note>
   <outline>
-    <component base="exclam" xOffset="302.0"/>
+    <component base="exclam" xOffset="301.7647727272727"/>
     <component base="exclam"/>
   </outline>
   <lib>

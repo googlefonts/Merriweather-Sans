@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexhookabove" format="2">
-  <advance width="619.0"/>
+  <advance width="612.0"/>
   <unicode hex="1EA9"/>
   <anchor x="273.0" y="0.0" name="bottom"/>
   <anchor x="517.0" y="10.0" name="ogonek"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 18:07:42</string>
     </dict>
   </lib>
 </glyph>

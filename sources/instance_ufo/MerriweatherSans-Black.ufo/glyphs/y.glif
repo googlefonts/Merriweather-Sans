@@ -2,8 +2,7 @@
 <glyph name="y" format="2">
   <advance width="590.0"/>
   <unicode hex="0079"/>
-  <anchor x="295.0" y="0.0" name="bottom"/>
-  <anchor x="513.0" y="-103.0" name="btm"/>
+  <anchor x="523.0" y="0.0" name="bottom"/>
   <anchor x="303.0" y="830.0" name="top"/>
   <outline>
     <contour>
@@ -39,7 +38,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:55:06</string>
     </dict>
   </lib>
 </glyph>

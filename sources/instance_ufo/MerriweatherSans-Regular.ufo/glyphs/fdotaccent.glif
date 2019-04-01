@@ -4,15 +4,15 @@
   <unicode hex="1E1F"/>
   <anchor x="200.133" y="0.0" name="bottom"/>
   <anchor x="189.844" y="-83.0" name="btm"/>
-  <anchor x="179.0" y="1162.556" name="top"/>
+  <anchor x="142.0" y="1196.0" name="top"/>
   <outline>
     <component base="f"/>
-    <component base="dotaccentcomb" xOffset="179.0" yOffset="172.0"/>
+    <component base="dotaccentcomb" xOffset="142.0" yOffset="188.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 17:29:27</string>
     </dict>
   </lib>
 </glyph>

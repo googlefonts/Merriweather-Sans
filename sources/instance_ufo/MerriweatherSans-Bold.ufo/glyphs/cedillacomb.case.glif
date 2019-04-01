@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedillacomb.case" format="2">
-  <anchor x="-32.0" y="0.0" name="_bottom"/>
-  <anchor x="-32.0" y="-227.0" name="bottom"/>
+  <anchor x="-31.12732307692307" y="0.0" name="_bottom"/>
+  <anchor x="-31.12732307692307" y="-227.0" name="bottom"/>
   <outline>
-    <component base="cedillacomb"/>
+    <component base="cedillacomb" xOffset="-36.01538461538461"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 15:43:26</string>
     </dict>
   </lib>
 </glyph>

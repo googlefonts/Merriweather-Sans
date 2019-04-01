@@ -5,7 +5,7 @@
   <anchor x="150.0" y="0.0" name="bottom"/>
   <anchor x="152.0" y="-83.0" name="btm"/>
   <anchor x="250.0" y="10.0" name="ogonek"/>
-  <anchor x="103.0" y="1004.0" name="top"/>
+  <anchor x="151.0" y="1004.0" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="I"/>
@@ -14,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 15:53:52</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcommaaccent.sc" format="2">
-  <advance width="705.0"/>
-  <anchor x="353.0" y="-273.0" name="bottom"/>
-  <anchor x="384.0" y="-72.0" name="btm"/>
-  <anchor x="387.0" y="892.0" name="top"/>
+  <advance width="703.3692307692307"/>
+  <anchor x="351.1171692307692" y="-273.0" name="bottom"/>
+  <anchor x="380.8755076923077" y="-72.0" name="btm"/>
+  <anchor x="389.1505230769231" y="892.0" name="top"/>
   <outline>
     <component base="g.sc"/>
-    <component base="commaaccentcomb" xOffset="254.0"/>
+    <component base="commaaccentcomb" xOffset="258.7076923076923"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 04:28:09</string>
     </dict>
   </lib>
 </glyph>

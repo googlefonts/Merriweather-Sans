@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacutedotaccent.sc" format="2">
-  <advance width="572.0"/>
-  <anchor x="286.0" y="0.0" name="bottom"/>
-  <anchor x="286.0" y="-72.0" name="btm"/>
-  <anchor x="240.0" y="1238.0" name="top"/>
+  <advance width="568.0461538461539"/>
+  <anchor x="277.3846153846154" y="0.0" name="bottom"/>
+  <anchor x="273.24615384615385" y="-72.0" name="btm"/>
+  <anchor x="189.8923076923077" y="1264.5538461538463" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="acutecomb" xOffset="307.0" yOffset="61.0"/>
-    <component base="dotaccentcomb" xOffset="240.0" yOffset="231.0"/>
+    <component base="acutecomb" xOffset="294.96923076923076" yOffset="61.43076923076923"/>
+    <component base="dotaccentcomb" xOffset="189.8923076923077" yOffset="237.20000000000002"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 04:29:29</string>
     </dict>
   </lib>
 </glyph>

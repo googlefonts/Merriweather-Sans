@@ -3,18 +3,16 @@
   <advance width="293.0"/>
   <anchor x="147.0" y="-192.0" name="bottom"/>
   <anchor x="149.0" y="-72.0" name="btm"/>
-  <anchor x="264.0" y="10.0" name="ogonek"/>
-  <anchor x="146.0" y="892.0" name="top"/>
+  <anchor x="174.0" y="10.0" name="ogonek"/>
+  <anchor x="147.0" y="900.0" name="top"/>
   <outline>
     <component base="i.sc"/>
     <component base="dotbelowcomb" xOffset="152.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/23 02:58:27</string>
     </dict>
   </lib>
 </glyph>

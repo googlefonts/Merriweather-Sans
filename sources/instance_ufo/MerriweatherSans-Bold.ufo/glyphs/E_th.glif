@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="759.0"/>
+  <advance width="746.5401704615385"/>
   <unicode hex="00D0"/>
-  <anchor x="380.0" y="0.0" name="bottom"/>
-  <anchor x="341.0" y="-83.0" name="btm"/>
-  <anchor x="380.0" y="372.0" name="center"/>
-  <anchor x="374.0" y="830.0" name="top"/>
+  <anchor x="368.81538461538463" y="0.0" name="bottom"/>
+  <anchor x="337.3538461538462" y="-83.0" name="btm"/>
+  <anchor x="368.81538461538463" y="372.0" name="center"/>
+  <anchor x="365.5230769230769" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="34.0" y="339.0" type="line"/>
-      <point x="413.0" y="339.0" type="line"/>
-      <point x="413.0" y="437.0" type="line"/>
-      <point x="34.0" y="437.0" type="line"/>
+      <point x="30.44566153846154" y="338.4814153846154" type="line"/>
+      <point x="408.1171692307692" y="338.4814153846154" type="line"/>
+      <point x="408.1171692307692" y="437.5185846153846" type="line"/>
+      <point x="30.44566153846154" y="437.5185846153846" type="line"/>
     </contour>
     <component base="D"/>
   </outline>

@@ -6,7 +6,7 @@ A
 </note>
   <anchor x="266.25" y="0.0" name="bottom"/>
   <anchor x="508.525" y="9.0" name="ogonek"/>
-  <anchor x="353.55" y="651.0" name="top"/>
+  <anchor x="352.0" y="641.0" name="top"/>
   <outline>
     <contour>
       <point x="-40.225" y="0.0" type="line"/>
@@ -15,23 +15,21 @@ A
       <point x="425.35" y="150.225" type="line"/>
       <point x="454.75" y="0.0" type="line"/>
       <point x="564.425" y="0.0" type="line"/>
-      <point x="428.3" y="646.0" type="line"/>
-      <point x="299.45" y="646.0" type="line"/>
+      <point x="425.0" y="646.0" type="line"/>
+      <point x="292.0" y="646.0" type="line"/>
     </contour>
     <contour>
       <point x="189.475" y="229.05" type="line"/>
-      <point x="329.9" y="515.75" type="line"/>
-      <point x="351.925" y="565.4" type="line"/>
-      <point x="358.275" y="516.075" type="line"/>
+      <point x="325.0" y="516.0" type="line"/>
+      <point x="347.0" y="565.0" type="line"/>
+      <point x="353.0" y="516.0" type="line"/>
       <point x="411.35" y="229.05" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 17:27:38</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

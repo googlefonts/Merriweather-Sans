@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scircumflex" format="2">
-  <advance width="563.0"/>
+  <advance width="571.0"/>
   <unicode hex="015C"/>
   <anchor x="282.0" y="0.0" name="bottom"/>
   <anchor x="284.0" y="-83.0" name="btm"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 03:08:48</string>
     </dict>
   </lib>
 </glyph>

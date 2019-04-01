@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcaron" format="2">
-  <advance width="603.0"/>
+  <advance width="603.969696969697"/>
   <unicode hex="01E7"/>
   <note>
 gcaron
 </note>
-  <anchor x="228.744" y="-273.0" name="bottom"/>
-  <anchor x="399.0" y="788.0" name="top"/>
+  <anchor x="229.06325757575758" y="-273.0" name="bottom"/>
+  <anchor x="396.42424242424244" y="788.0" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="caroncomb" xOffset="332.0"/>
+    <component base="caroncomb" xOffset="331.42424242424244"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 02:38:01</string>
     </dict>
   </lib>
 </glyph>

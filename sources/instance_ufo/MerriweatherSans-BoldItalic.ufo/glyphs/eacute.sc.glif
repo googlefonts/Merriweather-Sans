@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eacute.sc" format="2">
-  <advance width="558.0"/>
-  <anchor x="239.641" y="0.0" name="bottom"/>
-  <anchor x="465.103" y="9.0" name="ogonek"/>
-  <anchor x="270.41" y="824.077" name="top"/>
-  <anchor x="65.359" y="650.179" name="topleft"/>
+  <advance width="561.5909090909091"/>
+  <anchor x="266.3030303030303" y="0.0" name="bottom"/>
+  <anchor x="467.71477272727276" y="9.0" name="ogonek"/>
+  <anchor x="268.151893939394" y="822.2375" name="top"/>
+  <anchor x="68.35719696969697" y="649.6969696969697" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="acutecomb" xOffset="276.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="268.56060606060606" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/23 04:57:38</string>
     </dict>
   </lib>
 </glyph>

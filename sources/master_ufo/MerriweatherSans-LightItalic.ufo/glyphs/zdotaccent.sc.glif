@@ -3,17 +3,15 @@
   <advance width="546.0"/>
   <anchor x="237.0" y="0.0" name="bottom"/>
   <anchor x="280.0" y="325.0" name="center"/>
-  <anchor x="371.0" y="862.0" name="top"/>
+  <anchor x="348.0" y="852.0" name="top"/>
   <outline>
     <component base="z.sc"/>
-    <component base="dotaccentcomb" xOffset="304.0" yOffset="93.0"/>
+    <component base="dotaccentcomb" xOffset="281.0" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/23 05:29:07</string>
     </dict>
   </lib>
 </glyph>

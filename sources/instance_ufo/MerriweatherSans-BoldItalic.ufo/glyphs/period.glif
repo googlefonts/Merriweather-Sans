@@ -7,18 +7,18 @@ period
 </note>
   <outline>
     <contour>
-      <point x="93.949" y="-13.41" type="curve" smooth="yes"/>
-      <point x="152.231" y="-13.41"/>
-      <point x="190.282" y="26.051"/>
-      <point x="190.282" y="84.923" type="curve" smooth="yes"/>
-      <point x="190.282" y="124.795"/>
-      <point x="167.462" y="152.615"/>
-      <point x="117.179" y="152.615" type="curve" smooth="yes"/>
-      <point x="61.895" y="152.615"/>
-      <point x="23.256" y="107.564"/>
-      <point x="23.256" y="55.282" type="curve" smooth="yes"/>
-      <point x="23.256" y="14.231"/>
-      <point x="51.077" y="-13.41"/>
+      <point x="94.15378787878788" y="-13.181060606060607" type="curve" smooth="yes"/>
+      <point x="152.48409090909092" y="-13.181060606060607"/>
+      <point x="190.09507575757576" y="26.081439393939394"/>
+      <point x="190.09507575757576" y="84.76022727272726" type="curve" smooth="yes"/>
+      <point x="190.09507575757576" y="125.14469696969698"/>
+      <point x="167.49772727272727" y="152.50681818181818"/>
+      <point x="117.16742424242425" y="152.50681818181818" type="curve" smooth="yes"/>
+      <point x="62.072" y="152.50681818181818"/>
+      <point x="23.171969696969693" y="107.66060606060606"/>
+      <point x="23.171969696969693" y="55.33030303030303" type="curve" smooth="yes"/>
+      <point x="23.171969696969693" y="14.719318181818181"/>
+      <point x="51.23977272727272" y="-13.181060606060607"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ period
 2 1 1 1 0 91 0 0 0 26 0 76 0 0 0 11 0 10 36 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 01:58:23</string>
     </dict>
   </lib>
 </glyph>

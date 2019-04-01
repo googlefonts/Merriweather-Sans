@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij.sc" format="2">
+  <advance width="598.0"/>
+  <anchor x="108.2" y="0.0" name="bottom_1"/>
+  <anchor x="417.0" y="0.0" name="bottom_2"/>
+  <anchor x="224.425" y="9.0" name="ogonek"/>
+  <anchor x="196.0" y="640.0" name="top_1"/>
+  <anchor x="506.0" y="640.0" name="top_2"/>
+  <anchor x="70.0" y="651.0" name="topleft"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="j.sc" xOffset="289.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/26 19:41:02</string>
+    </dict>
+  </lib>
+</glyph>

@@ -6,7 +6,7 @@
 Gdotaccent
 </note>
   <anchor x="293.575" y="0.0" name="bottom"/>
-  <anchor x="418.0" y="940.0" name="top"/>
+  <anchor x="418.0" y="934.0" name="top"/>
   <outline>
     <component base="G"/>
     <component base="dotaccentcomb.case" xOffset="331.0" yOffset="1.0"/>

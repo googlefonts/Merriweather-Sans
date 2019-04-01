@@ -1,35 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kip" format="2">
-  <advance width="627.0"/>
+  <advance width="705.0"/>
   <unicode hex="20AD"/>
-  <anchor x="273.0" y="0.0" name="bottom"/>
-  <anchor x="372.0" y="747.0" name="top"/>
+  <anchor x="305.0" y="0.0" name="bottom"/>
+  <anchor x="404.0" y="747.0" name="top"/>
   <outline>
     <contour>
-      <point x="65.0" y="0.0" type="line"/>
-      <point x="138.0" y="0.0" type="line"/>
-      <point x="181.0" y="349.0" type="line"/>
-      <point x="201.0" y="349.0" type="line"/>
-      <point x="485.0" y="0.0" type="line"/>
-      <point x="574.0" y="0.0" type="line"/>
-      <point x="259.0" y="369.0" type="line"/>
-      <point x="632.0" y="747.0" type="line"/>
-      <point x="546.0" y="747.0" type="line"/>
-      <point x="185.0" y="382.0" type="line"/>
-      <point x="233.0" y="747.0" type="line"/>
-      <point x="159.0" y="747.0" type="line"/>
+      <point x="97.0" y="0.0" type="line"/>
+      <point x="170.0" y="0.0" type="line"/>
+      <point x="213.0" y="349.0" type="line"/>
+      <point x="233.0" y="349.0" type="line"/>
+      <point x="517.0" y="0.0" type="line"/>
+      <point x="606.0" y="0.0" type="line"/>
+      <point x="291.0" y="369.0" type="line"/>
+      <point x="664.0" y="747.0" type="line"/>
+      <point x="578.0" y="747.0" type="line"/>
+      <point x="217.0" y="382.0" type="line"/>
+      <point x="265.0" y="747.0" type="line"/>
+      <point x="191.0" y="747.0" type="line"/>
     </contour>
     <contour>
-      <point x="38.0" y="336.0" type="line"/>
-      <point x="522.0" y="336.0" type="line"/>
-      <point x="531.0" y="400.0" type="line"/>
-      <point x="47.0" y="400.0" type="line"/>
+      <point x="70.0" y="336.0" type="line"/>
+      <point x="554.0" y="336.0" type="line"/>
+      <point x="563.0" y="400.0" type="line"/>
+      <point x="79.0" y="400.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 02:14:31</string>
     </dict>
   </lib>
 </glyph>

@@ -10,10 +10,10 @@
       <point x="374.8" y="-3.644" type="line"/>
       <point x="634.978" y="646.0" type="line"/>
       <point x="510.733" y="646.0" type="line"/>
-      <point x="359.956" y="255.978" type="line"/>
-      <point x="325.422" y="144.133" type="line"/>
-      <point x="292.533" y="255.978" type="line"/>
-      <point x="133.933" y="646.0" type="line"/>
+      <point x="359.0" y="252.0" type="line"/>
+      <point x="326.0" y="136.0" type="line"/>
+      <point x="288.0" y="252.0" type="line"/>
+      <point x="132.0" y="646.0" type="line"/>
       <point x="8.867" y="646.0" type="line"/>
     </contour>
   </outline>
@@ -30,10 +30,8 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 16:30:08</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

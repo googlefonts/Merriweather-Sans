@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rlinebelow" format="2">
-  <advance width="701.0"/>
+  <advance width="693.7538461538462"/>
   <unicode hex="1E5E"/>
-  <anchor x="351.0" y="-179.0" name="bottom"/>
-  <anchor x="358.0" y="-83.0" name="btm"/>
-  <anchor x="339.0" y="830.0" name="top"/>
+  <anchor x="344.6615384615385" y="-179.74627692307695" name="bottom"/>
+  <anchor x="349.9384615384615" y="-83.0" name="btm"/>
+  <anchor x="330.9384615384615" y="830.0" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="macronbelowcomb.case" xOffset="351.0"/>
+    <component base="macronbelowcomb.case" xOffset="344.6615384615385"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/31 03:56:23</string>
     </dict>
   </lib>
 </glyph>

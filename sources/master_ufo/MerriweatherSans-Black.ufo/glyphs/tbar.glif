@@ -2,11 +2,11 @@
 <glyph name="tbar" format="2">
   <advance width="452.0"/>
   <unicode hex="0167"/>
-  <anchor x="226.0" y="0.0" name="bottom"/>
-  <anchor x="248.0" y="-83.0" name="btm"/>
-  <anchor x="226.0" y="279.0" name="center"/>
-  <anchor x="216.0" y="913.0" name="top"/>
-  <anchor x="432.0" y="557.0" name="topright"/>
+  <anchor x="222.0" y="0.0" name="bottom"/>
+  <anchor x="244.0" y="-83.0" name="btm"/>
+  <anchor x="222.0" y="279.0" name="center"/>
+  <anchor x="212.0" y="913.0" name="top"/>
+  <anchor x="428.0" y="557.0" name="topright"/>
   <outline>
     <contour>
       <point x="29.0" y="240.0" type="line"/>

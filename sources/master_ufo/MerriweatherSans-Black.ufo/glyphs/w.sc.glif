@@ -2,8 +2,7 @@
 <glyph name="w.sc" format="2">
   <advance width="945.0"/>
   <anchor x="473.0" y="0.0" name="bottom"/>
-  <anchor x="466.0" y="-72.0" name="btm"/>
-  <anchor x="466.0" y="722.0" name="top"/>
+  <anchor x="472.0" y="900.0" name="top"/>
   <outline>
     <contour>
       <point x="180.0" y="-3.0" type="line"/>
@@ -43,10 +42,8 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 13:34:38</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

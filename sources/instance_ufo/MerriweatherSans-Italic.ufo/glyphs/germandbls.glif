@@ -42,15 +42,15 @@ germandbls
       <point x="418.875" y="538.375"/>
       <point x="375.875" y="494.675" type="curve" smooth="yes"/>
       <point x="340.225" y="456.7"/>
-      <point x="322.925" y="430.7"/>
-      <point x="322.925" y="387.7" type="curve" smooth="yes"/>
-      <point x="322.925" y="350.65"/>
-      <point x="353.05" y="305.95"/>
-      <point x="387.3" y="257.0" type="curve" smooth="yes"/>
-      <point x="411.575" y="221.725"/>
-      <point x="431.6" y="183.25"/>
-      <point x="431.6" y="150.575" type="curve" smooth="yes"/>
-      <point x="431.6" y="92.15"/>
+      <point x="325.0" y="431.0"/>
+      <point x="325.0" y="388.0" type="curve" smooth="yes"/>
+      <point x="325.0" y="351.0"/>
+      <point x="354.0" y="306.0"/>
+      <point x="389.0" y="257.0" type="curve" smooth="yes"/>
+      <point x="414.0" y="222.0"/>
+      <point x="434.0" y="183.0"/>
+      <point x="434.0" y="151.0" type="curve" smooth="yes"/>
+      <point x="434.0" y="92.0"/>
       <point x="399.9" y="73.15"/>
       <point x="329.15" y="73.15" type="curve" smooth="yes"/>
       <point x="291.45" y="73.15"/>
@@ -99,7 +99,7 @@ NPUSHB[ ]	/* 12 values pushed */
 57 56 52 50 34 32 27 25 34 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 19:43:17</string>
     </dict>
   </lib>
 </glyph>

@@ -1,25 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.sc" format="2">
-  <advance width="651.0"/>
+  <advance width="609.0"/>
   <outline>
     <contour>
-      <point x="153.0" y="0.0" type="curve"/>
-      <point x="355.0" y="0.0" type="line"/>
-      <point x="606.0" y="686.0" type="line"/>
-      <point x="567.0" y="743.0" type="line"/>
-      <point x="60.0" y="743.0" type="line"/>
-      <point x="60.0" y="576.0" type="line"/>
-      <point x="402.0" y="575.0" type="line"/>
-      <point x="363.0" y="478.0"/>
-      <point x="215.0" y="130.0"/>
+      <point x="133.0" y="0.0" type="curve"/>
+      <point x="324.0" y="0.0" type="line"/>
+      <point x="566.0" y="592.0" type="line"/>
+      <point x="529.0" y="646.0" type="line"/>
+      <point x="44.0" y="646.0" type="line"/>
+      <point x="44.0" y="497.0" type="line"/>
+      <point x="363.0" y="496.0" type="line"/>
+      <point x="301.0" y="360.0"/>
+      <point x="191.0" y="105.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 16:41:42</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
   <anchor x="0.0" y="817.422" name="_top"/>
-  <anchor x="-41.156" y="879.956" name="top"/>
+  <anchor x="-56.0" y="983.0" name="top"/>
   <outline>
     <contour>
       <point x="134.556" y="644.178" type="curve"/>
@@ -28,7 +28,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 20:49:13</string>
     </dict>
   </lib>
 </glyph>

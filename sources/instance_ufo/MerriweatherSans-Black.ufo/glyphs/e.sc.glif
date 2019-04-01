@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e.sc" format="2">
-  <advance width="602.0"/>
-  <anchor x="301.0" y="0.0" name="bottom"/>
-  <anchor x="332.0" y="-72.0" name="btm"/>
-  <anchor x="542.0" y="10.0" name="ogonek"/>
-  <anchor x="317.0" y="896.0" name="top"/>
-  <anchor x="20.0" y="646.0" name="topleft"/>
+  <advance width="591.0"/>
+  <anchor x="320.0" y="0.0" name="bottom"/>
+  <anchor x="321.0" y="-72.0" name="btm"/>
+  <anchor x="499.0" y="0.0" name="ogonek"/>
+  <anchor x="306.0" y="896.0" name="top"/>
+  <anchor x="9.0" y="646.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="81.0" y="0.0" type="line"/>
-      <point x="564.0" y="0.0" type="line"/>
-      <point x="564.0" y="143.0" type="line"/>
-      <point x="267.0" y="143.0" type="line"/>
-      <point x="267.0" y="262.0" type="line"/>
-      <point x="477.0" y="262.0" type="line"/>
-      <point x="477.0" y="396.0" type="line"/>
-      <point x="267.0" y="396.0" type="line"/>
-      <point x="267.0" y="507.0" type="line"/>
-      <point x="537.0" y="507.0" type="line"/>
-      <point x="537.0" y="646.0" type="line"/>
-      <point x="81.0" y="646.0" type="line"/>
+      <point x="70.0" y="0.0" type="line"/>
+      <point x="553.0" y="0.0" type="line"/>
+      <point x="553.0" y="143.0" type="line"/>
+      <point x="254.0" y="143.0" type="line"/>
+      <point x="254.0" y="262.0" type="line"/>
+      <point x="466.0" y="262.0" type="line"/>
+      <point x="466.0" y="396.0" type="line"/>
+      <point x="254.0" y="396.0" type="line"/>
+      <point x="254.0" y="507.0" type="line"/>
+      <point x="526.0" y="507.0" type="line"/>
+      <point x="526.0" y="646.0" type="line"/>
+      <point x="70.0" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,10 +35,10 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 13:41:59</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

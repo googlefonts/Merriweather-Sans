@@ -6,22 +6,22 @@
     <contour>
       <point x="140.875" y="0.0" type="line"/>
       <point x="254.55" y="0.0" type="line"/>
-      <point x="362.9" y="736.35" type="line"/>
-      <point x="306.55" y="747.0" type="line"/>
-      <point x="306.225" y="747.0" type="line"/>
-      <point x="254.225" y="711.0"/>
-      <point x="171.225" y="664.0"/>
-      <point x="103.225" y="648.0" type="curve"/>
-      <point x="115.85" y="579.15" type="line"/>
-      <point x="158.525" y="586.15"/>
-      <point x="191.25" y="593.525"/>
+      <point x="364.0" y="743.0" type="line"/>
+      <point x="308.0" y="753.0" type="line"/>
+      <point x="307.0" y="753.0" type="line"/>
+      <point x="255.0" y="710.0"/>
+      <point x="154.0" y="657.0"/>
+      <point x="86.0" y="641.0" type="curve"/>
+      <point x="101.0" y="572.0" type="line"/>
+      <point x="144.0" y="576.0"/>
+      <point x="191.0" y="591.0"/>
       <point x="229.25" y="605.525" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 19:50:29</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.11</key>
       <dict>
         <key>name</key>

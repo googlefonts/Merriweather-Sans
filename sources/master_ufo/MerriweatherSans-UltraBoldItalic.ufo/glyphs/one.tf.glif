@@ -1,30 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tf" format="2">
-  <advance width="591.0"/>
+  <advance width="618.0"/>
   <outline>
     <contour>
-      <point x="61.0" y="0.0" type="line"/>
-      <point x="507.0" y="0.0" type="line"/>
-      <point x="519.0" y="109.0" type="line"/>
-      <point x="378.0" y="109.0" type="line"/>
-      <point x="467.0" y="737.0" type="line"/>
-      <point x="343.0" y="747.0" type="line"/>
-      <point x="341.0" y="747.0" type="line"/>
-      <point x="292.0" y="711.0"/>
-      <point x="216.0" y="669.0"/>
-      <point x="85.0" y="646.0" type="curve"/>
-      <point x="105.0" y="554.0" type="line"/>
-      <point x="172.0" y="558.0"/>
-      <point x="237.0" y="564.0"/>
-      <point x="271.0" y="572.0" type="curve"/>
-      <point x="204.0" y="109.0" type="line"/>
-      <point x="72.0" y="109.0" type="line"/>
+      <point x="208.0" y="3.0" type="line"/>
+      <point x="380.0" y="3.0" type="line"/>
+      <point x="495.0" y="743.0" type="line"/>
+      <point x="404.0" y="755.0" type="line"/>
+      <point x="402.0" y="755.0" type="line"/>
+      <point x="322.0" y="699.0"/>
+      <point x="177.0" y="657.0"/>
+      <point x="87.0" y="646.0" type="curve"/>
+      <point x="106.0" y="533.0" type="line"/>
+      <point x="178.0" y="532.0"/>
+      <point x="236.0" y="546.0"/>
+      <point x="299.0" y="566.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="30.0" y="0.0" type="line"/>
+      <point x="551.0" y="0.0" type="line"/>
+      <point x="569.0" y="122.0" type="line"/>
+      <point x="48.0" y="122.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>70</integer>
+        <key>monoWidth</key>
+        <integer>618</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 17:11:08</string>
     </dict>
   </lib>
 </glyph>

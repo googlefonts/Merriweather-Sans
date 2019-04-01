@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcaron.sc" format="2">
-  <advance width="681.0"/>
-  <anchor x="341.0" y="0.0" name="bottom"/>
-  <anchor x="347.0" y="-72.0" name="btm"/>
-  <anchor x="358.0" y="923.0" name="top"/>
+  <advance width="669.4923076923077"/>
+  <anchor x="331.67692307692306" y="0.0" name="bottom"/>
+  <anchor x="336.3846153846154" y="-72.0" name="btm"/>
+  <anchor x="327.2769230769231" y="1100.9339692307692" name="top"/>
   <outline>
     <component base="r.sc"/>
-    <component base="caroncomb" xOffset="358.0" yOffset="-108.0"/>
+    <component base="caroncomb" xOffset="327.2769230769231" yOffset="66.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 13:43:27</string>
     </dict>
   </lib>
 </glyph>

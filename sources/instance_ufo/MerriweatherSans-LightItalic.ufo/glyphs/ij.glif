@@ -9,7 +9,7 @@ ij
   <anchor x="343.0" y="-273.0" name="bottom_2"/>
   <anchor x="173.0" y="10.0" name="ogonek"/>
   <anchor x="175.0" y="557.0" name="top_1"/>
-  <anchor x="453.0" y="557.0" name="top_2"/>
+  <anchor x="459.0" y="557.0" name="top_2"/>
   <outline>
     <component base="idotless"/>
     <component base="dotaccent" xOffset="125.0" yOffset="1.0"/>

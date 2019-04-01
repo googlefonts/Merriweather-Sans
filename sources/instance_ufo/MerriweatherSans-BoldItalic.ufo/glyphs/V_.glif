@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="592.5641"/>
+  <advance width="592.8958333333334"/>
   <unicode hex="0056"/>
   <note>
 V
 </note>
-  <anchor x="259.282" y="0.0" name="bottom"/>
-  <anchor x="358.282" y="748.769" name="top"/>
+  <anchor x="259.5655303030303" y="0.0" name="bottom"/>
+  <anchor x="358.5655303030303" y="747.3397727272727" name="top"/>
   <outline>
     <contour>
-      <point x="167.667" y="0.0" type="line"/>
-      <point x="339.769" y="0.0" type="line"/>
-      <point x="667.487" y="747.0" type="line"/>
-      <point x="507.667" y="747.0" type="line"/>
-      <point x="316.974" y="251.308" type="line"/>
-      <point x="277.795" y="129.205" type="line"/>
-      <point x="268.615" y="251.308" type="line"/>
-      <point x="204.128" y="747.0" type="line"/>
-      <point x="54.128" y="747.0" type="line"/>
+      <point x="167.58825757575758" y="0.0" type="line"/>
+      <point x="339.75113636363636" y="0.0" type="line"/>
+      <point x="667.6560606060606" y="747.0" type="line"/>
+      <point x="507.3530303030303" y="747.0" type="line"/>
+      <point x="317.0768939393939" y="251.48863636363637" type="line"/>
+      <point x="277.9094696969697" y="129.32575757575756" type="line"/>
+      <point x="268.74204545454546" y="251.48863636363637" type="line"/>
+      <point x="204.3212121212121" y="747.0" type="line"/>
+      <point x="53.85075757575757" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ V
 2 1 1 0 1 74 3 2 2 0 0 17 75 0 1 1 18 1 76 0 0 0 8 0 8 17 20 4 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 02:00:19</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

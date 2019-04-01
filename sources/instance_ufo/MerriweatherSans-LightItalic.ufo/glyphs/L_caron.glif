@@ -5,9 +5,9 @@
   <note>
 Lcaron
 </note>
-  <anchor x="202.0" y="0.0" name="bottom"/>
+  <anchor x="242.0" y="0.0" name="bottom"/>
   <anchor x="252.0" y="374.0" name="center"/>
-  <anchor x="301.0" y="747.0" name="top"/>
+  <anchor x="193.0" y="747.0" name="top"/>
   <anchor x="520.0" y="747.0" name="topright"/>
   <outline>
     <contour>
@@ -35,7 +35,7 @@ Lcaron
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>L</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 15:15:28</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

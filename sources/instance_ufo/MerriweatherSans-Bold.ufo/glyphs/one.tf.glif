@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tf" format="2">
-  <advance width="658.0"/>
+  <advance width="659.5432473846154"/>
   <outline>
     <contour>
-      <point x="72.0" y="108.0" type="line"/>
-      <point x="72.0" y="0.0" type="line"/>
-      <point x="629.0" y="0.0" type="line"/>
-      <point x="629.0" y="108.0" type="line"/>
-      <point x="462.0" y="108.0" type="line"/>
-      <point x="463.0" y="732.0" type="line"/>
-      <point x="368.0" y="755.0" type="line"/>
-      <point x="368.0" y="755.0" type="line"/>
-      <point x="326.0" y="713.0"/>
-      <point x="188.0" y="640.0"/>
-      <point x="64.0" y="618.0" type="curve"/>
-      <point x="85.0" y="521.0" type="line"/>
-      <point x="150.0" y="525.0"/>
-      <point x="240.0" y="542.0"/>
-      <point x="281.0" y="561.0" type="curve"/>
-      <point x="281.0" y="108.0" type="line"/>
+      <point x="75.54178461538461" y="100.20781538461539" type="line"/>
+      <point x="75.54178461538461" y="0.0" type="line"/>
+      <point x="614.4783384615384" y="0.0" type="line"/>
+      <point x="614.4783384615384" y="100.20781538461539" type="line"/>
+      <point x="443.5820307692308" y="100.20781538461539" type="line"/>
+      <point x="444.2279384615385" y="735.8958769230769" type="line"/>
+      <point x="364.4582153846154" y="754.6459076923077" type="line"/>
+      <point x="364.4582153846154" y="753.9372923076924" type="line"/>
+      <point x="327.41679999999997" y="717.6044923076923"/>
+      <point x="197.56307692307692" y="647.7921846153846"/>
+      <point x="72.50036923076922" y="626.5003692307693" type="curve"/>
+      <point x="90.6672" y="536.9384615384615" type="line"/>
+      <point x="167.35526153846152" y="542.0011692307692"/>
+      <point x="239.9748923076923" y="559.0011692307692"/>
+      <point x="279.55809230769233" y="575.1675692307692" type="curve"/>
+      <point x="279.55809230769233" y="100.20781538461539" type="line"/>
     </contour>
   </outline>
   <lib>

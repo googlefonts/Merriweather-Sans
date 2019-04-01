@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacutedotaccent" format="2">
-  <advance width="462.0"/>
+  <advance width="462.0151515151515"/>
   <unicode hex="1E65"/>
-  <anchor x="194.333" y="0.0" name="bottom"/>
-  <anchor x="267.821" y="949.385" name="top"/>
+  <anchor x="193.0003787878788" y="0.0" name="bottom"/>
+  <anchor x="259.6962121212121" y="962.2958333333333" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="244.0"/>
-    <component base="dotaccentcomb" xOffset="202.0" yOffset="174.0"/>
+    <component base="acutecomb" xOffset="231.33333333333334"/>
+    <component base="dotaccentcomb" xOffset="193.86363636363637" yOffset="182.33333333333334"/>
   </outline>
   <lib>
     <dict>

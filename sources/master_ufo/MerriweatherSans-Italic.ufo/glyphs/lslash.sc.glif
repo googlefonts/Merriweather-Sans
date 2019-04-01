@@ -4,32 +4,29 @@
   <note>
 Lslash
 </note>
+  <anchor x="199.0" y="0.0" name="bottom"/>
+  <anchor x="242.0" y="326.0" name="center"/>
+  <anchor x="186.0" y="640.0" name="top"/>
+  <anchor x="396.0" y="394.0" name="topright"/>
   <outline>
     <contour>
-      <point x="49.4" y="0.0" type="line"/>
-      <point x="418.225" y="0.0" type="line"/>
-      <point x="429.85" y="91.75" type="line"/>
-      <point x="170.7" y="88.425" type="line"/>
-      <point x="196.375" y="279.975" type="line"/>
-      <point x="394.3" y="351.025" type="line"/>
-      <point x="375.35" y="415.55" type="line"/>
-      <point x="205.35" y="354.15" type="line"/>
-      <point x="244.35" y="646.325" type="line"/>
-      <point x="133.675" y="646.325" type="line"/>
-      <point x="89.025" y="308.9" type="line"/>
-      <point x="-24.7" y="267.5" type="line"/>
-      <point x="-4.075" y="206.975" type="line"/>
-      <point x="80.05" y="235.725" type="line"/>
+      <point x="100.0" y="338.0" type="line"/>
+      <point x="196.0" y="376.0" type="line"/>
+      <point x="389.0" y="445.0" type="line"/>
+      <point x="370.0" y="510.0" type="line"/>
+      <point x="205.0" y="450.0" type="line"/>
+      <point x="109.0" y="410.0" type="line"/>
+      <point x="-17.0" y="363.0" type="line"/>
+      <point x="4.0" y="303.0" type="line"/>
     </contour>
+    <component base="l.sc"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 18:56:18</string>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

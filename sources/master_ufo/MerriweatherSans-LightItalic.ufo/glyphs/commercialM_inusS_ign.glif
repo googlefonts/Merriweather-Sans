@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commercialMinusSign" format="2">
-  <advance width="495.0"/>
+  <advance width="504.0"/>
   <unicode hex="2052"/>
   <outline>
-    <component base="fraction" xOffset="129.0"/>
-    <component base="bullet" xOffset="-52.0" yOffset="261.0"/>
-    <component base="bullet" xOffset="145.0" yOffset="-179.0"/>
+    <component base="fraction" xOffset="155.0"/>
+    <component base="bullet" xOffset="-56.0" yOffset="261.0"/>
+    <component base="bullet" xOffset="148.0" yOffset="-179.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 19:35:38</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

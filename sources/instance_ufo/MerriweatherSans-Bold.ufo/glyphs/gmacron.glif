@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gmacron" format="2">
-  <advance width="637.0"/>
+  <advance width="635.0153846153846"/>
   <unicode hex="1E21"/>
-  <anchor x="319.0" y="-273.0" name="bottom"/>
-  <anchor x="307.0" y="1006.0" name="top"/>
+  <anchor x="316.3308923076923" y="-273.0" name="bottom"/>
+  <anchor x="293.95384615384614" y="1022.7538461538462" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="macroncomb" xOffset="307.0"/>
+    <component base="macroncomb" xOffset="293.95384615384614" yOffset="-0.5692307692307695"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/29 20:07:03</string>
     </dict>
   </lib>
 </glyph>

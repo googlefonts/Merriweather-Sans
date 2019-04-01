@@ -7,7 +7,7 @@ Uogonek
 </note>
   <anchor x="299.25" y="0.0" name="bottom"/>
   <anchor x="387.5" y="0.0" name="ogonek"/>
-  <anchor x="404.55" y="747.975" name="top"/>
+  <anchor x="393.0" y="748.0" name="top"/>
   <anchor x="714.175" y="747.975" name="topright"/>
   <outline>
     <component base="U"/>

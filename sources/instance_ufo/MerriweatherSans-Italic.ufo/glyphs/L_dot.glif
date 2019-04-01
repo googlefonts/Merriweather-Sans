@@ -5,9 +5,9 @@
   <note>
 Ldot
 </note>
-  <anchor x="205.575" y="0.0" name="bottom"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
   <anchor x="255.575" y="374.325" name="center"/>
-  <anchor x="304.575" y="747.975" name="top"/>
+  <anchor x="204.0" y="748.0" name="top"/>
   <anchor x="527.15" y="747.975" name="topright"/>
   <outline>
     <component base="L"/>

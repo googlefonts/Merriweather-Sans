@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb.case" format="2">
-  <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="-50.0" y="1017.0" name="top"/>
+  <anchor x="-17.076923076923087" y="830.0" name="_top"/>
+  <anchor x="-10.786276923076898" y="1014.3057846153846" name="top"/>
   <outline>
     <contour>
-      <point x="-48.0" y="864.0" type="line"/>
-      <point x="-61.0" y="877.0"/>
-      <point x="-183.0" y="992.0"/>
-      <point x="-192.0" y="1017.0" type="curve"/>
-      <point x="-298.0" y="953.0" type="line"/>
-      <point x="-260.0" y="900.0"/>
-      <point x="-163.0" y="818.0"/>
-      <point x="-119.0" y="803.0" type="curve"/>
+      <point x="106.75384615384615" y="808.4307692307692" type="curve"/>
+      <point x="183.84615384615384" y="860.0923076923077" type="line"/>
+      <point x="169.87692307692308" y="873.0615384615385"/>
+      <point x="89.96923076923078" y="979.5692307692308"/>
+      <point x="79.0" y="1006.0769230769231" type="curve"/>
+      <point x="-31.492307692307705" y="953.6769230769231" type="line"/>
+      <point x="8.507692307692299" y="895.6923076923077"/>
+      <point x="72.6" y="825.876923076923"/>
     </contour>
     <contour>
-      <point x="198.0" y="864.0" type="line"/>
-      <point x="185.0" y="878.0"/>
-      <point x="63.0" y="993.0"/>
-      <point x="54.0" y="1017.0" type="curve"/>
-      <point x="-52.0" y="953.0" type="line"/>
-      <point x="-14.0" y="900.0"/>
-      <point x="83.0" y="818.0"/>
-      <point x="127.0" y="803.0" type="curve"/>
+      <point x="-138.20000000000002" y="808.4307692307692" type="curve"/>
+      <point x="-59.969230769230776" y="860.0923076923077" type="line"/>
+      <point x="-73.93846153846155" y="873.0615384615385"/>
+      <point x="-156.7076923076923" y="978.7076923076924"/>
+      <point x="-168.24615384615385" y="1004.2153846153847" type="curve"/>
+      <point x="-276.0153846153846" y="951.8153846153846" type="line"/>
+      <point x="-239.30769230769232" y="896.8307692307692"/>
+      <point x="-173.7846153846154" y="825.876923076923"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 15:54:59</string>
     </dict>
   </lib>
 </glyph>

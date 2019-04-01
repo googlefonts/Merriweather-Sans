@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="532.17949"/>
+  <advance width="548.1060606060606"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="72.333" y="0.0" type="line"/>
-      <point x="248.103" y="0.0" type="line"/>
-      <point x="550.41" y="717.949" type="line"/>
-      <point x="528.769" y="747.0" type="line"/>
-      <point x="56.436" y="747.0" type="line"/>
-      <point x="50.43599999999998" y="628.154" type="line"/>
-      <point x="373.0" y="628.744" type="line"/>
+      <point x="82.92424242424242" y="0.0" type="line"/>
+      <point x="256.92424242424244" y="0.0" type="line"/>
+      <point x="572.8787878787879" y="718.1363636363636" type="line"/>
+      <point x="551.3181818181819" y="747.0" type="line"/>
+      <point x="80.86363636363636" y="747.0" type="line"/>
+      <point x="64.34848484848484" y="628.9848484848485" type="line"/>
+      <point x="403.1818181818182" y="629.3333333333334" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 19:14:27</string>
     </dict>
   </lib>
 </glyph>

@@ -7,7 +7,7 @@ Atilde
 </note>
   <anchor x="275.25" y="0.0" name="bottom"/>
   <anchor x="582.8" y="0.0" name="ogonek"/>
-  <anchor x="406.0" y="977.0" name="top"/>
+  <anchor x="403.0" y="954.0" name="top"/>
   <outline>
     <component base="A"/>
     <component base="tildecomb.case" xOffset="312.0" yOffset="1.0"/>

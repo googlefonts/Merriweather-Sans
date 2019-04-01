@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h.sc" format="2">
-  <advance width="698.02564"/>
+  <advance width="695.5522727272727"/>
   <note>
 H
 </note>
-  <anchor x="309.462" y="0.0" name="bottom"/>
-  <anchor x="392.282" y="650.0" name="top"/>
+  <anchor x="315.469696969697" y="0.0" name="bottom"/>
+  <anchor x="393.6875" y="650.0" name="top"/>
   <outline>
     <contour>
-      <point x="32.667" y="0.0" type="line"/>
-      <point x="184.667" y="0.0" type="line"/>
-      <point x="223.667" y="264.026" type="line"/>
-      <point x="464.436" y="264.026" type="line"/>
-      <point x="426.436" y="0.0" type="line"/>
-      <point x="579.436" y="0.0" type="line"/>
-      <point x="670.897" y="646.0" type="line"/>
-      <point x="516.897" y="646.0" type="line"/>
-      <point x="477.077" y="368.462" type="line"/>
-      <point x="236.308" y="368.462" type="line"/>
-      <point x="276.128" y="646.0" type="line"/>
-      <point x="123.538" y="646.0" type="line"/>
+      <point x="35.84583333333333" y="0.0" type="line"/>
+      <point x="188.0810606060606" y="0.0" type="line"/>
+      <point x="226.92424242424244" y="272.4090909090909" type="line"/>
+      <point x="464.06060606060606" y="272.4090909090909" type="line"/>
+      <point x="426.339393939394" y="0.0" type="line"/>
+      <point x="579.5746212121212" y="0.0" type="line"/>
+      <point x="670.8371212121212" y="646.0" type="line"/>
+      <point x="516.8371212121212" y="646.0" type="line"/>
+      <point x="477.3181818181818" y="376.8181818181818" type="line"/>
+      <point x="239.83333333333334" y="376.8181818181818" type="line"/>
+      <point x="279.5787878787879" y="646.0" type="line"/>
+      <point x="126.99507575757576" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,10 +39,8 @@ H
       <string>NPUSHB[ ]	/* 36 values pushed */
 0 4 0 1 0 4 1 98 6 5 2 3 3 17 75 2 1 0 0 18 0 76 0 0 0 11 0 11 17 17 17 17 17 7 7 25 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 18:40:30</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

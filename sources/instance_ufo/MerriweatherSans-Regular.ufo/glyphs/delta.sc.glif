@@ -1,15 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="delta.sc" format="2">
-  <advance width="773.91111"/>
+  <advance width="775.0"/>
   <outline>
-    <component base="Delta"/>
+    <contour>
+      <point x="37.0" y="0.0" type="line"/>
+      <point x="737.0" y="0.0" type="line"/>
+      <point x="745.0" y="13.0" type="line"/>
+      <point x="388.0" y="653.0" type="line"/>
+      <point x="373.0" y="653.0" type="line"/>
+      <point x="30.0" y="11.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="168.0" y="92.0" type="line"/>
+      <point x="384.0" y="473.0" type="line"/>
+      <point x="589.0" y="92.0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/23 03:11:02</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rdotbelow.sc" format="2">
-  <advance width="681.0"/>
-  <anchor x="341.0" y="-234.0" name="bottom"/>
-  <anchor x="347.0" y="-72.0" name="btm"/>
-  <anchor x="358.0" y="722.0" name="top"/>
+  <advance width="669.4923076923077"/>
+  <anchor x="331.8780923076923" y="-230.9768" name="bottom"/>
+  <anchor x="336.3846153846154" y="-72.0" name="btm"/>
+  <anchor x="327.2769230769231" y="896.0" name="top"/>
   <outline>
     <component base="r.sc"/>
-    <component base="dotbelowcomb" xOffset="344.0"/>
+    <component base="dotbelowcomb" xOffset="332.10769230769233"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 13:43:27</string>
     </dict>
   </lib>
 </glyph>

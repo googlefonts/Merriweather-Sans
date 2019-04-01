@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m.sc" format="2">
-  <advance width="918.69231"/>
+  <advance width="900.6363636363636"/>
   <note>
 M
 </note>
-  <anchor x="422.846" y="0.0" name="bottom"/>
-  <anchor x="508.846" y="650.179" name="top"/>
+  <anchor x="410.40909090909093" y="0.0" name="bottom"/>
+  <anchor x="490.1060606060606" y="640.0" name="top"/>
   <outline>
     <contour>
-      <point x="346.769" y="-8.0" type="line"/>
-      <point x="506.795" y="-1.0" type="line"/>
-      <point x="705.795" y="479.974" type="line"/>
-      <point x="744.641" y="578.718" type="line"/>
-      <point x="733.231" y="480.897" type="line"/>
-      <point x="701.538" y="0.0" type="line"/>
-      <point x="853.718" y="0.0" type="line"/>
-      <point x="856.487" y="646.0" type="line"/>
-      <point x="634.513" y="646.0" type="line"/>
-      <point x="467.487" y="202.821" type="line"/>
-      <point x="446.897" y="106.487" type="line"/>
-      <point x="441.718" y="202.821" type="line"/>
-      <point x="395.744" y="646.0" type="line"/>
-      <point x="176.897" y="646.0" type="line"/>
-      <point x="-6.795000000000002" y="0.0" type="line"/>
-      <point x="142.974" y="0.0" type="line"/>
-      <point x="252.385" y="480.667" type="line"/>
-      <point x="274.564" y="578.718" type="line"/>
-      <point x="280.282" y="480.436" type="line"/>
+      <point x="329.530303030303" y="-8.0" type="line"/>
+      <point x="489.9848484848485" y="-1.0" type="line"/>
+      <point x="686.6818181818182" y="466.8636363636364" type="line"/>
+      <point x="721.4848484848485" y="552.469696969697" type="line"/>
+      <point x="714.0909090909091" y="467.8939393939394" type="line"/>
+      <point x="684.2727272727273" y="0.0" type="line"/>
+      <point x="836.6666666666666" y="0.0" type="line"/>
+      <point x="839.4090909090909" y="646.0" type="line"/>
+      <point x="617.8636363636364" y="646.0" type="line"/>
+      <point x="453.0151515151515" y="202.95454545454547" type="line"/>
+      <point x="429.71212121212125" y="106.96969696969697" type="line"/>
+      <point x="424.6666666666667" y="202.95454545454547" type="line"/>
+      <point x="377.72727272727275" y="646.0" type="line"/>
+      <point x="159.36363636363637" y="646.0" type="line"/>
+      <point x="-10.030303030303031" y="0.0" type="line"/>
+      <point x="137.10606060606062" y="0.0" type="line"/>
+      <point x="235.5909090909091" y="467.6363636363636" type="line"/>
+      <point x="251.8181818181818" y="552.469696969697" type="line"/>
+      <point x="264.2121212121212" y="467.3787878787879" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,10 +46,8 @@ M
       <string>NPUSHB[ ]	/* 38 values pushed */
 14 9 2 3 1 0 1 74 12 1 1 71 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 18 0 18 25 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 18:56:36</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

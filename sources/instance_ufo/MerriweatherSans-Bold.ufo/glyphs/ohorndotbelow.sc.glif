@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorndotbelow.sc" format="2">
-  <advance width="753.0"/>
-  <anchor x="377.0" y="-234.0" name="bottom"/>
-  <anchor x="375.0" y="-72.0" name="btm"/>
-  <anchor x="382.0" y="872.0" name="top"/>
+  <advance width="751.5384615384615"/>
+  <anchor x="376.1857846153846" y="-230.9768" name="bottom"/>
+  <anchor x="374.9368" y="-72.0" name="btm"/>
+  <anchor x="365.7076923076923" y="323.0" name="center"/>
+  <anchor x="417.10769230769233" y="0.0" name="ogonek"/>
+  <anchor x="377.55384615384617" y="900.0" name="top"/>
+  <anchor x="9.723076923076922" y="646.0" name="topleft"/>
+  <anchor x="721.2615384615385" y="646.0" name="topright"/>
   <outline>
     <component base="ohorn.sc"/>
-    <component base="dotbelowcomb" xOffset="380.0"/>
+    <component base="dotbelowcomb" xOffset="376.4153846153846"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/23 02:58:27</string>
     </dict>
   </lib>
 </glyph>

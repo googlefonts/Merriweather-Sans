@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sdotbelow" format="2">
-  <advance width="510.975"/>
+  <advance width="509.0"/>
   <unicode hex="1E62"/>
   <anchor x="193.0" y="-199.0" name="bottom"/>
   <anchor x="320.9" y="747.0" name="top"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 20:28:54</string>
     </dict>
   </lib>
 </glyph>

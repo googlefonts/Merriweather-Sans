@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
-  <advance width="412.11111"/>
+  <advance width="396.0"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
@@ -23,7 +23,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 18:05:12</string>
     </dict>
   </lib>
 </glyph>

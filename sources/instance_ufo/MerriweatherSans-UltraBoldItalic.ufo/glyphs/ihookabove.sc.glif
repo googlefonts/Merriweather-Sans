@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ihookabove.sc" format="2">
-  <advance width="342.0"/>
-  <anchor x="135.0" y="0.0" name="bottom"/>
-  <anchor x="272.0" y="9.0" name="ogonek"/>
-  <anchor x="255.0" y="881.0" name="top"/>
-  <anchor x="70.0" y="649.0" name="topleft"/>
+  <advance width="324.0"/>
+  <anchor x="123.0" y="0.0" name="bottom"/>
+  <anchor x="260.0" y="9.0" name="ogonek"/>
+  <anchor x="243.0" y="881.0" name="top"/>
+  <anchor x="58.0" y="649.0" name="topleft"/>
   <outline>
     <component base="i.sc"/>
-    <component base="hookabovecomb" xOffset="188.0" yOffset="93.0"/>
+    <component base="hookabovecomb" xOffset="176.0" yOffset="93.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/23 14:02:47</string>
     </dict>
   </lib>
 </glyph>

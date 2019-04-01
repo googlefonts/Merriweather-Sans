@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Emacrongrave" format="2">
-  <advance width="579.0"/>
+  <advance width="578.5909090909091"/>
   <unicode hex="1E14"/>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="485.744" y="10.0" name="ogonek"/>
-  <anchor x="414.0" y="1141.0" name="top"/>
-  <anchor x="82.0" y="748.769" name="topleft"/>
+  <anchor x="485.59280303030306" y="10.0" name="ogonek"/>
+  <anchor x="416.6818181818182" y="1140.2575757575758" name="top"/>
+  <anchor x="82.0" y="747.3397727272727" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="300.0"/>
-    <component base="gravecomb.case" xOffset="321.0" yOffset="165.0"/>
+    <component base="macroncomb.case" xOffset="303.9848484848485"/>
+    <component base="gravecomb.case" xOffset="323.6818181818182" yOffset="164.25757575757575"/>
   </outline>
   <lib>
     <dict>

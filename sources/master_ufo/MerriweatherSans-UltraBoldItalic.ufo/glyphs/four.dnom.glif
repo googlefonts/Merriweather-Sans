@@ -5,23 +5,23 @@
     <contour>
       <point x="244.0" y="0.0" type="line"/>
       <point x="391.0" y="0.0" type="line"/>
-      <point x="406.0" y="113.0" type="line"/>
-      <point x="471.0" y="113.0" type="line"/>
+      <point x="405.0" y="109.0" type="line"/>
+      <point x="470.0" y="109.0" type="line"/>
       <point x="487.0" y="230.0" type="line"/>
-      <point x="423.0" y="226.0" type="line"/>
+      <point x="420.0" y="226.0" type="line"/>
       <point x="440.0" y="404.0" type="line"/>
       <point x="300.0" y="392.0" type="line"/>
-      <point x="277.0" y="223.0" type="line"/>
+      <point x="274.0" y="223.0" type="line"/>
       <point x="160.0" y="216.0" type="line"/>
-      <point x="197.0" y="261.0" type="line"/>
-      <point x="384.0" y="546.0" type="line"/>
-      <point x="378.0" y="560.0" type="line"/>
+      <point x="194.0" y="261.0" type="line"/>
+      <point x="364.0" y="546.0" type="line"/>
+      <point x="358.0" y="560.0" type="line"/>
       <point x="173.0" y="560.0" type="line"/>
       <point x="131.0" y="451.0"/>
       <point x="44.0" y="268.0"/>
       <point x="-6.0" y="190.0" type="curve"/>
-      <point x="35.0" y="113.0" type="line"/>
-      <point x="261.0" y="113.0" type="line"/>
+      <point x="34.0" y="109.0" type="line"/>
+      <point x="260.0" y="109.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
         <integer>80</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 20:06:47</string>
     </dict>
   </lib>
 </glyph>

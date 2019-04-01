@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetleft" format="2">
-  <advance width="950.51111"/>
+  <advance width="950.0"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
@@ -26,8 +26,12 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 16:29:57</string>
     </dict>
   </lib>
 </glyph>

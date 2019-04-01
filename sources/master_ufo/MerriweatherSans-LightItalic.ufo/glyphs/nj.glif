@@ -5,7 +5,7 @@
   <anchor x="255.0" y="0.0" name="bottom_1"/>
   <anchor x="651.0" y="-273.0" name="bottom_2"/>
   <anchor x="329.0" y="557.0" name="top_1"/>
-  <anchor x="761.0" y="557.0" name="top_2"/>
+  <anchor x="767.0" y="557.0" name="top_2"/>
   <outline>
     <component base="n"/>
     <component base="j" xOffset="583.0"/>
@@ -13,7 +13,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 02:25:39</string>
     </dict>
   </lib>
 </glyph>

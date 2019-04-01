@@ -4,9 +4,9 @@
   <note>
 E
 </note>
-  <anchor x="234.625" y="0.0" name="bottom"/>
+  <anchor x="265.0" y="0.0" name="bottom"/>
   <anchor x="452.225" y="9.0" name="ogonek"/>
-  <anchor x="320.625" y="651.0" name="top"/>
+  <anchor x="321.0" y="640.0" name="top"/>
   <anchor x="69.025" y="651.0" name="topleft"/>
   <outline>
     <contour>
@@ -26,12 +26,10 @@ E
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 19:46:22</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

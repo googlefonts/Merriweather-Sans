@@ -4,7 +4,7 @@
   <unicode hex="1E7B"/>
   <anchor x="250.0" y="0.0" name="bottom"/>
   <anchor x="479.0" y="10.0" name="ogonek"/>
-  <anchor x="353.0" y="895.0" name="top"/>
+  <anchor x="352.0" y="873.0" name="top"/>
   <anchor x="590.0" y="557.0" name="topright"/>
   <outline>
     <component base="u"/>
@@ -14,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 19:45:10</string>
     </dict>
   </lib>
 </glyph>

@@ -8,14 +8,12 @@
   <anchor x="149.0" y="-72.0" name="btm"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dotaccentcomb" xOffset="146.0" yOffset="62.0"/>
+    <component base="dotaccentcomb" xOffset="147.0" yOffset="70.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 05:23:55</string>
     </dict>
   </lib>
 </glyph>

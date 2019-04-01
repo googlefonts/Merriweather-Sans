@@ -1,34 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="796.0"/>
+  <advance width="788.0"/>
   <unicode hex="004E"/>
-  <anchor x="398.0" y="0.0" name="bottom"/>
-  <anchor x="381.0" y="-83.0" name="btm"/>
-  <anchor x="401.0" y="830.0" name="top"/>
+  <anchor x="394.0" y="0.0" name="bottom"/>
+  <anchor x="377.0" y="-83.0" name="btm"/>
+  <anchor x="397.0" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="84.0" y="0.0" type="line"/>
-      <point x="253.0" y="0.0" type="line"/>
-      <point x="253.0" y="321.0" type="line"/>
-      <point x="216.0" y="626.0" type="line"/>
-      <point x="175.0" y="626.0" type="line"/>
-      <point x="284.0" y="398.0" type="line"/>
-      <point x="525.0" y="0.0" type="line"/>
-      <point x="712.0" y="0.0" type="line"/>
-      <point x="712.0" y="743.0" type="line"/>
-      <point x="543.0" y="743.0" type="line"/>
-      <point x="543.0" y="416.0" type="line"/>
-      <point x="573.0" y="135.0" type="line"/>
-      <point x="607.0" y="135.0" type="line"/>
-      <point x="512.0" y="335.0" type="line"/>
-      <point x="258.0" y="743.0" type="line"/>
-      <point x="84.0" y="743.0" type="line"/>
+      <point x="80.0" y="0.0" type="line"/>
+      <point x="249.0" y="0.0" type="line"/>
+      <point x="249.0" y="321.0" type="line"/>
+      <point x="212.0" y="626.0" type="line"/>
+      <point x="171.0" y="626.0" type="line"/>
+      <point x="280.0" y="398.0" type="line"/>
+      <point x="521.0" y="0.0" type="line"/>
+      <point x="708.0" y="0.0" type="line"/>
+      <point x="708.0" y="743.0" type="line"/>
+      <point x="539.0" y="743.0" type="line"/>
+      <point x="539.0" y="416.0" type="line"/>
+      <point x="569.0" y="135.0" type="line"/>
+      <point x="603.0" y="135.0" type="line"/>
+      <point x="508.0" y="335.0" type="line"/>
+      <point x="254.0" y="743.0" type="line"/>
+      <point x="80.0" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/31 03:56:07</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdouble" format="2">
-  <advance width="620.0"/>
+  <advance width="652.7117963076923"/>
   <unicode hex="203C"/>
   <outline>
-    <component base="exclam"/>
-    <component base="exclam" xOffset="307.0"/>
+    <component base="exclam" xOffset="5.945107692307687"/>
+    <component base="exclam" xOffset="331.4643692307692"/>
   </outline>
   <lib>
     <dict>

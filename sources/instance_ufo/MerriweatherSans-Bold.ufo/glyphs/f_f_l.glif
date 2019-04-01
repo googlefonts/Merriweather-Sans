@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
-  <advance width="1150.0"/>
-  <anchor x="383.333" y="0.0" name="caret_1"/>
-  <anchor x="766.667" y="0.0" name="caret_2"/>
-  <anchor x="994.0" y="0.0" name="bottom"/>
-  <anchor x="210.0" y="0.0" name="bottom_1"/>
-  <anchor x="629.0" y="0.0" name="bottom_2"/>
-  <anchor x="993.0" y="-83.0" name="btm"/>
-  <anchor x="203.0" y="-83.0" name="btm_1"/>
-  <anchor x="622.0" y="-83.0" name="btm_2"/>
-  <anchor x="994.0" y="492.0" name="center"/>
-  <anchor x="994.0" y="891.0" name="top"/>
-  <anchor x="158.0" y="994.0" name="top_1"/>
-  <anchor x="577.0" y="994.0" name="top_2"/>
-  <anchor x="1130.0" y="983.0" name="topright"/>
+  <advance width="1140.9692307692308"/>
+  <anchor x="385.2856" y="0.0" name="caret_1"/>
+  <anchor x="770.5712000000001" y="0.0" name="caret_2"/>
+  <anchor x="987.8461538461538" y="0.0" name="bottom"/>
+  <anchor x="208.59575384615385" y="0.0" name="bottom_1"/>
+  <anchor x="625.672676923077" y="0.0" name="bottom_2"/>
+  <anchor x="982.123076923077" y="-83.0" name="btm"/>
+  <anchor x="198.47126153846153" y="-83.0" name="btm_1"/>
+  <anchor x="615.5481846153847" y="-83.0" name="btm_2"/>
+  <anchor x="987.8461538461538" y="492.0" name="center"/>
+  <anchor x="987.7076923076924" y="893.6615384615385" name="top"/>
+  <anchor x="147.6923076923077" y="1025.9692307692308" name="top_1"/>
+  <anchor x="564.7692307692308" y="1025.9692307692308" name="top_2"/>
+  <anchor x="1128.0923076923077" y="983.0" name="topright"/>
   <outline>
     <component base="f_f"/>
-    <component base="l" xOffset="838.0"/>
+    <component base="l" xOffset="834.1538461538462"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 02:29:01</string>
     </dict>
   </lib>
 </glyph>

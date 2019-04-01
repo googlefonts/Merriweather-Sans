@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Bdotaccent" format="2">
-  <advance width="614.1"/>
+  <advance width="614.0"/>
   <unicode hex="1E02"/>
   <anchor x="270.55" y="0.0" name="bottom"/>
-  <anchor x="395.0" y="940.0" name="top"/>
+  <anchor x="395.0" y="934.0" name="top"/>
   <outline>
     <component base="B"/>
     <component base="dotaccentcomb.case" xOffset="308.0" yOffset="1.0"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/02/27 15:15:42</string>
     </dict>
   </lib>
 </glyph>

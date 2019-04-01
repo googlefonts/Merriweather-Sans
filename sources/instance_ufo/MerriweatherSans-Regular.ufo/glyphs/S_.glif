@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S" format="2">
-  <advance width="559.4"/>
+  <advance width="565.0"/>
   <unicode hex="0053"/>
   <anchor x="280.2" y="0.0" name="bottom"/>
   <anchor x="276.911" y="-83.0" name="btm"/>
@@ -50,7 +50,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 03:07:51</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

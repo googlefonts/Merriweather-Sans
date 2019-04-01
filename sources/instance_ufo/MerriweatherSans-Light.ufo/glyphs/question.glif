@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-  <advance width="511.0"/>
+  <advance width="515.0"/>
   <unicode hex="003F"/>
   <outline>
     <contour>
@@ -49,7 +49,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:15:24</string>
     </dict>
   </lib>
 </glyph>

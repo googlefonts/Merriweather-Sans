@@ -3,12 +3,12 @@
   <advance width="465.0"/>
   <unicode hex="2082"/>
   <outline>
-    <component base="two.dnom"/>
+    <component base="two.dnom" yOffset="-200.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/30 02:31:19</string>
     </dict>
   </lib>
 </glyph>

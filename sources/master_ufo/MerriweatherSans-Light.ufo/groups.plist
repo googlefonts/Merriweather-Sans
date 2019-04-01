@@ -102,6 +102,11 @@
     <array>
       <string>currency</string>
     </array>
+    <key>public.kern1.Ezh</key>
+    <array>
+      <string>Ezh</string>
+      <string>Ezhcaron</string>
+    </array>
     <key>public.kern1.F</key>
     <array>
       <string>F</string>
@@ -750,9 +755,6 @@
     <key>public.kern1.eight</key>
     <array>
       <string>eight</string>
-    </array>
-    <key>public.kern1.eight.lf</key>
-    <array>
       <string>eight.lf</string>
     </array>
     <key>public.kern1.eight.osf</key>
@@ -801,6 +803,11 @@
       <string>exclamdouble</string>
       <string>exclamdown.case</string>
     </array>
+    <key>public.kern1.ezh</key>
+    <array>
+      <string>ezh</string>
+      <string>ezhcaron</string>
+    </array>
     <key>public.kern1.f</key>
     <array>
       <string>f</string>
@@ -819,9 +826,6 @@
     <key>public.kern1.five</key>
     <array>
       <string>five</string>
-    </array>
-    <key>public.kern1.five.lf</key>
-    <array>
       <string>five.lf</string>
     </array>
     <key>public.kern1.five.osf</key>
@@ -850,9 +854,6 @@
     <key>public.kern1.four</key>
     <array>
       <string>four</string>
-    </array>
-    <key>public.kern1.four.lf</key>
-    <array>
       <string>four.lf</string>
     </array>
     <key>public.kern1.four.osf</key>
@@ -918,24 +919,18 @@
     <array>
       <string>guarani</string>
     </array>
-    <key>public.kern1.guillemetleft</key>
-    <array>
-      <string>guillemetleft</string>
-      <string>guillemetleft.case</string>
-    </array>
-    <key>public.kern1.guillemetright</key>
-    <array>
-      <string>guillemetright</string>
-      <string>guillemetright.case</string>
-    </array>
     <key>public.kern1.guilsinglleft</key>
     <array>
+      <string>guillemetleft</string>
       <string>guilsinglleft</string>
+      <string>guillemetleft.case</string>
       <string>guilsinglleft.case</string>
     </array>
     <key>public.kern1.guilsinglright</key>
     <array>
+      <string>guillemetright</string>
       <string>guilsinglright</string>
+      <string>guillemetright.case</string>
       <string>guilsinglright.case</string>
     </array>
     <key>public.kern1.h.sc</key>
@@ -1217,9 +1212,6 @@
     <key>public.kern1.nine</key>
     <array>
       <string>nine</string>
-    </array>
-    <key>public.kern1.nine.lf</key>
-    <array>
       <string>nine.lf</string>
     </array>
     <key>public.kern1.nine.osf</key>
@@ -1280,6 +1272,7 @@
       <string>omacron</string>
       <string>omacronacute</string>
       <string>omacrongrave</string>
+      <string>oogonek</string>
       <string>oslash</string>
       <string>oslashacute</string>
       <string>otilde</string>
@@ -1364,10 +1357,6 @@
       <string>onethird</string>
       <string>onequarter</string>
       <string>oneeighth</string>
-    </array>
-    <key>public.kern1.oogonek</key>
-    <array>
-      <string>oogonek</string>
     </array>
     <key>public.kern1.ordfeminine</key>
     <array>
@@ -1566,9 +1555,6 @@
     <key>public.kern1.seven</key>
     <array>
       <string>seven</string>
-    </array>
-    <key>public.kern1.seven.lf</key>
-    <array>
       <string>seven.lf</string>
     </array>
     <key>public.kern1.seven.osf</key>
@@ -1597,9 +1583,6 @@
     <key>public.kern1.six</key>
     <array>
       <string>six</string>
-    </array>
-    <key>public.kern1.six.lf</key>
-    <array>
       <string>six.lf</string>
     </array>
     <key>public.kern1.six.osf</key>
@@ -1699,9 +1682,6 @@
     <key>public.kern1.three</key>
     <array>
       <string>three</string>
-    </array>
-    <key>public.kern1.three.lf</key>
-    <array>
       <string>three.lf</string>
     </array>
     <key>public.kern1.three.osf</key>
@@ -1746,9 +1726,6 @@
     <key>public.kern1.two</key>
     <array>
       <string>two</string>
-    </array>
-    <key>public.kern1.two.lf</key>
-    <array>
       <string>two.lf</string>
     </array>
     <key>public.kern1.two.osf</key>
@@ -1926,10 +1903,10 @@
     <key>public.kern1.zero</key>
     <array>
       <string>zero</string>
+      <string>zero.lf</string>
     </array>
     <key>public.kern1.zero.lf</key>
     <array>
-      <string>zero.lf</string>
       <string>zero.lf.zero</string>
     </array>
     <key>public.kern1.zero.osf</key>
@@ -2001,6 +1978,11 @@
     <key>public.kern2.Euro</key>
     <array>
       <string>currency</string>
+    </array>
+    <key>public.kern2.Ezh</key>
+    <array>
+      <string>Ezh</string>
+      <string>Ezhcaron</string>
     </array>
     <key>public.kern2.H</key>
     <array>
@@ -2596,9 +2578,6 @@
     <key>public.kern2.eight</key>
     <array>
       <string>eight</string>
-    </array>
-    <key>public.kern2.eight.lf</key>
-    <array>
       <string>eight.lf</string>
     </array>
     <key>public.kern2.eight.numr</key>
@@ -2635,10 +2614,6 @@
     <array>
       <string>estimated</string>
     </array>
-    <key>public.kern2.eth</key>
-    <array>
-      <string>eth</string>
-    </array>
     <key>public.kern2.euro</key>
     <array>
       <string>euro</string>
@@ -2649,6 +2624,11 @@
       <string>exclamdown</string>
       <string>exclamdouble</string>
       <string>exclamdown.case</string>
+    </array>
+    <key>public.kern2.ezh</key>
+    <array>
+      <string>ezh</string>
+      <string>ezhcaron</string>
     </array>
     <key>public.kern2.f</key>
     <array>
@@ -2668,9 +2648,6 @@
     <key>public.kern2.five</key>
     <array>
       <string>five</string>
-    </array>
-    <key>public.kern2.five.lf</key>
-    <array>
       <string>five.lf</string>
     </array>
     <key>public.kern2.five.numr</key>
@@ -2702,9 +2679,6 @@
     <key>public.kern2.four</key>
     <array>
       <string>four</string>
-    </array>
-    <key>public.kern2.four.lf</key>
-    <array>
       <string>four.lf</string>
     </array>
     <key>public.kern2.four.numr</key>
@@ -2764,24 +2738,18 @@
     <array>
       <string>guarani</string>
     </array>
-    <key>public.kern2.guillemetleft</key>
-    <array>
-      <string>guillemetleft</string>
-      <string>guillemetleft.case</string>
-    </array>
-    <key>public.kern2.guillemetright</key>
-    <array>
-      <string>guillemetright</string>
-      <string>guillemetright.case</string>
-    </array>
     <key>public.kern2.guilsinglleft</key>
     <array>
+      <string>guillemetleft</string>
       <string>guilsinglleft</string>
+      <string>guillemetleft.case</string>
       <string>guilsinglleft.case</string>
     </array>
     <key>public.kern2.guilsinglright</key>
     <array>
+      <string>guillemetright</string>
       <string>guilsinglright</string>
+      <string>guillemetright.case</string>
       <string>guilsinglright.case</string>
     </array>
     <key>public.kern2.h</key>
@@ -3100,9 +3068,6 @@
     <key>public.kern2.nine</key>
     <array>
       <string>nine</string>
-    </array>
-    <key>public.kern2.nine.lf</key>
-    <array>
       <string>nine.lf</string>
     </array>
     <key>public.kern2.nine.numr</key>
@@ -3143,6 +3108,7 @@
       <string>ccedillaacute</string>
       <string>ccircumflex</string>
       <string>cdotaccent</string>
+      <string>eth</string>
       <string>e</string>
       <string>eacute</string>
       <string>ebreve</string>
@@ -3459,9 +3425,6 @@
     <key>public.kern2.seven</key>
     <array>
       <string>seven</string>
-    </array>
-    <key>public.kern2.seven.lf</key>
-    <array>
       <string>seven.lf</string>
     </array>
     <key>public.kern2.seven.numr</key>
@@ -3493,9 +3456,6 @@
     <key>public.kern2.six</key>
     <array>
       <string>six</string>
-    </array>
-    <key>public.kern2.six.lf</key>
-    <array>
       <string>six.lf</string>
     </array>
     <key>public.kern2.six.numr</key>
@@ -3594,9 +3554,6 @@
     <key>public.kern2.three</key>
     <array>
       <string>three</string>
-    </array>
-    <key>public.kern2.three.lf</key>
-    <array>
       <string>three.lf</string>
     </array>
     <key>public.kern2.three.numr</key>
@@ -3642,9 +3599,6 @@
     <key>public.kern2.two</key>
     <array>
       <string>two</string>
-    </array>
-    <key>public.kern2.two.lf</key>
-    <array>
       <string>two.lf</string>
     </array>
     <key>public.kern2.two.numr</key>
@@ -3816,10 +3770,10 @@
     <key>public.kern2.zero</key>
     <array>
       <string>zero</string>
+      <string>zero.lf</string>
     </array>
     <key>public.kern2.zero.lf</key>
     <array>
-      <string>zero.lf</string>
       <string>zero.lf.zero</string>
     </array>
     <key>public.kern2.zero.numr</key>

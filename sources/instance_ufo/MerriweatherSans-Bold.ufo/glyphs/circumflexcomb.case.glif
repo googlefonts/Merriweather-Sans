@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb.case" format="2">
-  <anchor x="0.0" y="831.0" name="_top"/>
-  <anchor x="0.0" y="1018.0" name="top"/>
+  <anchor x="0.0" y="830.6459076923077" name="_top"/>
+  <anchor x="0.0" y="1035.076923076923" name="top"/>
   <outline>
     <contour>
-      <point x="-109.0" y="797.0" type="line"/>
-      <point x="-1.0" y="894.0" type="line"/>
-      <point x="107.0" y="797.0" type="line"/>
-      <point x="188.0" y="842.0" type="line"/>
-      <point x="53.0" y="992.0" type="line"/>
-      <point x="-54.0" y="992.0" type="line"/>
-      <point x="-188.0" y="841.0" type="line"/>
+      <point x="-109.56923076923077" y="796.1273230769231" type="line"/>
+      <point x="-1.0" y="892.1278153846154" type="line"/>
+      <point x="108.3536" y="796.1273230769231" type="line"/>
+      <point x="188.87267692307694" y="842.2908923076923" type="line"/>
+      <point x="53.506030769230776" y="990.3048615384615" type="line"/>
+      <point x="-54.506030769230776" y="990.3048615384615" type="line"/>
+      <point x="-188.87267692307694" y="841.2908923076923" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 15:43:45</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydotbelow" format="2">
-  <advance width="606.0"/>
+  <advance width="622.9883741538462"/>
   <unicode hex="1EF4"/>
-  <anchor x="303.0" y="-234.0" name="bottom"/>
-  <anchor x="304.0" y="-83.0" name="btm"/>
-  <anchor x="304.0" y="830.0" name="top"/>
+  <anchor x="311.7550153846154" y="-230.9768" name="bottom"/>
+  <anchor x="317.2187076923077" y="-83.0" name="btm"/>
+  <anchor x="317.2187076923077" y="830.0" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="dotbelowcomb.case" xOffset="306.0"/>
+    <component base="dotbelowcomb.case" xOffset="311.9846153846154"/>
   </outline>
   <lib>
     <dict>

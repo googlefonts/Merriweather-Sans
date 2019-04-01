@@ -5,7 +5,7 @@
   <anchor x="344.533" y="0.0" name="bottom"/>
   <anchor x="332.0" y="-83.0" name="btm"/>
   <anchor x="619.244" y="10.0" name="ogonek"/>
-  <anchor x="344.0" y="984.778" name="top"/>
+  <anchor x="344.0" y="995.0" name="top"/>
   <outline>
     <component base="A"/>
     <component base="macroncomb.case" xOffset="344.0"/>

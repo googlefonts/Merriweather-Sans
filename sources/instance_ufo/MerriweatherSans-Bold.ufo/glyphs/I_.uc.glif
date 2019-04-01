@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I.uc" format="2">
-  <advance width="353.0"/>
-  <anchor x="177.0" y="0.0" name="bottom"/>
-  <anchor x="318.0" y="10.0" name="ogonek"/>
-  <anchor x="177.0" y="743.0" name="top"/>
+  <advance width="347.32307692307694"/>
+  <anchor x="173.90104615384615" y="0.0" name="bottom"/>
+  <anchor x="312.64923076923077" y="10.0" name="ogonek"/>
+  <anchor x="173.90104615384615" y="743.0" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="178.0" y="-83.0" name="btm"/>
+  <anchor x="175.04" y="-83.0" name="btm"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccentcomb.case" xOffset="176.0"/>
+    <component base="dotaccentcomb.case" xOffset="174.23076923076923" yOffset="6.892307692307687"/>
   </outline>
   <lib>
     <dict>

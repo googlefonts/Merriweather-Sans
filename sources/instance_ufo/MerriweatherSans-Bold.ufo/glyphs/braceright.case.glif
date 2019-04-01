@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceright.case" format="2">
-  <advance width="465.0"/>
+  <advance width="481.0649563076923"/>
   <outline>
-    <component base="braceleft" xScale="-1.0" xOffset="460.0"/>
+    <component base="braceleft" xScale="-1.0" xOffset="478.9742153846154"/>
   </outline>
   <lib>
     <dict>

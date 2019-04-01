@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-  <advance width="802.0"/>
+  <advance width="796.0547027692307"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="346.0" y="-173.0" type="line"/>
-      <point x="474.0" y="-173.0" type="line"/>
-      <point x="824.0" y="913.0" type="line"/>
-      <point x="673.0" y="913.0" type="line"/>
-      <point x="393.0" y="-44.0" type="line"/>
-      <point x="428.0" y="-44.0" type="line"/>
-      <point x="287.0" y="350.0" type="line"/>
-      <point x="188.0" y="350.0" type="line"/>
-      <point x="53.0" y="280.0" type="line"/>
-      <point x="105.0" y="172.0" type="line"/>
-      <point x="183.0" y="212.0" type="line"/>
+      <point x="342.1673230769231" y="-173.0" type="line"/>
+      <point x="470.30627692307695" y="-173.0" type="line"/>
+      <point x="810.7051076923077" y="913.0" type="line"/>
+      <point x="659.4904" y="913.0" type="line"/>
+      <point x="389.7742153846154" y="-36.764492307692294" type="line"/>
+      <point x="421.00473846153847" y="-36.19526153846152" type="line"/>
+      <point x="280.4094769230769" y="350.0" type="line"/>
+      <point x="166.8878153846154" y="350.0" type="line"/>
+      <point x="45.903446153846154" y="285.8819076923077" type="line"/>
+      <point x="101.47076923076924" y="172.35409230769227" type="line"/>
+      <point x="175.15716923076926" y="211.86104615384613" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 02:48:16</string>
     </dict>
   </lib>
 </glyph>

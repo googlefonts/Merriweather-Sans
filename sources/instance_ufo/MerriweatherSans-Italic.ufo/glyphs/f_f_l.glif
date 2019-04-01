@@ -8,8 +8,8 @@ f_f_l
   <anchor x="480.6" y="0.0" name="bottom_2"/>
   <anchor x="803.9" y="0.0" name="bottom_3"/>
   <anchor x="863.25" y="492.0" name="center"/>
-  <anchor x="265.6" y="747.975" name="top_1"/>
-  <anchor x="610.6" y="747.975" name="top_2"/>
+  <anchor x="301.0" y="803.0" name="top_1"/>
+  <anchor x="646.0" y="803.0" name="top_2"/>
   <anchor x="904.575" y="778.0" name="top_3"/>
   <anchor x="1025.75" y="711.0" name="topright"/>
   <outline>

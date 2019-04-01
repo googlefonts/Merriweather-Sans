@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="n.sc" format="2">
-  <advance width="660.0"/>
+  <advance width="658.0"/>
   <note>
 N
 </note>
-  <anchor x="294.0" y="0.0" name="bottom"/>
-  <anchor x="380.0" y="650.0" name="top"/>
+  <anchor x="292.0" y="0.0" name="bottom"/>
+  <anchor x="385.0" y="640.0" name="top"/>
   <outline>
     <contour>
-      <point x="56.0" y="0.0" type="line"/>
-      <point x="126.0" y="0.0" type="line"/>
-      <point x="182.0" y="437.0" type="line"/>
-      <point x="194.0" y="562.0" type="line"/>
-      <point x="228.0" y="462.0" type="line"/>
-      <point x="462.0" y="0.0" type="line"/>
-      <point x="536.0" y="0.0" type="line"/>
-      <point x="617.0" y="646.0" type="line"/>
-      <point x="546.0" y="646.0" type="line"/>
-      <point x="491.0" y="198.0" type="line"/>
-      <point x="482.0" y="94.0" type="line"/>
-      <point x="448.0" y="182.0" type="line"/>
-      <point x="216.0" y="646.0" type="line"/>
-      <point x="137.0" y="646.0" type="line"/>
+      <point x="54.0" y="0.0" type="line"/>
+      <point x="124.0" y="0.0" type="line"/>
+      <point x="180.0" y="437.0" type="line"/>
+      <point x="192.0" y="562.0" type="line"/>
+      <point x="226.0" y="462.0" type="line"/>
+      <point x="460.0" y="0.0" type="line"/>
+      <point x="534.0" y="0.0" type="line"/>
+      <point x="615.0" y="646.0" type="line"/>
+      <point x="544.0" y="646.0" type="line"/>
+      <point x="489.0" y="198.0" type="line"/>
+      <point x="480.0" y="94.0" type="line"/>
+      <point x="446.0" y="182.0" type="line"/>
+      <point x="214.0" y="646.0" type="line"/>
+      <point x="135.0" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,14 +41,12 @@ N
       <string>NPUSHB[ ]	/* 33 values pushed */
 9 2 2 1 0 1 74 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 13 0 13 20 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 18:40:30</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

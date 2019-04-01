@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-  <advance width="968.0"/>
+  <advance width="971.0"/>
   <unicode hex="004D"/>
-  <anchor x="484.0" y="0.0" name="bottom"/>
-  <anchor x="489.0" y="-83.0" name="btm"/>
-  <anchor x="489.0" y="800.0" name="top"/>
+  <anchor x="487.0" y="0.0" name="bottom"/>
+  <anchor x="492.0" y="-83.0" name="btm"/>
+  <anchor x="492.0" y="800.0" name="top"/>
   <outline>
     <contour>
-      <point x="31.0" y="0.0" type="line"/>
-      <point x="203.0" y="0.0" type="line"/>
-      <point x="232.0" y="395.0" type="line"/>
-      <point x="245.0" y="609.0" type="line"/>
-      <point x="294.0" y="389.0" type="line"/>
-      <point x="402.0" y="-4.0" type="line"/>
-      <point x="567.0" y="-4.0" type="line"/>
-      <point x="667.0" y="389.0" type="line"/>
-      <point x="713.0" y="609.0" type="line"/>
-      <point x="724.0" y="395.0" type="line"/>
+      <point x="34.0" y="0.0" type="line"/>
+      <point x="206.0" y="0.0" type="line"/>
+      <point x="235.0" y="391.0" type="line"/>
+      <point x="248.0" y="605.0" type="line"/>
+      <point x="297.0" y="385.0" type="line"/>
+      <point x="405.0" y="-4.0" type="line"/>
+      <point x="570.0" y="-4.0" type="line"/>
+      <point x="670.0" y="385.0" type="line"/>
+      <point x="716.0" y="605.0" type="line"/>
+      <point x="727.0" y="391.0" type="line"/>
       <point x="758.0" y="0.0" type="line"/>
       <point x="937.0" y="0.0" type="line"/>
-      <point x="842.0" y="743.0" type="line"/>
-      <point x="599.0" y="743.0" type="line"/>
-      <point x="519.0" y="362.0" type="line"/>
-      <point x="492.0" y="188.0" type="line"/>
-      <point x="458.0" y="362.0" type="line"/>
-      <point x="368.0" y="743.0" type="line"/>
-      <point x="117.0" y="743.0" type="line"/>
+      <point x="845.0" y="743.0" type="line"/>
+      <point x="602.0" y="743.0" type="line"/>
+      <point x="522.0" y="362.0" type="line"/>
+      <point x="495.0" y="188.0" type="line"/>
+      <point x="461.0" y="362.0" type="line"/>
+      <point x="371.0" y="743.0" type="line"/>
+      <point x="120.0" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 03:19:59</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

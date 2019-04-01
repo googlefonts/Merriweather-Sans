@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcommaaccent" format="2">
-  <advance width="685.0"/>
+  <advance width="684.4545454545455"/>
   <unicode hex="0122"/>
   <note>
 Gcommaaccent
 </note>
-  <anchor x="280.0" y="-199.0" name="bottom"/>
-  <anchor x="404.513" y="748.769" name="top"/>
+  <anchor x="279.72727272727275" y="-199.0" name="bottom"/>
+  <anchor x="404.57916666666665" y="747.3397727272727" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccentcomb.case" xOffset="306.0"/>
+    <component base="commaaccentcomb.case" xOffset="305.72727272727275"/>
   </outline>
   <lib>
     <dict>

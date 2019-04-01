@@ -6,7 +6,7 @@
 ncaron
 </note>
   <anchor x="259.875" y="0.0" name="bottom"/>
-  <anchor x="364.0" y="788.0" name="top"/>
+  <anchor x="362.0" y="788.0" name="top"/>
   <outline>
     <component base="n"/>
     <component base="caroncomb" xOffset="297.0"/>

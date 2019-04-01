@@ -3,17 +3,19 @@
   <advance width="758.0"/>
   <anchor x="379.0" y="0.0" name="bottom"/>
   <anchor x="378.0" y="-72.0" name="btm"/>
-  <anchor x="285.0" y="1070.0" name="top"/>
+  <anchor x="367.0" y="323.0" name="center"/>
+  <anchor x="424.0" y="0.0" name="ogonek"/>
+  <anchor x="263.0" y="1093.0" name="top"/>
+  <anchor x="8.0" y="646.0" name="topleft"/>
+  <anchor x="726.0" y="646.0" name="topright"/>
   <outline>
     <component base="ohorn.sc"/>
-    <component base="acutecomb" xOffset="382.0" yOffset="41.0"/>
+    <component base="acutecomb" xOffset="381.0" yOffset="69.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 20:57:08</string>
     </dict>
   </lib>
 </glyph>

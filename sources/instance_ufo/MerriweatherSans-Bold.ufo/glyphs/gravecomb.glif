@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="0.0" y="831.0" name="_top"/>
-  <anchor x="-77.0" y="883.0" name="top"/>
+  <anchor x="0.0" y="830.6459076923077" name="_top"/>
+  <anchor x="-74.59667692307693" y="883.3034461538462" name="top"/>
   <outline>
     <contour>
-      <point x="59.0" y="678.0" type="line"/>
-      <point x="2.0" y="731.0"/>
-      <point x="-68.0" y="813.0"/>
-      <point x="-108.0" y="883.0" type="curve"/>
-      <point x="-213.0" y="798.0" type="line"/>
-      <point x="-180.0" y="727.0"/>
-      <point x="-55.0" y="630.0"/>
-      <point x="-14.0" y="611.0" type="curve"/>
+      <point x="47.276923076923076" y="673.5692307692308" type="line"/>
+      <point x="-4.876923076923074" y="726.0307692307692"/>
+      <point x="-76.56923076923077" y="816.5384615384615"/>
+      <point x="-118.86153846153846" y="881.9538461538461" type="curve"/>
+      <point x="-209.26818461538463" y="801.0487384615385" type="line"/>
+      <point x="-175.69895384615384" y="734.6402461538462"/>
+      <point x="-54.24116923076924" y="630.8220307692308"/>
+      <point x="-11.318338461538467" y="610.4688615384615" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/07 21:50:27</string>
     </dict>
   </lib>
 </glyph>

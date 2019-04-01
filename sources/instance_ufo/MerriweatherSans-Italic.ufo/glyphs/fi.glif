@@ -8,7 +8,7 @@ fi
   <anchor x="135.6" y="0.0" name="bottom_1"/>
   <anchor x="454.25" y="0.0" name="bottom_2"/>
   <anchor x="532.85" y="10.0" name="ogonek"/>
-  <anchor x="265.6" y="747.975" name="top_1"/>
+  <anchor x="301.0" y="803.0" name="top_1"/>
   <anchor x="528.25" y="557.0" name="top_2"/>
   <outline>
     <component base="f"/>

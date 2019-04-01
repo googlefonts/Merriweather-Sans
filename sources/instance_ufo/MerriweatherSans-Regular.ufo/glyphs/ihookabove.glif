@@ -2,10 +2,10 @@
 <glyph name="ihookabove" format="2">
   <advance width="298.84444"/>
   <unicode hex="1EC9"/>
-  <anchor x="149.422" y="0.0" name="bottom"/>
-  <anchor x="149.6" y="-83.0" name="btm"/>
-  <anchor x="222.667" y="25.0" name="ogonek"/>
-  <anchor x="149.422" y="1009.0" name="top"/>
+  <anchor x="147.0" y="0.0" name="bottom"/>
+  <anchor x="148.0" y="-83.0" name="btm"/>
+  <anchor x="221.0" y="25.0" name="ogonek"/>
+  <anchor x="149.422" y="983.0" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="hookabovecomb" xOffset="149.422"/>

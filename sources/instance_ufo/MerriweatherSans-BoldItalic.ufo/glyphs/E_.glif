@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="578.5641"/>
+  <advance width="578.660606060606"/>
   <unicode hex="0045"/>
   <note>
 E
 </note>
   <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="485.744" y="10.0" name="ogonek"/>
-  <anchor x="362.205" y="747.0" name="top"/>
-  <anchor x="82.0" y="748.769" name="topleft"/>
+  <anchor x="485.59280303030306" y="10.0" name="ogonek"/>
+  <anchor x="366.089393939394" y="747.0" name="top"/>
+  <anchor x="82.0" y="747.3397727272727" name="topleft"/>
   <outline>
     <contour>
-      <point x="40.308" y="0.0" type="line"/>
-      <point x="510.923" y="0.0" type="line"/>
-      <point x="525.974" y="120.487" type="line"/>
-      <point x="206.949" y="114.897" type="line"/>
-      <point x="236.308" y="328.667" type="line"/>
-      <point x="444.846" y="323.487" type="line"/>
-      <point x="459.308" y="442.564" type="line"/>
-      <point x="251.949" y="439.564" type="line"/>
-      <point x="278.308" y="631.692" type="line"/>
-      <point x="555.256" y="630.103" type="line"/>
-      <point x="569.128" y="747.0" type="line"/>
-      <point x="143.769" y="747.0" type="line"/>
+      <point x="40.48863636363636" y="0.0" type="line"/>
+      <point x="510.99545454545455" y="0.0" type="line"/>
+      <point x="525.8416666666667" y="120.6560606060606" type="line"/>
+      <point x="207.1537878787879" y="114.83712121212122" type="line"/>
+      <point x="236.48863636363637" y="328.58825757575755" type="line"/>
+      <point x="444.9909090909091" y="323.42083333333335" type="line"/>
+      <point x="459.4886363636364" y="442.660606060606" type="line"/>
+      <point x="251.91856060606062" y="439.660606060606" type="line"/>
+      <point x="278.2534090909091" y="631.5113636363636" type="line"/>
+      <point x="555.1719696969697" y="629.6924242424242" type="line"/>
+      <point x="568.8507575757576" y="747.0" type="line"/>
+      <point x="143.75113636363636" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.case" format="2">
   <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="87.0" y="939.0" name="top"/>
+  <anchor x="89.60606060606061" y="956.4545454545455" name="top"/>
   <outline>
     <contour>
-      <point x="70.821" y="817.0" type="curve" smooth="yes"/>
-      <point x="129.154" y="817.0"/>
-      <point x="167.974" y="856.051"/>
-      <point x="167.974" y="909.744" type="curve" smooth="yes"/>
-      <point x="167.974" y="949.205"/>
-      <point x="133.513" y="981.077"/>
-      <point x="89.641" y="981.077" type="curve" smooth="yes"/>
-      <point x="36.718" y="981.077"/>
-      <point x="-4.332999999999998" y="940.026"/>
-      <point x="-4.332999999999998" y="889.333" type="curve" smooth="yes"/>
-      <point x="-4.332999999999998" y="849.872"/>
-      <point x="31.359" y="817.0"/>
+      <point x="71.3030303030303" y="817.0" type="curve" smooth="yes"/>
+      <point x="129.47954545454547" y="817.0"/>
+      <point x="168.3121212121212" y="857.0223484848485"/>
+      <point x="168.3121212121212" y="910.0632575757576" type="curve" smooth="yes"/>
+      <point x="168.3121212121212" y="949.5609848484848"/>
+      <point x="134.04962121212122" y="981.7102272727273"/>
+      <point x="89.9003787878788" y="981.7102272727273" type="curve" smooth="yes"/>
+      <point x="36.66969696969697" y="981.7102272727273"/>
+      <point x="-4.646969696969698" y="940.3935606060606"/>
+      <point x="-4.646969696969698" y="889.882196969697" type="curve" smooth="yes"/>
+      <point x="-4.646969696969698" y="850.3844696969697"/>
+      <point x="32.275757575757574" y="817.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 17:17:19</string>
     </dict>
   </lib>
 </glyph>

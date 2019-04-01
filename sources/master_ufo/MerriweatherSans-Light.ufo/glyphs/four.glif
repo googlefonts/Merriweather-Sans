@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="642.0"/>
+  <advance width="655.0"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
@@ -29,7 +29,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 17:24:57</string>
     </dict>
   </lib>
 </glyph>

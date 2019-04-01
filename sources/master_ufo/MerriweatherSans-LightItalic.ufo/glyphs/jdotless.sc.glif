@@ -2,7 +2,7 @@
 <glyph name="jdotless.sc" format="2">
   <advance width="277.0"/>
   <anchor x="102.0" y="0.0" name="bottom"/>
-  <anchor x="193.0" y="650.0" name="top"/>
+  <anchor x="189.0" y="640.0" name="top"/>
   <outline>
     <contour>
       <point x="-64.0" y="-136.0" type="line"/>
@@ -24,10 +24,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/23 05:11:35</string>
     </dict>
   </lib>
 </glyph>

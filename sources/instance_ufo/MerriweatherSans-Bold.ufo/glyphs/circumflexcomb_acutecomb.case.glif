@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb.case" format="2">
-  <anchor x="14.0" y="831.0" name="_top"/>
-  <anchor x="104.0" y="1091.0" name="top"/>
+  <anchor x="12.810892307692313" y="830.6459076923077" name="_top"/>
+  <anchor x="102.24166153846154" y="1090.2156307692308" name="top"/>
   <outline>
     <contour>
-      <point x="-94.0" y="762.0" type="line"/>
-      <point x="14.0" y="859.0" type="line"/>
-      <point x="122.0" y="762.0" type="line"/>
-      <point x="203.0" y="807.0" type="line"/>
-      <point x="68.0" y="957.0" type="line"/>
-      <point x="-39.0" y="957.0" type="line"/>
-      <point x="-173.0" y="806.0" type="line"/>
+      <point x="-95.75833846153844" y="769.2736" type="line"/>
+      <point x="12.810892307692313" y="865.2740923076923" type="line"/>
+      <point x="121.24116923076924" y="769.2736" type="line"/>
+      <point x="201.76024615384617" y="815.4371692307692" type="line"/>
+      <point x="66.3936" y="963.4511384615384" type="line"/>
+      <point x="-40.69513846153846" y="963.4511384615384" type="line"/>
+      <point x="-175.06178461538462" y="814.4371692307692" type="line"/>
     </contour>
     <contour>
-      <point x="202.0" y="877.0" type="line"/>
-      <point x="250.0" y="894.0"/>
-      <point x="338.0" y="972.0"/>
-      <point x="381.0" y="1027.0" type="curve"/>
-      <point x="275.0" y="1091.0" type="line"/>
-      <point x="266.0" y="1066.0"/>
-      <point x="144.0" y="951.0"/>
-      <point x="131.0" y="938.0" type="curve"/>
+      <point x="200.14036923076924" y="876.9748923076922" type="line"/>
+      <point x="248.69704615384617" y="893.3294769230769"/>
+      <point x="336.97538461538466" y="970.8489846153846"/>
+      <point x="379.54510769230774" y="1025.8615384615384" type="curve"/>
+      <point x="273.4187076923077" y="1090.2156307692308" type="line"/>
+      <point x="264.2672" y="1063.6217846153847"/>
+      <point x="144.39218461538462" y="947.4582153846154"/>
+      <point x="130.59526153846156" y="934.0153846153846" type="curve"/>
     </contour>
   </outline>
   <lib>

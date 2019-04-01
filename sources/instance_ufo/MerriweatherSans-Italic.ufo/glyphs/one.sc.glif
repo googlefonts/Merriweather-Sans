@@ -1,28 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.sc" format="2">
-  <advance width="452.05"/>
+  <advance width="428.0"/>
   <outline>
     <contour>
-      <point x="140.875" y="0.0" type="line"/>
-      <point x="254.55" y="0.0" type="line"/>
-      <point x="362.9" y="736.35" type="line"/>
-      <point x="306.55" y="747.0" type="line"/>
-      <point x="306.225" y="747.0" type="line"/>
-      <point x="254.225" y="711.0"/>
-      <point x="171.225" y="664.0"/>
-      <point x="103.225" y="648.0" type="curve"/>
-      <point x="115.85" y="579.15" type="line"/>
-      <point x="158.525" y="586.15"/>
-      <point x="191.25" y="593.525"/>
-      <point x="229.25" y="605.525" type="curve"/>
+      <point x="128.0" y="0.0" type="line"/>
+      <point x="241.0" y="0.0" type="line"/>
+      <point x="327.0" y="645.0" type="line"/>
+      <point x="269.0" y="655.0" type="line"/>
+      <point x="269.0" y="655.0" type="line"/>
+      <point x="220.0" y="625.0"/>
+      <point x="143.0" y="585.0"/>
+      <point x="77.0" y="571.0" type="curve"/>
+      <point x="91.0" y="506.0" type="line"/>
+      <point x="133.0" y="512.0"/>
+      <point x="160.0" y="516.0"/>
+      <point x="197.0" y="526.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 21:04:44</string>
     </dict>
   </lib>
 </glyph>

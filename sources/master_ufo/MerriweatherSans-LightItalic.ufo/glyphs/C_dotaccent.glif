@@ -6,7 +6,7 @@
 Cdotaccent
 </note>
   <anchor x="302.0" y="0.0" name="bottom"/>
-  <anchor x="425.0" y="939.0" name="top"/>
+  <anchor x="422.0" y="918.0" name="top"/>
   <outline>
     <component base="C"/>
     <component base="dotaccentcomb.case" xOffset="338.0"/>

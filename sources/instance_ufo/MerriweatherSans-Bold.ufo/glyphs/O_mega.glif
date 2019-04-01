@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omega" format="2">
-  <advance width="896.0"/>
+  <advance width="888.9794886153846"/>
   <unicode hex="03A9"/>
-  <anchor x="448.0" y="0.0" name="bottom"/>
+  <anchor x="444.95126153846155" y="0.0" name="bottom"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
-    <component base="Ohm"/>
+    <component base="Ohm" xOffset="0.5692307692307694"/>
   </outline>
   <lib>
     <dict>

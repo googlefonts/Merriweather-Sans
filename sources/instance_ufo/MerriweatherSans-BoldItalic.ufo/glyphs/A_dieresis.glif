@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Adieresis" format="2">
-  <advance width="645.0"/>
+  <advance width="645.5"/>
   <unicode hex="00C4"/>
   <note>
 Adieresis
 </note>
-  <anchor x="286.103" y="0.0" name="bottom"/>
-  <anchor x="606.795" y="0.0" name="ogonek"/>
-  <anchor x="423.641" y="974.487" name="top"/>
+  <anchor x="286.1628787878788" y="0.0" name="bottom"/>
+  <anchor x="605.7333333333333" y="0.0" name="ogonek"/>
+  <anchor x="429.544696969697" y="976.0625" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dieresiscomb.case" xOffset="332.0" yOffset="2.0"/>
+    <component base="dieresiscomb.case" xOffset="337.40909090909093" yOffset="0.34848484848484845"/>
   </outline>
   <lib>
     <dict>

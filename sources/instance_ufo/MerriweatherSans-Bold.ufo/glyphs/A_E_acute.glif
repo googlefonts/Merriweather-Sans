@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AEacute" format="2">
-  <advance width="947.0"/>
+  <advance width="941.7251267692308"/>
   <unicode hex="01FC"/>
-  <anchor x="474.0" y="0.0" name="bottom"/>
-  <anchor x="686.0" y="-83.0" name="btm"/>
-  <anchor x="511.0" y="1043.0" name="top"/>
+  <anchor x="470.90104615384615" y="0.0" name="bottom"/>
+  <anchor x="683.8118153846154" y="-83.0" name="btm"/>
+  <anchor x="509.10769230769233" y="1034.853723076923" name="top"/>
   <outline>
     <component base="AE"/>
-    <component base="acutecomb.case" xOffset="511.0"/>
+    <component base="acutecomb.case" xOffset="509.10769230769233"/>
   </outline>
   <lib>
     <dict>

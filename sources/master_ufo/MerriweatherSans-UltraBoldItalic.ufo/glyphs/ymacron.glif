@@ -3,15 +3,15 @@
   <advance width="557.0"/>
   <unicode hex="0233"/>
   <anchor x="462.0" y="0.0" name="bottom"/>
-  <anchor x="317.0" y="726.0" name="top"/>
+  <anchor x="325.0" y="726.0" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="macroncomb" xOffset="259.0"/>
+    <component base="macroncomb" xOffset="267.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 17:20:05</string>
     </dict>
   </lib>
 </glyph>

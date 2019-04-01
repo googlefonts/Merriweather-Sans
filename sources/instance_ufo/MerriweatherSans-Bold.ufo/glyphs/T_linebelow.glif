@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tlinebelow" format="2">
-  <advance width="610.0"/>
+  <advance width="620.1846153846154"/>
   <unicode hex="1E6E"/>
-  <anchor x="305.0" y="-179.0" name="bottom"/>
-  <anchor x="303.0" y="-83.0" name="btm"/>
-  <anchor x="305.0" y="372.0" name="center"/>
-  <anchor x="303.0" y="830.0" name="top"/>
+  <anchor x="310.3076923076923" y="-179.74627692307695" name="bottom"/>
+  <anchor x="310.17372307692307" y="372.0" name="center"/>
+  <anchor x="308.0343384615384" y="830.0" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="macronbelowcomb.case" xOffset="305.0"/>
+    <component base="macronbelowcomb.case" xOffset="310.3076923076923"/>
   </outline>
   <lib>
     <dict>

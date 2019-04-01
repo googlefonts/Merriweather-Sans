@@ -4,10 +4,16 @@
   <dict>
     <key>Ezh</key>
     <string>E_zh.glif</string>
+    <key>K</key>
+    <string>K_.glif</string>
     <key>Schwa</key>
     <string>S_chwa.glif</string>
     <key>dblgravecomb.case</key>
     <string>dblgravecomb.case.glif</string>
+    <key>delta.sc</key>
+    <string>delta.sc.glif</string>
+    <key>ezh.sc</key>
+    <string>ezh.sc.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>four.dnom</key>
@@ -28,6 +34,8 @@
     <string>one.tf.glif</string>
     <key>schwa.sc</key>
     <string>schwa.sc.glif</string>
+    <key>thorn.sc</key>
+    <string>thorn.sc.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>three.dnom</key>

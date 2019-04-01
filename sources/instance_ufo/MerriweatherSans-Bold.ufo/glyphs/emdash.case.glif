@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emdash.case" format="2">
-  <advance width="1119.0"/>
+  <advance width="1109.8670104615385"/>
   <outline>
-    <component base="emdash" yOffset="33.0"/>
+    <component base="emdash" yOffset="32.861046153846154"/>
   </outline>
   <lib>
     <dict>

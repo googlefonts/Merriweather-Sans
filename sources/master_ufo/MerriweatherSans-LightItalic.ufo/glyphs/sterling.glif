@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sterling" format="2">
-  <advance width="668.0"/>
+  <advance width="673.0"/>
   <unicode hex="00A3"/>
   <note>
 sterling
@@ -97,7 +97,7 @@ NPUSHB[ ]	/* 14 values pushed */
 58 56 17 20 37 36 17 20 22 37 36 10 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 02:09:19</string>
     </dict>
   </lib>
 </glyph>

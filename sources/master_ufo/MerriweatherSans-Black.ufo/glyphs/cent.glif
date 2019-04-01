@@ -2,9 +2,9 @@
 <glyph name="cent" format="2">
   <advance width="586.0"/>
   <unicode hex="00A2"/>
-  <anchor x="281.0" y="0.0" name="bottom"/>
-  <anchor x="321.0" y="-83.0" name="btm"/>
-  <anchor x="331.0" y="831.0" name="top"/>
+  <anchor x="273.0" y="0.0" name="bottom"/>
+  <anchor x="313.0" y="-83.0" name="btm"/>
+  <anchor x="323.0" y="831.0" name="top"/>
   <outline>
     <contour>
       <point x="284.0" y="521.0" type="line"/>
@@ -23,7 +23,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 01:42:35</string>
     </dict>
   </lib>
 </glyph>

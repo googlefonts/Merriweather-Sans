@@ -6,15 +6,15 @@
 jcircumflex
 </note>
   <anchor x="89.0" y="-273.0" name="bottom"/>
-  <anchor x="229.0" y="788.0" name="top"/>
+  <anchor x="237.0" y="788.0" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="162.0"/>
+    <component base="circumflexcomb" xOffset="170.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 15:16:20</string>
     </dict>
   </lib>
 </glyph>

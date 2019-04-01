@@ -7,7 +7,7 @@
   <anchor x="349.0" y="374.0" name="center_1"/>
   <anchor x="907.0" y="279.0" name="center_2"/>
   <anchor x="398.0" y="747.0" name="top_1"/>
-  <anchor x="980.0" y="788.0" name="top_2"/>
+  <anchor x="978.0" y="788.0" name="top_2"/>
   <outline>
     <component base="D"/>
     <component base="zcaron" xOffset="672.0"/>

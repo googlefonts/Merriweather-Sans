@@ -1,27 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="512.25641"/>
+  <advance width="512.6424242424242"/>
   <unicode hex="0141"/>
   <note>
 Lslash
 </note>
+  <anchor x="254.6969696969697" y="0.0" name="bottom"/>
+  <anchor x="267.57916666666665" y="374.1132575757576" name="center"/>
+  <anchor x="224.1969696969697" y="747.3484848484849" name="top"/>
+  <anchor x="550.5068181818182" y="747.3397727272727" name="topright"/>
   <outline>
     <contour>
-      <point x="44.538" y="0.41" type="line"/>
-      <point x="447.333" y="0.41" type="line"/>
-      <point x="465.385" y="124.308" type="line"/>
-      <point x="211.769" y="119.487" type="line"/>
-      <point x="239.949" y="323.231" type="line"/>
-      <point x="455.231" y="401.769" type="line"/>
-      <point x="431.179" y="486.744" type="line"/>
-      <point x="253.179" y="420.615" type="line"/>
-      <point x="298.59" y="748.0" type="line"/>
-      <point x="148.0" y="748.0" type="line"/>
-      <point x="94.59" y="361.923" type="line"/>
-      <point x="-17.949" y="319.795" type="line"/>
-      <point x="7.103" y="239.231" type="line"/>
-      <point x="81.359" y="266.538" type="line"/>
+      <point x="93.87878787878788" y="337.1515151515151" type="line"/>
+      <point x="236.87878787878788" y="388.969696969697" type="line"/>
+      <point x="467.56060606060606" y="473.1060606060606" type="line"/>
+      <point x="443.3484848484849" y="558.6969696969697" type="line"/>
+      <point x="250.13636363636363" y="485.5151515151515" type="line"/>
+      <point x="107.13636363636364" y="432.6969696969697" type="line"/>
+      <point x="-11.348484848484848" y="388.8181818181818" type="line"/>
+      <point x="13.515151515151516" y="308.22727272727275" type="line"/>
     </contour>
+    <component base="L"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +29,7 @@ Lslash
 10 9 4 3 4 2 1 1 74 0 1 1 17 75 3 1 2 2 0 89 0 0 0 18 0 76 0 0 0 13 0 13 21 17 4 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 20:00:08</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

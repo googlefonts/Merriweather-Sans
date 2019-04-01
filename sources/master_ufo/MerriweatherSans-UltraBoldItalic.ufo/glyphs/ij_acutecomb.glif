@@ -8,11 +8,11 @@ ij_acutecomb
   <anchor x="413.0" y="-273.0" name="bottom_2"/>
   <anchor x="227.0" y="10.0" name="ogonek"/>
   <anchor x="127.0" y="747.0" name="top_1"/>
-  <anchor x="523.0" y="557.0" name="top_2"/>
+  <anchor x="531.0" y="557.0" name="top_2"/>
   <outline>
     <component base="iacute"/>
     <component base="jdotless" xOffset="324.0"/>
-    <component base="acutecomb" xOffset="456.0"/>
+    <component base="acutecomb" xOffset="464.0"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>ij</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 15:16:20</string>
     </dict>
   </lib>
 </glyph>

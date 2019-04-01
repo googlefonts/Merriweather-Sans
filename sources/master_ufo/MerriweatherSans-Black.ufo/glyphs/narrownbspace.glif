@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="narrownbspace" format="2">
-  <advance width="180.0"/>
+  <advance width="178.0"/>
   <unicode hex="202F"/>
   <outline>
   </outline>
@@ -9,7 +9,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>space</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:16:26</string>
     </dict>
   </lib>
 </glyph>

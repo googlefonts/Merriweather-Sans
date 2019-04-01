@@ -1,31 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tenge" format="2">
-  <advance width="610.82051"/>
+  <advance width="697.2424242424242"/>
   <unicode hex="20B8"/>
-  <anchor x="303.821" y="-83.0" name="btm"/>
-  <anchor x="303.821" y="830.0" name="top"/>
+  <anchor x="348.07575757575756" y="-83.0" name="btm"/>
+  <anchor x="348.07575757575756" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="180.897" y="0.0" type="line"/>
-      <point x="346.333" y="0.0" type="line"/>
-      <point x="404.872" y="419.949" type="line"/>
-      <point x="612.359" y="419.949" type="line"/>
-      <point x="630.59" y="546.744" type="line"/>
-      <point x="48.359" y="546.744" type="line"/>
-      <point x="30.128" y="419.949" type="line"/>
-      <point x="239.436" y="419.949" type="line"/>
+      <point x="228.1818181818182" y="0.0" type="line"/>
+      <point x="388.3636363636364" y="0.0" type="line"/>
+      <point x="446.5" y="417.6969696969697" type="line"/>
+      <point x="655.8636363636364" y="417.6969696969697" type="line"/>
+      <point x="673.7727272727273" y="540.7121212121212" type="line"/>
+      <point x="92.56060606060606" y="540.7121212121212" type="line"/>
+      <point x="74.65151515151516" y="417.6969696969697" type="line"/>
+      <point x="286.3181818181818" y="417.6969696969697" type="line"/>
     </contour>
     <contour>
-      <point x="57.769" y="615.795" type="line"/>
-      <point x="640.0" y="615.795" type="line"/>
-      <point x="657.821" y="743.0" type="line"/>
-      <point x="75.59" y="743.0" type="line"/>
+      <point x="103.25757575757575" y="619.3333333333334" type="line"/>
+      <point x="684.469696969697" y="619.3333333333334" type="line"/>
+      <point x="701.7272727272727" y="743.0" type="line"/>
+      <point x="120.51515151515152" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:04:08</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ytilde" format="2">
-  <advance width="557.0"/>
+  <advance width="556.8484848484849"/>
   <unicode hex="1EF8"/>
-  <anchor x="241.692" y="0.0" name="bottom"/>
-  <anchor x="373.0" y="978.0" name="top"/>
-  <anchor x="82.0" y="748.769" name="topleft"/>
+  <anchor x="241.51136363636363" y="0.0" name="bottom"/>
+  <anchor x="371.3787878787879" y="968.3333333333334" name="top"/>
+  <anchor x="82.0" y="747.3397727272727" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="tildecomb.case" xOffset="279.0" yOffset="2.0"/>
+    <component base="tildecomb.case" xOffset="278.42424242424244" yOffset="0.34848484848484845"/>
   </outline>
   <lib>
     <dict>

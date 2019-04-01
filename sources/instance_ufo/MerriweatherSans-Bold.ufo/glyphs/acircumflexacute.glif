@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexacute" format="2">
-  <advance width="592.0"/>
+  <advance width="592.0153846153846"/>
   <unicode hex="1EA5"/>
-  <anchor x="296.0" y="0.0" name="bottom"/>
-  <anchor x="290.0" y="-100.0" name="btm"/>
-  <anchor x="507.0" y="25.0" name="ogonek"/>
-  <anchor x="290.0" y="1057.0" name="top"/>
+  <anchor x="296.31643076923075" y="0.0" name="bottom"/>
+  <anchor x="292.2262769230769" y="-100.0" name="btm"/>
+  <anchor x="520.1174153846154" y="25.0" name="ogonek"/>
+  <anchor x="287.8" y="1068.3846153846155" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb_acutecomb" xOffset="290.0"/>
+    <component base="circumflexcomb_acutecomb" xOffset="287.8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 15:50:16</string>
     </dict>
   </lib>
 </glyph>

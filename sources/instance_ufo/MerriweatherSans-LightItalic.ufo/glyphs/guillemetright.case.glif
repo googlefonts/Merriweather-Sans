@@ -1,28 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="916.0"/>
+  <advance width="856.0"/>
   <note>
 guillemotright
 </note>
   <outline>
-    <contour>
-      <point x="464.0" y="144.0" type="line"/>
-      <point x="803.0" y="347.0" type="line"/>
-      <point x="811.0" y="405.0" type="line"/>
-      <point x="526.0" y="600.0" type="line"/>
-      <point x="500.0" y="559.0" type="line"/>
-      <point x="721.0" y="375.0" type="line"/>
-      <point x="449.0" y="188.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="134.0" y="144.0" type="line"/>
-      <point x="473.0" y="347.0" type="line"/>
-      <point x="481.0" y="405.0" type="line"/>
-      <point x="196.0" y="600.0" type="line"/>
-      <point x="170.0" y="559.0" type="line"/>
-      <point x="391.0" y="375.0" type="line"/>
-      <point x="119.0" y="188.0" type="line"/>
-    </contour>
+    <component base="guillemetright" xOffset="10.0" yOffset="74.0"/>
   </outline>
   <lib>
     <dict>
@@ -35,7 +18,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guillemetright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 18:15:01</string>
     </dict>
   </lib>
 </glyph>

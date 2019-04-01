@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccedilla.sc" format="2">
-  <advance width="624.0"/>
+  <advance width="600.0"/>
   <anchor x="312.0" y="-227.0" name="bottom"/>
   <anchor x="372.0" y="-72.0" name="btm"/>
   <anchor x="368.0" y="896.0" name="top"/>
@@ -10,10 +10,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 04:27:18</string>
     </dict>
   </lib>
 </glyph>

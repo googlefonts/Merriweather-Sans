@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lacute" format="2">
-  <advance width="547.0"/>
+  <advance width="535.8153846153846"/>
   <unicode hex="0139"/>
-  <anchor x="274.0" y="0.0" name="bottom"/>
-  <anchor x="298.0" y="-83.0" name="btm"/>
-  <anchor x="274.0" y="372.0" name="center"/>
-  <anchor x="170.0" y="1043.0" name="top"/>
-  <anchor x="527.0" y="743.0" name="topright"/>
+  <anchor x="265.6923076923077" y="0.0" name="bottom"/>
+  <anchor x="290.1384615384615" y="-83.0" name="btm"/>
+  <anchor x="265.6923076923077" y="372.0" name="center"/>
+  <anchor x="162.36923076923077" y="1034.853723076923" name="top"/>
+  <anchor x="515.8153846153846" y="743.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb.case" xOffset="170.0"/>
+    <component base="acutecomb.case" xOffset="162.36923076923077"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/31 03:56:23</string>
     </dict>
   </lib>
 </glyph>

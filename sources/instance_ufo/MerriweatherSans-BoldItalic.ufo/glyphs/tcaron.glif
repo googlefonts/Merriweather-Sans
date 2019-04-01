@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-  <advance width="395.84615"/>
+  <advance width="395.9909090909091"/>
   <unicode hex="0165"/>
   <note>
 tcaron
 </note>
-  <anchor x="160.923" y="0.0" name="bottom"/>
-  <anchor x="197.923" y="279.0" name="center"/>
-  <anchor x="245.077" y="653.026" name="top"/>
-  <anchor x="412.846" y="557.0" name="topright"/>
+  <anchor x="156.33333333333334" y="0.0" name="bottom"/>
+  <anchor x="193.33333333333334" y="279.0" name="center"/>
+  <anchor x="241.3181818181818" y="647.1818181818181" name="top"/>
+  <anchor x="408.3636363636364" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="429.641" y="609.0" type="line"/>
-      <point x="471.103" y="657.59"/>
-      <point x="497.513" y="749.821"/>
-      <point x="497.513" y="826.103" type="curve"/>
-      <point x="497.513" y="871.821"/>
-      <point x="491.103" y="907.872"/>
-      <point x="479.692" y="924.0" type="curve"/>
-      <point x="375.359" y="901.0" type="line"/>
-      <point x="367.538" y="881.769" type="line"/>
-      <point x="376.128" y="869.59"/>
-      <point x="380.718" y="831.282"/>
-      <point x="380.718" y="784.949" type="curve" smooth="yes"/>
-      <point x="380.718" y="732.308"/>
-      <point x="372.128" y="673.487"/>
-      <point x="360.718" y="636.769" type="curve"/>
-      <point x="363.718" y="624.179" type="line"/>
+      <point x="429.9003787878788" y="608.7647727272728" type="line"/>
+      <point x="471.8685606060606" y="657.8189393939394"/>
+      <point x="497.81439393939394" y="749.5973484848485"/>
+      <point x="497.81439393939394" y="825.9276515151515" type="curve"/>
+      <point x="497.81439393939394" y="870.6564393939394"/>
+      <point x="491.8685606060606" y="907.9140151515152"/>
+      <point x="480.2170454545454" y="923.7647727272728" type="curve"/>
+      <point x="375.57007575757575" y="901.0" type="line"/>
+      <point x="367.9727272727273" y="881.5159090909091" type="line"/>
+      <point x="376.3212121212121" y="869.3484848484849"/>
+      <point x="380.9049242424243" y="833.917803030303"/>
+      <point x="380.9049242424243" y="784.9185606060606" type="curve" smooth="yes"/>
+      <point x="380.9049242424243" y="732.7238636363636"/>
+      <point x="373.026893939394" y="675.3026515151515"/>
+      <point x="360.9049242424243" y="636.5159090909091" type="curve"/>
+      <point x="363.9049242424243" y="624.4026515151515" type="line"/>
     </contour>
     <component base="t"/>
   </outline>

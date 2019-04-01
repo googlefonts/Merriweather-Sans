@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-  <advance width="723.025"/>
+  <advance width="735.0"/>
   <unicode hex="00A5"/>
   <note>
 yen
@@ -37,7 +37,7 @@ yen
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:04:41</string>
     </dict>
   </lib>
 </glyph>

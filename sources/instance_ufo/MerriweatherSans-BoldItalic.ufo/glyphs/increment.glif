@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="increment" format="2">
-  <advance width="687.0"/>
+  <advance width="713.060606060606"/>
   <unicode hex="2206"/>
   <note>
 uni2206
 </note>
   <outline>
     <contour>
-      <point x="-39.385" y="0.0" type="line"/>
-      <point x="613.615" y="0.0" type="line"/>
-      <point x="623.026" y="13.0" type="line"/>
-      <point x="386.872" y="736.0" type="line"/>
-      <point x="371.282" y="736.0" type="line"/>
-      <point x="-43.564" y="11.0" type="line"/>
+      <point x="-16.543181818181818" y="0.0" type="line"/>
+      <point x="661.6306818181819" y="0.0" type="line"/>
+      <point x="670.3954545454545" y="13.0" type="line"/>
+      <point x="389.469696969697" y="736.0" type="line"/>
+      <point x="373.469696969697" y="736.0" type="line"/>
+      <point x="-22.429924242424242" y="11.0" type="line"/>
     </contour>
     <contour>
-      <point x="162.538" y="123.897" type="line"/>
-      <point x="345.41" y="463.359" type="line"/>
-      <point x="451.103" y="123.897" type="line"/>
+      <point x="179.0810606060606" y="119.51174242424243" type="line"/>
+      <point x="364.90909090909093" y="463.0909090909091" type="line"/>
+      <point x="487.8844696969697" y="119.51174242424243" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ uni2206
 7 6 2 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:39:00</string>
     </dict>
   </lib>
 </glyph>

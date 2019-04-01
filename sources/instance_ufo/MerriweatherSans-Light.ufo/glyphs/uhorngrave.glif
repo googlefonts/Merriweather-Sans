@@ -1,22 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorngrave" format="2">
-  <advance width="610.0"/>
+  <advance width="598.0"/>
   <unicode hex="1EEB"/>
   <anchor x="305.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="-83.0" name="btm"/>
-  <anchor x="549.0" y="10.0" name="ogonek"/>
-  <anchor x="245.0" y="597.0" name="top"/>
-  <anchor x="590.0" y="557.0" name="topright"/>
+  <anchor x="284.0" y="-83.0" name="btm"/>
+  <anchor x="537.0" y="10.0" name="ogonek"/>
+  <anchor x="245.0" y="870.0" name="top"/>
+  <anchor x="553.0" y="557.0" name="topright"/>
   <outline>
     <component base="uhorn"/>
-    <component base="gravecomb" xOffset="304.0" yOffset="-273.0"/>
+    <component base="gravecomb" xOffset="304.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>2019/04/01 02:42:11</string>
     </dict>
   </lib>
 </glyph>

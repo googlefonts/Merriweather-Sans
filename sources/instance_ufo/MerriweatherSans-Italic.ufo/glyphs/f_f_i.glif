@@ -8,8 +8,8 @@ f_f_i
   <anchor x="480.6" y="0.0" name="bottom_2"/>
   <anchor x="798.25" y="0.0" name="bottom_3"/>
   <anchor x="876.85" y="10.0" name="ogonek"/>
-  <anchor x="265.6" y="747.975" name="top_1"/>
-  <anchor x="610.6" y="747.975" name="top_2"/>
+  <anchor x="301.0" y="803.0" name="top_1"/>
+  <anchor x="646.0" y="803.0" name="top_2"/>
   <anchor x="872.25" y="557.0" name="top_3"/>
   <outline>
     <component base="f"/>

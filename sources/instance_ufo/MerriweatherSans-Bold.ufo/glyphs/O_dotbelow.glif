@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odotbelow" format="2">
-  <advance width="779.0"/>
+  <advance width="770.8307692307692"/>
   <unicode hex="1ECC"/>
-  <anchor x="390.0" y="-234.0" name="bottom"/>
-  <anchor x="388.0" y="-83.0" name="btm"/>
-  <anchor x="390.0" y="372.0" name="center"/>
-  <anchor x="701.0" y="10.0" name="ogonek"/>
-  <anchor x="402.0" y="830.0" name="top"/>
-  <anchor x="20.0" y="743.0" name="topleft"/>
-  <anchor x="759.0" y="743.0" name="topright"/>
+  <anchor x="386.1857846153846" y="-230.9768" name="bottom"/>
+  <anchor x="384.4153846153846" y="-83.0" name="btm"/>
+  <anchor x="385.9846153846154" y="372.0" name="center"/>
+  <anchor x="487.81538461538463" y="10.0" name="ogonek"/>
+  <anchor x="394.5692307692308" y="830.0" name="top"/>
+  <anchor x="17.43076923076923" y="743.0" name="topleft"/>
+  <anchor x="511.4307692307692" y="721.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb.case" xOffset="393.0"/>
+    <component base="dotbelowcomb.case" xOffset="386.4153846153846"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/31 03:56:11</string>
     </dict>
   </lib>
 </glyph>

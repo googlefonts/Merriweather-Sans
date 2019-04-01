@@ -1,22 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacrondieresis.sc" format="2">
-  <advance width="722.0"/>
-  <anchor x="361.0" y="0.0" name="bottom"/>
-  <anchor x="362.0" y="-72.0" name="btm"/>
-  <anchor x="650.0" y="10.0" name="ogonek"/>
-  <anchor x="363.0" y="1090.0" name="top"/>
-  <anchor x="702.0" y="646.0" name="topright"/>
+  <advance width="703.9538461538461"/>
+  <anchor x="352.26153846153846" y="0.0" name="bottom"/>
+  <anchor x="421.6615384615385" y="0.0" name="ogonek"/>
+  <anchor x="353.4153846153846" y="1301.123076923077" name="top"/>
+  <anchor x="517.876923076923" y="646.0" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="macroncomb" xOffset="363.0" yOffset="-109.0"/>
-    <component base="dieresiscomb" xOffset="363.0" yOffset="67.0"/>
+    <component base="macroncomb" xOffset="353.4153846153846" yOffset="69.43076923076923"/>
+    <component base="dieresiscomb" xOffset="353.4153846153846" yOffset="262.75384615384615"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/30 17:31:57</string>
     </dict>
   </lib>
 </glyph>

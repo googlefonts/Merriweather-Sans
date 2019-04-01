@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth.sc" format="2">
-  <advance width="674.0"/>
+  <advance width="682.0"/>
   <note>
 Eth
 </note>
-  <anchor x="300.0" y="0.0" name="bottom"/>
-  <anchor x="344.0" y="325.0" name="center"/>
-  <anchor x="386.0" y="649.0" name="top"/>
+  <anchor x="310.0" y="0.0" name="bottom"/>
+  <anchor x="354.0" y="325.0" name="center"/>
+  <anchor x="376.0" y="649.0" name="top"/>
   <outline>
     <contour>
-      <point x="404.0" y="403.0" type="line"/>
-      <point x="19.0" y="403.0" type="line"/>
-      <point x="9.0" y="279.0" type="line"/>
-      <point x="393.0" y="279.0" type="line"/>
+      <point x="414.0" y="403.0" type="line"/>
+      <point x="29.0" y="403.0" type="line"/>
+      <point x="19.0" y="279.0" type="line"/>
+      <point x="403.0" y="279.0" type="line"/>
     </contour>
-    <contour>
-      <point x="269.0" y="-7.0" type="curve" smooth="yes"/>
-      <point x="519.0" y="-7.0"/>
-      <point x="665.0" y="158.0"/>
-      <point x="665.0" y="393.0" type="curve" smooth="yes"/>
-      <point x="665.0" y="568.0"/>
-      <point x="572.0" y="657.0"/>
-      <point x="388.0" y="657.0" type="curve" smooth="yes"/>
-      <point x="381.0" y="657.0"/>
-      <point x="209.0" y="650.0"/>
-      <point x="203.0" y="650.0" type="curve"/>
-      <point x="127.0" y="650.0" type="line"/>
-      <point x="32.0" y="0.0" type="line"/>
-      <point x="101.0" y="0.0" type="line" smooth="yes"/>
-      <point x="114.0" y="0.0"/>
-      <point x="213.0" y="-7.0"/>
-    </contour>
-    <contour>
-      <point x="292.0" y="120.0" type="curve" smooth="yes"/>
-      <point x="267.0" y="120.0"/>
-      <point x="242.0" y="122.0"/>
-      <point x="224.0" y="127.0" type="curve"/>
-      <point x="285.0" y="524.0" type="line"/>
-      <point x="304.0" y="527.0"/>
-      <point x="335.0" y="528.0"/>
-      <point x="356.0" y="528.0" type="curve" smooth="yes"/>
-      <point x="415.0" y="528.0"/>
-      <point x="451.0" y="517.0"/>
-      <point x="470.0" y="482.0" type="curve" smooth="yes"/>
-      <point x="480.0" y="463.0"/>
-      <point x="485.0" y="436.0"/>
-      <point x="485.0" y="397.0" type="curve" smooth="yes"/>
-      <point x="485.0" y="290.0"/>
-      <point x="458.0" y="203.0"/>
-      <point x="402.0" y="156.0" type="curve" smooth="yes"/>
-      <point x="372.0" y="131.0"/>
-      <point x="333.0" y="120.0"/>
-    </contour>
+    <component base="d.sc" xOffset="10.0"/>
   </outline>
   <lib>
     <dict>
@@ -83,12 +46,10 @@ EIF[ ]	/* EndIf */
 NPUSHB[ ]	/* 17 values pushed */
 23 23 23 39 23 38 17 18 41 97 17 17 50 34 10 7 28 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>d.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 21:06:04</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

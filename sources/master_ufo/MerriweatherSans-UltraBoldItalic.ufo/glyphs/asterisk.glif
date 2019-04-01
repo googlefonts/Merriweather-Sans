@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk" format="2">
-  <advance width="667.0"/>
+  <advance width="639.0"/>
   <unicode hex="002A"/>
   <note>
 asterisk
@@ -46,7 +46,7 @@ asterisk
 28 27 26 21 19 18 16 14 13 11 6 4 3 1 14 1 0 1 74 0 0 1 1 0 85 0 0 0 1 89 0 1 0 1 77 30 24 2 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 19:07:36</string>
     </dict>
   </lib>
 </glyph>

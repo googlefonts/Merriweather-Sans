@@ -1,21 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex.sc" format="2">
-  <advance width="739.08889"/>
-  <anchor x="369.956" y="0.0" name="bottom"/>
-  <anchor x="364.533" y="-72.0" name="btm"/>
-  <anchor x="369.956" y="323.0" name="center"/>
-  <anchor x="369.0" y="949.0" name="top"/>
-  <anchor x="20.0" y="646.0" name="topleft"/>
+  <advance width="727.0"/>
+  <anchor x="364.0" y="0.0" name="bottom"/>
+  <anchor x="359.0" y="-72.0" name="btm"/>
+  <anchor x="364.0" y="323.0" name="center"/>
+  <anchor x="363.0" y="1127.0" name="top"/>
+  <anchor x="14.0" y="646.0" name="topleft"/>
   <outline>
     <component base="h.sc"/>
-    <component base="circumflexcomb" xOffset="369.0" yOffset="-108.0"/>
+    <component base="circumflexcomb" xOffset="363.0" yOffset="70.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 13:43:27</string>
     </dict>
   </lib>
 </glyph>

@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tf" format="2">
-  <advance width="591.0"/>
+  <advance width="618.0"/>
   <outline>
     <contour>
-      <point x="298.0" y="0.0" type="line"/>
-      <point x="459.0" y="0.0" type="line"/>
-      <point x="482.0" y="183.0" type="line"/>
-      <point x="580.0" y="183.0" type="line"/>
-      <point x="598.0" y="311.0" type="line"/>
-      <point x="500.0" y="304.0" type="line"/>
-      <point x="522.0" y="500.0" type="line"/>
-      <point x="365.0" y="483.0" type="line"/>
-      <point x="339.0" y="300.0" type="line"/>
-      <point x="161.0" y="292.0" type="line"/>
-      <point x="200.0" y="346.0" type="line"/>
-      <point x="449.0" y="705.0" type="line"/>
-      <point x="409.0" y="748.0" type="line"/>
-      <point x="264.0" y="748.0" type="line"/>
-      <point x="186.0" y="572.0"/>
-      <point x="82.0" y="442.0"/>
-      <point x="-7.0" y="263.0" type="curve"/>
-      <point x="31.0" y="183.0" type="line"/>
-      <point x="322.0" y="183.0" type="line"/>
+      <point x="308.0" y="0.0" type="line"/>
+      <point x="460.0" y="0.0" type="line"/>
+      <point x="481.0" y="150.0" type="line"/>
+      <point x="580.0" y="150.0" type="line"/>
+      <point x="599.0" y="287.0" type="line"/>
+      <point x="500.0" y="281.0" type="line"/>
+      <point x="538.0" y="501.0" type="line"/>
+      <point x="390.0" y="484.0" type="line"/>
+      <point x="349.0" y="277.0" type="line"/>
+      <point x="184.0" y="268.0" type="line"/>
+      <point x="214.0" y="313.0" type="line"/>
+      <point x="417.0" y="719.0" type="line"/>
+      <point x="391.0" y="748.0" type="line"/>
+      <point x="241.0" y="748.0" type="line"/>
+      <point x="165.0" y="572.0"/>
+      <point x="93.0" y="371.0"/>
+      <point x="9.0" y="230.0" type="curve"/>
+      <point x="48.0" y="150.0" type="line"/>
+      <point x="331.0" y="150.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>70</integer>
+        <key>monoWidth</key>
+        <integer>618</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 17:59:18</string>
     </dict>
   </lib>
 </glyph>

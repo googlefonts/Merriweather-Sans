@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
-  <advance width="638.0"/>
+  <advance width="621.4"/>
   <unicode hex="005A"/>
-  <anchor x="319.0" y="0.0" name="bottom"/>
-  <anchor x="312.0" y="-83.0" name="btm"/>
-  <anchor x="319.0" y="372.0" name="center"/>
-  <anchor x="330.0" y="830.0" name="top"/>
+  <anchor x="304.26153846153846" y="0.0" name="bottom"/>
+  <anchor x="297.84615384615387" y="-83.0" name="btm"/>
+  <anchor x="304.26153846153846" y="372.0" name="center"/>
+  <anchor x="314.1384615384615" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="46.0" y="0.0" type="line"/>
-      <point x="584.0" y="0.0" type="line"/>
-      <point x="584.0" y="118.0" type="line"/>
-      <point x="239.0" y="118.0" type="line"/>
-      <point x="275.0" y="164.0" type="line"/>
-      <point x="603.0" y="704.0" type="line"/>
-      <point x="584.0" y="743.0" type="line"/>
-      <point x="63.0" y="743.0" type="line"/>
-      <point x="63.0" y="630.0" type="line"/>
-      <point x="390.0" y="630.0" type="line"/>
-      <point x="361.0" y="591.0" type="line"/>
-      <point x="26.0" y="41.0" type="line"/>
+      <point x="45.169230769230765" y="0.0" type="line"/>
+      <point x="576.7846153846154" y="0.0" type="line"/>
+      <point x="576.7846153846154" y="118.32307692307694" type="line"/>
+      <point x="236.0923076923077" y="118.32307692307694" type="line"/>
+      <point x="272.0923076923077" y="165.8769230769231" type="line"/>
+      <point x="599.0923076923077" y="704.0" type="line"/>
+      <point x="577.8" y="743.0" type="line"/>
+      <point x="61.89230769230769" y="743.0" type="line"/>
+      <point x="61.89230769230769" y="625.9538461538461" type="line"/>
+      <point x="388.44615384615383" y="625.9538461538461" type="line"/>
+      <point x="358.16923076923075" y="584.123076923077" type="line"/>
+      <point x="24.307692307692303" y="41.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 03:27:34</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

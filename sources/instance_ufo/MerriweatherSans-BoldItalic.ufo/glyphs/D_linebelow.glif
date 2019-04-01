@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dlinebelow" format="2">
-  <advance width="689.0"/>
+  <advance width="688.3787878787879"/>
   <unicode hex="1E0E"/>
-  <anchor x="307.462" y="0.0" name="bottom"/>
-  <anchor x="357.462" y="374.59" name="center"/>
-  <anchor x="406.462" y="748.769" name="top"/>
+  <anchor x="307.4977272727273" y="0.0" name="bottom"/>
+  <anchor x="357.4977272727273" y="374.1132575757576" name="center"/>
+  <anchor x="406.4977272727273" y="747.3397727272727" name="top"/>
   <outline>
     <component base="D"/>
-    <component base="macronbelowcomb.case" xOffset="307.0"/>
+    <component base="macronbelowcomb.case" xOffset="307.5151515151515"/>
   </outline>
   <lib>
     <dict>

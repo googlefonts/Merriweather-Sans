@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tdotaccent" format="2">
-  <advance width="559.0"/>
+  <advance width="558.8181818181819"/>
   <unicode hex="1E6A"/>
-  <anchor x="242.641" y="0.0" name="bottom"/>
-  <anchor x="292.641" y="374.59" name="center"/>
-  <anchor x="367.0" y="941.0" name="top"/>
+  <anchor x="242.6651515151515" y="0.0" name="bottom"/>
+  <anchor x="292.66515151515154" y="374.1132575757576" name="center"/>
+  <anchor x="369.1666666666667" y="956.8030303030303" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="dotaccentcomb.case" xOffset="280.0" yOffset="2.0"/>
+    <component base="dotaccentcomb.case" xOffset="279.56060606060606" yOffset="0.34848484848484845"/>
   </outline>
   <lib>
     <dict>

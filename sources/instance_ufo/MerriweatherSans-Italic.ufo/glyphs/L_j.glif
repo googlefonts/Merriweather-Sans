@@ -2,11 +2,11 @@
 <glyph name="Lj" format="2">
   <advance width="774.975"/>
   <unicode hex="01C8"/>
-  <anchor x="205.575" y="0.0" name="bottom_1"/>
+  <anchor x="256.0" y="0.0" name="bottom_1"/>
   <anchor x="557.25" y="-273.0" name="bottom_2"/>
   <anchor x="255.575" y="374.325" name="center"/>
-  <anchor x="304.575" y="747.975" name="top_1"/>
-  <anchor x="667.25" y="557.0" name="top_2"/>
+  <anchor x="204.0" y="748.0" name="top_1"/>
+  <anchor x="675.0" y="557.0" name="top_2"/>
   <anchor x="527.15" y="747.975" name="topright"/>
   <outline>
     <component base="L"/>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 17:02:36</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ymacron.sc" format="2">
-  <advance width="554.0"/>
+  <advance width="567.0"/>
   <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="347.0" y="818.0" name="top"/>
+  <anchor x="343.0" y="809.0" name="top"/>
   <anchor x="70.0" y="649.0" name="topleft"/>
   <outline>
     <component base="y.sc"/>
-    <component base="macroncomb" xOffset="289.0" yOffset="92.0"/>
+    <component base="macroncomb" xOffset="285.0" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 19:00:55</string>
     </dict>
   </lib>
 </glyph>

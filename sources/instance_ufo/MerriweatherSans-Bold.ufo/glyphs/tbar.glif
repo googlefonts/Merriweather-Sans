@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="446.0"/>
+  <advance width="438.4355550769231"/>
   <unicode hex="0167"/>
-  <anchor x="223.0" y="0.0" name="bottom"/>
-  <anchor x="253.0" y="-83.0" name="btm"/>
-  <anchor x="223.0" y="279.0" name="center"/>
-  <anchor x="211.0" y="913.0" name="top"/>
-  <anchor x="426.0" y="557.0" name="topright"/>
+  <anchor x="216.4" y="0.0" name="bottom"/>
+  <anchor x="242.27692307692308" y="-83.0" name="btm"/>
+  <anchor x="216.4" y="279.0" name="center"/>
+  <anchor x="201.23076923076923" y="913.0" name="top"/>
+  <anchor x="415.5076923076923" y="557.0" name="topright"/>
   <outline>
     <contour>
-      <point x="40.0" y="255.0" type="line"/>
-      <point x="410.0" y="255.0" type="line"/>
-      <point x="410.0" y="360.0" type="line"/>
-      <point x="40.0" y="360.0" type="line"/>
+      <point x="33.738461538461536" y="259.21230769230766" type="line"/>
+      <point x="402.1571692307692" y="259.21230769230766" type="line"/>
+      <point x="402.1571692307692" y="363.8958769230769" type="line"/>
+      <point x="33.738461538461536" y="363.8958769230769" type="line"/>
     </contour>
     <component base="t"/>
   </outline>

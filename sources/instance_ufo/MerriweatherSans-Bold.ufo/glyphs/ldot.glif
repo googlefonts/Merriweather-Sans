@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
-  <advance width="523.0"/>
+  <advance width="514.638632"/>
   <unicode hex="0140"/>
-  <anchor x="156.0" y="0.0" name="bottom"/>
-  <anchor x="155.0" y="-83.0" name="btm"/>
-  <anchor x="156.0" y="492.0" name="center"/>
-  <anchor x="156.0" y="891.0" name="top"/>
-  <anchor x="292.0" y="983.0" name="topright"/>
+  <anchor x="153.69230769230768" y="0.0" name="bottom"/>
+  <anchor x="147.96923076923076" y="-83.0" name="btm"/>
+  <anchor x="153.69230769230768" y="492.0" name="center"/>
+  <anchor x="153.55384615384617" y="893.6615384615385" name="top"/>
+  <anchor x="293.9384615384615" y="983.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="period" xOffset="264.0" yOffset="333.0"/>
+    <component base="period" xOffset="261.7356307692308" yOffset="332.8355076923077"/>
   </outline>
   <lib>
     <dict>

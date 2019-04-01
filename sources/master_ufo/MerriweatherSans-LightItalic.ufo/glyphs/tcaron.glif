@@ -5,10 +5,10 @@
   <note>
 tcaron
 </note>
-  <anchor x="144.0" y="0.0" name="bottom"/>
-  <anchor x="181.0" y="279.0" name="center"/>
-  <anchor x="205.0" y="658.0" name="top"/>
-  <anchor x="378.0" y="557.0" name="topright"/>
+  <anchor x="139.0" y="0.0" name="bottom"/>
+  <anchor x="176.0" y="279.0" name="center"/>
+  <anchor x="200.0" y="658.0" name="top"/>
+  <anchor x="373.0" y="557.0" name="topright"/>
   <outline>
     <contour>
       <point x="357.0" y="610.0" type="line"/>

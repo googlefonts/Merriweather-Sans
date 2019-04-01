@@ -3,17 +3,15 @@
   <advance width="872.0"/>
   <anchor x="436.0" y="0.0" name="bottom"/>
   <anchor x="651.0" y="-72.0" name="btm"/>
-  <anchor x="409.0" y="1066.0" name="top"/>
+  <anchor x="480.0" y="1049.0" name="top"/>
   <outline>
     <component base="ae.sc"/>
-    <component base="acutecomb" xOffset="455.0" yOffset="83.0"/>
+    <component base="acutecomb" xOffset="547.0" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/28 14:59:06</string>
     </dict>
   </lib>
 </glyph>

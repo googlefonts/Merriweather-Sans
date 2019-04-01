@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotereversed" format="2">
-  <advance width="334.82051"/>
+  <advance width="348.6969696969697"/>
   <unicode hex="201B"/>
   <note>
 quotereversed
 </note>
   <outline>
     <contour>
-      <point x="209.974" y="434.179" type="curve"/>
-      <point x="269.846" y="487.051" type="line"/>
-      <point x="271.846" y="497.641" type="line"/>
-      <point x="247.436" y="519.872"/>
-      <point x="223.205" y="569.282"/>
-      <point x="223.205" y="620.282" type="curve" smooth="yes"/>
-      <point x="223.205" y="674.692"/>
-      <point x="248.077" y="727.641"/>
-      <point x="295.795" y="746.179" type="curve"/>
-      <point x="298.795" y="766.179" type="line"/>
-      <point x="238.872" y="857.333" type="line"/>
-      <point x="164.359" y="846.692"/>
-      <point x="99.231" y="753.564"/>
-      <point x="99.231" y="655.615" type="curve" smooth="yes"/>
-      <point x="99.231" y="564.333"/>
-      <point x="145.462" y="486.051"/>
+      <point x="223.9848484848485" y="434.3939393939394" type="curve"/>
+      <point x="283.8030303030303" y="487.2121212121212" type="line"/>
+      <point x="285.8030303030303" y="497.56060606060606" type="line"/>
+      <point x="261.1515151515151" y="520.5151515151515"/>
+      <point x="235.5" y="571.560606060606"/>
+      <point x="235.5" y="622.560606060606" type="curve" smooth="yes"/>
+      <point x="235.5" y="678.6060606060606"/>
+      <point x="262.40909090909093" y="729.6515151515151"/>
+      <point x="308.1969696969697" y="747.439393939394" type="curve"/>
+      <point x="311.1969696969697" y="767.439393939394" type="line"/>
+      <point x="252.56060606060606" y="857.3333333333334" type="line"/>
+      <point x="173.3030303030303" y="845.030303030303"/>
+      <point x="111.95454545454545" y="753.5909090909091"/>
+      <point x="111.95454545454545" y="658.2424242424242" type="curve" smooth="yes"/>
+      <point x="111.95454545454545" y="565.3787878787879"/>
+      <point x="158.56060606060606" y="486.90909090909093"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ quotereversed
 15 3 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 20:30:58</string>
     </dict>
   </lib>
 </glyph>

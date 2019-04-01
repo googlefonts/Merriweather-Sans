@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lj" format="2">
-  <advance width="626.0"/>
+  <advance width="618.4307692307692"/>
   <unicode hex="01C9"/>
-  <anchor x="156.0" y="0.0" name="bottom_1"/>
-  <anchor x="469.0" y="-273.0" name="bottom_2"/>
-  <anchor x="155.0" y="-83.0" name="btm"/>
-  <anchor x="156.0" y="492.0" name="center"/>
-  <anchor x="156.0" y="891.0" name="top_1"/>
-  <anchor x="473.0" y="831.0" name="top_2"/>
-  <anchor x="292.0" y="983.0" name="topright"/>
+  <anchor x="153.69230769230768" y="0.0" name="bottom_1"/>
+  <anchor x="462.9171692307692" y="-273.0" name="bottom_2"/>
+  <anchor x="147.96923076923076" y="-83.0" name="btm"/>
+  <anchor x="153.69230769230768" y="492.0" name="center"/>
+  <anchor x="153.55384615384617" y="893.6615384615385" name="top_1"/>
+  <anchor x="469.6118153846154" y="830.6459076923077" name="top_2"/>
+  <anchor x="293.9384615384615" y="983.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="jdotless" xOffset="312.0"/>
-    <component base="dotaccent" xOffset="351.0"/>
+    <component base="jdotless" xOffset="306.81538461538463"/>
+    <component base="dotaccent" xOffset="348.9846153846154"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 02:29:01</string>
     </dict>
   </lib>
 </glyph>

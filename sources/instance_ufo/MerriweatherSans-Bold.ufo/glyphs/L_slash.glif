@@ -1,25 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="547.0"/>
+  <advance width="535.8153846153846"/>
   <unicode hex="0141"/>
-  <anchor x="274.0" y="0.0" name="bottom"/>
-  <anchor x="298.0" y="-83.0" name="btm"/>
-  <anchor x="274.0" y="372.0" name="center"/>
-  <anchor x="170.0" y="830.0" name="top"/>
-  <anchor x="527.0" y="743.0" name="topright"/>
+  <anchor x="265.6923076923077" y="0.0" name="bottom"/>
+  <anchor x="290.1384615384615" y="-83.0" name="btm"/>
+  <anchor x="265.6923076923077" y="372.0" name="center"/>
+  <anchor x="162.36923076923077" y="830.0" name="top"/>
+  <anchor x="515.8153846153846" y="743.0" name="topright"/>
   <outline>
     <contour>
-      <point x="12.0" y="360.0" type="line"/>
-      <point x="44.0" y="277.0" type="line"/>
-      <point x="432.0" y="419.0" type="line"/>
-      <point x="400.0" y="503.0" type="line"/>
+      <point x="9.2296" y="361.1635692307692" type="line"/>
+      <point x="40.8123076923077" y="277.0" type="line"/>
+      <point x="428.4582153846154" y="419.0" type="line"/>
+      <point x="396.30627692307695" y="504.1635692307692" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:16:03</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

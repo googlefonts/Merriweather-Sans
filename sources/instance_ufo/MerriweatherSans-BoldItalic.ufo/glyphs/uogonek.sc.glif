@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uogonek.sc" format="2">
-  <advance width="672.0"/>
-  <anchor x="299.692" y="0.0" name="bottom"/>
-  <anchor x="448.821" y="8.59" name="ogonek"/>
-  <anchor x="395.923" y="650.179" name="top"/>
-  <anchor x="700.385" y="650.179" name="topright"/>
+  <advance width="653.5"/>
+  <anchor x="290.77272727272725" y="0.0" name="bottom"/>
+  <anchor x="444.1363636363636" y="8.696969696969697" name="ogonek"/>
+  <anchor x="379.3333333333333" y="646.5151515151515" name="top"/>
+  <anchor x="691.5454545454545" y="649.6969696969697" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="ogonekcomb" xOffset="485.0" yOffset="-1.0"/>
+    <component base="ogonekcomb" xOffset="480.1363636363636" yOffset="-1.3030303030303028"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 17:40:41</string>
     </dict>
   </lib>
 </glyph>

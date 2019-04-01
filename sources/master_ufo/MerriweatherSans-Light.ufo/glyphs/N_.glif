@@ -1,34 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="758.0"/>
+  <advance width="746.0"/>
   <unicode hex="004E"/>
-  <anchor x="379.0" y="0.0" name="bottom"/>
-  <anchor x="366.0" y="-83.0" name="btm"/>
-  <anchor x="384.0" y="830.0" name="top"/>
+  <anchor x="373.0" y="0.0" name="bottom"/>
+  <anchor x="360.0" y="-83.0" name="btm"/>
+  <anchor x="378.0" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="100.0" y="0.0" type="line"/>
-      <point x="176.0" y="0.0" type="line"/>
-      <point x="176.0" y="474.0" type="line"/>
-      <point x="169.0" y="694.0" type="line"/>
-      <point x="136.0" y="694.0" type="line"/>
-      <point x="247.0" y="505.0" type="line"/>
-      <point x="583.0" y="0.0" type="line"/>
-      <point x="658.0" y="0.0" type="line"/>
-      <point x="658.0" y="743.0" type="line"/>
-      <point x="583.0" y="743.0" type="line"/>
-      <point x="583.0" y="257.0" type="line"/>
-      <point x="590.0" y="51.0" type="line"/>
-      <point x="619.0" y="51.0" type="line"/>
-      <point x="519.0" y="226.0" type="line"/>
-      <point x="177.0" y="743.0" type="line"/>
-      <point x="100.0" y="743.0" type="line"/>
+      <point x="94.0" y="0.0" type="line"/>
+      <point x="170.0" y="0.0" type="line"/>
+      <point x="170.0" y="474.0" type="line"/>
+      <point x="163.0" y="694.0" type="line"/>
+      <point x="130.0" y="694.0" type="line"/>
+      <point x="241.0" y="505.0" type="line"/>
+      <point x="577.0" y="0.0" type="line"/>
+      <point x="652.0" y="0.0" type="line"/>
+      <point x="652.0" y="743.0" type="line"/>
+      <point x="577.0" y="743.0" type="line"/>
+      <point x="577.0" y="257.0" type="line"/>
+      <point x="584.0" y="51.0" type="line"/>
+      <point x="613.0" y="51.0" type="line"/>
+      <point x="513.0" y="226.0" type="line"/>
+      <point x="171.0" y="743.0" type="line"/>
+      <point x="94.0" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/31 03:56:07</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

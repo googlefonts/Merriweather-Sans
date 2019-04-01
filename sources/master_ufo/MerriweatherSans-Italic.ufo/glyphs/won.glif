@@ -1,43 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="1006.325"/>
+  <advance width="1046.0"/>
   <unicode hex="20A9"/>
   <note>
 uni20A9
 </note>
-  <anchor x="463.925" y="0.0" name="bottom"/>
-  <anchor x="562.925" y="747.975" name="top"/>
+  <anchor x="484.3" y="0.0" name="bottom"/>
+  <anchor x="583.3" y="747.975" name="top"/>
   <outline>
     <contour>
-      <point x="100.8" y="187.75" type="line"/>
-      <point x="252.8" y="187.75" type="line"/>
-      <point x="264.45" y="272.0" type="line"/>
-      <point x="112.45" y="272.0" type="line"/>
+      <point x="121.0" y="188.0" type="line"/>
+      <point x="273.0" y="188.0" type="line"/>
+      <point x="284.0" y="272.0" type="line"/>
+      <point x="132.0" y="272.0" type="line"/>
     </contour>
     <contour>
-      <point x="239.925" y="557.0" type="line"/>
-      <point x="67.325" y="557.0" type="line"/>
-      <point x="55.675" y="473.75" type="line"/>
-      <point x="228.275" y="473.75" type="line"/>
+      <point x="260.0" y="557.0" type="line"/>
+      <point x="87.0" y="557.0" type="line"/>
+      <point x="76.0" y="474.0" type="line"/>
+      <point x="248.0" y="474.0" type="line"/>
     </contour>
     <contour>
-      <point x="735.55" y="186.75" type="line"/>
-      <point x="888.775" y="186.75" type="line"/>
-      <point x="900.425" y="271.0" type="line"/>
-      <point x="747.2" y="271.0" type="line"/>
+      <point x="756.0" y="187.0" type="line"/>
+      <point x="909.0" y="187.0" type="line"/>
+      <point x="920.0" y="271.0" type="line"/>
+      <point x="767.0" y="271.0" type="line"/>
     </contour>
     <contour>
-      <point x="1013.325" y="556.0" type="line"/>
-      <point x="861.1" y="556.0" type="line"/>
-      <point x="849.45" y="472.75" type="line"/>
-      <point x="1001.675" y="472.75" type="line"/>
+      <point x="1033.0" y="556.0" type="line"/>
+      <point x="881.0" y="556.0" type="line"/>
+      <point x="869.0" y="473.0" type="line"/>
+      <point x="1022.0" y="473.0" type="line"/>
     </contour>
-    <component base="W" xOffset="66.625"/>
+    <component base="W" xOffset="87.0"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:07:26</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

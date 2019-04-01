@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright" format="2">
-  <advance width="975.0"/>
+  <advance width="982.0"/>
   <unicode hex="00BB"/>
   <note>
 guillemotright
 </note>
   <outline>
     <contour>
-      <point x="526.0" y="60.0" type="line"/>
-      <point x="888.0" y="253.0" type="line"/>
-      <point x="904.0" y="346.0" type="line"/>
-      <point x="583.0" y="540.0" type="line"/>
-      <point x="530.0" y="456.0" type="line"/>
-      <point x="708.0" y="309.0" type="line"/>
-      <point x="498.0" y="160.0" type="line"/>
+      <point x="533.0" y="60.0" type="line"/>
+      <point x="895.0" y="253.0" type="line"/>
+      <point x="911.0" y="346.0" type="line"/>
+      <point x="590.0" y="540.0" type="line"/>
+      <point x="537.0" y="456.0" type="line"/>
+      <point x="715.0" y="309.0" type="line"/>
+      <point x="505.0" y="160.0" type="line"/>
     </contour>
     <contour>
-      <point x="132.0" y="60.0" type="line"/>
-      <point x="495.0" y="253.0" type="line"/>
-      <point x="510.0" y="346.0" type="line"/>
-      <point x="190.0" y="540.0" type="line"/>
-      <point x="136.0" y="456.0" type="line"/>
-      <point x="314.0" y="309.0" type="line"/>
-      <point x="104.0" y="160.0" type="line"/>
+      <point x="139.0" y="60.0" type="line"/>
+      <point x="502.0" y="253.0" type="line"/>
+      <point x="517.0" y="346.0" type="line"/>
+      <point x="197.0" y="540.0" type="line"/>
+      <point x="143.0" y="456.0" type="line"/>
+      <point x="321.0" y="309.0" type="line"/>
+      <point x="111.0" y="160.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,8 +31,12 @@ guillemotright
       <string>PUSHB[ ]	/* 6 values pushed */
 11 7 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 20:07:15</string>
     </dict>
   </lib>
 </glyph>

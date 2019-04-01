@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mdotbelow.sc" format="2">
-  <advance width="919.0"/>
-  <anchor x="397.0" y="-199.0" name="bottom"/>
-  <anchor x="508.846" y="650.179" name="top"/>
+  <advance width="900.6363636363636"/>
+  <anchor x="384.40909090909093" y="-199.0" name="bottom"/>
+  <anchor x="490.1060606060606" y="640.0" name="top"/>
   <outline>
     <component base="m.sc"/>
-    <component base="dotbelowcomb" xOffset="423.0"/>
+    <component base="dotbelowcomb" xOffset="410.40909090909093"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/26 18:56:39</string>
     </dict>
   </lib>
 </glyph>

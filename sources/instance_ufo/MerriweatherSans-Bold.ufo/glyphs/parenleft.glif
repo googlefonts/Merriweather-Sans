@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
-  <advance width="408.0"/>
+  <advance width="411.9384615384615"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
-      <point x="292.0" y="-176.0" type="curve"/>
-      <point x="381.0" y="-119.0" type="line"/>
-      <point x="332.0" y="-84.0"/>
-      <point x="199.0" y="60.0"/>
-      <point x="199.0" y="345.0" type="curve" smooth="yes"/>
-      <point x="199.0" y="618.0"/>
-      <point x="344.0" y="779.0"/>
-      <point x="381.0" y="806.0" type="curve"/>
-      <point x="292.0" y="863.0" type="line"/>
-      <point x="236.0" y="830.0"/>
-      <point x="63.0" y="649.0"/>
-      <point x="63.0" y="350.0" type="curve" smooth="yes"/>
-      <point x="63.0" y="6.0"/>
-      <point x="248.0" y="-149.0"/>
+      <point x="286.1180923076923" y="-170.6873230769231" type="curve"/>
+      <point x="372.0819076923077" y="-117.14036923076924" type="line"/>
+      <point x="312.0518153846154" y="-68.12473846153846"/>
+      <point x="191.38486153846156" y="80.41655384615386"/>
+      <point x="194.21846153846155" y="347.8336" type="curve" smooth="yes"/>
+      <point x="197.05206153846154" y="616.8364307692308"/>
+      <point x="329.1748923076923" y="768.3235692307692"/>
+      <point x="372.0819076923077" y="803.0780923076923" type="curve"/>
+      <point x="286.1180923076923" y="856.6246153846154" type="line"/>
+      <point x="231.73704615384617" y="823.6120615384616"/>
+      <point x="59.87550769230769" y="644.4712615384616"/>
+      <point x="59.87550769230769" y="349.9242461538461" type="curve" smooth="yes"/>
+      <point x="59.87550769230769" y="14.298215384615382"/>
+      <point x="237.13396923076922" y="-138.56424615384617"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 18:05:12</string>
     </dict>
   </lib>
 </glyph>

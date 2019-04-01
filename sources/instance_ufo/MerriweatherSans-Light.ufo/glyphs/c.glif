@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c" format="2">
-  <advance width="494.0"/>
+  <advance width="498.0"/>
   <unicode hex="0063"/>
   <anchor x="247.0" y="0.0" name="bottom"/>
   <anchor x="280.0" y="-83.0" name="btm"/>
@@ -38,7 +38,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 03:30:51</string>
     </dict>
   </lib>
 </glyph>

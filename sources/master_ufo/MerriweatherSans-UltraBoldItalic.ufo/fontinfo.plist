@@ -38,6 +38,54 @@
         <key>y</key>
         <real>954.0</real>
       </dict>
+      <dict>
+        <key>angle</key>
+        <real>262.7889</real>
+        <key>x</key>
+        <real>10.0</real>
+        <key>y</key>
+        <real>-57.0</real>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <real>262.7889</real>
+        <key>x</key>
+        <real>443.0</real>
+        <key>y</key>
+        <real>-86.0</real>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <real>0.0</real>
+        <key>x</key>
+        <real>271.0</real>
+        <key>y</key>
+        <real>646.0</real>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <real>0.0</real>
+        <key>x</key>
+        <real>271.0</real>
+        <key>y</key>
+        <real>657.0</real>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <real>0.0</real>
+        <key>x</key>
+        <real>271.0</real>
+        <key>y</key>
+        <real>603.0</real>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <real>0.0</real>
+        <key>x</key>
+        <real>271.0</real>
+        <key>y</key>
+        <real>747.0</real>
+      </dict>
     </array>
     <key>italicAngle</key>
     <real>-7.5</real>

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e.sc" format="2">
-  <advance width="593.0"/>
-  <anchor x="297.0" y="0.0" name="bottom"/>
-  <anchor x="331.0" y="-72.0" name="btm"/>
-  <anchor x="534.0" y="10.0" name="ogonek"/>
-  <anchor x="317.0" y="896.0" name="top"/>
-  <anchor x="20.0" y="646.0" name="topleft"/>
+  <advance width="583.2461538461539"/>
+  <anchor x="317.84615384615387" y="0.0" name="bottom"/>
+  <anchor x="319.7076923076923" y="-72.0" name="btm"/>
+  <anchor x="490.81538461538463" y="0.0" name="ogonek"/>
+  <anchor x="308.15384615384613" y="896.0" name="top"/>
+  <anchor x="11.153846153846153" y="646.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="88.0" y="0.0" type="line"/>
-      <point x="557.0" y="0.0" type="line"/>
-      <point x="557.0" y="121.0" type="line"/>
-      <point x="244.0" y="121.0" type="line"/>
-      <point x="244.0" y="273.0" type="line"/>
-      <point x="462.0" y="273.0" type="line"/>
-      <point x="462.0" y="388.0" type="line"/>
-      <point x="244.0" y="388.0" type="line"/>
-      <point x="244.0" y="528.0" type="line"/>
-      <point x="527.0" y="528.0" type="line"/>
-      <point x="527.0" y="646.0" type="line"/>
-      <point x="88.0" y="646.0" type="line"/>
+      <point x="76.89230769230768" y="0.0" type="line"/>
+      <point x="546.1076923076923" y="0.0" type="line"/>
+      <point x="546.1076923076923" y="121.46153846153848" type="line"/>
+      <point x="231.60000000000002" y="121.46153846153848" type="line"/>
+      <point x="231.60000000000002" y="272.7692307692308" type="line"/>
+      <point x="449.20000000000005" y="272.7692307692308" type="line"/>
+      <point x="449.20000000000005" y="387.3846153846154" type="line"/>
+      <point x="231.60000000000002" y="387.3846153846154" type="line"/>
+      <point x="231.60000000000002" y="528.1076923076923" type="line"/>
+      <point x="516.5230769230769" y="528.1076923076923" type="line"/>
+      <point x="516.5230769230769" y="646.0" type="line"/>
+      <point x="76.89230769230768" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,10 +35,10 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 13:41:59</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

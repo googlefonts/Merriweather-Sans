@@ -6,7 +6,7 @@
 wdieresis
 </note>
   <anchor x="372.9" y="0.0" name="bottom"/>
-  <anchor x="472.325" y="751.3" name="top"/>
+  <anchor x="472.0" y="737.0" name="top"/>
   <outline>
     <component base="w"/>
     <component base="dieresiscomb" xOffset="410.0"/>

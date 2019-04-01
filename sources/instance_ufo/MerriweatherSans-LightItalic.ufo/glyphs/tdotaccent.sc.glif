@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdotaccent.sc" format="2">
-  <advance width="530.0"/>
-  <anchor x="228.0" y="0.0" name="bottom"/>
+  <advance width="520.0"/>
+  <anchor x="219.0" y="0.0" name="bottom"/>
   <anchor x="272.0" y="325.0" name="center"/>
-  <anchor x="344.0" y="862.0" name="top"/>
+  <anchor x="341.0" y="852.0" name="top"/>
   <outline>
     <component base="t.sc"/>
-    <component base="dotaccentcomb" xOffset="277.0" yOffset="93.0"/>
+    <component base="dotaccentcomb" xOffset="274.0" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 19:19:10</string>
     </dict>
   </lib>
 </glyph>

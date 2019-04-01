@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.osf.zero" format="2">
-  <advance width="624.0"/>
+  <advance width="621.6969696969697"/>
   <outline>
     <contour>
-      <point x="196.41" y="54.0" type="line"/>
-      <point x="255.41" y="43.0" type="line"/>
-      <point x="434.41" y="514.0" type="line"/>
-      <point x="376.41" y="527.0" type="line"/>
+      <point x="196.88674242424244" y="54.0" type="line"/>
+      <point x="255.88674242424244" y="43.0" type="line"/>
+      <point x="434.8867424242424" y="514.0" type="line"/>
+      <point x="376.8867424242424" y="527.0" type="line"/>
     </contour>
     <component base="zero.osf"/>
   </outline>
@@ -17,7 +17,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>zero.osf</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 03:37:12</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.3</key>
       <dict>
         <key>name</key>

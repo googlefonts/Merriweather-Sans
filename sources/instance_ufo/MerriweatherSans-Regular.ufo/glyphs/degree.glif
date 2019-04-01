@@ -18,24 +18,24 @@
       <point x="57.178" y="720.711"/>
     </contour>
     <contour>
-      <point x="135.844" y="624.0" type="curve" smooth="yes"/>
-      <point x="135.844" y="678.289"/>
-      <point x="175.311" y="717.756"/>
-      <point x="224.778" y="717.756" type="curve" smooth="yes"/>
-      <point x="273.422" y="717.756"/>
-      <point x="313.889" y="678.111"/>
-      <point x="313.889" y="624.0" type="curve" smooth="yes"/>
-      <point x="313.889" y="569.711"/>
-      <point x="273.6" y="530.244"/>
-      <point x="224.778" y="530.244" type="curve" smooth="yes"/>
-      <point x="175.489" y="530.244"/>
-      <point x="135.844" y="569.889"/>
+      <point x="139.0" y="624.0" type="curve" smooth="yes"/>
+      <point x="139.0" y="676.0"/>
+      <point x="177.0" y="714.0"/>
+      <point x="225.0" y="714.0" type="curve" smooth="yes"/>
+      <point x="272.0" y="714.0"/>
+      <point x="310.0" y="676.0"/>
+      <point x="310.0" y="624.0" type="curve" smooth="yes"/>
+      <point x="310.0" y="572.0"/>
+      <point x="272.0" y="534.0"/>
+      <point x="225.0" y="534.0" type="curve" smooth="yes"/>
+      <point x="177.0" y="534.0"/>
+      <point x="139.0" y="572.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 20:15:43</string>
     </dict>
   </lib>
 </glyph>

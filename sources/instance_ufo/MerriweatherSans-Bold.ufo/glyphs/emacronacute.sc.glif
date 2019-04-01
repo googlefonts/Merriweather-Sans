@@ -1,22 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="emacronacute.sc" format="2">
-  <advance width="593.0"/>
-  <anchor x="297.0" y="0.0" name="bottom"/>
-  <anchor x="331.0" y="-72.0" name="btm"/>
-  <anchor x="534.0" y="10.0" name="ogonek"/>
-  <anchor x="249.0" y="1241.0" name="top"/>
-  <anchor x="20.0" y="646.0" name="topleft"/>
+  <advance width="583.2461538461539"/>
+  <anchor x="317.84615384615387" y="0.0" name="bottom"/>
+  <anchor x="319.7076923076923" y="-72.0" name="btm"/>
+  <anchor x="490.81538461538463" y="0.0" name="ogonek"/>
+  <anchor x="203.07692307692307" y="1264.523076923077" name="top"/>
+  <anchor x="11.153846153846153" y="646.0" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="macroncomb" xOffset="317.0" yOffset="65.0"/>
-    <component base="acutecomb" xOffset="316.0" yOffset="240.0"/>
+    <component base="macroncomb" xOffset="308.15384615384613" yOffset="65.43076923076923"/>
+    <component base="acutecomb" xOffset="308.15384615384613" yOffset="258.1846153846154"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 13:43:27</string>
     </dict>
   </lib>
 </glyph>

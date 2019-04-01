@@ -1,21 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f.sc" format="2">
-  <advance width="543.0"/>
-  <anchor x="272.0" y="0.0" name="bottom"/>
-  <anchor x="318.0" y="-72.0" name="btm"/>
-  <anchor x="297.0" y="896.0" name="top"/>
+  <advance width="532.0769230769231"/>
+  <anchor x="160.52307692307693" y="0.0" name="bottom"/>
+  <anchor x="293.84615384615387" y="896.0" name="top"/>
   <outline>
     <contour>
-      <point x="88.0" y="0.0" type="line"/>
-      <point x="246.0" y="0.0" type="line"/>
-      <point x="246.0" y="254.0" type="line"/>
-      <point x="452.0" y="254.0" type="line"/>
-      <point x="452.0" y="372.0" type="line"/>
-      <point x="246.0" y="372.0" type="line"/>
-      <point x="246.0" y="528.0" type="line"/>
-      <point x="524.0" y="528.0" type="line"/>
-      <point x="524.0" y="646.0" type="line"/>
-      <point x="88.0" y="646.0" type="line"/>
+      <point x="76.89230769230768" y="0.0" type="line"/>
+      <point x="234.60000000000002" y="0.0" type="line"/>
+      <point x="234.60000000000002" y="254.23076923076923" type="line"/>
+      <point x="444.0769230769231" y="254.23076923076923" type="line"/>
+      <point x="444.0769230769231" y="371.55384615384617" type="line"/>
+      <point x="234.60000000000002" y="371.55384615384617" type="line"/>
+      <point x="234.60000000000002" y="528.1076923076923" type="line"/>
+      <point x="512.2461538461539" y="528.1076923076923" type="line"/>
+      <point x="512.2461538461539" y="646.0" type="line"/>
+      <point x="76.89230769230768" y="646.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,10 +30,10 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 13:41:59</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

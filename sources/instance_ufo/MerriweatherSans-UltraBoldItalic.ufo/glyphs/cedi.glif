@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedi" format="2">
-  <advance width="708.0"/>
+  <advance width="677.0"/>
   <unicode hex="20B5"/>
   <note>
 uni20B5
@@ -65,7 +65,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 27 0 27 26 17 20 17 21 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 02:11:26</string>
     </dict>
   </lib>
 </glyph>

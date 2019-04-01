@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eogonek" format="2">
-  <advance width="532.0"/>
+  <advance width="531.8484848484849"/>
   <unicode hex="0119"/>
   <note>
 eogonek
 </note>
-  <anchor x="249.103" y="0.0" name="bottom"/>
-  <anchor x="364.487" y="10.0" name="ogonek"/>
-  <anchor x="343.103" y="557.0" name="top"/>
+  <anchor x="251.7503787878788" y="0.0" name="bottom"/>
+  <anchor x="375.9469696969697" y="10.0" name="ogonek"/>
+  <anchor x="343.39810606060604" y="557.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="ogonekcomb" xOffset="400.0"/>
+    <component base="ogonekcomb" xOffset="412.1212121212121"/>
   </outline>
   <lib>
     <dict>

@@ -5,16 +5,16 @@
   <note>
 Kcommaaccent
 </note>
-  <anchor x="241.0" y="-199.0" name="bottom"/>
+  <anchor x="271.0" y="-199.0" name="bottom"/>
   <anchor x="366.0" y="747.0" name="top"/>
   <outline>
     <component base="K"/>
-    <component base="commaaccentcomb.case" xOffset="267.0"/>
+    <component base="commaaccentcomb.case" xOffset="297.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 14:47:54</string>
     </dict>
   </lib>
 </glyph>

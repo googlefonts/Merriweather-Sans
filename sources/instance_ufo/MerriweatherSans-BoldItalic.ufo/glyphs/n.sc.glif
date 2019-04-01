@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="n.sc" format="2">
-  <advance width="697.4359"/>
+  <advance width="697.5204545454545"/>
   <note>
 N
 </note>
-  <anchor x="307.282" y="0.0" name="bottom"/>
-  <anchor x="393.282" y="650.179" name="top"/>
+  <anchor x="310.35265151515154" y="0.0" name="bottom"/>
+  <anchor x="397.07575757575756" y="640.0" name="top"/>
   <outline>
     <contour>
-      <point x="32.667" y="0.0" type="line"/>
-      <point x="177.846" y="0.0" type="line"/>
-      <point x="227.615" y="348.769" type="line"/>
-      <point x="227.744" y="465.308" type="line"/>
-      <point x="271.667" y="348.205" type="line"/>
-      <point x="448.59" y="0.0" type="line"/>
-      <point x="578.846" y="0.0" type="line"/>
-      <point x="670.718" y="646.41" type="line"/>
-      <point x="524.128" y="646.41" type="line"/>
-      <point x="480.59" y="311.974" type="line"/>
-      <point x="475.59" y="200.744" type="line"/>
-      <point x="438.359" y="312.077" type="line"/>
-      <point x="259.974" y="646.41" type="line"/>
-      <point x="124.128" y="646.41" type="line"/>
+      <point x="35.84583333333333" y="0.0" type="line"/>
+      <point x="180.7780303030303" y="0.0" type="line"/>
+      <point x="230.2939393939394" y="349.2215909090909" type="line"/>
+      <point x="230.37992424242424" y="465.4886363636364" type="line"/>
+      <point x="274.6106060606061" y="348.56098484848485" type="line"/>
+      <point x="451.6060606060606" y="0.0" type="line"/>
+      <point x="581.542803030303" y="0.0" type="line"/>
+      <point x="673.4568181818182" y="646.6515151515151" type="line"/>
+      <point x="526.873106060606" y="646.6515151515151" type="line"/>
+      <point x="483.6060606060606" y="311.8416666666667" type="line"/>
+      <point x="478.13560606060605" y="200.59280303030306" type="line"/>
+      <point x="441.1219696969697" y="312.00454545454545" type="line"/>
+      <point x="262.6287878787879" y="646.6515151515151" type="line"/>
+      <point x="127.10833333333333" y="646.6515151515151" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,14 +41,12 @@ N
       <string>NPUSHB[ ]	/* 33 values pushed */
 9 2 2 1 0 1 74 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 13 0 13 20 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 18:40:30</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -842,6 +842,8 @@
     <string>dcaron.sc.glif</string>
     <key>dcroat</key>
     <string>dcroat.glif</string>
+    <key>dcroat.sc</key>
+    <string>dcroat.sc.glif</string>
     <key>ddotaccent</key>
     <string>ddotaccent.glif</string>
     <key>ddotaccent.sc</key>
@@ -1324,8 +1326,12 @@
     <string>iinvertedbreve.sc.glif</string>
     <key>ij</key>
     <string>ij.glif</string>
+    <key>ij.sc</key>
+    <string>ij.sc.glif</string>
     <key>ij_acutecomb</key>
     <string>ij_acutecomb.glif</string>
+    <key>ij_acutecomb.sc</key>
+    <string>ij_acutecomb.sc.glif</string>
     <key>imacron</key>
     <string>imacron.glif</string>
     <key>imacron.sc</key>
@@ -1516,6 +1522,8 @@
     <string>ninesuperior.glif</string>
     <key>nj</key>
     <string>nj.glif</string>
+    <key>nj.sc</key>
+    <string>nj.sc.glif</string>
     <key>nlinebelow</key>
     <string>nlinebelow.glif</string>
     <key>nlinebelow.sc</key>

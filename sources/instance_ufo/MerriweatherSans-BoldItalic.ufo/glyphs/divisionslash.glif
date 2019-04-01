@@ -7,10 +7,10 @@ uni2215
 </note>
   <outline>
     <contour>
-      <point x="-62.513" y="-177.0" type="line"/>
-      <point x="55.923" y="-177.0" type="line"/>
-      <point x="477.923" y="780.0" type="line"/>
-      <point x="358.077" y="780.0" type="line"/>
+      <point x="-62.10871212121212" y="-177.0" type="line"/>
+      <point x="55.99545454545455" y="-177.0" type="line"/>
+      <point x="477.76022727272726" y="780.0" type="line"/>
+      <point x="358.00454545454545" y="780.0" type="line"/>
     </contour>
   </outline>
   <lib>

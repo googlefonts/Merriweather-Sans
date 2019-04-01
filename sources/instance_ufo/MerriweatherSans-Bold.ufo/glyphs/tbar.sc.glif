@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar.sc" format="2">
-  <advance width="590.0"/>
-  <anchor x="293.0" y="-72.0" name="btm"/>
-  <anchor x="293.0" y="722.0" name="top"/>
+  <advance width="597.7921372307692"/>
+  <anchor x="296.75692307692304" y="-72.0" name="btm"/>
+  <anchor x="296.75692307692304" y="722.0" name="top"/>
   <outline>
     <contour>
-      <point x="90.0" y="239.0" type="line"/>
-      <point x="509.0" y="239.0" type="line"/>
-      <point x="509.0" y="338.0" type="line"/>
-      <point x="90.0" y="338.0" type="line"/>
+      <point x="94.08590769230769" y="239.02510769230767" type="line"/>
+      <point x="512.8582153846154" y="239.02510769230767" type="line"/>
+      <point x="512.8582153846154" y="338.0" type="line"/>
+      <point x="94.08590769230769" y="338.0" type="line"/>
     </contour>
     <contour>
-      <point x="217.0" y="0.0" type="line"/>
-      <point x="375.0" y="0.0" type="line"/>
-      <point x="375.0" y="525.0" type="line"/>
-      <point x="575.0" y="525.0" type="line"/>
-      <point x="575.0" y="646.0" type="line"/>
-      <point x="16.0" y="646.0" type="line"/>
-      <point x="16.0" y="525.0" type="line"/>
-      <point x="217.0" y="525.0" type="line"/>
+      <point x="219.01113846153845" y="0.0" type="line"/>
+      <point x="378.57987692307694" y="0.0" type="line"/>
+      <point x="378.57987692307694" y="525.0125538461539" type="line"/>
+      <point x="578.0487384615384" y="525.0125538461539" type="line"/>
+      <point x="578.0487384615384" y="646.0" type="line"/>
+      <point x="19.820123076923075" y="646.0" type="line"/>
+      <point x="19.820123076923075" y="525.0125538461539" type="line"/>
+      <point x="219.01113846153845" y="525.0125538461539" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,10 +34,8 @@
         <key>width</key>
         <integer>96</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/23 02:58:27</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

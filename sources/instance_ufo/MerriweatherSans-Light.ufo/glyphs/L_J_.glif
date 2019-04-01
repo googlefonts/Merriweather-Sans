@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="LJ" format="2">
-  <advance width="860.0"/>
+  <advance width="853.0"/>
   <unicode hex="01C7"/>
-  <anchor x="261.0" y="0.0" name="bottom_1"/>
-  <anchor x="691.0" y="0.0" name="bottom_2"/>
-  <anchor x="286.0" y="-83.0" name="btm_1"/>
-  <anchor x="658.0" y="-83.0" name="btm_2"/>
-  <anchor x="261.0" y="372.0" name="center"/>
-  <anchor x="142.0" y="830.0" name="top_1"/>
-  <anchor x="705.0" y="830.0" name="top_2"/>
-  <anchor x="501.0" y="743.0" name="topright"/>
+  <anchor x="254.0" y="0.0" name="bottom_1"/>
+  <anchor x="684.0" y="0.0" name="bottom_2"/>
+  <anchor x="279.0" y="-83.0" name="btm_1"/>
+  <anchor x="651.0" y="-83.0" name="btm_2"/>
+  <anchor x="254.0" y="372.0" name="center"/>
+  <anchor x="135.0" y="830.0" name="top_1"/>
+  <anchor x="698.0" y="830.0" name="top_2"/>
+  <anchor x="494.0" y="743.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="J" xOffset="521.0"/>
+    <component base="J" xOffset="514.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/03/31 03:56:06</string>
     </dict>
   </lib>
 </glyph>

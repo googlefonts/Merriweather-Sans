@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelowdotaccent" format="2">
-  <advance width="512.0"/>
+  <advance width="499.9230769230769"/>
   <unicode hex="1E69"/>
-  <anchor x="256.0" y="-234.0" name="bottom"/>
-  <anchor x="261.0" y="-83.0" name="btm"/>
-  <anchor x="264.0" y="1006.0" name="top"/>
+  <anchor x="248.87809230769233" y="-230.9768" name="bottom"/>
+  <anchor x="253.3846153846154" y="-83.0" name="btm"/>
+  <anchor x="256.3846153846154" y="1026.7846153846153" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="dotbelowcomb" xOffset="259.0"/>
-    <component base="dotaccentcomb" xOffset="264.0" yOffset="-1.0"/>
+    <component base="dotbelowcomb" xOffset="249.1076923076923"/>
+    <component base="dotaccentcomb" xOffset="256.3846153846154" yOffset="-0.5692307692307695"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 02:42:11</string>
     </dict>
   </lib>
 </glyph>

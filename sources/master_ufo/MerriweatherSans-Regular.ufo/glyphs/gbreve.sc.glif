@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.sc" format="2">
-  <advance width="684.0"/>
+  <advance width="688.0"/>
   <anchor x="342.311" y="0.0" name="bottom"/>
   <anchor x="380.711" y="-72.0" name="btm"/>
   <anchor x="379.0" y="1045.0" name="top"/>
@@ -10,10 +10,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 04:28:09</string>
     </dict>
   </lib>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="605.0"/>
   <unicode hex="1E02"/>
   <anchor x="266.0" y="0.0" name="bottom"/>
-  <anchor x="390.0" y="939.0" name="top"/>
+  <anchor x="387.0" y="918.0" name="top"/>
   <outline>
     <component base="B"/>
     <component base="dotaccentcomb.case" xOffset="303.0"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/02/27 15:15:42</string>
     </dict>
   </lib>
 </glyph>

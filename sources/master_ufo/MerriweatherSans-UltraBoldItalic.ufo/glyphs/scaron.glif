@@ -6,7 +6,7 @@
 scaron
 </note>
   <anchor x="202.0" y="0.0" name="bottom"/>
-  <anchor x="336.0" y="788.0" name="top"/>
+  <anchor x="334.0" y="788.0" name="top"/>
   <outline>
     <component base="s"/>
     <component base="caroncomb" xOffset="269.0"/>

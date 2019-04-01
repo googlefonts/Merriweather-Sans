@@ -6,11 +6,11 @@
 Zcaron
 </note>
   <anchor x="246.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="374.59" name="center"/>
-  <anchor x="396.0" y="978.0" name="top"/>
+  <anchor x="296.0" y="374.1132575757576" name="center"/>
+  <anchor x="398.07575757575756" y="976.3484848484849" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="caroncomb.case" xOffset="303.0" yOffset="2.0"/>
+    <component base="caroncomb.case" xOffset="305.07575757575756" yOffset="0.34848484848484845"/>
   </outline>
   <lib>
     <dict>

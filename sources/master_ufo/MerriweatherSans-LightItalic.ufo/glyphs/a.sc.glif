@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a.sc" format="2">
-  <advance width="597.0"/>
+  <advance width="592.0"/>
   <note>
 A
 </note>
   <anchor x="261.0" y="0.0" name="bottom"/>
   <anchor x="500.0" y="9.0" name="ogonek"/>
-  <anchor x="348.0" y="650.0" name="top"/>
+  <anchor x="357.0" y="640.0" name="top"/>
   <outline>
     <contour>
       <point x="-25.0" y="0.0" type="line"/>
@@ -43,10 +43,8 @@ A
       <string>NPUSHB[ ]	/* 40 values pushed */
 10 1 4 2 1 74 5 1 4 0 0 1 4 0 98 0 2 2 17 75 3 1 1 1 18 1 76 8 8 8 12 8 12 17 17 17 16 6 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 17:27:38</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

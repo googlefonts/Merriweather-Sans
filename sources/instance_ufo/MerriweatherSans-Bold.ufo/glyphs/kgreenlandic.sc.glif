@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic.sc" format="2">
-  <advance width="684.0"/>
-  <anchor x="342.0" y="0.0" name="bottom"/>
-  <anchor x="342.0" y="646.0" name="top"/>
-  <anchor x="354.0" y="-72.0" name="btm"/>
+  <advance width="670.9230769230769"/>
+  <anchor x="340.3174153846154" y="0.0" name="bottom"/>
+  <anchor x="340.3174153846154" y="646.0" name="top"/>
+  <anchor x="343.3692307692308" y="-72.0" name="btm"/>
   <outline>
     <component base="k.sc"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 13:43:27</string>
     </dict>
   </lib>
 </glyph>

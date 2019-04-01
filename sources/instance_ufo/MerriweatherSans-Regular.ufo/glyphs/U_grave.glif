@@ -6,7 +6,7 @@
   <anchor x="364.956" y="-83.0" name="btm"/>
   <anchor x="647.978" y="10.0" name="ogonek"/>
   <anchor x="309.356" y="1008.778" name="top"/>
-  <anchor x="699.511" y="743.0" name="topright"/>
+  <anchor x="571.0" y="743.0" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="gravecomb.case" xOffset="366.0"/>
@@ -14,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 03:20:18</string>
     </dict>
   </lib>
 </glyph>

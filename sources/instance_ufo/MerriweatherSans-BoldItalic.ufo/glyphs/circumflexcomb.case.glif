@@ -7,13 +7,13 @@ circumflex
   <anchor x="93.0" y="976.0" name="top"/>
   <outline>
     <contour>
-      <point x="-58.308" y="809.0" type="line"/>
-      <point x="86.641" y="908.154" type="line"/>
-      <point x="179.359" y="810.179" type="line"/>
-      <point x="245.923" y="843.179" type="line"/>
-      <point x="145.462" y="1025.769" type="line"/>
-      <point x="58.051" y="1025.769" type="line"/>
-      <point x="-116.462" y="843.179" type="line"/>
+      <point x="-56.371590909090905" y="809.9409090909091" type="line"/>
+      <point x="88.78219696969697" y="906.5977272727273" type="line"/>
+      <point x="181.21666666666667" y="811.1083333333333" type="line"/>
+      <point x="248.34772727272727" y="844.3435606060606" type="line"/>
+      <point x="147.61477272727274" y="1024.1045454545454" type="line"/>
+      <point x="59.963257575757574" y="1024.1045454545454" type="line"/>
+      <point x="-114.85113636363636" y="844.3435606060606" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.dnom" format="2">
-  <advance width="443.58974"/>
+  <advance width="444.0541666666667"/>
   <outline>
     <contour>
-      <point x="39.923" y="0.0" type="line"/>
-      <point x="208.513" y="0.0" type="line"/>
-      <point x="438.821" y="533.538" type="line"/>
-      <point x="418.179" y="560.0" type="line"/>
-      <point x="30.436" y="560.0" type="line"/>
-      <point x="26.436" y="447.744" type="line"/>
-      <point x="266.59" y="447.333" type="line"/>
+      <point x="69.8030303030303" y="0.0" type="line"/>
+      <point x="238.5" y="0.0" type="line"/>
+      <point x="469.07575757575756" y="533.1363636363636" type="line"/>
+      <point x="448.5151515151515" y="560.0" type="line"/>
+      <point x="60.18181818181818" y="560.0" type="line"/>
+      <point x="56.18181818181818" y="447.6363636363636" type="line"/>
+      <point x="296.469696969697" y="447.3333333333333" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@
         <integer>80</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 01:56:15</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.1</key>
       <dict>
         <key>name</key>

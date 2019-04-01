@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two" format="2">
-  <advance width="606.0"/>
+  <advance width="609.0"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
@@ -32,7 +32,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/30 22:39:34</string>
     </dict>
   </lib>
 </glyph>

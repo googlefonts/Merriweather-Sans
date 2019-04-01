@@ -1,34 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="765.51111"/>
+  <advance width="754.0"/>
   <unicode hex="004E"/>
-  <anchor x="382.844" y="0.0" name="bottom"/>
-  <anchor x="365.844" y="-83.0" name="btm"/>
-  <anchor x="388.6" y="830.0" name="top"/>
+  <anchor x="377.0" y="0.0" name="bottom"/>
+  <anchor x="360.0" y="-83.0" name="btm"/>
+  <anchor x="383.0" y="830.0" name="top"/>
   <outline>
     <contour>
-      <point x="93.644" y="0.0" type="line"/>
-      <point x="201.467" y="0.0" type="line"/>
-      <point x="201.467" y="446.689" type="line"/>
-      <point x="189.444" y="672.067" type="line"/>
-      <point x="145.978" y="672.067" type="line"/>
-      <point x="260.733" y="462.756" type="line"/>
-      <point x="560.267" y="0.0" type="line"/>
-      <point x="671.867" y="0.0" type="line"/>
-      <point x="671.867" y="743.0" type="line"/>
-      <point x="563.222" y="743.0" type="line"/>
-      <point x="563.222" y="285.2" type="line"/>
-      <point x="575.644" y="77.444" type="line"/>
-      <point x="611.333" y="77.444" type="line"/>
-      <point x="512.178" y="261.6" type="line"/>
-      <point x="201.467" y="743.0" type="line"/>
-      <point x="93.644" y="743.0" type="line"/>
+      <point x="88.0" y="0.0" type="line"/>
+      <point x="195.0" y="0.0" type="line"/>
+      <point x="195.0" y="447.0" type="line"/>
+      <point x="183.0" y="672.0" type="line"/>
+      <point x="140.0" y="672.0" type="line"/>
+      <point x="255.0" y="463.0" type="line"/>
+      <point x="554.0" y="0.0" type="line"/>
+      <point x="666.0" y="0.0" type="line"/>
+      <point x="666.0" y="743.0" type="line"/>
+      <point x="557.0" y="743.0" type="line"/>
+      <point x="557.0" y="285.0" type="line"/>
+      <point x="570.0" y="77.0" type="line"/>
+      <point x="605.0" y="77.0" type="line"/>
+      <point x="506.0" y="262.0" type="line"/>
+      <point x="195.0" y="743.0" type="line"/>
+      <point x="88.0" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/31 03:56:07</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eng" format="2">
-  <advance width="738.0"/>
+  <advance width="744.0"/>
   <unicode hex="014A"/>
   <note>
 Eng
@@ -35,8 +35,10 @@ Eng
       <string>NPUSHB[ ]	/* 39 values pushed */
 20 19 13 12 10 5 0 1 1 74 6 5 2 0 71 3 2 2 1 1 17 75 0 0 0 18 0 76 0 0 0 21 0 21 17 30 4 7 22 
 CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 17:57:55</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

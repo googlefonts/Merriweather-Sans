@@ -7,10 +7,10 @@ minute
 </note>
   <outline>
     <contour>
-      <point x="117.077" y="581.0" type="line"/>
-      <point x="218.923" y="581.0" type="line"/>
-      <point x="313.103" y="870.0" type="line"/>
-      <point x="178.256" y="870.0" type="line"/>
+      <point x="117.00454545454545" y="581.0" type="line"/>
+      <point x="218.99545454545455" y="581.0" type="line"/>
+      <point x="312.69242424242424" y="870.0" type="line"/>
+      <point x="177.93674242424242" y="870.0" type="line"/>
     </contour>
   </outline>
   <lib>

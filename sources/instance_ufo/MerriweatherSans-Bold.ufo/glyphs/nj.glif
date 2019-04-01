@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nj" format="2">
-  <advance width="974.0"/>
+  <advance width="957.4153846153846"/>
   <unicode hex="01CC"/>
-  <anchor x="330.0" y="0.0" name="bottom_1"/>
-  <anchor x="817.0" y="-273.0" name="bottom_2"/>
-  <anchor x="331.0" y="-83.0" name="btm"/>
-  <anchor x="338.0" y="830.0" name="top_1"/>
-  <anchor x="821.0" y="831.0" name="top_2"/>
+  <anchor x="323.9787076923077" y="0.0" name="bottom_1"/>
+  <anchor x="801.9017846153846" y="-273.0" name="bottom_2"/>
+  <anchor x="321.6265230769231" y="-83.0" name="btm"/>
+  <anchor x="329.99267692307694" y="830.0" name="top_1"/>
+  <anchor x="808.5964307692308" y="830.6459076923077" name="top_2"/>
   <outline>
     <component base="n"/>
-    <component base="j" xOffset="660.0"/>
+    <component base="j" xOffset="645.8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 02:44:29</string>
     </dict>
   </lib>
 </glyph>

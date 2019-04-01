@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright" format="2">
-  <advance width="593.0"/>
+  <advance width="590.6598295384615"/>
   <unicode hex="203A"/>
   <outline>
     <component base="guilsinglleft" xScale="-1.0" xOffset="588.0"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 03:06:51</string>
     </dict>
   </lib>
 </glyph>

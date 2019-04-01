@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="353.0"/>
+  <advance width="347.37093969230773"/>
   <unicode hex="0049"/>
-  <anchor x="177.0" y="0.0" name="bottom"/>
-  <anchor x="178.0" y="-83.0" name="btm"/>
-  <anchor x="258.0" y="10.0" name="ogonek"/>
-  <anchor x="176.0" y="830.0" name="top"/>
+  <anchor x="173.90104615384615" y="0.0" name="bottom"/>
+  <anchor x="175.04" y="-83.0" name="btm"/>
+  <anchor x="258.7081846153846" y="10.0" name="ogonek"/>
+  <anchor x="174.3936" y="830.0" name="top"/>
   <anchor x="20.0" y="743.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="98.0" y="0.0" type="line"/>
-      <point x="254.0" y="0.0" type="line"/>
-      <point x="254.0" y="743.0" type="line"/>
-      <point x="98.0" y="743.0" type="line"/>
+      <point x="94.50886153846153" y="0.0" type="line"/>
+      <point x="252.43126153846157" y="0.0" type="line"/>
+      <point x="252.43126153846157" y="743.0" type="line"/>
+      <point x="94.50886153846153" y="743.0" type="line"/>
     </contour>
   </outline>
   <lib>

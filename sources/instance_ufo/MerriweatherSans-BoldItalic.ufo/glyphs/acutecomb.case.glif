@@ -7,12 +7,12 @@ acute
   <anchor x="93.0" y="976.0" name="top"/>
   <outline>
     <contour>
-      <point x="57.769" y="817.0" type="line"/>
-      <point x="106.359" y="834.0"/>
-      <point x="234.923" y="949.615"/>
-      <point x="255.872" y="990.385" type="curve"/>
-      <point x="162.128" y="1073.385" type="line"/>
-      <point x="3.2560000000000002" y="860.872" type="line"/>
+      <point x="56.33977272727273" y="817.0" type="line"/>
+      <point x="104.21780303030303" y="834.0"/>
+      <point x="234.99545454545455" y="953.5056818181819"/>
+      <point x="254.7378787878788" y="994.021590909091" type="curve"/>
+      <point x="160.90984848484848" y="1073.2579545454546" type="line"/>
+      <point x="1.5253787878787826" y="860.9140151515152" type="line"/>
     </contour>
   </outline>
   <lib>

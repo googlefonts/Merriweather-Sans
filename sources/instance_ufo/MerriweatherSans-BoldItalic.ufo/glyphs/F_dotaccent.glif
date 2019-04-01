@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Fdotaccent" format="2">
-  <advance width="524.05128"/>
+  <advance width="523.8462121212121"/>
   <unicode hex="1E1E"/>
-  <anchor x="225.231" y="0.0" name="bottom"/>
-  <anchor x="372.0" y="941.0" name="top"/>
+  <anchor x="225.24886363636364" y="0.0" name="bottom"/>
+  <anchor x="368.3333333333333" y="956.8030303030303" name="top"/>
   <outline>
     <component base="F"/>
-    <component base="dotaccentcomb.case" xOffset="285.0" yOffset="2.0"/>
+    <component base="dotaccentcomb.case" xOffset="278.72727272727275" yOffset="0.34848484848484845"/>
   </outline>
   <lib>
     <dict>

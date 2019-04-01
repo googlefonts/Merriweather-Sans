@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wdieresis" format="2">
-  <advance width="846.0"/>
+  <advance width="846.7121212121212"/>
   <unicode hex="1E85"/>
   <note>
 wdieresis
 </note>
-  <anchor x="386.333" y="0.0" name="bottom"/>
-  <anchor x="487.641" y="767.949" name="top"/>
+  <anchor x="386.6469696969697" y="0.0" name="bottom"/>
+  <anchor x="488.93939393939394" y="755.2424242424242" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="423.0"/>
+    <component base="dieresiscomb" xOffset="423.6818181818182"/>
   </outline>
   <lib>
     <dict>

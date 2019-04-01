@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f.sc" format="2">
-  <advance width="500.975"/>
+  <advance width="485.0"/>
   <note>
 F
 </note>
-  <anchor x="213.0" y="0.0" name="bottom"/>
-  <anchor x="299.0" y="651.0" name="top"/>
+  <anchor x="214.0" y="0.0" name="bottom"/>
+  <anchor x="320.0" y="640.0" name="top"/>
   <outline>
     <contour>
-      <point x="46.775" y="0.0" type="line"/>
-      <point x="156.775" y="0.0" type="line"/>
-      <point x="194.775" y="282.525" type="line"/>
-      <point x="412.875" y="276.5" type="line"/>
-      <point x="420.5" y="368.575" type="line"/>
-      <point x="204.4" y="364.9" type="line"/>
-      <point x="231.425" y="563.9" type="line"/>
-      <point x="500.625" y="561.225" type="line"/>
-      <point x="509.25" y="646.975" type="line"/>
-      <point x="131.05" y="646.975" type="line"/>
+      <point x="48.0" y="0.0" type="line"/>
+      <point x="158.0" y="0.0" type="line"/>
+      <point x="196.0" y="283.0" type="line"/>
+      <point x="414.0" y="277.0" type="line"/>
+      <point x="422.0" y="369.0" type="line"/>
+      <point x="205.0" y="365.0" type="line"/>
+      <point x="232.0" y="564.0" type="line"/>
+      <point x="502.0" y="561.0" type="line"/>
+      <point x="510.0" y="647.0" type="line"/>
+      <point x="132.0" y="647.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,12 +37,10 @@ F
       <string>NPUSHB[ ]	/* 38 values pushed */
 0 1 0 2 3 1 2 97 0 0 0 4 89 5 1 4 4 17 75 0 3 3 18 3 76 0 0 0 9 0 9 17 17 17 17 6 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 17:32:48</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

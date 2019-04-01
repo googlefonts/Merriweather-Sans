@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
-  <advance width="701.0"/>
+  <advance width="696.0"/>
   <unicode hex="FB02"/>
   <anchor x="350.7" y="0.0" name="caret_1"/>
   <anchor x="200.133" y="0.0" name="bottom_1"/>
-  <anchor x="551.067" y="0.0" name="bottom_2"/>
+  <anchor x="548.0" y="0.0" name="bottom_2"/>
   <anchor x="189.844" y="-83.0" name="btm_1"/>
-  <anchor x="543.489" y="-83.0" name="btm_2"/>
-  <anchor x="551.067" y="492.0" name="center"/>
-  <anchor x="179.378" y="1002.222" name="top_1"/>
-  <anchor x="551.889" y="880.311" name="top_2"/>
-  <anchor x="681.3109999999999" y="983.0" name="topright"/>
+  <anchor x="540.0" y="-83.0" name="btm_2"/>
+  <anchor x="548.0" y="492.0" name="center"/>
+  <anchor x="142.0" y="1018.0" name="top_1"/>
+  <anchor x="549.0" y="880.0" name="top_2"/>
+  <anchor x="678.0" y="983.0" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="l" xOffset="400.0"/>
@@ -18,7 +18,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 02:29:01</string>
     </dict>
   </lib>
 </glyph>

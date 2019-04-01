@@ -7,7 +7,7 @@ Edotaccent
 </note>
   <anchor x="288.0" y="0.0" name="bottom"/>
   <anchor x="465.0" y="10.0" name="ogonek"/>
-  <anchor x="373.0" y="939.0" name="top"/>
+  <anchor x="370.0" y="918.0" name="top"/>
   <anchor x="82.0" y="747.0" name="topleft"/>
   <outline>
     <component base="E"/>

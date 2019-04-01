@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="593.0"/>
+  <advance width="590.6598295384615"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="115.0" y="240.0" type="line"/>
-      <point x="435.0" y="37.0" type="line"/>
-      <point x="472.0" y="142.0" type="line"/>
-      <point x="226.0" y="327.0" type="line"/>
-      <point x="226.0" y="273.0" type="line"/>
-      <point x="472.0" y="459.0" type="line"/>
-      <point x="435.0" y="565.0" type="line"/>
-      <point x="115.0" y="359.0" type="line"/>
+      <point x="112.78627692307693" y="239.4814153846154" type="line"/>
+      <point x="432.9382153846154" y="36.266276923076916" type="line"/>
+      <point x="469.2425846153846" y="142.1644923076923" type="line"/>
+      <point x="224.05206153846154" y="327.36664615384615" type="line"/>
+      <point x="224.05206153846154" y="273.2025846153846" type="line"/>
+      <point x="469.2425846153846" y="459.1896" type="line"/>
+      <point x="432.9382153846154" y="565.3034461538462" type="line"/>
+      <point x="112.78627692307693" y="359.5943384615385" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/29 03:07:07</string>
     </dict>
   </lib>
 </glyph>

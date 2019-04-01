@@ -7,53 +7,47 @@ uni1E9E
 </note>
   <outline>
     <contour>
-      <point x="435.0" y="-11.0" type="curve" smooth="yes"/>
-      <point x="486.0" y="-11.0"/>
-      <point x="533.0" y="1.0"/>
-      <point x="574.0" y="24.0" type="curve" smooth="yes"/>
-      <point x="657.0" y="71.0"/>
-      <point x="706.0" y="156.0"/>
-      <point x="706.0" y="259.0" type="curve" smooth="yes"/>
-      <point x="706.0" y="295.0"/>
-      <point x="697.0" y="327.0"/>
-      <point x="680.0" y="354.0" type="curve" smooth="yes"/>
-      <point x="645.0" y="409.0"/>
-      <point x="590.0" y="438.0"/>
-      <point x="542.0" y="438.0" type="curve"/>
-      <point x="690.0" y="601.0" type="line"/>
-      <point x="705.0" y="705.0" type="line"/>
-      <point x="689.0" y="705.0"/>
-      <point x="674.0" y="708.0"/>
-      <point x="639.0" y="720.0" type="curve"/>
-      <point x="574.0" y="739.0"/>
-      <point x="529.0" y="751.0"/>
-      <point x="458.0" y="751.0" type="curve" smooth="yes"/>
-      <point x="238.0" y="751.0"/>
+      <point x="418.0" y="-11.0" type="curve" smooth="yes"/>
+      <point x="588.0" y="-11.0"/>
+      <point x="689.0" y="88.0"/>
+      <point x="689.0" y="234.0" type="curve" smooth="yes"/>
+      <point x="689.0" y="344.0"/>
+      <point x="622.0" y="413.0"/>
+      <point x="532.0" y="413.0" type="curve"/>
+      <point x="690.0" y="603.0" type="line"/>
+      <point x="705.0" y="707.0" type="line"/>
+      <point x="689.0" y="707.0"/>
+      <point x="674.0" y="710.0"/>
+      <point x="639.0" y="722.0" type="curve"/>
+      <point x="574.0" y="741.0"/>
+      <point x="529.0" y="753.0"/>
+      <point x="458.0" y="753.0" type="curve" smooth="yes"/>
+      <point x="220.0" y="753.0"/>
       <point x="112.0" y="598.0"/>
       <point x="83.0" y="368.0" type="curve" smooth="yes"/>
       <point x="32.0" y="0.0" type="line"/>
-      <point x="183.0" y="0.0" type="line"/>
-      <point x="242.0" y="424.0" type="line" smooth="yes"/>
-      <point x="257.0" y="532.0"/>
-      <point x="317.0" y="625.0"/>
-      <point x="428.0" y="625.0" type="curve" smooth="yes"/>
-      <point x="464.0" y="625.0"/>
-      <point x="498.0" y="615.0"/>
-      <point x="519.0" y="602.0" type="curve"/>
-      <point x="372.0" y="429.0" type="line"/>
-      <point x="362.0" y="360.0" type="line"/>
-      <point x="493.0" y="360.0"/>
-      <point x="552.0" y="321.0"/>
-      <point x="552.0" y="242.0" type="curve" smooth="yes"/>
-      <point x="552.0" y="168.0"/>
-      <point x="476.0" y="95.0"/>
-      <point x="424.0" y="95.0" type="curve" smooth="yes"/>
-      <point x="377.0" y="95.0"/>
-      <point x="331.0" y="114.0"/>
-      <point x="308.0" y="133.0" type="curve"/>
+      <point x="190.0" y="0.0" type="line"/>
+      <point x="245.0" y="398.0" type="line" smooth="yes"/>
+      <point x="263.0" y="526.0"/>
+      <point x="338.0" y="620.0"/>
+      <point x="428.0" y="620.0" type="curve" smooth="yes"/>
+      <point x="464.0" y="620.0"/>
+      <point x="498.0" y="610.0"/>
+      <point x="519.0" y="597.0" type="curve"/>
+      <point x="376.0" y="426.0" type="line"/>
+      <point x="362.0" y="329.0" type="line"/>
+      <point x="493.0" y="329.0"/>
+      <point x="535.0" y="290.0"/>
+      <point x="535.0" y="217.0" type="curve" smooth="yes"/>
+      <point x="535.0" y="126.0"/>
+      <point x="459.0" y="109.0"/>
+      <point x="419.0" y="109.0" type="curve" smooth="yes"/>
+      <point x="372.0" y="109.0"/>
+      <point x="331.0" y="125.0"/>
+      <point x="308.0" y="144.0" type="curve"/>
       <point x="250.0" y="28.0" type="line"/>
       <point x="294.0" y="4.0"/>
-      <point x="340.0" y="-11.0"/>
+      <point x="323.0" y="-11.0"/>
     </contour>
   </outline>
   <lib>
@@ -76,7 +70,7 @@ NPUSHB[ ]	/* 11 values pushed */
 37 37 20 35 20 36 18 18 8 7 28 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 01:48:31</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

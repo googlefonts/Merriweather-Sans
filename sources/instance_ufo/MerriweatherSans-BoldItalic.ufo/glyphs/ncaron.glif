@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ncaron" format="2">
-  <advance width="626.0"/>
+  <advance width="626.2534090909091"/>
   <unicode hex="0148"/>
   <note>
 ncaron
 </note>
-  <anchor x="276.154" y="0.0" name="bottom"/>
-  <anchor x="380.0" y="788.0" name="top"/>
+  <anchor x="276.2443181818182" y="0.0" name="bottom"/>
+  <anchor x="378.2878787878788" y="788.0" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="caroncomb" xOffset="313.0"/>
+    <component base="caroncomb" xOffset="313.2878787878788"/>
   </outline>
   <lib>
     <dict>

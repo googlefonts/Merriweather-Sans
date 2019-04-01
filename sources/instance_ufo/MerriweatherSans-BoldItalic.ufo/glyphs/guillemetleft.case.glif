@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetleft.case" format="2">
-  <advance width="958.89744"/>
+  <advance width="948.8939393939394"/>
   <note>
 guillemotleft
 </note>
   <outline>
-    <component base="guilsinglleft" xOffset="11.179" yOffset="70.0"/>
-    <component base="guilsinglleft" xOffset="386.308" yOffset="70.0"/>
+    <component base="guilsinglleft" xOffset="8.696969696969697" yOffset="63.484848484848484"/>
+    <component base="guilsinglleft" xOffset="383.8787878787879" yOffset="63.484848484848484"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@ guillemotleft
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guillemetleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/26 03:28:54</string>
     </dict>
   </lib>
 </glyph>

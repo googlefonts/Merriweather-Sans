@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
   <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="-55.0" y="1017.0" name="top"/>
+  <anchor x="-55.70818461538462" y="1015.7351384615384" name="top"/>
   <outline>
     <contour>
-      <point x="70.0" y="864.0" type="line"/>
-      <point x="57.0" y="877.0"/>
-      <point x="-65.0" y="992.0"/>
-      <point x="-74.0" y="1017.0" type="curve"/>
-      <point x="-180.0" y="953.0" type="line"/>
-      <point x="-142.0" y="900.0"/>
-      <point x="-45.0" y="818.0"/>
-      <point x="-1.0" y="803.0" type="curve"/>
+      <point x="69.22818461538462" y="859.5348923076923" type="line"/>
+      <point x="55.785784615384614" y="872.9772923076923"/>
+      <point x="-64.44332307692306" y="989.1412923076923"/>
+      <point x="-73.24116923076922" y="1015.7351384615384" type="curve"/>
+      <point x="-179.72166153846155" y="951.3810461538461" type="line"/>
+      <point x="-141.72166153846155" y="898.5074461538461"/>
+      <point x="-43.31741538461539" y="817.064123076923"/>
+      <point x="-0.5320615384615479" y="802.4939692307693" type="curve"/>
     </contour>
   </outline>
   <lib>

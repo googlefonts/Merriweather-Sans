@@ -14,11 +14,6 @@
         <dimension name="Weight" xvalue="180"/>
       </location>
     </source>
-    <source filename="MerriweatherSans-Bold.ufo" name="Merriweather Sans Bold" familyname="Merriweather Sans" stylename="Bold">
-      <location>
-        <dimension name="Weight" xvalue="152"/>
-      </location>
-    </source>
     <source filename="MerriweatherSans-Regular.ufo" name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>

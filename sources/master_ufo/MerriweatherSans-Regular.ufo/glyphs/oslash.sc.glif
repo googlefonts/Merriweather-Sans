@@ -2,7 +2,7 @@
 <glyph name="oslash.sc" format="2">
   <advance width="743.13333"/>
   <anchor x="372.067" y="0.0" name="bottom"/>
-  <anchor x="383.067" y="722.0" name="top"/>
+  <anchor x="373.0" y="896.0" name="top"/>
   <outline>
     <contour>
       <point x="238.822" y="-89.778" type="line"/>
@@ -41,10 +41,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/28 05:00:42</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

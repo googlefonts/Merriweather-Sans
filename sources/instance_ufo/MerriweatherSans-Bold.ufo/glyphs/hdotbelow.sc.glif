@@ -1,21 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hdotbelow.sc" format="2">
-  <advance width="758.0"/>
-  <anchor x="379.0" y="-234.0" name="bottom"/>
-  <anchor x="367.0" y="-72.0" name="btm"/>
-  <anchor x="379.0" y="323.0" name="center"/>
-  <anchor x="379.0" y="722.0" name="top"/>
-  <anchor x="20.0" y="646.0" name="topleft"/>
+  <advance width="740.0923076923077"/>
+  <anchor x="370.4627076923077" y="-230.9768" name="bottom"/>
+  <anchor x="359.0" y="-72.0" name="btm"/>
+  <anchor x="370.26153846153846" y="323.0" name="center"/>
+  <anchor x="369.26153846153846" y="900.0" name="top"/>
+  <anchor x="11.153846153846153" y="646.0" name="topleft"/>
   <outline>
     <component base="h.sc"/>
-    <component base="dotbelowcomb" xOffset="382.0"/>
+    <component base="dotbelowcomb" xOffset="370.6923076923077"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 13:43:27</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

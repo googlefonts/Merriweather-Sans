@@ -6,7 +6,7 @@
 y
 </note>
   <anchor x="380.65" y="0.0" name="bottom"/>
-  <anchor x="277.575" y="557.0" name="top"/>
+  <anchor x="293.0" y="557.0" name="top"/>
   <outline>
     <contour>
       <point x="-8.45" y="-246.3" type="curve" smooth="yes"/>
@@ -52,7 +52,7 @@ y
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:34:25</string>
     </dict>
   </lib>
 </glyph>

@@ -5,20 +5,19 @@
   <anchor x="492.2" y="0.0" name="bottom_2"/>
   <anchor x="160.844" y="-72.0" name="btm_1"/>
   <anchor x="445.467" y="-72.0" name="btm_2"/>
-  <anchor x="284.867" y="10.0" name="ogonek"/>
-  <anchor x="157.378" y="892.0" name="top_1"/>
-  <anchor x="502.733" y="722.178" name="top_2"/>
+  <anchor x="186.0" y="0.0" name="ogonek"/>
+  <anchor x="158.0" y="900.0" name="top_1"/>
+  <anchor x="505.0" y="896.0" name="top_2"/>
   <outline>
-    <component base="ij.sc"/>
+    <component base="i.sc"/>
+    <component base="acutecomb" xOffset="158.0" yOffset="70.0"/>
+    <component base="j.sc" xOffset="317.0"/>
+    <component base="acutecomb" xOffset="504.0" yOffset="66.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <string>2019/03/28 20:58:12</string>
     </dict>
   </lib>
 </glyph>

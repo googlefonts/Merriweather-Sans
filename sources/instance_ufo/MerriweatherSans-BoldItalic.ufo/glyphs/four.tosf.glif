@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tosf" format="2">
-  <advance width="601.46154"/>
+  <advance width="601.0272727272727"/>
   <outline>
     <contour>
-      <point x="299.538" y="-183.0" type="line"/>
-      <point x="442.256" y="-183.0" type="line"/>
-      <point x="464.846" y="0.0" type="line"/>
-      <point x="568.744" y="0.0" type="line"/>
-      <point x="584.974" y="116.385" type="line"/>
-      <point x="480.487" y="109.795" type="line"/>
-      <point x="505.846" y="317.0" type="line"/>
-      <point x="364.359" y="300.0" type="line"/>
-      <point x="338.179" y="105.205" type="line"/>
-      <point x="152.077" y="96.795" type="line"/>
-      <point x="190.487" y="150.026" type="line"/>
-      <point x="454.231" y="570.0" type="line"/>
-      <point x="406.564" y="613.0" type="line"/>
-      <point x="293.41" y="613.0" type="line"/>
-      <point x="203.026" y="425.205"/>
-      <point x="96.667" y="250.154"/>
-      <point x="0.0" y="71.154" type="curve"/>
-      <point x="33.103" y="0.0" type="line"/>
-      <point x="323.538" y="0.0" type="line"/>
+      <point x="299.7375" y="-183.0" type="line"/>
+      <point x="441.7015151515152" y="-183.0" type="line"/>
+      <point x="464.05" y="0.0" type="line"/>
+      <point x="568.592803030303" y="0.0" type="line"/>
+      <point x="584.3712121212121" y="115.31704545454545" type="line"/>
+      <point x="479.7151515151515" y="109.20378787878789" type="line"/>
+      <point x="504.8147727272727" y="317.0" type="line"/>
+      <point x="364.33484848484846" y="300.0" type="line"/>
+      <point x="338.4026515151515" y="104.62007575757576" type="line"/>
+      <point x="150.82840909090908" y="95.9685606060606" type="line"/>
+      <point x="189.47992424242426" y="148.982196969697" type="line"/>
+      <point x="454.24886363636364" y="570.0" type="line"/>
+      <point x="406.1901515151515" y="613.0" type="line"/>
+      <point x="294.8276515151515" y="613.0" type="line"/>
+      <point x="203.86401515151516" y="424.3848484848485"/>
+      <point x="97.05871212121212" y="249.53863636363639"/>
+      <point x="0.0" y="70.53863636363637" type="curve"/>
+      <point x="33.16287878787879" y="0.0" type="line"/>
+      <point x="323.7375" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>

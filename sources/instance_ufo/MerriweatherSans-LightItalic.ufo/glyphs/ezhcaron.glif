@@ -4,7 +4,7 @@
   <unicode hex="01EF"/>
   <anchor x="178.0" y="0.0" name="bottom"/>
   <anchor x="215.0" y="279.0" name="center"/>
-  <anchor x="288.0" y="788.0" name="top"/>
+  <anchor x="286.0" y="788.0" name="top"/>
   <outline>
     <component base="ezh"/>
     <component base="caroncomb" xOffset="221.0"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/27 20:01:10</string>
     </dict>
   </lib>
 </glyph>

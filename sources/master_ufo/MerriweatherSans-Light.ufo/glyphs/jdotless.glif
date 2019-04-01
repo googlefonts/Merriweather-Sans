@@ -3,7 +3,7 @@
   <advance width="274.0"/>
   <unicode hex="0237"/>
   <anchor x="137.0" y="-273.0" name="bottom"/>
-  <anchor x="150.0" y="830.0" name="top"/>
+  <anchor x="148.0" y="830.0" name="top"/>
   <outline>
     <contour>
       <point x="-46.0" y="-241.0" type="line"/>
@@ -27,7 +27,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/03/31 01:30:59</string>
     </dict>
   </lib>
 </glyph>

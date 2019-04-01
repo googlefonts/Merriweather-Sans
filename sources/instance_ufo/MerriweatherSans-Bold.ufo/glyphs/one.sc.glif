@@ -1,27 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.sc" format="2">
-  <advance width="490.0"/>
+  <advance width="469.3076923076923"/>
   <outline>
     <contour>
-      <point x="191.0" y="0.0" type="line"/>
-      <point x="348.0" y="0.0" type="line"/>
-      <point x="349.0" y="742.0" type="line"/>
-      <point x="273.0" y="752.0" type="line"/>
-      <point x="236.0" y="721.0"/>
-      <point x="127.0" y="668.0"/>
-      <point x="62.0" y="651.0" type="curve"/>
-      <point x="75.0" y="561.0" type="line"/>
-      <point x="113.0" y="568.0"/>
-      <point x="152.0" y="574.0"/>
-      <point x="191.0" y="584.0" type="curve"/>
+      <point x="187.27692307692308" y="0.0" type="line"/>
+      <point x="333.55384615384617" y="0.0" type="line"/>
+      <point x="334.12307692307695" y="644.7076923076924" type="line"/>
+      <point x="264.63076923076926" y="652.1384615384616" type="line"/>
+      <point x="227.8" y="622.5846153846154"/>
+      <point x="122.84615384615385" y="577.0153846153846"/>
+      <point x="63.98461538461539" y="564.2923076923076" type="curve"/>
+      <point x="77.12307692307692" y="467.09230769230766" type="line"/>
+      <point x="116.56923076923077" y="473.38461538461536"/>
+      <point x="154.41538461538462" y="480.67692307692306"/>
+      <point x="187.27692307692308" y="490.8153846153846" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 16:41:21</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

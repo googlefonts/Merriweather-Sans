@@ -2,17 +2,15 @@
 <glyph name="wacute.sc" format="2">
   <advance width="834.0"/>
   <anchor x="380.0" y="0.0" name="bottom"/>
-  <anchor x="462.0" y="822.0" name="top"/>
+  <anchor x="459.0" y="812.0" name="top"/>
   <outline>
     <component base="w.sc"/>
-    <component base="acutecomb" xOffset="429.0" yOffset="93.0"/>
+    <component base="acutecomb" xOffset="426.0" yOffset="83.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/23 05:28:12</string>
     </dict>
   </lib>
 </glyph>

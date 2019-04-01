@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z.sc" format="2">
-  <advance width="547.0"/>
+  <advance width="546.7647727272728"/>
   <note>
 Z
 </note>
-  <anchor x="237.0" y="0.0" name="bottom"/>
-  <anchor x="280.0" y="325.59" name="center"/>
-  <anchor x="344.744" y="650.179" name="top"/>
+  <anchor x="236.7647727272727" y="0.0" name="bottom"/>
+  <anchor x="280.0" y="325.3484848484849" name="center"/>
+  <anchor x="333.72727272727275" y="639.3484848484849" name="top"/>
   <outline>
     <contour>
-      <point x="-11.204999999999998" y="0.0" type="line"/>
-      <point x="470.59" y="0.0" type="line"/>
-      <point x="489.231" y="125.308" type="line"/>
-      <point x="187.179" y="121.308" type="line"/>
-      <point x="230.077" y="151.923" type="line"/>
-      <point x="575.385" y="613.0" type="line"/>
-      <point x="563.795" y="650.0" type="line"/>
-      <point x="113.0" y="650.0" type="line"/>
-      <point x="95.538" y="528.103" type="line"/>
-      <point x="379.282" y="532.103" type="line"/>
-      <point x="332.385" y="504.128" type="line"/>
-      <point x="-24.205" y="37.0" type="line"/>
+      <point x="0.6367424242424207" y="0.0" type="line"/>
+      <point x="470.3484848484849" y="0.0" type="line"/>
+      <point x="488.77840909090907" y="125.25340909090909" type="line"/>
+      <point x="198.89469696969698" y="121.01818181818183" type="line"/>
+      <point x="251.50454545454545" y="168.46439393939394" type="line"/>
+      <point x="566.0757575757576" y="609.0" type="line"/>
+      <point x="554.7272727272727" y="646.0" type="line"/>
+      <point x="113.0" y="646.0" type="line"/>
+      <point x="95.13636363636364" y="524.0757575757576" type="line"/>
+      <point x="370.3484848484849" y="528.4242424242424" type="line"/>
+      <point x="316.25757575757575" y="483.24242424242425" type="line"/>
+      <point x="-12.598484848484848" y="37.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,10 +40,8 @@ Z
       <string>NPUSHB[ ]	/* 28 values pushed */
 0 0 0 1 89 0 1 1 17 75 0 2 2 3 89 0 3 3 18 3 76 17 19 17 17 4 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 19:36:14</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -1,40 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="615.15"/>
+  <advance width="614.0"/>
   <unicode hex="004B"/>
   <note>
 K
 </note>
-  <anchor x="270.575" y="0.0" name="bottom"/>
-  <anchor x="369.575" y="747.975" name="top"/>
+  <anchor x="308.0" y="0.0" name="bottom"/>
+  <anchor x="369.0" y="748.0" name="top"/>
   <outline>
     <contour>
-      <point x="50.75" y="0.0" type="line"/>
-      <point x="159.425" y="0.0" type="line"/>
-      <point x="190.1" y="234.125" type="line"/>
-      <point x="282.5" y="336.875" type="line"/>
-      <point x="374.0" y="163.4" type="line"/>
-      <point x="396.15" y="117.775"/>
-      <point x="452.4" y="10.7"/>
-      <point x="459.75" y="0.0" type="curve"/>
-      <point x="590.725" y="0.0" type="line"/>
-      <point x="561.775" y="44.25"/>
-      <point x="514.275" y="126.5"/>
-      <point x="475.975" y="196.075" type="curve" smooth="yes"/>
-      <point x="394.5" y="341.575"/>
-      <point x="389.15" y="353.675"/>
-      <point x="352.625" y="414.975" type="curve"/>
-      <point x="651.975" y="747.0" type="line"/>
-      <point x="525.0" y="747.0" type="line"/>
-      <point x="208.375" y="378.45" type="line"/>
-      <point x="256.375" y="747.0" type="line"/>
-      <point x="147.025" y="747.0" type="line"/>
+      <point x="50.0" y="0.0" type="line"/>
+      <point x="154.0" y="0.0" type="line"/>
+      <point x="185.0" y="234.0" type="line"/>
+      <point x="282.0" y="338.0" type="line"/>
+      <point x="373.0" y="163.0" type="line"/>
+      <point x="395.0" y="118.0"/>
+      <point x="451.0" y="11.0"/>
+      <point x="459.0" y="0.0" type="curve"/>
+      <point x="590.0" y="0.0" type="line"/>
+      <point x="561.0" y="44.0"/>
+      <point x="513.0" y="127.0"/>
+      <point x="475.0" y="196.0" type="curve" smooth="yes"/>
+      <point x="394.0" y="342.0"/>
+      <point x="391.0" y="354.0"/>
+      <point x="355.0" y="415.0" type="curve"/>
+      <point x="651.0" y="747.0" type="line"/>
+      <point x="524.0" y="747.0" type="line"/>
+      <point x="203.0" y="378.0" type="line"/>
+      <point x="251.0" y="747.0" type="line"/>
+      <point x="146.0" y="747.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/25 14:47:52</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

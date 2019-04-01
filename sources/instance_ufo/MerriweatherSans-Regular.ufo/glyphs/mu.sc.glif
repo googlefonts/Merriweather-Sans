@@ -2,17 +2,14 @@
 <glyph name="mu.sc" format="2">
   <advance width="903.0"/>
   <anchor x="451.644" y="0.0" name="bottom"/>
-  <anchor x="454.533" y="-72.0" name="btm"/>
-  <anchor x="454.533" y="722.0" name="top"/>
+  <anchor x="453.0" y="896.0" name="top"/>
   <outline>
     <component base="m.sc"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 03:37:06</string>
     </dict>
   </lib>
 </glyph>

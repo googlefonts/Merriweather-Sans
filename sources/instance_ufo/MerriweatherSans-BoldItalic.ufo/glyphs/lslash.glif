@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-  <advance width="313.20513"/>
+  <advance width="316.2878787878788"/>
   <unicode hex="0142"/>
   <note>
 lslash
 </note>
   <outline>
     <contour>
-      <point x="46.897" y="0.59" type="line"/>
-      <point x="197.897" y="0.59" type="line"/>
-      <point x="256.667" y="431.385" type="line"/>
-      <point x="349.0" y="468.026" type="line"/>
-      <point x="349.0" y="560.59" type="line"/>
-      <point x="269.487" y="527.538" type="line"/>
-      <point x="305.897" y="798.59" type="line"/>
-      <point x="154.487" y="798.59" type="line"/>
-      <point x="109.256" y="461.974" type="line"/>
-      <point x="13.846" y="423.564" type="line"/>
-      <point x="13.846" y="335.41" type="line"/>
-      <point x="96.436" y="368.41" type="line"/>
+      <point x="48.31818181818181" y="0.6969696969696968" type="line"/>
+      <point x="199.3181818181818" y="0.6969696969696968" type="line"/>
+      <point x="257.71212121212125" y="430.1515151515151" type="line"/>
+      <point x="352.83333333333337" y="467.06060606060606" type="line"/>
+      <point x="352.83333333333337" y="560.3484848484849" type="line"/>
+      <point x="270.6666666666667" y="526.0909090909091" type="line"/>
+      <point x="307.3181818181818" y="798.6969696969697" type="line"/>
+      <point x="155.66666666666666" y="798.6969696969697" type="line"/>
+      <point x="110.06060606060606" y="460.8484848484849" type="line"/>
+      <point x="17.196969696969692" y="422.8939393939394" type="line"/>
+      <point x="17.196969696969692" y="334.6060606060606" type="line"/>
+      <point x="97.45454545454545" y="366.9090909090909" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ lslash
 11 10 6 5 4 0 6 0 1 1 74 0 1 1 19 75 0 0 0 18 0 76 21 18 2 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/28 04:35:48</string>
     </dict>
   </lib>
 </glyph>

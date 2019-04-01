@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adotbelow.sc" format="2">
-  <advance width="626.0"/>
-  <anchor x="251.0" y="-199.0" name="bottom"/>
-  <anchor x="527.385" y="9.0" name="ogonek"/>
-  <anchor x="375.718" y="650.179" name="top"/>
+  <advance width="622.939393939394"/>
+  <anchor x="243.25757575757575" y="-199.0" name="bottom"/>
+  <anchor x="519.9102272727273" y="9.0" name="ogonek"/>
+  <anchor x="361.77272727272725" y="639.6969696969697" name="top"/>
   <outline>
     <component base="a.sc"/>
-    <component base="dotbelowcomb" xOffset="277.0"/>
+    <component base="dotbelowcomb" xOffset="269.25757575757575"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 18:17:52</string>
     </dict>
   </lib>
 </glyph>

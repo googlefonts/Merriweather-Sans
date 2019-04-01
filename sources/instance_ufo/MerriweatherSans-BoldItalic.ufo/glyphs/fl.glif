@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
-  <advance width="677.0"/>
+  <advance width="677.0541666666667"/>
   <unicode hex="FB02"/>
   <note>
 fl
 </note>
-  <anchor x="144.692" y="0.0" name="bottom_1"/>
-  <anchor x="488.872" y="0.0" name="bottom_2"/>
-  <anchor x="548.1030000000001" y="492.0" name="center"/>
-  <anchor x="274.692" y="748.769" name="top_1"/>
-  <anchor x="589.692" y="780.462" name="top_2"/>
-  <anchor x="720.0" y="711.0" name="topright"/>
+  <anchor x="144.98181818181817" y="0.0" name="bottom_1"/>
+  <anchor x="488.6318181818182" y="0.0" name="bottom_2"/>
+  <anchor x="549.0568181818182" y="492.0" name="center"/>
+  <anchor x="295.1363636363636" y="793.8787878787879" name="top_1"/>
+  <anchor x="590.1700757575758" y="781.9090909090909" name="top_2"/>
+  <anchor x="713.8371212121212" y="711.0" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="l" xOffset="363.0"/>
+    <component base="l" xOffset="363.8939393939394"/>
   </outline>
   <lib>
     <dict>

@@ -6,7 +6,7 @@
 j
 </note>
   <anchor x="68.0" y="-273.0" name="bottom"/>
-  <anchor x="178.0" y="557.0" name="top"/>
+  <anchor x="184.0" y="557.0" name="top"/>
   <outline>
     <component base="jdotless"/>
     <component base="dotaccent" xOffset="120.0" yOffset="1.0"/>
@@ -14,7 +14,7 @@ j
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/03/27 19:39:58</string>
     </dict>
   </lib>
 </glyph>

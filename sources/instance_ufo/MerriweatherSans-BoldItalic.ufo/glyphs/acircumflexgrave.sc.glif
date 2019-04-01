@@ -1,19 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflexgrave.sc" format="2">
-  <advance width="626.0"/>
-  <anchor x="277.103" y="0.0" name="bottom"/>
-  <anchor x="527.385" y="9.0" name="ogonek"/>
-  <anchor x="406.0" y="881.0" name="top"/>
+  <advance width="622.939393939394"/>
+  <anchor x="269.344696969697" y="0.0" name="bottom"/>
+  <anchor x="519.9102272727273" y="9.0" name="ogonek"/>
+  <anchor x="391.77272727272725" y="870.6969696969697" name="top"/>
   <outline>
     <component base="a.sc"/>
-    <component base="circumflexcomb_gravecomb" xOffset="339.0" yOffset="93.0"/>
+    <component base="circumflexcomb_gravecomb" xOffset="324.77272727272725" yOffset="82.6969696969697"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/03/25 18:17:52</string>
     </dict>
   </lib>
 </glyph>

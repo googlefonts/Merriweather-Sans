@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.osf" format="2">
-  <advance width="609.91111"/>
+  <advance width="613.0"/>
   <outline>
     <contour>
       <point x="159.422" y="-133.022" type="curve"/>
@@ -17,7 +17,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/01 04:31:51</string>
     </dict>
   </lib>
 </glyph>

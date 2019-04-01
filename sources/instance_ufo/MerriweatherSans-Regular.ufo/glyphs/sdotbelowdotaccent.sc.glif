@@ -1,20 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sdotbelowdotaccent.sc" format="2">
-  <advance width="545.0"/>
-  <anchor x="272.467" y="-215.089" name="bottom"/>
-  <anchor x="269.556" y="-72.0" name="btm"/>
-  <anchor x="294.0" y="1052.556" name="top"/>
+  <advance width="543.0"/>
+  <anchor x="266.467" y="-215.089" name="bottom"/>
+  <anchor x="263.0" y="-72.0" name="btm"/>
+  <anchor x="287.0" y="1070.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="dotbelowcomb" xOffset="273.0"/>
-    <component base="dotaccentcomb" xOffset="294.0" yOffset="62.0"/>
+    <component base="dotbelowcomb" xOffset="267.0"/>
+    <component base="dotaccentcomb" xOffset="287.0" yOffset="62.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 04:29:29</string>
     </dict>
   </lib>
 </glyph>

@@ -5,16 +5,16 @@
   <anchor x="359.844" y="0.0" name="bottom"/>
   <anchor x="364.956" y="-83.0" name="btm"/>
   <anchor x="647.978" y="10.0" name="ogonek"/>
-  <anchor x="303.356" y="921.778" name="top"/>
-  <anchor x="699.0889999999999" y="743.0" name="topright"/>
+  <anchor x="308.356" y="1008.778" name="top"/>
+  <anchor x="658.0889999999999" y="557.0" name="topright"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb.case" xOffset="360.0" yOffset="-87.0"/>
+    <component base="gravecomb.case" xOffset="365.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/01 03:20:18</string>
     </dict>
   </lib>
 </glyph>

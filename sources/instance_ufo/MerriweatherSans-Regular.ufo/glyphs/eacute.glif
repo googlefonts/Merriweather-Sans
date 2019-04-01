@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eacute" format="2">
-  <advance width="554.0"/>
+  <advance width="558.0"/>
   <unicode hex="00E9"/>
-  <anchor x="277.022" y="0.0" name="bottom"/>
-  <anchor x="297.667" y="-83.0" name="btm"/>
-  <anchor x="402.0" y="25.0" name="ogonek"/>
-  <anchor x="234.578" y="994.422" name="top"/>
+  <anchor x="279.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="-83.0" name="btm"/>
+  <anchor x="404.0" y="25.0" name="ogonek"/>
+  <anchor x="209.0" y="983.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="acutecomb" xOffset="295.0"/>
+    <component base="acutecomb" xOffset="297.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:20</string>
+      <string>2019/04/01 02:42:11</string>
     </dict>
   </lib>
 </glyph>
