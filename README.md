@@ -33,6 +33,18 @@ Fonts may be exported from Glyphs or by using Fontmake. This repo uses Fontmake.
 
 ## ChangeLog
 
+1 April 2019 (Eben Sorkin) Merriweather Sans v1.007
+
+Increased OS/2 Win Values to fix a a font Bakery Error. Made Roman and Italic values match.
+Fixed Production date
+Updated version number to v1.007
+Fixed duplicate enforce compatibility check in Glyphs source
+Cleaned and Compressed kerning data
+Updated copyright notices to include GIT url
+Inserted missing Caret data into Roman Source file
+
+Possible future work to round UPM from 1000 to 2000.
+
 1 April 2019 (Eben Sorkin) Merriweather Sans v1.006
 
 - Version numbering updated to 1.006
