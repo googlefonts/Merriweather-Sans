@@ -233,14 +233,7 @@ Fontbakery version: 0.7.0
 
 * [com.google.fonts/check/font_copyright](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/font_copyright)
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: 'Copyright 2017 The Familyname Project Authors (git url)'
-But instead we have got: 'Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather''
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
-
-* [com.google.fonts/check/family/win_ascent_and_descent](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/family/win_ascent_and_descent)
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1236, but got 1150 instead [code: ascent]
+But instead we have got: 'Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather''
 
 </details>
 <details>
@@ -274,7 +267,7 @@ Failed to sanitize file!
 <summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'.</summary>
 
 * [com.google.fonts/check/name/rfn](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/name/rfn)
-* ⚠ **WARN** Name table entry ("Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'") contains "Reserved Font Name". This is an error except in a few specific rare cases.
+* ⚠ **WARN** Name table entry ("Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather'") contains "Reserved Font Name". This is an error except in a few specific rare cases.
 
 </details>
 <details>
@@ -658,7 +651,7 @@ Failed to sanitize file!
 |  | fonts/variable/MerriweatherSans-Roman-VF.ttf |
 |:--- | ---:|
 | Dehinted Size | 265.4kb |
-| Hinted Size | 264.8kb |
+| Hinted Size | 264.9kb |
 | Increase | -576 bytes |
 | Change   | -0.2 % |
 
@@ -668,7 +661,7 @@ Failed to sanitize file!
 <summary>ℹ <b>INFO:</b> Font has old ttfautohint applied?</summary>
 
 * [com.google.fonts/check/old_ttfautohint](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/old_ttfautohint)
-* ℹ **INFO** Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.006']
+* ℹ **INFO** Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.007']
 
 </details>
 <details>
@@ -698,7 +691,7 @@ PPM <= 65535:
 <summary>ℹ <b>INFO:</b> Check for font-v versioning </summary>
 
 * [com.google.fonts/check/fontv](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/fontv)
-* ℹ **INFO** Version string is: "Version 1.006"
+* ℹ **INFO** Version string is: "Version 1.007"
 The version string must ideally include a git commit hash and either a 'dev' or a 'release' suffix such as in the example below:
 "Version 1.3; git-0d08353-release"
 
@@ -707,7 +700,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [prep, GPOS, DSIG, gasp, GSUB, loca]
+* ℹ **INFO** This font contains the following optional tables [gasp, GPOS, loca, prep, GSUB, DSIG]
 * 🍞 **PASS** Font contains all required tables.
 
 </details>
@@ -807,6 +800,13 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 * [com.google.fonts/check/varfont/has_HVAR](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/varfont/has_HVAR)
 * 🍞 **PASS** This variable font contains an HVAR table.
+
+</details>
+<details>
+<summary>🍞 <b>PASS:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
+
+* [com.google.fonts/check/family/win_ascent_and_descent](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/family/win_ascent_and_descent)
+* 🍞 **PASS** OS/2 usWinAscent & usWinDescent values look good!
 
 </details>
 <details>
@@ -1103,5 +1103,5 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS |
 |:-----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 3 | 6 | 66 | 7 | 68 |
-| 0% | 2% | 4% | 44% | 5% | 45% |
+| 0 | 2 | 6 | 66 | 7 | 69 |
+| 0% | 1% | 4% | 44% | 5% | 46% |

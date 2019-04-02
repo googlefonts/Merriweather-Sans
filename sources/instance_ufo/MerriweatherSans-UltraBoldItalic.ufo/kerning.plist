@@ -22,8 +22,6 @@
       <integer>30</integer>
       <key>public.kern2.backslash.case</key>
       <integer>-20</integer>
-      <key>public.kern2.comma</key>
-      <integer>20</integer>
       <key>public.kern2.eight.dnom</key>
       <integer>40</integer>
       <key>public.kern2.ezh.sc</key>
@@ -249,12 +247,6 @@
     </dict>
     <key>public.kern1.T</key>
     <dict>
-      <key>ibreve</key>
-      <integer>30</integer>
-      <key>icircumflex</key>
-      <integer>30</integer>
-      <key>idieresis</key>
-      <integer>30</integer>
       <key>public.kern2.A</key>
       <integer>-30</integer>
       <key>public.kern2.W</key>
@@ -267,10 +259,6 @@
       <integer>70</integer>
       <key>public.kern2.bullet</key>
       <integer>-50</integer>
-      <key>public.kern2.bullet.case</key>
-      <integer>-50</integer>
-      <key>public.kern2.comma</key>
-      <integer>-70</integer>
       <key>public.kern2.eight.dnom</key>
       <integer>-50</integer>
       <key>public.kern2.eight.osf</key>
@@ -293,6 +281,8 @@
       <integer>-30</integer>
       <key>public.kern2.hyphen</key>
       <integer>-70</integer>
+      <key>public.kern2.idotless</key>
+      <integer>30</integer>
       <key>public.kern2.n</key>
       <integer>-40</integer>
       <key>public.kern2.nine.dnom</key>
@@ -315,8 +305,6 @@
       <integer>20</integer>
       <key>public.kern2.s</key>
       <integer>-60</integer>
-      <key>public.kern2.schwa</key>
-      <integer>-55</integer>
       <key>public.kern2.seven</key>
       <integer>40</integer>
       <key>public.kern2.seven.dnom</key>
@@ -357,8 +345,6 @@
       <integer>-50</integer>
       <key>public.kern2.zero.osf.zero</key>
       <integer>-40</integer>
-      <key>public.kern2.zero.zero</key>
-      <integer>-30</integer>
     </dict>
     <key>public.kern1.Thorn</key>
     <dict>
@@ -428,8 +414,6 @@
       <integer>120</integer>
       <key>public.kern2.backslash.case</key>
       <integer>110</integer>
-      <key>public.kern2.comma</key>
-      <integer>-10</integer>
       <key>public.kern2.five</key>
       <integer>40</integer>
       <key>public.kern2.five.sc</key>
@@ -596,11 +580,6 @@
       <key>public.kern2.f</key>
       <integer>-20</integer>
     </dict>
-    <key>public.kern1.bullet.case</key>
-    <dict>
-      <key>public.kern2.T</key>
-      <integer>-50</integer>
-    </dict>
     <key>public.kern1.c.sc</key>
     <dict>
       <key>public.kern2.a.sc</key>
@@ -640,10 +619,6 @@
     </dict>
     <key>public.kern1.f</key>
     <dict>
-      <key>ibreve</key>
-      <integer>20</integer>
-      <key>icircumflex</key>
-      <integer>20</integer>
       <key>idieresis</key>
       <integer>10</integer>
       <key>public.kern2.asterisk</key>
@@ -664,6 +639,8 @@
       <integer>-20</integer>
       <key>public.kern2.hyphen</key>
       <integer>-20</integer>
+      <key>public.kern2.idotless</key>
+      <integer>20</integer>
       <key>public.kern2.lslash</key>
       <integer>20</integer>
       <key>public.kern2.nine.osf</key>
@@ -1300,11 +1277,6 @@
     <dict>
       <key>public.kern2.T</key>
       <integer>-40</integer>
-    </dict>
-    <key>public.kern1.zero.zero</key>
-    <dict>
-      <key>public.kern2.T</key>
-      <integer>-30</integer>
     </dict>
   </dict>
 </plist>

@@ -35,8 +35,6 @@
       <real>-40.0</real>
       <key>public.kern2.d</key>
       <real>-5.0</real>
-      <key>public.kern2.eth</key>
-      <real>-5.0</real>
       <key>public.kern2.f</key>
       <real>-20.0</real>
       <key>public.kern2.four</key>
@@ -44,8 +42,6 @@
       <key>public.kern2.hyphen</key>
       <real>-40.0</real>
       <key>public.kern2.nine</key>
-      <real>-40.0</real>
-      <key>public.kern2.nine.lf</key>
       <real>-40.0</real>
       <key>public.kern2.nine.osf</key>
       <real>-40.0</real>
@@ -59,20 +55,14 @@
       <real>-40.0</real>
       <key>public.kern2.seven</key>
       <real>-40.0</real>
-      <key>public.kern2.seven.lf</key>
-      <real>-40.0</real>
       <key>public.kern2.seven.osf</key>
       <real>-30.0</real>
-      <key>public.kern2.six.lf</key>
-      <real>-10.0</real>
       <key>public.kern2.space</key>
       <real>-10.0</real>
       <key>public.kern2.t.sc</key>
       <real>-20.0</real>
       <key>public.kern2.trademark</key>
       <real>-60.0</real>
-      <key>public.kern2.two.lf</key>
-      <real>20.0</real>
       <key>public.kern2.u</key>
       <real>-10.0</real>
       <key>public.kern2.v</key>
@@ -193,10 +183,6 @@
       <real>-50.0</real>
       <key>public.kern2.g</key>
       <real>-40.0</real>
-      <key>public.kern2.guillemetleft</key>
-      <real>-60.0</real>
-      <key>public.kern2.guillemetright</key>
-      <real>-30.0</real>
       <key>public.kern2.guilsinglleft</key>
       <real>-30.0</real>
       <key>public.kern2.guilsinglright</key>
@@ -310,10 +296,6 @@
       <real>-20.0</real>
       <key>public.kern2.four.sc</key>
       <real>-20.0</real>
-      <key>public.kern2.guillemetleft</key>
-      <real>-50.0</real>
-      <key>public.kern2.guillemetright</key>
-      <real>-50.0</real>
       <key>public.kern2.guilsinglleft</key>
       <real>-30.0</real>
       <key>public.kern2.guilsinglright</key>
@@ -466,10 +448,6 @@
       <real>-30.0</real>
       <key>public.kern2.g</key>
       <real>-20.0</real>
-      <key>public.kern2.guillemetleft</key>
-      <real>-30.0</real>
-      <key>public.kern2.guillemetright</key>
-      <real>-30.0</real>
       <key>public.kern2.guilsinglleft</key>
       <real>-30.0</real>
       <key>public.kern2.guilsinglright</key>
@@ -1567,11 +1545,6 @@
       <key>public.kern2.period</key>
       <real>-30.0</real>
     </dict>
-    <key>public.kern1.nine.lf</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <real>-20.0</real>
-    </dict>
     <key>public.kern1.nine.osf</key>
     <dict>
       <key>public.kern2.T</key>
@@ -1962,11 +1935,6 @@
       <key>public.kern2.trademark</key>
       <real>30.0</real>
     </dict>
-    <key>public.kern1.seven.lf</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <real>-30.0</real>
-    </dict>
     <key>public.kern1.seven.osf</key>
     <dict>
       <key>public.kern2.A</key>
@@ -2108,11 +2076,6 @@
     <key>public.kern1.two</key>
     <dict>
       <key>public.kern2.j.sc</key>
-      <real>20.0</real>
-    </dict>
-    <key>public.kern1.two.lf</key>
-    <dict>
-      <key>public.kern2.A</key>
       <real>20.0</real>
     </dict>
     <key>public.kern1.two.sups</key>

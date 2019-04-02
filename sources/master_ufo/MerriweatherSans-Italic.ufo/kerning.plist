@@ -235,12 +235,6 @@
     </dict>
     <key>public.kern1.T</key>
     <dict>
-      <key>ibreve</key>
-      <real>30.0</real>
-      <key>icircumflex</key>
-      <real>30.0</real>
-      <key>idieresis</key>
-      <real>30.0</real>
       <key>public.kern2.A</key>
       <real>-30.0</real>
       <key>public.kern2.a</key>
@@ -255,10 +249,6 @@
       <real>20.0</real>
       <key>public.kern2.bullet</key>
       <real>-50.0</real>
-      <key>public.kern2.bullet.case</key>
-      <real>-70.0</real>
-      <key>public.kern2.comma</key>
-      <real>-70.0</real>
       <key>public.kern2.eight</key>
       <real>-20.0</real>
       <key>public.kern2.eight.sc</key>
@@ -275,6 +265,8 @@
       <real>-20.0</real>
       <key>public.kern2.hyphen</key>
       <real>-40.0</real>
+      <key>public.kern2.idotless</key>
+      <real>30.0</real>
       <key>public.kern2.n</key>
       <real>-40.0</real>
       <key>public.kern2.nine.sc</key>
@@ -291,8 +283,6 @@
       <real>10.0</real>
       <key>public.kern2.s</key>
       <real>-50.0</real>
-      <key>public.kern2.schwa</key>
-      <real>0.0</real>
       <key>public.kern2.seven</key>
       <real>50.0</real>
       <key>public.kern2.seven.sc</key>
@@ -386,8 +376,6 @@
       <real>110.0</real>
       <key>public.kern2.backslash.case</key>
       <real>90.0</real>
-      <key>public.kern2.comma</key>
-      <real>-30.0</real>
       <key>public.kern2.o</key>
       <real>-20.0</real>
       <key>public.kern2.one.sc</key>
@@ -527,11 +515,6 @@
       <key>public.kern2.f</key>
       <real>-20.0</real>
     </dict>
-    <key>public.kern1.bullet.case</key>
-    <dict>
-      <key>public.kern2.T</key>
-      <real>-70.0</real>
-    </dict>
     <key>public.kern1.colon</key>
     <dict>
       <key>public.kern2.y</key>
@@ -570,12 +553,6 @@
     </dict>
     <key>public.kern1.f</key>
     <dict>
-      <key>ibreve</key>
-      <real>20.0</real>
-      <key>icircumflex</key>
-      <real>20.0</real>
-      <key>idieresis</key>
-      <real>20.0</real>
       <key>public.kern2.asterisk</key>
       <real>30.0</real>
       <key>public.kern2.backslash</key>
@@ -590,6 +567,8 @@
       <real>-20.0</real>
       <key>public.kern2.hyphen</key>
       <real>-20.0</real>
+      <key>public.kern2.idotless</key>
+      <real>20.0</real>
       <key>public.kern2.lslash</key>
       <real>20.0</real>
       <key>public.kern2.nine.osf</key>

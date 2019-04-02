@@ -233,15 +233,20 @@ Fontbakery version: 0.7.0
 
 * [com.google.fonts/check/font_copyright](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/font_copyright)
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: 'Copyright 2017 The Familyname Project Authors (git url)'
-But instead we have got: 'Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather''
+But instead we have got: 'Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather''
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
+<summary>🔥 <b>FAIL:</b> Checking with ots-sanitize.</summary>
 
-* [com.google.fonts/check/family/win_ascent_and_descent](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/family/win_ascent_and_descent)
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1283, but got 1150 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 329, but got 300 instead [code: descent]
+* [com.google.fonts/check/ots](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/ots)
+* 🔥 **FAIL** ots-sanitize returned an error code (1). Output follows:
+
+ERROR: GDEF: bad caret value format: 3
+ERROR: GDEF: Invalid ligature caret list
+ERROR: GDEF: Failed to parse table
+Failed to sanitize file!
+
 
 </details>
 <details>
@@ -255,7 +260,7 @@ But instead we have got: 'Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintyp
 <summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'.</summary>
 
 * [com.google.fonts/check/name/rfn](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/name/rfn)
-* ⚠ **WARN** Name table entry ("Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'") contains "Reserved Font Name". This is an error except in a few specific rare cases.
+* ⚠ **WARN** Name table entry ("Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather'") contains "Reserved Font Name". This is an error except in a few specific rare cases.
 
 </details>
 <details>
@@ -278,13 +283,6 @@ But instead we have got: 'Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintyp
 	- i + l
 
    [code: lacks-kern-info]
-
-</details>
-<details>
-<summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature?</summary>
-
-* [com.google.fonts/check/ligature_carets](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/ligature_carets)
-* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
 
 </details>
 <details>
@@ -582,9 +580,9 @@ But instead we have got: 'Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintyp
 
 |  | fonts/variable/MerriweatherSans-Italic-VF.ttf |
 |:--- | ---:|
-| Dehinted Size | 235.2kb |
-| Hinted Size | 234.6kb |
-| Increase | -596 bytes |
+| Dehinted Size | 235.7kb |
+| Hinted Size | 235.1kb |
+| Increase | -592 bytes |
 | Change   | -0.2 % |
 
 
@@ -632,7 +630,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [DSIG, loca, GSUB, prep, GPOS, gasp]
+* ℹ **INFO** This font contains the following optional tables [GSUB, prep, loca, gasp, GPOS, DSIG]
 * 🍞 **PASS** Font contains all required tables.
 
 </details>
@@ -822,6 +820,13 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 </details>
 <details>
+<summary>🍞 <b>PASS:</b> Checking OS/2 usWinAscent & usWinDescent.</summary>
+
+* [com.google.fonts/check/family/win_ascent_and_descent](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/family/win_ascent_and_descent)
+* 🍞 **PASS** OS/2 usWinAscent & usWinDescent values look good!
+
+</details>
+<details>
 <summary>🍞 <b>PASS:</b> Checking OS/2 Metrics match hhea Metrics.</summary>
 
 * [com.google.fonts/check/os2_metrics_match_hhea](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/os2_metrics_match_hhea)
@@ -868,13 +873,6 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 * [com.google.fonts/check/varfont_weight_instances](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/varfont_weight_instances)
 * 🍞 **PASS** OK
-
-</details>
-<details>
-<summary>🍞 <b>PASS:</b> Checking with ots-sanitize.</summary>
-
-* [com.google.fonts/check/ots](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/ots)
-* 🍞 **PASS** ots-sanitize passed this file
 
 </details>
 <details>
@@ -1060,6 +1058,13 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 </details>
 <details>
+<summary>🍞 <b>PASS:</b> Are there caret positions declared for every ligature?</summary>
+
+* [com.google.fonts/check/ligature_carets](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/ligature_carets)
+* 🍞 **PASS** Looks good!
+
+</details>
+<details>
 <summary>🍞 <b>PASS:</b> Is there a "kern" table declared in the font?</summary>
 
 * [com.google.fonts/check/kern_table](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/kern_table)
@@ -1101,5 +1106,5 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS |
 |:-----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 6 | 57 | 7 | 78 |
-| 0% | 1% | 4% | 38% | 5% | 52% |
+| 0 | 2 | 5 | 57 | 7 | 79 |
+| 0% | 1% | 3% | 38% | 5% | 53% |

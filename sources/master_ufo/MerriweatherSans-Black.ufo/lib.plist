@@ -671,6 +671,7 @@
       <string>/hookabovecomb/uhornhookabove</string>
       <string>/commercialMinusSign</string>
       <string>/six.sc</string>
+      <string>/a.sc</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>

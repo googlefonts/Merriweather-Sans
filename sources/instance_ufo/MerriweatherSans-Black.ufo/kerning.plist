@@ -35,8 +35,6 @@
       <integer>-40</integer>
       <key>public.kern2.d</key>
       <integer>-5</integer>
-      <key>public.kern2.eth</key>
-      <integer>-5</integer>
       <key>public.kern2.f</key>
       <integer>-20</integer>
       <key>public.kern2.four</key>
@@ -44,8 +42,6 @@
       <key>public.kern2.hyphen</key>
       <integer>-40</integer>
       <key>public.kern2.nine</key>
-      <integer>-40</integer>
-      <key>public.kern2.nine.lf</key>
       <integer>-40</integer>
       <key>public.kern2.nine.osf</key>
       <integer>-40</integer>
@@ -59,20 +55,14 @@
       <integer>-40</integer>
       <key>public.kern2.seven</key>
       <integer>-40</integer>
-      <key>public.kern2.seven.lf</key>
-      <integer>-40</integer>
       <key>public.kern2.seven.osf</key>
       <integer>-30</integer>
-      <key>public.kern2.six.lf</key>
-      <integer>-10</integer>
       <key>public.kern2.space</key>
       <integer>-10</integer>
       <key>public.kern2.t.sc</key>
       <integer>-20</integer>
       <key>public.kern2.trademark</key>
       <integer>-60</integer>
-      <key>public.kern2.two.lf</key>
-      <integer>20</integer>
       <key>public.kern2.u</key>
       <integer>-10</integer>
       <key>public.kern2.v</key>
@@ -189,10 +179,6 @@
       <integer>-50</integer>
       <key>public.kern2.g</key>
       <integer>-40</integer>
-      <key>public.kern2.guillemetleft</key>
-      <integer>-60</integer>
-      <key>public.kern2.guillemetright</key>
-      <integer>-30</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-30</integer>
       <key>public.kern2.guilsinglright</key>
@@ -306,10 +292,6 @@
       <integer>-20</integer>
       <key>public.kern2.four.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.guillemetleft</key>
-      <integer>-50</integer>
-      <key>public.kern2.guillemetright</key>
-      <integer>-50</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-30</integer>
       <key>public.kern2.guilsinglright</key>
@@ -462,10 +444,6 @@
       <integer>-30</integer>
       <key>public.kern2.g</key>
       <integer>-20</integer>
-      <key>public.kern2.guillemetleft</key>
-      <integer>-30</integer>
-      <key>public.kern2.guillemetright</key>
-      <integer>-30</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-30</integer>
       <key>public.kern2.guilsinglright</key>
@@ -1559,11 +1537,6 @@
       <key>public.kern2.period</key>
       <integer>-30</integer>
     </dict>
-    <key>public.kern1.nine.lf</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-20</integer>
-    </dict>
     <key>public.kern1.nine.osf</key>
     <dict>
       <key>public.kern2.T</key>
@@ -1954,11 +1927,6 @@
       <key>public.kern2.trademark</key>
       <integer>30</integer>
     </dict>
-    <key>public.kern1.seven.lf</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-30</integer>
-    </dict>
     <key>public.kern1.seven.osf</key>
     <dict>
       <key>public.kern2.A</key>
@@ -2100,11 +2068,6 @@
     <key>public.kern1.two</key>
     <dict>
       <key>public.kern2.j.sc</key>
-      <integer>20</integer>
-    </dict>
-    <key>public.kern1.two.lf</key>
-    <dict>
-      <key>public.kern2.A</key>
       <integer>20</integer>
     </dict>
     <key>public.kern1.two.sups</key>

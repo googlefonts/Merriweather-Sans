@@ -4,23 +4,25 @@
   <note>
 f_f_i
 </note>
+  <anchor x="301.0" y="0.0" name="caret_1"/>
+  <anchor x="658.0" y="0.0" name="caret_2"/>
   <anchor x="133.0" y="0.0" name="bottom_1"/>
   <anchor x="472.0" y="0.0" name="bottom_2"/>
-  <anchor x="779.0" y="0.0" name="bottom_3"/>
-  <anchor x="851.0" y="10.0" name="ogonek"/>
+  <anchor x="809.0" y="0.0" name="bottom_3"/>
+  <anchor x="881.0" y="10.0" name="ogonek"/>
   <anchor x="310.0" y="806.0" name="top_1"/>
   <anchor x="649.0" y="806.0" name="top_2"/>
-  <anchor x="853.0" y="557.0" name="top_3"/>
+  <anchor x="883.0" y="557.0" name="top_3"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="339.0"/>
-    <component base="idotless" xOffset="678.0"/>
+    <component base="idotless" xOffset="708.0"/>
     <component base="dotaccent" xOffset="804.0" yOffset="1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/02 02:30:05</string>
     </dict>
   </lib>
 </glyph>

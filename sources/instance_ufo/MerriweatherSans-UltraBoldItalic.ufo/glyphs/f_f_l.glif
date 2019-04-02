@@ -4,6 +4,8 @@
   <note>
 f_f_l
 </note>
+  <anchor x="321.0" y="0.0" name="caret_1"/>
+  <anchor x="678.0" y="0.0" name="caret_2"/>
   <anchor x="150.0" y="0.0" name="bottom_1"/>
   <anchor x="524.0" y="0.0" name="bottom_2"/>
   <anchor x="878.0" y="0.0" name="bottom_3"/>
@@ -20,7 +22,7 @@ f_f_l
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/02 02:30:54</string>
     </dict>
   </lib>
 </glyph>

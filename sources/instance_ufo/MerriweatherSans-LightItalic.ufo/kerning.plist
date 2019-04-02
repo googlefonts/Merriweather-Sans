@@ -231,12 +231,6 @@
     </dict>
     <key>public.kern1.T</key>
     <dict>
-      <key>ibreve</key>
-      <integer>30</integer>
-      <key>icircumflex</key>
-      <integer>30</integer>
-      <key>idieresis</key>
-      <integer>30</integer>
       <key>public.kern2.A</key>
       <integer>-30</integer>
       <key>public.kern2.a</key>
@@ -249,10 +243,6 @@
       <integer>40</integer>
       <key>public.kern2.bracketright</key>
       <integer>20</integer>
-      <key>public.kern2.bullet.case</key>
-      <integer>-70</integer>
-      <key>public.kern2.comma</key>
-      <integer>-70</integer>
       <key>public.kern2.eight</key>
       <integer>-20</integer>
       <key>public.kern2.eight.sc</key>
@@ -267,6 +257,8 @@
       <integer>-40</integer>
       <key>public.kern2.hyphen</key>
       <integer>-40</integer>
+      <key>public.kern2.idotless</key>
+      <integer>30</integer>
       <key>public.kern2.n</key>
       <integer>-30</integer>
       <key>public.kern2.o</key>
@@ -283,8 +275,6 @@
       <integer>20</integer>
       <key>public.kern2.s</key>
       <integer>-50</integer>
-      <key>public.kern2.schwa</key>
-      <integer>-40</integer>
       <key>public.kern2.seven</key>
       <integer>50</integer>
       <key>public.kern2.seven.sc</key>
@@ -378,8 +368,6 @@
       <integer>70</integer>
       <key>public.kern2.bullet</key>
       <integer>-30</integer>
-      <key>public.kern2.comma</key>
-      <integer>-40</integer>
       <key>public.kern2.o</key>
       <integer>-30</integer>
       <key>public.kern2.p</key>
@@ -506,11 +494,6 @@
       <key>public.kern2.f</key>
       <integer>-20</integer>
     </dict>
-    <key>public.kern1.bullet.case</key>
-    <dict>
-      <key>public.kern2.T</key>
-      <integer>-70</integer>
-    </dict>
     <key>public.kern1.colon</key>
     <dict>
       <key>public.kern2.y</key>
@@ -549,12 +532,6 @@
     </dict>
     <key>public.kern1.f</key>
     <dict>
-      <key>ibreve</key>
-      <integer>30</integer>
-      <key>icircumflex</key>
-      <integer>30</integer>
-      <key>idieresis</key>
-      <integer>30</integer>
       <key>public.kern2.asterisk</key>
       <integer>30</integer>
       <key>public.kern2.backslash</key>
@@ -571,6 +548,8 @@
       <integer>-20</integer>
       <key>public.kern2.guillemetright</key>
       <integer>-20</integer>
+      <key>public.kern2.idotless</key>
+      <integer>30</integer>
       <key>public.kern2.lslash</key>
       <integer>20</integer>
       <key>public.kern2.nine.osf</key>

@@ -1,23 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="614.0"/>
+  <advance width="644.0"/>
   <unicode hex="FB01"/>
   <note>
 fi
 </note>
+  <anchor x="302.0" y="0.0" name="caret_1"/>
   <anchor x="133.0" y="0.0" name="bottom_1"/>
-  <anchor x="440.0" y="0.0" name="bottom_2"/>
-  <anchor x="512.0" y="10.0" name="ogonek"/>
+  <anchor x="470.0" y="0.0" name="bottom_2"/>
+  <anchor x="542.0" y="10.0" name="ogonek"/>
   <anchor x="310.0" y="806.0" name="top_1"/>
-  <anchor x="514.0" y="557.0" name="top_2"/>
+  <anchor x="544.0" y="557.0" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="339.0"/>
+    <component base="i" xOffset="369.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/02 02:30:26</string>
     </dict>
   </lib>
 </glyph>
