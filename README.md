@@ -2,9 +2,13 @@
 
 This file provides detailed information on Merriweather Sans Font Software. This information should be distributed along with the Merriweather Sans font and any derivative works.
 
+Older efforts and issues with this project can be seen here: <https://github.com/EbenSorkin/Merriweather-Sans>
+
 Merriweather Sans is useful for creating long texts for books or articles, headlines and captions.
 
 Merriweather Sans currently features eight styles: Light, Regular, Bold and Ultra Bold with matching italics
+
+Merriweather Sans also offers two variable fonts. An upright or roman that can vary across weight and an Italic that can also vary across weight.
 
 ## Basic Font Information
 
@@ -19,11 +23,13 @@ Latin-1, Latin-2: Eastern Europe, Turkish, Macintosh Character Set and Adobe Lat
 
 There are two source files for each style:
 
-1. MerriweatherSans-Style.vfb Original Source Files with contour overlaps for v1.004 and earlier
+1. MerriweatherSans for VF.glyphs. 
 
-2. MerriweatherSans-Style.ufo Original Source Files with contour overlaps for v1.005 and later
+2. MerriweatherSans-Italic for VF.glyphs
 
-Older efforts and issues with this project can be seen here: <https://github.com/EbenSorkin/Merriweather-Sans>
+Fonts may be exported from Glyphs or by using Fontmake. This repo uses Fontmake.
+
+
 
 ## ChangeLog
 
