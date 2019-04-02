@@ -41,8 +41,9 @@ Fonts may be exported from Glyphs or by using Fontmake. This repo uses Fontmake.
 - Fixed duplicate enforce compatibility check in Glyphs source
 - Cleaned and Compressed kerning data
 - Updated copyright notices to include GIT url
-- Inserted missing Caret data into Roman Source file
-- Possible future work to round UPM from 1000 to 2000.
+- Inserted missing Caret data into Roman Source file ( remove since it seems to create an error in Fontmake?)
+- Possible future work: round UPM from 1000 to 2000.
+- Possible future work: Generate and post OTFs.
 
 1 April 2019 (Eben Sorkin) Merriweather Sans v1.006
 
