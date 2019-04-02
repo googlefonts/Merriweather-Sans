@@ -10,7 +10,8 @@ f,
 "/hookabovecomb.case/Ahookabove",
 "/hookabovecomb/uhornhookabove",
 "/commercialMinusSign",
-"/six.sc"
+"/six.sc",
+"/a.sc"
 );
 classes = (
 {
@@ -34,15 +35,15 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'";
+copyright = "Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather'";
 customParameters = (
-{
-name = trademark;
-value = "Merriweather is a trademark of Sorkin Type Co.";
-},
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Merriweather is a trademark of Sorkin Type Co.";
 },
 {
 name = licenseURL;
@@ -71,7 +72,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2019-01-16 02:11:27 +0000";
+date = "2019-04-02 02:18:22 +0000";
 designer = "Eben Sorkin";
 designerURL = sorkintype.com;
 familyName = "Merriweather Sans";
@@ -223,11 +224,11 @@ value = 67;
 },
 {
 name = winAscent;
-value = 1150;
+value = 1290;
 },
 {
 name = winDescent;
-value = 300;
+value = 330;
 },
 {
 name = hheaAscender;
@@ -316,11 +317,11 @@ value = 67;
 },
 {
 name = winAscent;
-value = 1150;
+value = 1290;
 },
 {
 name = winDescent;
-value = 300;
+value = 330;
 },
 {
 name = hheaAscender;
@@ -414,11 +415,11 @@ value = 67;
 },
 {
 name = winAscent;
-value = 1150;
+value = 1290;
 },
 {
 name = winDescent;
-value = 300;
+value = 330;
 },
 {
 name = hheaAscender;
@@ -94647,25 +94648,20 @@ kerning = {
 "@MMK_R_backslash" = -40;
 "@MMK_R_backslash.case" = -40;
 "@MMK_R_d" = -5;
-"@MMK_R_eth" = -5;
 "@MMK_R_f" = -20;
 "@MMK_R_four" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_nine" = -40;
-"@MMK_R_nine.lf" = -40;
 "@MMK_R_nine.osf" = -40;
 "@MMK_R_o" = -10;
 "@MMK_R_question" = -40;
 "@MMK_R_quoteright" = -40;
 "@MMK_R_quotesingle" = -40;
 "@MMK_R_seven" = -40;
-"@MMK_R_seven.lf" = -40;
 "@MMK_R_seven.osf" = -30;
-"@MMK_R_six.lf" = -10;
 "@MMK_R_space" = -10;
 "@MMK_R_t.sc" = -20;
 "@MMK_R_trademark" = -60;
-"@MMK_R_two.lf" = 20;
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -35;
 "@MMK_R_w" = -20;
@@ -94729,8 +94725,6 @@ kerning = {
 "@MMK_R_four.osf" = -80;
 "@MMK_R_four.sc" = -50;
 "@MMK_R_g" = -40;
-"@MMK_R_guillemetleft" = -60;
-"@MMK_R_guillemetright" = -30;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -20;
@@ -94789,8 +94783,6 @@ kerning = {
 "@MMK_R_backslash.case" = -80;
 "@MMK_R_f" = -20;
 "@MMK_R_four.sc" = -20;
-"@MMK_R_guillemetleft" = -50;
-"@MMK_R_guillemetright" = -50;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -50;
@@ -94869,8 +94861,6 @@ kerning = {
 "@MMK_R_a.sc" = -30;
 "@MMK_R_d" = -30;
 "@MMK_R_g" = -20;
-"@MMK_R_guillemetleft" = -30;
-"@MMK_R_guillemetright" = -30;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_n" = -20;
@@ -95446,9 +95436,6 @@ ezh.sc = -10;
 "@MMK_R_V" = -10;
 "@MMK_R_period" = -30;
 };
-"@MMK_L_nine.lf" = {
-"@MMK_R_A" = -20;
-};
 "@MMK_L_nine.osf" = {
 "@MMK_R_T" = -60;
 "@MMK_R_V" = -30;
@@ -95656,9 +95643,6 @@ ezh.sc = -10;
 "@MMK_R_space" = -30;
 "@MMK_R_trademark" = 30;
 };
-"@MMK_L_seven.lf" = {
-"@MMK_R_A" = -30;
-};
 "@MMK_L_seven.osf" = {
 "@MMK_R_A" = -40;
 "@MMK_R_at" = -40;
@@ -95737,9 +95721,6 @@ ezh.sc = -10;
 };
 "@MMK_L_two" = {
 "@MMK_R_j.sc" = 20;
-};
-"@MMK_L_two.lf" = {
-"@MMK_R_A" = 20;
 };
 "@MMK_L_two.sups" = {
 "@MMK_R_solidus" = -30;
@@ -95841,16 +95822,13 @@ lcaron.sc = {
 "@MMK_R_four" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_nine" = -40;
-"@MMK_R_nine.lf" = -20;
 "@MMK_R_nine.osf" = -20;
 "@MMK_R_o" = -10;
 "@MMK_R_question" = -40;
 "@MMK_R_quoteright" = -40;
 "@MMK_R_quotesingle" = -40;
 "@MMK_R_seven" = -40;
-"@MMK_R_seven.lf" = -40;
 "@MMK_R_seven.osf" = -30;
-"@MMK_R_six.lf" = -20;
 "@MMK_R_space" = -20;
 "@MMK_R_t.sc" = -20;
 "@MMK_R_trademark" = -60;
@@ -95912,8 +95890,6 @@ lcaron.sc = {
 "@MMK_R_four.osf" = -70;
 "@MMK_R_four.sc" = -50;
 "@MMK_R_g" = -30;
-"@MMK_R_guillemetleft" = -60;
-"@MMK_R_guillemetright" = -30;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -20;
@@ -95974,8 +95950,6 @@ lcaron.sc = {
 "@MMK_R_backslash.case" = -80;
 "@MMK_R_f" = -20;
 "@MMK_R_four.sc" = -40;
-"@MMK_R_guillemetleft" = -50;
-"@MMK_R_guillemetright" = -50;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -50;
@@ -96601,9 +96575,6 @@ ezh.sc = -10;
 "@MMK_R_period" = -30;
 "@MMK_R_y.sc" = -20;
 };
-"@MMK_L_nine.lf" = {
-"@MMK_R_A" = -20;
-};
 "@MMK_L_nine.osf" = {
 "@MMK_R_A" = -20;
 "@MMK_R_T" = -30;
@@ -96803,9 +96774,6 @@ ezh.sc = -10;
 "@MMK_R_space" = -30;
 "@MMK_R_trademark" = 30;
 };
-"@MMK_L_seven.lf" = {
-"@MMK_R_A" = -30;
-};
 "@MMK_L_seven.osf" = {
 "@MMK_R_A" = -30;
 "@MMK_R_at" = -40;
@@ -96830,9 +96798,6 @@ ezh.sc = -10;
 };
 "@MMK_L_six" = {
 "@MMK_R_V" = -30;
-};
-"@MMK_L_six.lf" = {
-"@MMK_R_A" = -20;
 };
 "@MMK_L_six.sc" = {
 "@MMK_R_T" = -30;
@@ -96981,17 +96946,14 @@ ezh.sc = -10;
 "@MMK_R_four" = -20;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_nine" = -20;
-"@MMK_R_nine.lf" = -40;
 "@MMK_R_nine.osf" = -40;
 "@MMK_R_o" = -10;
 "@MMK_R_question" = -40;
 "@MMK_R_quoteright" = -40;
 "@MMK_R_quotesingle" = -40;
 "@MMK_R_seven" = -40;
-"@MMK_R_seven.lf" = -40;
 "@MMK_R_seven.osf" = -40;
 "@MMK_R_six" = -20;
-"@MMK_R_six.lf" = -20;
 "@MMK_R_space" = -20;
 "@MMK_R_t.sc" = -20;
 "@MMK_R_trademark" = -60;
@@ -97048,8 +97010,6 @@ ezh.sc = -10;
 "@MMK_R_four.osf" = -60;
 "@MMK_R_four.sc" = -50;
 "@MMK_R_g" = -40;
-"@MMK_R_guillemetleft" = -60;
-"@MMK_R_guillemetright" = -30;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -20;
@@ -97109,8 +97069,6 @@ ezh.sc = -10;
 "@MMK_R_backslash.case" = -80;
 "@MMK_R_f" = -20;
 "@MMK_R_four.sc" = -40;
-"@MMK_R_guillemetleft" = -50;
-"@MMK_R_guillemetright" = -50;
 "@MMK_R_guilsinglleft" = -30;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -50;
@@ -97745,9 +97703,6 @@ ezh.sc = -10;
 "@MMK_R_period" = -30;
 "@MMK_R_y.sc" = -20;
 };
-"@MMK_L_nine.lf" = {
-"@MMK_R_A" = -30;
-};
 "@MMK_L_nine.osf" = {
 "@MMK_R_A" = -30;
 "@MMK_R_T" = -30;
@@ -97950,9 +97905,6 @@ ezh.sc = -10;
 "@MMK_R_space" = -30;
 "@MMK_R_trademark" = 30;
 };
-"@MMK_L_seven.lf" = {
-"@MMK_R_A" = -30;
-};
 "@MMK_L_seven.osf" = {
 "@MMK_R_A" = -30;
 "@MMK_R_at" = -40;
@@ -97974,9 +97926,6 @@ ezh.sc = -10;
 "@MMK_R_A" = -20;
 "@MMK_R_T" = -30;
 "@MMK_R_Y" = -20;
-};
-"@MMK_L_six.lf" = {
-"@MMK_R_A" = -20;
 };
 "@MMK_L_six.sc" = {
 "@MMK_R_T" = -30;
@@ -98207,5 +98156,5 @@ width = 205;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }

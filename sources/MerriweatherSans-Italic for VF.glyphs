@@ -2,7 +2,7 @@
 .appVersion = "1225";
 DisplayStrings = (
 "$1$ $2$ $3$ $4$ $5$ $6$ $7$ $8$ $9$ $0$¢1¢ ¢2¢ ¢3¢ ¢4¢ ¢5¢ ¢6¢ ¢7¢ ¢8¢ ¢9¢ ¢0¢/euro 1/euro  /euro 2/euro  /euro 3/euro  /euro 4/euro  /euro 5/euro  /euro 6/euro  /euro 7/euro  /euro 8/euro  /euro 9/euro  /euro 0/euro £1£ £2£ £3£ £4£ £5£ £6£ £7£ £8£ £9£ £0£¥1¥ ¥2¥ ¥3¥ ¥4¥ ¥5¥ ¥6¥ ¥7¥ ¥8¥ ¥9¥ ¥0¥¢5  30¢  $25,000 67$ /euro 5,234  17/euro   £423  120£  ¥6,000   234¥  ¤23   456¤ Numbers with Punctuation and symbols.1. .2. .3. .4. .5. .6. .7. .8. .9. .0. ,1, ,2, ,3, ,4, ,5, ,6, ,7, ,8, ,9, ,0,:1: :2: :3: :4: :5: :6: :7: :8: :9: :0:;1;  ;2;  ;3;  ;4;  ;5;  ;6;  ;7;  ;8;  ;9;  ;0; *1*2*3*4*5*6*7*8*9*0*¡1! ¡2! ¡3! ¡4! ¡5! ¡6! ¡7! ¡8! ¡9! ¡0!  ¿1? ¿2? ¿3? ¿4? ¿5? ¿6? ¿7? ¿8? ¿9? ¿0? /quoteleft 1' /quoteleft 2/quoteright  /quoteleft 3/quoteright  /quoteleft 4/quoteright  /quoteleft 5/quoteright  /quoteleft 6/quoteright  /quoteleft 7/quoteright  /quoteleft 8/quoteright  /quoteleft 9/quoteright  /quoteleft 0/quoteright  ,1/quoteright  ,2/quoteright  ,3/quoteright  ,4/quoteright  ,5/quoteright  ,6/quoteright  ,7/quoteright  ,8/quoteright  ,9/quoteright  ,0/quoteright  /quotedblleft 1/quotedblright  /quotedblleft 2/quotedblright  /quotedblleft 3/quotedblright  /quotedblleft 4/quotedblright  /quotedblleft 5/quotedblright  /quotedblleft 6/quotedblright  /quotedblleft 7/quotedblright  /quotedblleft 8/quotedblright  /quotedblleft 9/quotedblright  /quotedblleft 0/quotedblright '1' '2' '3' '4' '5' '6' '7' '8' '9' '0'\"1\" \"2\" \"3\" \"4\" \"5\" \"6\" \"7\" \"8\" \"9\" \"0\" _1_2_3_4_5_6_7_8_9_0_@1@2@3@4@5@6@7@8@9@0@1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th 1º/sixperemspace 1ª/sixperemspace  2º/sixperemspace 2ª/sixperemspace  3º/sixperemspace 3ª/sixperemspace  4º/sixperemspace 4ª/sixperemspace  5º/sixperemspace 5ª /sixperemspace 6º/sixperemspace 6ª/sixperemspace  7º/sixperemspace 7ª/sixperemspace  8º/sixperemspace 8ª/sixperemspace  9º/sixperemspace 9ª/sixperemspace  Nov 22, 1645   10.23.77   12  10-6-0177°   45%   56/perthousand    (473ml) [81 dB @ 80 km(speed). Go 72* (to) the station #45. Apt. 305For example, \"{Gel} A voltage of 50 V to 160 V\" rather than \"a voltage of 50/endash 160 V\".  sam@jerry.orgType 1900/endash 2000 (London, 1967) p. 45.  12 Crescent Lane #5, Boston MA 021157 Garden Walk, Cambridge CB4 3EW UKOP1812/dagger    1824/daggerdbl     45§23    ¶67   ·3,567    /bullet 1,678  OP1812/dagger    1824/daggerdbl     45§23    ¶67   ·3,567    /bullet 1,678  OT1812/dagger    1824/daggerdbl     45§23    ¶67   ·3,567    /bullet 1,678  LT1812/dagger    1824/daggerdbl     45§23    ¶67   ·3,567    /bullet 1,678hyphens and dashesSemi-preciousClackton-on-Sea/endash LondonBerlin/endash London18:32/endash 20:18  He came /emdash  that day /emdash  but no./quoteleft You sad /emdash !/quoteright  Quotes /quoteleft I feel/quoteright  /quoteleft ah/quoteright  /quoteleft no./quoteright  /quoteleft no?/quoteright  /quoteleft if/quoteright  /quoteleft cake!/quoteright  /quoteleft ¿jeff?/quoteright  /quoteleft ¡si!/quoteright  /quoteleft i/quoteright ll/quoteright  /quoteleft I feel/quoteright  /quoteleft ah/quoteright  /quoteleft no./quoteright  /quoteleft no?/quoteright  /quoteleft if/quoteright  /quoteleft cake!/quoteright  /quoteleft ¿jeff?/quoteright  /quoteleft ¡si!/quoteright  /quoteleft i/quoteright ll/quoteright  'I feel' 'ah' 'no.' 'no?' 'if' 'cake!' '¿jeff?' '¡si!' 'i'll',I feel/quoteright  ,ah/quoteright  ,no./quoteright  ,no?/quoteright  ,if/quoteright  ,cake!/quoteright  ,¿jeff?/quoteright  ,¡si!/quoteright  ,i/quoteright ll/quoteright Sometimes difficult combinations with no ligatures fì fï fî f/ibreve  fl fh fk fb fj ft f? f! (f) {f} [f] f' f\" f/quoteright  f/quotedblright  froggy kojgin logjam jy yj ra r/lslash  o/lslash xo ov/lslash vo ow/lslash wo o/ldot lon Tim Tìn Tïs Tîr T/ibreve a Fin Vin (Q) {Q} [Q] (Q) {Q} [Q] 4QJ Qg Qy QX Vìm WìnPunctuation/quoteleft a/quoteright  /quoteleft b/quoteright  /quoteleft c/quoteright  /quoteleft d/quoteright  /quoteleft e/quoteright  /quoteleft f/quoteright  /quoteleft g/quoteright  /quoteleft h/quoteright  /quoteleft i/quoteright  /quoteleft j/quoteright  /quoteleft k/quoteright  /quoteleft l/quoteright  /quoteleft m/quoteright  /quoteleft n/quoteright  /quoteleft o/quoteright  /quoteleft p/quoteright  /quoteleft q/quoteright  /quoteleft r/quoteright  /quoteleft s/quoteright  /quoteleft ß/quoteright  /quoteleft t/quoteright  /quoteleft u/quoteright  /quoteleft v/quoteright  /quoteleft w/quoteright  /quoteleft x/quoteright  /quoteleft y/quoteright  /quoteleft z/quoteright   /quoteleft A/quoteright  /quoteleft B/quoteright  /quoteleft C/quoteright  /quoteleft D/quoteright  /quoteleft E/quoteright  /quoteleft F/quoteright  /quoteleft G/quoteright  /quoteleft H/quoteright  /quoteleft I/quoteright  /quoteleft J/quoteright  /quoteleft K/quoteright  /quoteleft L/quoteright  /quoteleft M/quoteright  /quoteleft N/quoteright  /quoteleft O/quoteright  /quoteleft P/quoteright  /quoteleft Q/quoteright  /quoteleft R/quoteright  /quoteleft S/quoteright  /quoteleft T/quoteright  /quoteleft U/quoteright  /quoteleft V/quoteright  /quoteleft W/quoteright  /quoteleft X/quoteright  /quoteleft Y/quoteright  /quoteleft Z/quoteright  /quotedblleft a/quotedblright  /quotedblleft b/quotedblright  /quotedblleft c/quotedblright  /quotedblleft d/quotedblright  /quotedblleft e/quotedblright  /quotedblleft f/quotedblright  /quotedblleft g/quotedblright  /quotedblleft h/quotedblright  /quotedblleft i/quotedblright  /quotedblleft j/quotedblright  /quotedblleft k/quotedblright  /quotedblleft l/quotedblright  /quotedblleft m/quotedblright  /quotedblleft n/quotedblright  /quotedblleft o/quotedblright  /quotedblleft p/quotedblright  /quotedblleft q/quotedblright  /quotedblleft r/quotedblright  /quotedblleft s/quotedblright  /quotedblleft ß/quotedblright  /quotedblleft t/quotedblright  /quotedblleft u/quotedblright  /quotedblleft v/quotedblright  /quotedblleft w/quotedblright  /quotedblleft x/quotedblright  /quotedblleft y/quotedblright  /quotedblleft z/quotedblright   /quotedblleft A/quotedblright  /quotedblleft B/quotedblright  /quotedblleft C/quotedblright  /quotedblleft D/quotedblright  /quotedblleft E/quotedblright  /quotedblleft F/quotedblright  /quotedblleft G/quotedblright  /quotedblleft H/quotedblright  /quotedblleft I/quotedblright  /quotedblleft J/quotedblright  /quotedblleft K/quotedblright  /quotedblleft L/quotedblright  /quotedblleft M/quotedblright  /quotedblleft N/quotedblright  /quotedblleft O/quotedblright  /quotedblleft P/quotedblright  /quotedblleft Q/quotedblright  /quotedblleft R/quotedblright  /quotedblleft S/quotedblright  /quotedblleft T/quotedblright  /quotedblleft U/quotedblright  /quotedblleft V/quotedblright  /quotedblleft W/quotedblright  /quotedblleft X/quotedblright  /quotedblleft Y/quotedblright  /quotedblleft Z/quotedblright 'a' 'b' 'c' 'd' 'e' 'f' 'g' 'h' 'i' 'j' 'k' 'l' 'm' 'n' 'o' 'p' 'q' 'r' 's' 'ß' 't' 'u' 'v' 'w' 'x' 'y' 'z'  'A' 'B' 'C' 'D' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'L' 'M' 'N' 'O' 'P' 'Q' 'R' 'S' 'T' 'U' 'V' 'W' 'X' 'Y' 'Z'\"a\" \"b\" \"c\" \"d\" \"e\" \"f\" \"g\" \"h\" \"i\" \"j\" \"k\" \"l\" \"m\" \"n\" \"o\" \"p\" \"q\" \"r\" \"s\" \"ß\" \"t\" \"u\" \"v\" \"w\" \"x\" \"y\" \"z\"  \"A\" \"B\" \"C\" \"D\" \"E\" \"F\" \"G\" \"H\" \"I\" \"J\" \"K\" \"L\" \"M\" \"N\" \"O\" \"P\" \"Q\" \"R\" \"S\" \"T\" \"U\" \"V\" \"W\" \"X\" \"Y\" \"Z\".a. .b. .c. .d. .e. .f. .g. .h. .i. .j. .k. .l. .m. .n. .o. .p. .q. .r. .s. .ß. .ü. .t. .u. .v. .w. .x. .y. .z. .A. .B. .C. .D. .E. .F. .G. .H. .I. .J. .K. .L. .M. .N. .O. .P. .Q. .R. .S. .T. .U. .V. .W. .X. .Y. .Z.¡a! ¡b! ¡c! ¡d! ¡e! ¡f! ¡g! ¡h! ¡i! ¡j! ¡k! ¡l! ¡m! ¡n! ¡o! ¡p! ¡q! ¡r! ¡s! ¡ß! ¡t! ¡u! ¡v! ¡w! ¡x! ¡y! ¡z! ¡A! ¡B! ¡C! ¡D! ¡E! ¡F! ¡G! ¡H! ¡I! ¡J! ¡K! ¡L! ¡M! ¡N! ¡O! ¡P! ¡Q! ¡R! ¡S! ¡T! ¡U! ¡V! ¡W! ¡X! ¡Y! ¡Z!(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)(k)(l)(m)(n)(o)(p)(q)(r)(s)(ß)(t)(u)(v)(w)(x)(y)(z){a}{b}{c}{ß}{d}{e}{f}{g}{h}{i}{j}{k}{l}{m}{n}{o}{p}{q}{r}{s}{ß}{t}{u}{v}{w}{x}{y}{z}[a][b][c][d][e][f][g][h][i][j][k][l][m][n][o][p][q][r][s][ß][ü][t][u][v][w][x][y][z](A)(B)(C)(D)(E)(F)(G)(H)(I)(J)(K)(L)(M)(N)(O)(P)(Q)(R)(S)(T)(U)(V)(W)(X)(Y)(Z){A}{B}{C}{D}{E}{F}{G}{H}{I}{J}{K}{L}{M}{N}{O}{P}{Q}{R}{S}{T}{U}{V}{W}{X}{Y}{Z} [A][B][C][D][E][F][G][H][I][J][K][L][M][N][O][P][Q][R][S][Ü][T][U][V][W][X][Y][Z];a; ;b; ;c; ;ß; ;d; ;e; ;f; ;g; h; i; j; k; l; m; ;n; ;o; ;p; ;q; ;r; ;s; ;ü; ;t; ;u; ;v; ;w; ;x; ;y; ;z; ;A; ;B; ;C; ;D; ;E; ;F; ;G; ;H; ;I; ;J; ;K; ;L; ;M; ;N; ;O; ;P; ;Q; ;R; ;S; ;T; ;U; ;V; ;W; ;X; ;Y; ;Z; a-a b-b c-c d-d e-e f-f g-g h-h i-i j-j k-k l-l m-m n-n o-o p-p q-q r-r s-s ß-ß t-t u-u v-v w-w x-x y-y z-za/endash a b/endash b c/endash c ß/endash ß d/endash d e/endash e f/endash f g/endash g h/endash h i/endash i j/endash j k/endash k l/endash l m/endash m n/endash n o/endash o p/endash p q/endash q r/endash r s/endash s t/endash t u/endash u v/endash v w/endash w x/endash x y/endash y z/endash z A/endash A B/endash B C/endash C D/endash D E/endash E F/endash F G/endash G H/endash H I/endash I J/endash J K/endash K L/endash L M/endash M N/endash N O/endash O P/endash P Q/endash Q R/endash R S/endash S T/endash T U/endash U V/endash V W/endash W X/endash X Y/endash Y Z/endash Z a*a b*b c*c d*d e*e f*f g*g h*h i*i j*j k*k l*l m*m n*n o*o p*p q*q r*r s*s ß*ß t*t u*u v*v w*w x*x y*y z*zA*A B*B C*C D*D E*E F*F G*G H*H I*I J*J K*K L*L M*M N*N O*O P*P Q*Q R*R S*S T*T U*U V*V W*W X*X Y*Y Z*ZAmpersands  a&a a&a a&a b&b c&c d&d e&e f&f f&f g&g h&h i&i j&j k&k l&l m&m n&n o&o p&p q&q q&q r&r s&s ß&ß t&t u&u v&v w&w x&x y&y z&zA&A B&B C&C D&D E&E F&F G&G H&H I&I J&J K&K L&L M&M N&N O&O P&P Q&Q R&R S&S T&T U&U V&V W&W X&X Y&Y Z&Za&a b&b c&c d&d e&e f&f g&g h&h i&i j&j k&k l&l m&m n&n o&o p&p q&q r&r s&s ß&ß t&t u&u v&v w&w x&x y&y z&zA&A B&B C&C D&D E&E F&F G&G H&H I&I J&J K&K L&L M&M N&N O&O P&P Q&Q R&R S&S T&T U&U V&V W&W X&X Y&Y Z&Z",
-"/infinity",
+nifi,
 "/increment",
 "/product",
 "o/ohorn",
@@ -11,7 +11,9 @@ DisplayStrings = (
 "/circumflexcomb î",
 "/circumflexcomb î",
 "/brevecomb/ibreve",
-"/brevecomb/ibreve"
+"/brevecomb/ibreve",
+"/a.sc",
+"/f_f_l"
 );
 classes = (
 {
@@ -35,7 +37,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2013-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'";
+copyright = "Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather'";
 customParameters = (
 {
 name = license;
@@ -59,10 +61,6 @@ name = vendorID;
 value = "STC ";
 },
 {
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
 name = Axes;
 value = (
 {
@@ -76,7 +74,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2019-02-09 04:06:34 +0000";
+date = "2019-04-02 02:14:12 +0000";
 designer = "Eben Sorkin";
 designerURL = sorkintype.com;
 familyName = "Merriweather Sans";
@@ -228,11 +226,11 @@ value = 67;
 },
 {
 name = winAscent;
-value = 1150;
+value = 1290;
 },
 {
 name = winDescent;
-value = 300;
+value = 330;
 },
 {
 name = hheaAscender;
@@ -345,11 +343,11 @@ value = 67;
 },
 {
 name = winAscent;
-value = 1150;
+value = 1290;
 },
 {
 name = winDescent;
-value = 300;
+value = 330;
 },
 {
 name = hheaAscender;
@@ -463,11 +461,11 @@ value = 67;
 },
 {
 name = winAscent;
-value = 1150;
+value = 1290;
 },
 {
 name = winDescent;
-value = 300;
+value = 330;
 },
 {
 name = hheaAscender;
@@ -36820,9 +36818,15 @@ rightKerningGroup = idotless;
 },
 {
 glyphname = f_f;
-lastChange = "2019-02-18 20:31:35 +0000";
+lastChange = "2019-04-02 02:29:41 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{330, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36836,6 +36840,12 @@ layerId = "9808B12E-936F-4588-BC0B-2F1DE3B33DAD";
 width = 748;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{299, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36849,6 +36859,12 @@ layerId = "A8DD961D-2AAA-4421-B000-699D061D5CAD";
 width = 678;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{299, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36868,9 +36884,19 @@ rightKerningGroup = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2019-02-18 20:31:35 +0000";
+lastChange = "2019-04-02 02:30:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{331, 0}";
+},
+{
+name = caret_2;
+position = "{688, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36881,7 +36907,7 @@ transform = "{1, 0, 0, 1, 374, 0}";
 },
 {
 name = idotless;
-transform = "{1, 0, 0, 1, 748, 0}";
+transform = "{1, 0, 0, 1, 768, 0}";
 },
 {
 name = dotaccent;
@@ -36892,6 +36918,16 @@ layerId = "9808B12E-936F-4588-BC0B-2F1DE3B33DAD";
 width = 1071;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{301, 0}";
+},
+{
+name = caret_2;
+position = "{658, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36902,7 +36938,7 @@ transform = "{1, 0, 0, 1, 339, 0}";
 },
 {
 name = idotless;
-transform = "{1, 0, 0, 1, 678, 0}";
+transform = "{1, 0, 0, 1, 708, 0}";
 },
 {
 name = dotaccent;
@@ -36913,6 +36949,16 @@ layerId = "A8DD961D-2AAA-4421-B000-699D061D5CAD";
 width = 954;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{291, 0}";
+},
+{
+name = caret_2;
+position = "{648, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36923,7 +36969,7 @@ transform = "{1, 0, 0, 1, 345, 0}";
 },
 {
 name = idotless;
-transform = "{1, 0, 0, 1, 689, 0}";
+transform = "{1, 0, 0, 1, 709, 0}";
 },
 {
 name = dotaccent;
@@ -36940,9 +36986,19 @@ rightKerningGroup = idotless;
 },
 {
 glyphname = f_f_l;
-lastChange = "2019-02-18 20:31:35 +0000";
+lastChange = "2019-04-02 02:30:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{321, 0}";
+},
+{
+name = caret_2;
+position = "{678, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36960,6 +37016,16 @@ layerId = "9808B12E-936F-4588-BC0B-2F1DE3B33DAD";
 width = 1073;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{261, 0}";
+},
+{
+name = caret_2;
+position = "{618, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -36977,6 +37043,16 @@ layerId = "A8DD961D-2AAA-4421-B000-699D061D5CAD";
 width = 953;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{261, 0}";
+},
+{
+name = caret_2;
+position = "{618, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -37000,16 +37076,22 @@ rightKerningGroup = l;
 },
 {
 glyphname = fi;
-lastChange = "2019-02-18 20:31:35 +0000";
+lastChange = "2019-04-02 02:30:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{332, 0}";
+}
+);
 components = (
 {
 name = f;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 374, 0}";
+transform = "{1, 0, 0, 1, 394, 0}";
 }
 );
 layerId = "9808B12E-936F-4588-BC0B-2F1DE3B33DAD";
@@ -37049,33 +37131,45 @@ NPUSHB[ ]\011/* 25 values pushed */
 42 42 16 16 42 45 42 45 44 43 16 41 16 41 17 17 20 37 36 21 38 34 13 7 28 
 CALL[ ]\011/* CallFunction */";
 };
-width = 698;
+width = 718;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{302, 0}";
+}
+);
 components = (
 {
 name = f;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 339, 0}";
+transform = "{1, 0, 0, 1, 369, 0}";
 }
 );
 layerId = "A8DD961D-2AAA-4421-B000-699D061D5CAD";
-width = 614;
+width = 644;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{302, 0}";
+}
+);
 components = (
 {
 name = f;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 345, 0}";
+transform = "{1, 0, 0, 1, 365, 0}";
 }
 );
 layerId = "FC25F90A-4039-49BA-9FA9-48428CE1BED8";
-width = 636.025;
+width = 656;
 }
 );
 leftKerningGroup = f;
@@ -37085,9 +37179,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2019-02-18 20:31:35 +0000";
+lastChange = "2019-04-02 02:30:35 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{325, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -37101,6 +37201,12 @@ layerId = "9808B12E-936F-4588-BC0B-2F1DE3B33DAD";
 width = 699;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{302, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -37114,6 +37220,12 @@ layerId = "A8DD961D-2AAA-4421-B000-699D061D5CAD";
 width = 614;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{302, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -100441,7 +100553,6 @@ kerning = {
 "@MMK_R_Y" = -20;
 "@MMK_R_Z" = 30;
 "@MMK_R_backslash.case" = -20;
-"@MMK_R_comma" = 20;
 "@MMK_R_eight.dnom" = 40;
 "@MMK_R_ezh.sc" = -20;
 "@MMK_R_five.sc" = 20;
@@ -100566,8 +100677,6 @@ kerning = {
 "@MMK_R_backslash" = 50;
 "@MMK_R_backslash.case" = 70;
 "@MMK_R_bullet" = -50;
-"@MMK_R_bullet.case" = -50;
-"@MMK_R_comma" = -70;
 "@MMK_R_eight.dnom" = -50;
 "@MMK_R_eight.osf" = -40;
 "@MMK_R_ezh" = -20;
@@ -100576,7 +100685,6 @@ kerning = {
 "@MMK_R_four.dnom" = -40;
 "@MMK_R_four.sc" = -20;
 "@MMK_R_guillemetright" = -50;
-"@MMK_R_guillemotleft" = 0;
 "@MMK_R_guilsinglleft" = -80;
 "@MMK_R_h" = -30;
 "@MMK_R_hyphen" = -70;
@@ -100591,7 +100699,6 @@ kerning = {
 "@MMK_R_periodcentered" = -50;
 "@MMK_R_quotesingle" = 20;
 "@MMK_R_s" = -60;
-"@MMK_R_schwa" = -55;
 "@MMK_R_seven" = 40;
 "@MMK_R_seven.dnom" = -40;
 "@MMK_R_seven.sc" = 20;
@@ -100612,10 +100719,7 @@ kerning = {
 "@MMK_R_z" = -30;
 "@MMK_R_zero.dnom" = -50;
 "@MMK_R_zero.osf.zero" = -40;
-"@MMK_R_zero.zero" = -30;
-ibreve = 30;
-icircumflex = 30;
-idieresis = 30;
+"@MMK_R_idotless" = 30;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_H" = 30;
@@ -100652,7 +100756,6 @@ idieresis = 30;
 "@MMK_R_a.sc" = -10;
 "@MMK_R_backslash" = 120;
 "@MMK_R_backslash.case" = 110;
-"@MMK_R_comma" = -10;
 "@MMK_R_five" = 40;
 "@MMK_R_five.sc" = 20;
 "@MMK_R_four.dnom" = 20;
@@ -100741,9 +100844,6 @@ idieresis = 30;
 "@MMK_R_T" = -50;
 "@MMK_R_f" = -20;
 };
-"@MMK_L_bullet.case" = {
-"@MMK_R_T" = -50;
-};
 "@MMK_L_c.sc" = {
 "@MMK_R_a.sc" = -10;
 };
@@ -100794,9 +100894,8 @@ idieresis = 30;
 "@MMK_R_x" = 20;
 "@MMK_R_y" = 20;
 "@MMK_R_zero" = 30;
-ibreve = 20;
-icircumflex = 20;
 idieresis = 10;
+"@MMK_R_idotless" = 20;
 };
 "@MMK_L_f.sc" = {
 "@MMK_R_a.sc" = -40;
@@ -101130,9 +101229,6 @@ idieresis = 10;
 "@MMK_L_zero.osf.zero" = {
 "@MMK_R_T" = -40;
 };
-"@MMK_L_zero.zero" = {
-"@MMK_R_T" = -30;
-};
 };
 "FC25F90A-4039-49BA-9FA9-48428CE1BED8" = {
 "@MMK_L_A" = {
@@ -101264,8 +101360,6 @@ idieresis = 10;
 "@MMK_R_braceright" = 20;
 "@MMK_R_bracketright" = 20;
 "@MMK_R_bullet" = -50;
-"@MMK_R_bullet.case" = -70;
-"@MMK_R_comma" = -70;
 "@MMK_R_eight" = -20;
 "@MMK_R_eight.sc" = -20;
 "@MMK_R_ezh" = -33;
@@ -101282,7 +101376,6 @@ idieresis = 10;
 "@MMK_R_periodcentered" = -70;
 "@MMK_R_quotesingle" = 10;
 "@MMK_R_s" = -50;
-"@MMK_R_schwa" = 0;
 "@MMK_R_seven" = 50;
 "@MMK_R_seven.sc" = 20;
 "@MMK_R_six" = -30;
@@ -101295,9 +101388,7 @@ idieresis = 10;
 "@MMK_R_x" = -30;
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -50;
-ibreve = 30;
-icircumflex = 30;
-idieresis = 30;
+"@MMK_R_idotless" = 30;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_W" = -20;
@@ -101334,7 +101425,6 @@ idieresis = 30;
 "@MMK_R_a.sc" = -30;
 "@MMK_R_backslash" = 110;
 "@MMK_R_backslash.case" = 90;
-"@MMK_R_comma" = -30;
 "@MMK_R_o" = -20;
 "@MMK_R_one.sc" = 20;
 "@MMK_R_period" = -30;
@@ -101410,9 +101500,6 @@ idieresis = 30;
 "@MMK_R_T" = -50;
 "@MMK_R_f" = -20;
 };
-"@MMK_L_bullet.case" = {
-"@MMK_R_T" = -70;
-};
 "@MMK_L_colon" = {
 "@MMK_R_y" = 30;
 };
@@ -101458,9 +101545,7 @@ idieresis = 30;
 "@MMK_R_x" = 20;
 "@MMK_R_y" = 20;
 "@MMK_R_zero" = 30;
-ibreve = 20;
-icircumflex = 20;
-idieresis = 20;
+"@MMK_R_idotless" = 20;
 };
 "@MMK_L_f.sc" = {
 "@MMK_R_a.sc" = -45;
@@ -101875,8 +101960,6 @@ idieresis = 20;
 "@MMK_R_backslash.case" = 50;
 "@MMK_R_braceright" = 40;
 "@MMK_R_bracketright" = 20;
-"@MMK_R_bullet.case" = -70;
-"@MMK_R_comma" = -70;
 "@MMK_R_eight" = -20;
 "@MMK_R_eight.sc" = -20;
 "@MMK_R_ezh" = -40;
@@ -101892,7 +101975,6 @@ idieresis = 20;
 "@MMK_R_quotedblleft" = 20;
 "@MMK_R_quotereversed" = 20;
 "@MMK_R_s" = -50;
-"@MMK_R_schwa" = -40;
 "@MMK_R_seven" = 50;
 "@MMK_R_seven.sc" = 20;
 "@MMK_R_six" = -30;
@@ -101905,9 +101987,7 @@ idieresis = 20;
 "@MMK_R_x" = -30;
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -30;
-ibreve = 30;
-icircumflex = 30;
-idieresis = 30;
+"@MMK_R_idotless" = 30;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_W" = -20;
@@ -101944,7 +102024,6 @@ idieresis = 30;
 "@MMK_R_backslash" = 90;
 "@MMK_R_backslash.case" = 70;
 "@MMK_R_bullet" = -30;
-"@MMK_R_comma" = -40;
 "@MMK_R_o" = -30;
 "@MMK_R_p" = -20;
 "@MMK_R_period" = -40;
@@ -102013,9 +102092,6 @@ idieresis = 30;
 "@MMK_R_W" = -30;
 "@MMK_R_f" = -20;
 };
-"@MMK_L_bullet.case" = {
-"@MMK_R_T" = -70;
-};
 "@MMK_L_colon" = {
 "@MMK_R_y" = 30;
 };
@@ -102063,9 +102139,7 @@ idieresis = 30;
 "@MMK_R_w" = 20;
 "@MMK_R_y" = 20;
 "@MMK_R_zero" = 30;
-ibreve = 30;
-icircumflex = 30;
-idieresis = 30;
+"@MMK_R_idotless" = 30;
 };
 "@MMK_L_f.sc" = {
 "@MMK_R_a.sc" = -65;
