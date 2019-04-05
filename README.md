@@ -33,6 +33,10 @@ Fonts may be exported from Glyphs or by using Fontmake. This repo uses Fontmake.
 
 ## ChangeLog
 
+5 April 2019 (Eben Sorkin) Merriweather Sans v1.008
+
+- Added blue zones for small caps
+
 1 April 2019 (Eben Sorkin) Merriweather Sans v1.007
 
 - Increased OS/2 Win Values to fix a a font Bakery Error. Made Roman and Italic values match.
@@ -43,7 +47,7 @@ Fonts may be exported from Glyphs or by using Fontmake. This repo uses Fontmake.
 - Updated copyright notices to include GIT url
 - Inserted missing Caret data into Roman Source file ( remove since it seems to create an error in Fontmake?)
 - Possible future work: round UPM from 1000 to 2000.
-- Possible future work: cdGenerate and post OTFs.
+- Possible future work: Generate and post OTFs.
 
 1 April 2019 (Eben Sorkin) Merriweather Sans v1.006
 
