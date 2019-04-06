@@ -36,6 +36,8 @@ Fonts may be exported from Glyphs or by using Fontmake. This repo uses Fontmake.
 5 April 2019 (Eben Sorkin) Merriweather Sans v1.008
 
 - Added blue zones for small caps
+- Added family Blue Zones
+- changed the UPM to 2000
 
 1 April 2019 (Eben Sorkin) Merriweather Sans v1.007
 
