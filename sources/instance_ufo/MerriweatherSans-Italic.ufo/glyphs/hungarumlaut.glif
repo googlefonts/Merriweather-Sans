@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="448.65"/>
+  <advance width="897.0"/>
   <unicode hex="02DD"/>
   <note>
 hungarumlaut
 </note>
   <outline>
     <contour>
-      <point x="302.4" y="614.825" type="line"/>
-      <point x="345.75" y="635.175"/>
-      <point x="433.575" y="743.475"/>
-      <point x="452.625" y="789.425" type="curve"/>
-      <point x="376.425" y="849.375" type="line"/>
-      <point x="253.8" y="643.1" type="line"/>
+      <point x="605.0" y="1230.0" type="line"/>
+      <point x="692.0" y="1270.0"/>
+      <point x="867.0" y="1487.0"/>
+      <point x="905.0" y="1579.0" type="curve"/>
+      <point x="753.0" y="1699.0" type="line"/>
+      <point x="508.0" y="1286.0" type="line"/>
     </contour>
     <contour>
-      <point x="90.5" y="614.825" type="line"/>
-      <point x="134.825" y="639.85"/>
-      <point x="214.725" y="741.15"/>
-      <point x="234.75" y="790.075" type="curve"/>
-      <point x="158.875" y="849.375" type="line"/>
-      <point x="41.275" y="643.1" type="line"/>
+      <point x="181.0" y="1230.0" type="line"/>
+      <point x="270.0" y="1280.0"/>
+      <point x="429.0" y="1482.0"/>
+      <point x="470.0" y="1580.0" type="curve"/>
+      <point x="318.0" y="1699.0" type="line"/>
+      <point x="83.0" y="1286.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@ hungarumlaut
 11 6 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

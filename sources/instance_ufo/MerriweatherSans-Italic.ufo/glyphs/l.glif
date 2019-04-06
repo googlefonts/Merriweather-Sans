@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="291.5"/>
+  <advance width="583.0"/>
   <unicode hex="006C"/>
   <note>
 l
 </note>
-  <anchor x="114.9" y="0.0" name="bottom"/>
-  <anchor x="174.25" y="492.0" name="center"/>
-  <anchor x="215.575" y="778.0" name="top"/>
-  <anchor x="336.75" y="711.0" name="topright"/>
+  <anchor x="230.0" y="0.0" name="bottom"/>
+  <anchor x="349.0" y="984.0" name="center"/>
+  <anchor x="431.0" y="1556.0" name="top"/>
+  <anchor x="674.0" y="1422.0" name="topright"/>
   <outline>
     <contour>
-      <point x="57.75" y="1.675" type="line"/>
-      <point x="165.75" y="1.675" type="line"/>
-      <point x="274.425" y="799.675" type="line"/>
-      <point x="166.425" y="799.675" type="line"/>
+      <point x="116.0" y="3.0" type="line"/>
+      <point x="332.0" y="3.0" type="line"/>
+      <point x="549.0" y="1599.0" type="line"/>
+      <point x="333.0" y="1599.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@ l
 2 1 1 1 19 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -3,17 +3,17 @@
   <note>
 circumflex
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="-56.371590909090905" y="809.9409090909091" type="line"/>
-      <point x="88.78219696969697" y="906.5977272727273" type="line"/>
-      <point x="181.21666666666667" y="811.1083333333333" type="line"/>
-      <point x="248.34772727272727" y="844.3435606060606" type="line"/>
-      <point x="147.61477272727274" y="1024.1045454545454" type="line"/>
-      <point x="59.963257575757574" y="1024.1045454545454" type="line"/>
-      <point x="-114.85113636363636" y="844.3435606060606" type="line"/>
+      <point x="-112.62121212121212" y="1619.7424242424242" type="line"/>
+      <point x="177.65151515151516" y="1813.090909090909" type="line"/>
+      <point x="362.3636363636364" y="1622.1818181818182" type="line"/>
+      <point x="496.5909090909091" y="1688.530303030303" type="line"/>
+      <point x="295.2121212121212" y="2048.348484848485" type="line"/>
+      <point x="119.9090909090909" y="2048.348484848485" type="line"/>
+      <point x="-229.54545454545456" y="1688.530303030303" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="product" format="2">
-  <advance width="891.0"/>
+  <advance width="1782.0"/>
   <unicode hex="220F"/>
   <note>
 product
 </note>
   <outline>
     <contour>
-      <point x="127.0" y="-84.0" type="line"/>
-      <point x="301.0" y="-84.0" type="line"/>
-      <point x="398.0" y="612.0" type="line"/>
-      <point x="578.0" y="612.0" type="line"/>
-      <point x="481.0" y="-84.0" type="line"/>
-      <point x="654.0" y="-84.0" type="line"/>
-      <point x="751.0" y="612.0" type="line"/>
-      <point x="874.0" y="612.0" type="line"/>
-      <point x="893.0" y="747.0" type="line"/>
-      <point x="123.0" y="747.0" type="line"/>
-      <point x="104.0" y="612.0" type="line"/>
-      <point x="224.0" y="612.0" type="line"/>
+      <point x="254.0" y="-168.0" type="line"/>
+      <point x="602.0" y="-168.0" type="line"/>
+      <point x="796.0" y="1224.0" type="line"/>
+      <point x="1156.0" y="1224.0" type="line"/>
+      <point x="962.0" y="-168.0" type="line"/>
+      <point x="1308.0" y="-168.0" type="line"/>
+      <point x="1502.0" y="1224.0" type="line"/>
+      <point x="1748.0" y="1224.0" type="line"/>
+      <point x="1786.0" y="1494.0" type="line"/>
+      <point x="246.0" y="1494.0" type="line"/>
+      <point x="208.0" y="1224.0" type="line"/>
+      <point x="448.0" y="1224.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ product
 5 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 04:39:16</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="679.0"/>
+  <advance width="1358.0"/>
   <unicode hex="2264"/>
   <note>
 lessequal
 </note>
   <outline>
     <contour>
-      <point x="544.0" y="123.0" type="line"/>
-      <point x="559.0" y="255.0" type="line"/>
-      <point x="331.0" y="358.0" type="line"/>
-      <point x="581.0" y="458.0" type="line"/>
-      <point x="600.0" y="600.0" type="line"/>
-      <point x="104.0" y="382.0" type="line"/>
-      <point x="101.0" y="343.0" type="line"/>
+      <point x="1088.0" y="246.0" type="line"/>
+      <point x="1118.0" y="510.0" type="line"/>
+      <point x="662.0" y="716.0" type="line"/>
+      <point x="1162.0" y="916.0" type="line"/>
+      <point x="1200.0" y="1200.0" type="line"/>
+      <point x="208.0" y="764.0" type="line"/>
+      <point x="202.0" y="686.0" type="line"/>
     </contour>
     <contour>
-      <point x="75.0" y="0.0" type="line"/>
-      <point x="536.0" y="0.0" type="line"/>
-      <point x="544.0" y="101.0" type="line"/>
-      <point x="83.0" y="101.0" type="line"/>
+      <point x="150.0" y="0.0" type="line"/>
+      <point x="1072.0" y="0.0" type="line"/>
+      <point x="1088.0" y="202.0" type="line"/>
+      <point x="166.0" y="202.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ lessequal
 8 7 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

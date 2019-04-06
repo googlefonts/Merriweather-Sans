@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="amacron" format="2">
-  <advance width="592.0153846153846"/>
+  <advance width="1184.0307692307692"/>
   <unicode hex="0101"/>
-  <anchor x="296.31643076923075" y="0.0" name="bottom"/>
-  <anchor x="292.2262769230769" y="-100.0" name="btm"/>
-  <anchor x="520.1174153846154" y="25.0" name="ogonek"/>
-  <anchor x="287.8" y="1022.7538461538462" name="top"/>
+  <anchor x="592.5846153846154" y="0.0" name="bottom"/>
+  <anchor x="584.6153846153846" y="-200.0" name="btm"/>
+  <anchor x="1040.3692307692309" y="50.0" name="ogonek"/>
+  <anchor x="575.1692307692308" y="2045.5076923076924" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="macroncomb" xOffset="287.8" yOffset="-0.5692307692307695"/>
+    <component base="macroncomb" xOffset="575.1692307692308" yOffset="-1.138461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

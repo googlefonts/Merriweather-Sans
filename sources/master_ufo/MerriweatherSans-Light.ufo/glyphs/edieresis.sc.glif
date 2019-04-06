@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edieresis.sc" format="2">
-  <advance width="558.0"/>
-  <anchor x="295.0" y="0.0" name="bottom"/>
-  <anchor x="310.0" y="-72.0" name="btm"/>
-  <anchor x="474.0" y="0.0" name="ogonek"/>
-  <anchor x="307.0" y="1068.0" name="top"/>
-  <anchor x="10.0" y="646.0" name="topleft"/>
+  <advance width="1116.0"/>
+  <anchor x="590.0" y="0.0" name="bottom"/>
+  <anchor x="620.0" y="-144.0" name="btm"/>
+  <anchor x="948.0" y="0.0" name="ogonek"/>
+  <anchor x="614.0" y="2136.0" name="top"/>
+  <anchor x="20.0" y="1292.0" name="topleft"/>
   <outline>
     <component base="e.sc"/>
-    <component base="dieresiscomb" xOffset="307.0" yOffset="66.0"/>
+    <component base="dieresiscomb" xOffset="614.0" yOffset="132.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 13:43:27</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

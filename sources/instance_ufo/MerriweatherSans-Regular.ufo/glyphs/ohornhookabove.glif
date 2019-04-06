@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohornhookabove" format="2">
-  <advance width="599.11111"/>
+  <advance width="1198.0"/>
   <unicode hex="1EDF"/>
-  <anchor x="299.556" y="0.0" name="bottom"/>
-  <anchor x="297.911" y="-83.0" name="btm"/>
-  <anchor x="299.556" y="279.0" name="center"/>
-  <anchor x="349.0" y="0.0" name="ogonek"/>
-  <anchor x="300.911" y="983.0" name="top"/>
-  <anchor x="502.089" y="527.0" name="topright"/>
+  <anchor x="599.0" y="0.0" name="bottom"/>
+  <anchor x="596.0" y="-166.0" name="btm"/>
+  <anchor x="599.0" y="558.0" name="center"/>
+  <anchor x="698.0" y="0.0" name="ogonek"/>
+  <anchor x="602.0" y="1966.0" name="top"/>
+  <anchor x="1004.0" y="1054.0" name="topright"/>
   <outline>
     <component base="ohorn"/>
-    <component base="hookabovecomb" xOffset="300.911"/>
+    <component base="hookabovecomb" xOffset="602.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/07 21:52:46</string>
+      <string>2019/04/06 02:48:40</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

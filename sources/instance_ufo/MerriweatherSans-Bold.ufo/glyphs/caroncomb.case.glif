@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.case" format="2">
-  <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="0.0" y="1035.2906461538462" name="top"/>
+  <anchor x="0.0" y="1660.0" name="_top"/>
+  <anchor x="0.0" y="2070.6769230769232" name="top"/>
   <outline>
     <contour>
-      <point x="-53.151938461538464" y="808.2025846153846" type="line"/>
-      <point x="53.936800000000005" y="808.2025846153846" type="line"/>
-      <point x="184.24024615384616" y="945.6743384615385" type="line"/>
-      <point x="109.21513846153846" y="990.8383384615385" type="line"/>
-      <point x="0.0" y="907.3164307692308" type="line"/>
-      <point x="-107.43027692307692" y="990.8383384615385" type="line"/>
-      <point x="-184.59433846153846" y="944.8894769230769" type="line"/>
+      <point x="-106.24615384615385" y="1616.6153846153845" type="line"/>
+      <point x="107.96923076923078" y="1616.6153846153845" type="line"/>
+      <point x="368.46153846153845" y="1891.1384615384616" type="line"/>
+      <point x="218.27692307692308" y="1981.6" type="line"/>
+      <point x="0.0" y="1814.5846153846155" type="line"/>
+      <point x="-214.98461538461538" y="1981.6" type="line"/>
+      <point x="-369.32307692307694" y="1889.8461538461538" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

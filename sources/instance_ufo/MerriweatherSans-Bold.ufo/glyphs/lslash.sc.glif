@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash.sc" format="2">
-  <advance width="525.6864947692308"/>
-  <anchor x="285.7988307692308" y="-72.0" name="btm"/>
-  <anchor x="165.3936" y="722.0" name="top"/>
+  <advance width="1051.3538461538462"/>
+  <anchor x="571.5692307692308" y="-144.0" name="btm"/>
+  <anchor x="330.8923076923077" y="1444.0" name="top"/>
   <outline>
     <contour>
-      <point x="11.153353846153847" y="322.24024615384616" type="line"/>
-      <point x="42.65895384615385" y="241.0" type="line"/>
-      <point x="414.38153846153847" y="365.0" type="line"/>
-      <point x="383.15335384615383" y="446.3169230769231" type="line"/>
+      <point x="22.43076923076923" y="644.4615384615385" type="line"/>
+      <point x="85.10769230769232" y="482.0" type="line"/>
+      <point x="828.6769230769231" y="730.0" type="line"/>
+      <point x="766.4307692307692" y="892.4615384615385" type="line"/>
     </contour>
     <contour>
-      <point x="86.43218461538461" y="0.0" type="line"/>
-      <point x="496.2416615384615" y="0.0" type="line"/>
-      <point x="496.2416615384615" y="118.91126153846156" type="line"/>
-      <point x="246.27833846153848" y="118.91126153846156" type="line"/>
-      <point x="246.27833846153848" y="646.0" type="line"/>
-      <point x="86.43218461538461" y="646.0" type="line"/>
+      <point x="173.04615384615383" y="0.0" type="line"/>
+      <point x="992.6461538461539" y="0.0" type="line"/>
+      <point x="992.6461538461539" y="237.7846153846154" type="line"/>
+      <point x="492.7384615384616" y="237.7846153846154" type="line"/>
+      <point x="492.7384615384616" y="1292.0" type="line"/>
+      <point x="173.04615384615383" y="1292.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
         <integer>96</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 02:58:27</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cacute" format="2">
-  <advance width="459.6818181818182"/>
+  <advance width="919.3636363636364"/>
   <unicode hex="0107"/>
   <note>
 cacute
 </note>
-  <anchor x="239.16287878787878" y="0.0" name="bottom"/>
-  <anchor x="262.9852272727273" y="739.2375" name="top"/>
+  <anchor x="478.5" y="0.0" name="bottom"/>
+  <anchor x="525.8484848484849" y="1478.3181818181818" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="acutecomb" xOffset="263.3939393939394"/>
+    <component base="acutecomb" xOffset="526.7878787878788"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

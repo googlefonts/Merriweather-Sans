@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="871.6651515151515"/>
+  <advance width="1743.121212121212"/>
   <unicode hex="0153"/>
   <note>
 oe
 </note>
-  <anchor x="248.49772727272727" y="0.0" name="bottom_1"/>
-  <anchor x="591.5060606060606" y="0.0" name="bottom_2"/>
-  <anchor x="285.4977272727273" y="279.0" name="center"/>
-  <anchor x="366.8003787878788" y="10.0" name="ogonek_1"/>
-  <anchor x="715.7026515151515" y="10.0" name="ogonek_2"/>
-  <anchor x="326.6340909090909" y="557.0" name="top_1"/>
-  <anchor x="683.1537878787879" y="557.0" name="top_2"/>
-  <anchor x="587.2306818181819" y="557.0" name="topright"/>
+  <anchor x="497.030303030303" y="0.0" name="bottom_1"/>
+  <anchor x="1182.8030303030303" y="0.0" name="bottom_2"/>
+  <anchor x="571.030303030303" y="558.0" name="center"/>
+  <anchor x="733.7575757575758" y="20.0" name="ogonek_1"/>
+  <anchor x="1431.3181818181818" y="20.0" name="ogonek_2"/>
+  <anchor x="653.3030303030303" y="1114.0" name="top_1"/>
+  <anchor x="1366.2727272727273" y="1114.0" name="top_2"/>
+  <anchor x="1174.409090909091" y="1114.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="e" xOffset="339.7556818181818"/>
+    <component base="e" xOffset="679.4242424242424"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:56:54</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

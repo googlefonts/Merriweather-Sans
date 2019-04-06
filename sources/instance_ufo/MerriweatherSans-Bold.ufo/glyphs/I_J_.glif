@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ" format="2">
-  <advance width="723.2461538461539"/>
+  <advance width="1446.0615384615385"/>
   <unicode hex="0132"/>
-  <anchor x="173.54652307692308" y="830.0" name="top"/>
-  <anchor x="549.2385846153846" y="830.0" name="top_"/>
-  <anchor x="173.90104615384615" y="0.0" name="bottom_1"/>
-  <anchor x="535.4542153846154" y="0.0" name="bottom_2"/>
-  <anchor x="175.04" y="-83.0" name="btm_1"/>
-  <anchor x="469.52166153846156" y="-83.0" name="btm_2"/>
-  <anchor x="258.7081846153846" y="10.0" name="ogonek"/>
-  <anchor x="20.0" y="743.0" name="topleft"/>
+  <anchor x="346.8923076923077" y="1660.0" name="top"/>
+  <anchor x="1098.5538461538463" y="1660.0" name="top_"/>
+  <anchor x="347.75384615384615" y="0.0" name="bottom_1"/>
+  <anchor x="1070.7076923076925" y="0.0" name="bottom_2"/>
+  <anchor x="349.90769230769234" y="-166.0" name="btm_1"/>
+  <anchor x="938.8615384615384" y="-166.0" name="btm_2"/>
+  <anchor x="517.2923076923076" y="20.0" name="ogonek"/>
+  <anchor x="40.0" y="1486.0" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="J" xOffset="347.32307692307694"/>
+    <component base="J" xOffset="694.6461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

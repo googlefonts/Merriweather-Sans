@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
-  <advance width="656.9894012307692"/>
+  <advance width="1313.9692307692308"/>
   <unicode hex="0127"/>
-  <anchor x="324.1180923076923" y="0.0" name="bottom"/>
-  <anchor x="329.2918153846154" y="-83.0" name="btm"/>
-  <anchor x="324.1180923076923" y="492.0" name="center"/>
-  <anchor x="152.27052307692307" y="869.0" name="top"/>
+  <anchor x="648.0923076923077" y="0.0" name="bottom"/>
+  <anchor x="658.7076923076924" y="-166.0" name="btm"/>
+  <anchor x="648.0923076923077" y="984.0" name="center"/>
+  <anchor x="304.6461538461539" y="1738.0" name="top"/>
   <outline>
     <contour>
-      <point x="16.29230769230769" y="630.7216615384616" type="line"/>
-      <point x="341.63384615384615" y="630.7216615384616" type="line"/>
-      <point x="341.63384615384615" y="716.4828307692308" type="line"/>
-      <point x="16.29230769230769" y="716.4828307692308" type="line"/>
+      <point x="32.58461538461538" y="1261.2615384615385" type="line"/>
+      <point x="683.3538461538462" y="1261.2615384615385" type="line"/>
+      <point x="683.3538461538462" y="1432.9846153846154" type="line"/>
+      <point x="32.58461538461538" y="1432.9846153846154" type="line"/>
     </contour>
     <component base="h"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

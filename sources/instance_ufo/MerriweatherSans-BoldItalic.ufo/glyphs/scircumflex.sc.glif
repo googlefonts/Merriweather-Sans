@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scircumflex.sc" format="2">
-  <advance width="487.3939393939394"/>
-  <anchor x="207.04545454545456" y="0.0" name="bottom"/>
-  <anchor x="338.469696969697" y="871.0" name="top"/>
+  <advance width="974.7878787878788"/>
+  <anchor x="414.0909090909091" y="0.0" name="bottom"/>
+  <anchor x="676.939393939394" y="1742.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="circumflexcomb" xOffset="271.469696969697" yOffset="83.0"/>
+    <component base="circumflexcomb" xOffset="542.939393939394" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 19:23:26</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minus" format="2">
-  <advance width="618.0"/>
+  <advance width="1236.0"/>
   <unicode hex="2212"/>
   <note>
 minus
 </note>
   <outline>
     <contour>
-      <point x="107.0" y="348.0" type="line"/>
-      <point x="516.0" y="348.0" type="line"/>
-      <point x="523.0" y="407.0" type="line"/>
-      <point x="114.0" y="407.0" type="line"/>
+      <point x="214.0" y="696.0" type="line"/>
+      <point x="1032.0" y="696.0" type="line"/>
+      <point x="1046.0" y="814.0" type="line"/>
+      <point x="228.0" y="814.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@ minus
 1 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

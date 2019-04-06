@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greaterequal" format="2">
-  <advance width="675.8462121212121"/>
+  <advance width="1351.7272727272727"/>
   <unicode hex="2265"/>
   <note>
 greaterequal
 </note>
   <outline>
     <contour>
-      <point x="93.16742424242425" y="122.18106060606061" type="line"/>
-      <point x="588.4162878787879" y="329.68333333333334" type="line"/>
-      <point x="595.5973484848485" y="375.0" type="line"/>
-      <point x="153.75113636363636" y="605.7602272727273" type="line"/>
-      <point x="139.68333333333334" y="483.6560606060606" type="line"/>
-      <point x="383.3666666666667" y="364.01363636363635" type="line"/>
-      <point x="108.76477272727273" y="253.8912878787879" type="line"/>
+      <point x="186.43939393939394" y="244.25757575757575" type="line"/>
+      <point x="1176.9545454545455" y="659.2272727272727" type="line"/>
+      <point x="1191.2121212121212" y="750.0" type="line"/>
+      <point x="307.4848484848485" y="1211.3636363636363" type="line"/>
+      <point x="279.22727272727275" y="967.2424242424242" type="line"/>
+      <point x="766.8030303030303" y="728.1666666666666" type="line"/>
+      <point x="217.65151515151516" y="507.93939393939394" type="line"/>
     </contour>
     <contour>
-      <point x="76.73295454545455" y="-0.23522727272727273" type="line"/>
-      <point x="538.4299242424242" y="-0.23522727272727273" type="line"/>
-      <point x="546.9003787878788" y="92.59280303030303" type="line"/>
-      <point x="85.31666666666666" y="92.59280303030303" type="line"/>
+      <point x="153.37878787878788" y="-0.34848484848484845" type="line"/>
+      <point x="1076.7727272727273" y="-0.34848484848484845" type="line"/>
+      <point x="1093.8181818181818" y="185.27272727272728" type="line"/>
+      <point x="170.77272727272728" y="185.27272727272728" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ greaterequal
 9 7 5 1 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

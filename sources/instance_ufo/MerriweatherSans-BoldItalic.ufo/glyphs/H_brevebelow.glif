@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbrevebelow" format="2">
-  <advance width="719.1060606060606"/>
+  <advance width="1438.2121212121212"/>
   <unicode hex="1E2A"/>
-  <anchor x="319.469696969697" y="0.0" name="bottom"/>
-  <anchor x="417.0359848484849" y="747.0" name="top"/>
+  <anchor x="639.2878787878788" y="0.0" name="bottom"/>
+  <anchor x="833.9848484848485" y="1494.0" name="top"/>
   <outline>
     <component base="H"/>
-    <component base="brevebelowcomb.case" xOffset="319.469696969697"/>
+    <component base="brevebelowcomb.case" xOffset="639.2878787878788"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="695.15"/>
+  <advance width="1390.0"/>
   <unicode hex="0048"/>
   <note>
 H
 </note>
-  <anchor x="311.25" y="0.0" name="bottom"/>
-  <anchor x="409.625" y="747.0" name="top"/>
+  <anchor x="623.0" y="0.0" name="bottom"/>
+  <anchor x="819.0" y="1494.0" name="top"/>
   <outline>
     <contour>
-      <point x="50.1" y="0.0" type="line"/>
-      <point x="158.45" y="0.0" type="line"/>
-      <point x="201.775" y="333.15" type="line"/>
-      <point x="507.125" y="333.15" type="line"/>
-      <point x="464.125" y="0.0" type="line"/>
-      <point x="573.475" y="0.0" type="line"/>
-      <point x="669.75" y="747.0" type="line"/>
-      <point x="560.075" y="747.0" type="line"/>
-      <point x="517.425" y="413.625" type="line"/>
-      <point x="211.75" y="413.625" type="line"/>
-      <point x="255.4" y="747.0" type="line"/>
-      <point x="146.05" y="747.0" type="line"/>
+      <point x="100.0" y="0.0" type="line"/>
+      <point x="317.0" y="0.0" type="line"/>
+      <point x="404.0" y="666.0" type="line"/>
+      <point x="1014.0" y="666.0" type="line"/>
+      <point x="928.0" y="0.0" type="line"/>
+      <point x="1147.0" y="0.0" type="line"/>
+      <point x="1340.0" y="1494.0" type="line"/>
+      <point x="1120.0" y="1494.0" type="line"/>
+      <point x="1035.0" y="827.0" type="line"/>
+      <point x="424.0" y="827.0" type="line"/>
+      <point x="511.0" y="1494.0" type="line"/>
+      <point x="292.0" y="1494.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/22 20:45:13</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

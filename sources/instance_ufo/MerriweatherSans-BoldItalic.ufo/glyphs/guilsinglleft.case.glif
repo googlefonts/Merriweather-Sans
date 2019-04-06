@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft.case" format="2">
-  <advance width="573.7121212121212"/>
+  <advance width="1147.378787878788"/>
   <note>
 guilsinglleft
 </note>
   <outline>
-    <component base="guilsinglleft" xOffset="8.696969696969697" yOffset="63.83333333333333"/>
+    <component base="guilsinglleft" xOffset="17.045454545454547" yOffset="127.66666666666666"/>
   </outline>
   <lib>
     <dict>
@@ -18,7 +18,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 19:58:34</string>
+      <string>2019/04/06 02:57:01</string>
     </dict>
   </lib>
 </glyph>

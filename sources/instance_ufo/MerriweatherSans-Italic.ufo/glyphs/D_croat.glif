@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcroat" format="2">
-  <advance width="676.0"/>
+  <advance width="1352.0"/>
   <unicode hex="0110"/>
   <note>
 Dcroat
 </note>
-  <anchor x="300.95" y="0.0" name="bottom"/>
-  <anchor x="350.95" y="374.325" name="center"/>
-  <anchor x="399.95" y="747.975" name="top"/>
+  <anchor x="602.0" y="0.0" name="bottom"/>
+  <anchor x="702.0" y="749.0" name="center"/>
+  <anchor x="800.0" y="1496.0" name="top"/>
   <outline>
     <component base="Eth"/>
   </outline>
@@ -31,7 +31,7 @@ NPUSHB[ ]	/* 17 values pushed */
 23 23 23 39 23 38 17 18 41 97 17 17 50 34 10 7 28 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

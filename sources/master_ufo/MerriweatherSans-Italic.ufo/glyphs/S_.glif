@@ -1,58 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S" format="2">
-  <advance width="509.0"/>
+  <advance width="1018.0"/>
   <unicode hex="0053"/>
   <note>
 S
 </note>
-  <anchor x="218.65" y="0.0" name="bottom"/>
-  <anchor x="320.9" y="747.0" name="top"/>
+  <anchor x="437.0" y="0.0" name="bottom"/>
+  <anchor x="642.0" y="1494.0" name="top"/>
   <outline>
     <contour>
-      <point x="192.0" y="-8.0" type="curve" smooth="yes"/>
-      <point x="340.225" y="-8.0"/>
-      <point x="454.225" y="60.95"/>
-      <point x="454.225" y="204.9" type="curve" smooth="yes"/>
-      <point x="454.225" y="295.95"/>
-      <point x="397.9" y="351.6"/>
-      <point x="306.5" y="414.925" type="curve" smooth="yes"/>
-      <point x="248.75" y="454.625"/>
-      <point x="194.75" y="522.025"/>
-      <point x="196.075" y="576.125" type="curve" smooth="yes"/>
-      <point x="198.425" y="644.95"/>
-      <point x="255.2" y="670.925"/>
-      <point x="325.6" y="670.925" type="curve" smooth="yes"/>
-      <point x="370.6" y="670.925"/>
-      <point x="427.925" y="656.625"/>
-      <point x="454.95" y="629.6" type="curve"/>
-      <point x="489.525" y="713.0" type="line"/>
-      <point x="458.5" y="736.0"/>
-      <point x="401.225" y="755.0"/>
-      <point x="320.55" y="755.0" type="curve" smooth="yes"/>
-      <point x="189.0" y="755.0"/>
-      <point x="88.025" y="684.725"/>
-      <point x="88.025" y="555.45" type="curve" smooth="yes"/>
-      <point x="88.025" y="459.05"/>
-      <point x="145.375" y="396.075"/>
-      <point x="237.15" y="333.7" type="curve" smooth="yes"/>
-      <point x="308.025" y="286.25"/>
-      <point x="340.875" y="237.7"/>
-      <point x="340.875" y="186.225" type="curve" smooth="yes"/>
-      <point x="340.875" y="112.425"/>
-      <point x="280.05" y="78.075"/>
-      <point x="194.975" y="78.075" type="curve" smooth="yes"/>
-      <point x="145.95" y="78.075"/>
-      <point x="64.55" y="102.4"/>
-      <point x="43.6" y="125.4" type="curve"/>
-      <point x="11.4" y="37.325" type="line"/>
-      <point x="38.05" y="14.975"/>
-      <point x="130.95" y="-8.0"/>
+      <point x="384.0" y="-16.0" type="curve" smooth="yes"/>
+      <point x="680.0" y="-16.0"/>
+      <point x="908.0" y="122.0"/>
+      <point x="908.0" y="410.0" type="curve" smooth="yes"/>
+      <point x="908.0" y="592.0"/>
+      <point x="796.0" y="703.0"/>
+      <point x="613.0" y="830.0" type="curve" smooth="yes"/>
+      <point x="498.0" y="909.0"/>
+      <point x="390.0" y="1044.0"/>
+      <point x="392.0" y="1152.0" type="curve" smooth="yes"/>
+      <point x="397.0" y="1290.0"/>
+      <point x="510.0" y="1342.0"/>
+      <point x="651.0" y="1342.0" type="curve" smooth="yes"/>
+      <point x="741.0" y="1342.0"/>
+      <point x="856.0" y="1313.0"/>
+      <point x="910.0" y="1259.0" type="curve"/>
+      <point x="979.0" y="1426.0" type="line"/>
+      <point x="917.0" y="1472.0"/>
+      <point x="802.0" y="1510.0"/>
+      <point x="641.0" y="1510.0" type="curve" smooth="yes"/>
+      <point x="378.0" y="1510.0"/>
+      <point x="176.0" y="1369.0"/>
+      <point x="176.0" y="1111.0" type="curve" smooth="yes"/>
+      <point x="176.0" y="918.0"/>
+      <point x="291.0" y="792.0"/>
+      <point x="474.0" y="667.0" type="curve" smooth="yes"/>
+      <point x="616.0" y="573.0"/>
+      <point x="682.0" y="475.0"/>
+      <point x="682.0" y="372.0" type="curve" smooth="yes"/>
+      <point x="682.0" y="225.0"/>
+      <point x="560.0" y="156.0"/>
+      <point x="390.0" y="156.0" type="curve" smooth="yes"/>
+      <point x="292.0" y="156.0"/>
+      <point x="129.0" y="205.0"/>
+      <point x="87.0" y="251.0" type="curve"/>
+      <point x="23.0" y="75.0" type="line"/>
+      <point x="76.0" y="30.0"/>
+      <point x="262.0" y="-16.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 20:07:36</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

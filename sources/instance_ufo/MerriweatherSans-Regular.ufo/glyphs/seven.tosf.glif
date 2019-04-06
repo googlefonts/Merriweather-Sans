@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.tosf" format="2">
-  <advance width="677.0"/>
+  <advance width="1354.0"/>
   <outline>
     <contour>
-      <point x="188.178" y="-133.022" type="curve"/>
-      <point x="310.467" y="-168.978" type="line"/>
-      <point x="617.533" y="587.844" type="line"/>
-      <point x="591.4" y="622.0" type="line"/>
-      <point x="83.911" y="622.0" type="line"/>
-      <point x="83.089" y="526.644" type="line"/>
-      <point x="489.644" y="525.644" type="line"/>
-      <point x="410.711" y="318.311"/>
-      <point x="283.267" y="65.133"/>
+      <point x="376.0" y="-266.0" type="curve"/>
+      <point x="621.0" y="-338.0" type="line"/>
+      <point x="1235.0" y="1176.0" type="line"/>
+      <point x="1183.0" y="1244.0" type="line"/>
+      <point x="168.0" y="1244.0" type="line"/>
+      <point x="166.0" y="1053.0" type="line"/>
+      <point x="979.0" y="1051.0" type="line"/>
+      <point x="821.0" y="637.0"/>
+      <point x="567.0" y="130.0"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
         <integer>677</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

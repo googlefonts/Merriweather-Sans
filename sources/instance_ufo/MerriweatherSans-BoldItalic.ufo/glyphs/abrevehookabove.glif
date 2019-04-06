@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevehookabove" format="2">
-  <advance width="597.0151515151515"/>
+  <advance width="1194.030303030303"/>
   <unicode hex="1EB3"/>
-  <anchor x="264.2443181818182" y="0.0" name="bottom"/>
-  <anchor x="500.5689393939394" y="10.0" name="ogonek"/>
-  <anchor x="397.24242424242425" y="788.0" name="top"/>
+  <anchor x="528.5757575757576" y="0.0" name="bottom"/>
+  <anchor x="1001.2424242424242" y="20.0" name="ogonek"/>
+  <anchor x="794.4848484848485" y="1576.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_hookabovecomb" xOffset="330.24242424242425"/>
+    <component base="brevecomb_hookabovecomb" xOffset="660.4848484848485"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 18:07:42</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

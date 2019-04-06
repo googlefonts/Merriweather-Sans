@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb.case" format="2">
-  <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="0.0" y="1024.089" name="top"/>
+  <anchor x="0.0" y="1660.0" name="_top"/>
+  <anchor x="0.0" y="2048.0" name="top"/>
   <outline>
     <contour>
-      <point x="-30.222" y="809.711" type="line"/>
-      <point x="25.778" y="829.711"/>
-      <point x="116.178" y="897.778"/>
-      <point x="161.178" y="944.778" type="curve"/>
-      <point x="85.378" y="1009.778" type="line"/>
-      <point x="82.378" y="1002.778"/>
-      <point x="-75.778" y="858.778"/>
-      <point x="-79.778" y="855.778" type="curve"/>
+      <point x="-60.0" y="1619.0" type="line"/>
+      <point x="52.0" y="1659.0"/>
+      <point x="232.0" y="1796.0"/>
+      <point x="322.0" y="1890.0" type="curve"/>
+      <point x="171.0" y="2020.0" type="line"/>
+      <point x="165.0" y="2006.0"/>
+      <point x="-152.0" y="1718.0"/>
+      <point x="-160.0" y="1712.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="691.8"/>
+  <advance width="1384.0"/>
   <unicode hex="004E"/>
   <note>
 N
 </note>
-  <anchor x="308.9" y="0.0" name="bottom"/>
-  <anchor x="407.9" y="747.975" name="top"/>
+  <anchor x="618.0" y="0.0" name="bottom"/>
+  <anchor x="816.0" y="1496.0" name="top"/>
   <outline>
     <contour>
-      <point x="50.75" y="0.0" type="line"/>
-      <point x="153.1" y="0.0" type="line"/>
-      <point x="214.125" y="479.025" type="line"/>
-      <point x="224.85" y="622.4" type="line"/>
-      <point x="254.425" y="505.825" type="line"/>
-      <point x="467.975" y="0.0" type="line"/>
-      <point x="570.425" y="0.0" type="line"/>
-      <point x="666.375" y="747.0" type="line"/>
-      <point x="562.35" y="747.0" type="line"/>
-      <point x="504.3" y="267.2" type="line"/>
-      <point x="495.95" y="144.55" type="line"/>
-      <point x="463.65" y="250.125" type="line"/>
-      <point x="256.15" y="747.0" type="line"/>
-      <point x="147.025" y="747.0" type="line"/>
+      <point x="102.0" y="0.0" type="line"/>
+      <point x="306.0" y="0.0" type="line"/>
+      <point x="428.0" y="958.0" type="line"/>
+      <point x="450.0" y="1245.0" type="line"/>
+      <point x="509.0" y="1012.0" type="line"/>
+      <point x="936.0" y="0.0" type="line"/>
+      <point x="1141.0" y="0.0" type="line"/>
+      <point x="1333.0" y="1494.0" type="line"/>
+      <point x="1125.0" y="1494.0" type="line"/>
+      <point x="1009.0" y="534.0" type="line"/>
+      <point x="992.0" y="289.0" type="line"/>
+      <point x="927.0" y="500.0" type="line"/>
+      <point x="512.0" y="1494.0" type="line"/>
+      <point x="294.0" y="1494.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ N
 9 2 2 1 0 1 74 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 13 0 13 20 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

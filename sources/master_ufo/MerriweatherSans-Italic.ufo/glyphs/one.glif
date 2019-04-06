@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one" format="2">
-  <advance width="452.05"/>
+  <advance width="904.0"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="140.875" y="0.0" type="line"/>
-      <point x="254.55" y="0.0" type="line"/>
-      <point x="364.0" y="743.0" type="line"/>
-      <point x="308.0" y="753.0" type="line"/>
-      <point x="307.0" y="753.0" type="line"/>
-      <point x="255.0" y="710.0"/>
-      <point x="154.0" y="657.0"/>
-      <point x="86.0" y="641.0" type="curve"/>
-      <point x="101.0" y="572.0" type="line"/>
-      <point x="144.0" y="576.0"/>
-      <point x="191.0" y="591.0"/>
-      <point x="229.25" y="605.525" type="curve"/>
+      <point x="282.0" y="0.0" type="line"/>
+      <point x="509.0" y="0.0" type="line"/>
+      <point x="728.0" y="1486.0" type="line"/>
+      <point x="616.0" y="1506.0" type="line"/>
+      <point x="614.0" y="1506.0" type="line"/>
+      <point x="510.0" y="1420.0"/>
+      <point x="308.0" y="1314.0"/>
+      <point x="172.0" y="1282.0" type="curve"/>
+      <point x="202.0" y="1144.0" type="line"/>
+      <point x="288.0" y="1152.0"/>
+      <point x="382.0" y="1182.0"/>
+      <point x="459.0" y="1211.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 19:50:29</string>
+      <string>2019/04/06 02:49:35</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.11</key>
       <dict>
         <key>name</key>

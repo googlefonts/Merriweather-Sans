@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DZ" format="2">
-  <advance width="1253.3439393939395"/>
+  <advance width="2506.757575757576"/>
   <unicode hex="01F1"/>
-  <anchor x="307.4977272727273" y="0.0" name="bottom_1"/>
-  <anchor x="934.3787878787879" y="0.0" name="bottom_2"/>
-  <anchor x="357.4977272727273" y="374.1132575757576" name="center_1"/>
-  <anchor x="984.3787878787879" y="374.1132575757576" name="center_2"/>
-  <anchor x="406.4977272727273" y="747.3397727272727" name="top_1"/>
-  <anchor x="1055.5590909090909" y="747.3397727272727" name="top_2"/>
+  <anchor x="615.030303030303" y="0.0" name="bottom_1"/>
+  <anchor x="1868.7575757575758" y="0.0" name="bottom_2"/>
+  <anchor x="715.030303030303" y="748.3484848484849" name="center_1"/>
+  <anchor x="1968.7575757575758" y="748.3484848484849" name="center_2"/>
+  <anchor x="813.030303030303" y="1494.6969696969697" name="top_1"/>
+  <anchor x="2111.257575757576" y="1494.6969696969697" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="Z" xOffset="688.3787878787879"/>
+    <component base="Z" xOffset="1376.7575757575758"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen" format="2">
-  <advance width="595.0"/>
+  <advance width="1190.0"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="90.0" y="260.0" type="line"/>
-      <point x="505.0" y="260.0" type="line"/>
-      <point x="505.0" y="395.0" type="line"/>
-      <point x="90.0" y="395.0" type="line"/>
+      <point x="180.0" y="520.0" type="line"/>
+      <point x="1010.0" y="520.0" type="line"/>
+      <point x="1010.0" y="790.0" type="line"/>
+      <point x="180.0" y="790.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 16:29:14</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

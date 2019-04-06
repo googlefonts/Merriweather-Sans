@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute.sc" format="2">
-  <advance width="484.0"/>
-  <anchor x="216.0" y="0.0" name="bottom"/>
-  <anchor x="260.0" y="325.0" name="center"/>
-  <anchor x="139.0" y="830.0" name="top"/>
-  <anchor x="396.0" y="367.0" name="topright"/>
+  <advance width="968.0"/>
+  <anchor x="432.0" y="0.0" name="bottom"/>
+  <anchor x="520.0" y="650.0" name="center"/>
+  <anchor x="278.0" y="1660.0" name="top"/>
+  <anchor x="792.0" y="734.0" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="acutecomb" xOffset="144.0" yOffset="83.0"/>
+    <component base="acutecomb" xOffset="288.0" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 14:02:47</string>
+      <string>2019/04/06 02:56:56</string>
     </dict>
   </lib>
 </glyph>

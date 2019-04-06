@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l.sc" format="2">
-  <advance width="516.2615384615385"/>
-  <anchor x="278.0153846153846" y="0.0" name="bottom"/>
-  <anchor x="253.7076923076923" y="323.0" name="center"/>
-  <anchor x="170.93846153846155" y="896.0" name="top"/>
-  <anchor x="405.15384615384613" y="377.0615384615385" name="topright"/>
+  <advance width="1032.523076923077"/>
+  <anchor x="556.0307692307692" y="0.0" name="bottom"/>
+  <anchor x="507.4153846153846" y="646.0" name="center"/>
+  <anchor x="341.8769230769231" y="1792.0" name="top"/>
+  <anchor x="810.3076923076923" y="754.123076923077" name="topright"/>
   <outline>
     <contour>
-      <point x="76.89230769230768" y="0.0" type="line"/>
-      <point x="486.6923076923077" y="0.0" type="line"/>
-      <point x="486.6923076923077" y="118.8923076923077" type="line"/>
-      <point x="232.75384615384615" y="118.8923076923077" type="line"/>
-      <point x="232.75384615384615" y="646.0" type="line"/>
-      <point x="76.89230769230768" y="646.0" type="line"/>
+      <point x="153.78461538461536" y="0.0" type="line"/>
+      <point x="973.3846153846154" y="0.0" type="line"/>
+      <point x="973.3846153846154" y="237.7846153846154" type="line"/>
+      <point x="465.5076923076923" y="237.7846153846154" type="line"/>
+      <point x="465.5076923076923" y="1292.0" type="line"/>
+      <point x="153.78461538461536" y="1292.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 13:41:59</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

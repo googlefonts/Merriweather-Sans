@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-  <advance width="788.0"/>
+  <advance width="1576.0"/>
   <unicode hex="0143"/>
-  <anchor x="394.0" y="0.0" name="bottom"/>
-  <anchor x="377.0" y="-83.0" name="btm"/>
-  <anchor x="397.0" y="1043.0" name="top"/>
+  <anchor x="788.0" y="0.0" name="bottom"/>
+  <anchor x="754.0" y="-166.0" name="btm"/>
+  <anchor x="794.0" y="2086.0" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb.case" xOffset="397.0"/>
+    <component base="acutecomb.case" xOffset="794.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 03:56:23</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

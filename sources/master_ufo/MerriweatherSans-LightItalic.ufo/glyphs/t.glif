@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="360.0"/>
+  <advance width="720.0"/>
   <unicode hex="0074"/>
   <note>
 t
 </note>
-  <anchor x="139.0" y="0.0" name="bottom"/>
-  <anchor x="176.0" y="279.0" name="center"/>
-  <anchor x="200.0" y="658.0" name="top"/>
-  <anchor x="373.0" y="557.0" name="topright"/>
+  <anchor x="278.0" y="0.0" name="bottom"/>
+  <anchor x="352.0" y="558.0" name="center"/>
+  <anchor x="400.0" y="1316.0" name="top"/>
+  <anchor x="746.0" y="1114.0" name="topright"/>
   <outline>
     <contour>
-      <point x="162.0" y="-8.0" type="curve" smooth="yes"/>
-      <point x="209.0" y="-8.0"/>
-      <point x="284.0" y="32.0"/>
-      <point x="307.0" y="59.0" type="curve"/>
-      <point x="297.0" y="100.0" type="line"/>
-      <point x="272.0" y="79.0"/>
-      <point x="218.0" y="50.0"/>
-      <point x="190.0" y="50.0" type="curve" smooth="yes"/>
-      <point x="161.0" y="50.0"/>
-      <point x="151.0" y="74.0"/>
-      <point x="151.0" y="107.0" type="curve" smooth="yes"/>
-      <point x="151.0" y="119.0"/>
-      <point x="156.0" y="153.0"/>
-      <point x="202.0" y="499.0" type="curve"/>
-      <point x="343.0" y="499.0" type="line"/>
-      <point x="352.0" y="557.0" type="line"/>
-      <point x="210.0" y="557.0" type="line"/>
-      <point x="227.0" y="693.0" type="line"/>
-      <point x="166.0" y="693.0" type="line"/>
-      <point x="139.0" y="557.0" type="line"/>
-      <point x="77.0" y="556.0" type="line"/>
-      <point x="61.0" y="499.0" type="line"/>
-      <point x="127.0" y="499.0" type="line"/>
-      <point x="82.0" y="142.0" type="line" smooth="yes"/>
-      <point x="78.0" y="110.0"/>
-      <point x="76.0" y="88.0"/>
-      <point x="76.0" y="76.0" type="curve" smooth="yes"/>
-      <point x="76.0" y="21.0"/>
-      <point x="106.0" y="-8.0"/>
+      <point x="324.0" y="-16.0" type="curve" smooth="yes"/>
+      <point x="418.0" y="-16.0"/>
+      <point x="568.0" y="64.0"/>
+      <point x="614.0" y="118.0" type="curve"/>
+      <point x="594.0" y="200.0" type="line"/>
+      <point x="544.0" y="158.0"/>
+      <point x="436.0" y="100.0"/>
+      <point x="380.0" y="100.0" type="curve" smooth="yes"/>
+      <point x="322.0" y="100.0"/>
+      <point x="302.0" y="148.0"/>
+      <point x="302.0" y="214.0" type="curve" smooth="yes"/>
+      <point x="302.0" y="238.0"/>
+      <point x="312.0" y="306.0"/>
+      <point x="404.0" y="998.0" type="curve"/>
+      <point x="686.0" y="998.0" type="line"/>
+      <point x="704.0" y="1114.0" type="line"/>
+      <point x="420.0" y="1114.0" type="line"/>
+      <point x="454.0" y="1386.0" type="line"/>
+      <point x="332.0" y="1386.0" type="line"/>
+      <point x="278.0" y="1114.0" type="line"/>
+      <point x="154.0" y="1112.0" type="line"/>
+      <point x="122.0" y="998.0" type="line"/>
+      <point x="254.0" y="998.0" type="line"/>
+      <point x="164.0" y="284.0" type="line" smooth="yes"/>
+      <point x="156.0" y="220.0"/>
+      <point x="152.0" y="176.0"/>
+      <point x="152.0" y="152.0" type="curve" smooth="yes"/>
+      <point x="152.0" y="42.0"/>
+      <point x="212.0" y="-16.0"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@ NPUSHB[ ]	/* 10 values pushed */
 38 39 17 17 17 17 16 7 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 19:48:14</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="771.0"/>
+  <advance width="1542.0"/>
   <unicode hex="2026"/>
   <note>
 ellipsis
 </note>
   <outline>
     <component base="period"/>
-    <component base="period" xOffset="257.0" yOffset="1.0"/>
-    <component base="period" xOffset="513.0" yOffset="1.0"/>
+    <component base="period" xOffset="514.0" yOffset="2.0"/>
+    <component base="period" xOffset="1026.0" yOffset="2.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

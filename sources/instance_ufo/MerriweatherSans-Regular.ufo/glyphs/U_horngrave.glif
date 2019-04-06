@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhorngrave" format="2">
-  <advance width="720.0"/>
+  <advance width="1439.0"/>
   <unicode hex="1EEA"/>
-  <anchor x="359.844" y="0.0" name="bottom"/>
-  <anchor x="364.956" y="-83.0" name="btm"/>
-  <anchor x="647.978" y="10.0" name="ogonek"/>
-  <anchor x="308.356" y="1008.778" name="top"/>
-  <anchor x="658.0889999999999" y="557.0" name="topright"/>
+  <anchor x="720.0" y="0.0" name="bottom"/>
+  <anchor x="730.0" y="-166.0" name="btm"/>
+  <anchor x="1296.0" y="20.0" name="ogonek"/>
+  <anchor x="617.0" y="2018.0" name="top"/>
+  <anchor x="1316.0" y="1114.0" name="topright"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb.case" xOffset="365.0"/>
+    <component base="gravecomb.case" xOffset="730.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 03:20:18</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

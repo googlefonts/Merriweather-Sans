@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcircumflex" format="2">
-  <advance width="642.0"/>
+  <advance width="1284.0"/>
   <unicode hex="0125"/>
   <note>
 hcircumflex
 </note>
-  <anchor x="284.0" y="0.0" name="bottom"/>
-  <anchor x="349.0" y="492.0" name="center"/>
-  <anchor x="260.0" y="987.0" name="top"/>
+  <anchor x="568.0" y="0.0" name="bottom"/>
+  <anchor x="698.0" y="984.0" name="center"/>
+  <anchor x="520.0" y="1974.0" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="circumflexcomb.case" xOffset="167.0" yOffset="11.0"/>
+    <component base="circumflexcomb.case" xOffset="334.0" yOffset="22.0"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 37 0 36 18 17 19 38 25 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/27 15:15:42</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

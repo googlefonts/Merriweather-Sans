@@ -3,16 +3,16 @@
   <note>
 acute
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="56.33977272727273" y="817.0" type="line"/>
-      <point x="104.21780303030303" y="834.0"/>
-      <point x="234.99545454545455" y="953.5056818181819"/>
-      <point x="254.7378787878788" y="994.021590909091" type="curve"/>
-      <point x="160.90984848484848" y="1073.2579545454546" type="line"/>
-      <point x="1.5253787878787826" y="860.9140151515152" type="line"/>
+      <point x="112.6969696969697" y="1634.0" type="line"/>
+      <point x="208.34848484848484" y="1668.0"/>
+      <point x="470.06060606060606" y="1906.9242424242425"/>
+      <point x="509.54545454545456" y="1988.060606060606" type="curve"/>
+      <point x="321.92424242424244" y="2146.3939393939395" type="line"/>
+      <point x="2.893939393939384" y="1721.9848484848485" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ acute
 5 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

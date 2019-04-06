@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>983</integer>
+    <integer>1966</integer>
     <key>capHeight</key>
-    <integer>747</integer>
+    <integer>1494</integer>
     <key>copyright</key>
     <string>Copyright 2019 Merriweather Eben Sorkin https://github.com/SorkinType/Merriweather-Sans with Reserved Font Name 'Merriweather'</string>
     <key>descender</key>
-    <integer>-273</integer>
+    <integer>-546</integer>
     <key>familyName</key>
     <string>Merriweather Sans</string>
     <key>guidelines</key>
@@ -19,9 +19,9 @@
     <key>openTypeHeadCreated</key>
     <string>2019/04/02 02:14:12</string>
     <key>openTypeHheaAscender</key>
-    <integer>984</integer>
+    <integer>1968</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-273</integer>
+    <integer>-546</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -39,9 +39,9 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>984</integer>
+    <integer>1968</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-273</integer>
+    <integer>-546</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
@@ -51,19 +51,21 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1290</integer>
+    <integer>2580</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>330</integer>
+    <integer>660</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-9</integer>
+      <integer>-18</integer>
       <integer>0</integer>
-      <integer>557</integer>
-      <integer>565</integer>
-      <integer>747</integer>
-      <real>755.6515151515151</real>
-      <integer>983</integer>
-      <integer>999</integer>
+      <integer>1114</integer>
+      <integer>1130</integer>
+      <integer>1292</integer>
+      <integer>1312</integer>
+      <integer>1494</integer>
+      <real>1511.3030303030303</real>
+      <integer>1966</integer>
+      <integer>1998</integer>
     </array>
     <key>postscriptFamilyBlues</key>
     <array/>
@@ -71,23 +73,23 @@
     <array/>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-289</integer>
-      <integer>-273</integer>
+      <integer>-578</integer>
+      <integer>-546</integer>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <real>124.93939393939394</real>
-      <real>149.3939393939394</real>
+      <real>249.87878787878788</real>
+      <real>298.7878787878788</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <real>96.24242424242425</real>
-      <real>117.27272727272728</real>
+      <real>192.4848484848485</real>
+      <real>234.54545454545456</real>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>-122</integer>
+    <integer>-244</integer>
     <key>postscriptUnderlineThickness</key>
-    <integer>55</integer>
+    <integer>110</integer>
     <key>styleMapFamilyName</key>
     <string>Merriweather Sans Italic</string>
     <key>styleMapStyleName</key>
@@ -97,12 +99,12 @@
     <key>trademark</key>
     <string>Merriweather is a trademark of Sorkin Type Co.</string>
     <key>unitsPerEm</key>
-    <real>1000.0</real>
+    <real>2000.0</real>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>7</integer>
+    <integer>8</integer>
     <key>xHeight</key>
-    <integer>557</integer>
+    <integer>1114</integer>
   </dict>
 </plist>

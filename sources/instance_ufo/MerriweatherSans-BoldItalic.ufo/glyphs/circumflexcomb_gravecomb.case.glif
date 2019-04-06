@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_gravecomb.case" format="2">
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="-54.92727272727272" y="805.5973484848485" type="line"/>
-      <point x="90.22651515151516" y="909.0045454545455" type="line"/>
-      <point x="182.66098484848484" y="806.7647727272728" type="line"/>
-      <point x="249.79204545454547" y="840.0" type="line"/>
-      <point x="149.0590909090909" y="1011.4075757575757" type="line"/>
-      <point x="61.407575757575756" y="1011.4075757575757" type="line"/>
-      <point x="-113.40681818181818" y="840.0" type="line"/>
+      <point x="-109.92424242424242" y="1611.2121212121212" type="line"/>
+      <point x="180.34848484848484" y="1817.939393939394" type="line"/>
+      <point x="365.4090909090909" y="1613.6515151515152" type="line"/>
+      <point x="499.6363636363636" y="1680.0" type="line"/>
+      <point x="298.25757575757575" y="2022.9545454545455" type="line"/>
+      <point x="122.95454545454545" y="2022.9545454545455" type="line"/>
+      <point x="-226.84848484848484" y="1680.0" type="line"/>
     </contour>
     <contour>
-      <point x="340.35227272727275" y="926.7965909090909" type="curve"/>
-      <point x="382.357196969697" y="965.8238636363636" type="line"/>
-      <point x="260.1810606060606" y="1122.0814393939395" type="line"/>
-      <point x="195.0996212121212" y="1069.583712121212" type="line"/>
-      <point x="207.4935606060606" y="1025.7193181818182"/>
-      <point x="295.82272727272726" y="951.7965909090909"/>
+      <point x="680.8787878787879" y="1853.5757575757575" type="curve"/>
+      <point x="764.6969696969697" y="1931.560606060606" type="line"/>
+      <point x="520.2575757575758" y="2244.0757575757575" type="line"/>
+      <point x="390.1818181818182" y="2139.0454545454545" type="line"/>
+      <point x="414.969696969697" y="2051.560606060606"/>
+      <point x="591.5757575757576" y="1903.5757575757575"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.tosf" format="2">
-  <advance width="601.0272727272727"/>
+  <advance width="1201.9848484848485"/>
   <outline>
     <contour>
-      <point x="270.20378787878786" y="-166.2625" type="line"/>
-      <point x="572.2852272727273" y="528.0859848484848" type="line"/>
-      <point x="550.6200757575758" y="557.8189393939394" type="line"/>
-      <point x="83.0" y="557.8189393939394" type="line"/>
-      <point x="66.76477272727273" y="438.7689393939394" type="line"/>
-      <point x="413.7375" y="439.35265151515154" type="line"/>
-      <point x="125.39356060606059" y="-113.97272727272727" type="line"/>
+      <point x="540.3030303030303" y="-332.6818181818182" type="line"/>
+      <point x="1144.7272727272727" y="1056.0151515151515" type="line"/>
+      <point x="1101.2575757575758" y="1115.7424242424242" type="line"/>
+      <point x="166.0" y="1115.7424242424242" type="line"/>
+      <point x="133.65151515151516" y="877.7121212121212" type="line"/>
+      <point x="827.3181818181818" y="878.7575757575758" type="line"/>
+      <point x="250.90909090909088" y="-228.0151515151515" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

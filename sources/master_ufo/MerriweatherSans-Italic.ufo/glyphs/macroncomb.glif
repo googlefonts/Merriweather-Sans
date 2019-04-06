@@ -4,20 +4,20 @@
   <note>
 macron
 </note>
-  <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="58.0" y="711.575" name="top"/>
+  <anchor x="74.0" y="1114.0" name="_top"/>
+  <anchor x="116.0" y="1423.0" name="top"/>
   <outline>
     <contour>
-      <point x="-73.6" y="655.05" type="line"/>
-      <point x="179.925" y="655.05" type="line"/>
-      <point x="188.25" y="732.6" type="line"/>
-      <point x="-65.95" y="732.6" type="line"/>
+      <point x="-147.0" y="1310.0" type="line"/>
+      <point x="360.0" y="1310.0" type="line"/>
+      <point x="377.0" y="1465.0" type="line"/>
+      <point x="-132.0" y="1465.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 20:19:01</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -3,22 +3,22 @@
   <note>
 acute
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="56.975" y="817.0" type="line"/>
-      <point x="104.625" y="834.0"/>
-      <point x="221.9" y="937.625"/>
-      <point x="244.9" y="980.975" type="curve"/>
-      <point x="166.35" y="1053.175" type="line"/>
-      <point x="13.725" y="853.275" type="line"/>
+      <point x="114.0" y="1634.0" type="line"/>
+      <point x="209.0" y="1668.0"/>
+      <point x="444.0" y="1875.0"/>
+      <point x="490.0" y="1962.0" type="curve"/>
+      <point x="333.0" y="2106.0" type="line"/>
+      <point x="27.0" y="1707.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -3,30 +3,30 @@
   <note>
 breve
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="74.65" y="817.0" type="curve" smooth="yes"/>
-      <point x="170.575" y="817.0"/>
-      <point x="241.925" y="897.35"/>
-      <point x="241.925" y="990.275" type="curve"/>
-      <point x="173.7" y="990.275" type="line"/>
-      <point x="158.35" y="935.175"/>
-      <point x="138.65" y="894.525"/>
-      <point x="78.625" y="894.525" type="curve" smooth="yes"/>
-      <point x="26.025" y="894.525"/>
-      <point x="4.65" y="925.55"/>
-      <point x="-2.1" y="990.275" type="curve"/>
-      <point x="-72.325" y="990.275" type="line"/>
-      <point x="-79.15" y="889.55"/>
-      <point x="-25.225" y="817.0"/>
+      <point x="149.0" y="1634.0" type="curve" smooth="yes"/>
+      <point x="341.0" y="1634.0"/>
+      <point x="484.0" y="1795.0"/>
+      <point x="484.0" y="1981.0" type="curve"/>
+      <point x="347.0" y="1981.0" type="line"/>
+      <point x="317.0" y="1870.0"/>
+      <point x="277.0" y="1789.0"/>
+      <point x="157.0" y="1789.0" type="curve" smooth="yes"/>
+      <point x="52.0" y="1789.0"/>
+      <point x="9.0" y="1851.0"/>
+      <point x="-4.0" y="1981.0" type="curve"/>
+      <point x="-145.0" y="1981.0" type="line"/>
+      <point x="-158.0" y="1779.0"/>
+      <point x="-50.0" y="1634.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udblgrave" format="2">
-  <advance width="738.7846153846154"/>
+  <advance width="1477.1384615384616"/>
   <unicode hex="0214"/>
-  <anchor x="369.0404923076923" y="0.0" name="bottom"/>
-  <anchor x="370.1041230769231" y="-83.0" name="btm"/>
-  <anchor x="665.0674461538462" y="10.0" name="ogonek"/>
-  <anchor x="377.98295384615386" y="1014.3057846153846" name="top"/>
-  <anchor x="568.723076923077" y="743.0" name="topright"/>
+  <anchor x="738.2153846153847" y="0.0" name="bottom"/>
+  <anchor x="740.2461538461539" y="-166.0" name="btm"/>
+  <anchor x="1330.1538461538462" y="20.0" name="ogonek"/>
+  <anchor x="756.0615384615385" y="2028.553846153846" name="top"/>
+  <anchor x="1137.446153846154" y="1486.0" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dblgravecomb.case" xOffset="388.7692307692308"/>
+    <component base="dblgravecomb.case" xOffset="777.5384615384615"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 03:20:18</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Emacrongrave" format="2">
-  <advance width="616.0"/>
+  <advance width="1232.0"/>
   <unicode hex="1E14"/>
-  <anchor x="306.0" y="0.0" name="bottom"/>
-  <anchor x="329.0" y="-83.0" name="btm"/>
-  <anchor x="540.0" y="10.0" name="ogonek"/>
-  <anchor x="263.0" y="1204.0" name="top"/>
-  <anchor x="16.0" y="743.0" name="topleft"/>
+  <anchor x="612.0" y="0.0" name="bottom"/>
+  <anchor x="658.0" y="-166.0" name="btm"/>
+  <anchor x="1080.0" y="20.0" name="ogonek"/>
+  <anchor x="526.0" y="2408.0" name="top"/>
+  <anchor x="32.0" y="1486.0" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="318.0"/>
-    <component base="gravecomb.case" xOffset="318.0" yOffset="183.0"/>
+    <component base="macroncomb.case" xOffset="636.0"/>
+    <component base="gravecomb.case" xOffset="636.0" yOffset="366.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 17:30:04</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

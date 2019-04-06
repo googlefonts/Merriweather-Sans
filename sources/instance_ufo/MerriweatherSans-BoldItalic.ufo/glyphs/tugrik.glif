@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tugrik" format="2">
-  <advance width="633.5"/>
+  <advance width="1268.0"/>
   <unicode hex="20AE"/>
-  <anchor x="279.96818181818185" y="0.0" name="bottom"/>
-  <anchor x="329.96818181818185" y="374.1132575757576" name="center"/>
-  <anchor x="378.96818181818185" y="747.3397727272727" name="top"/>
+  <anchor x="560.469696969697" y="0.0" name="bottom"/>
+  <anchor x="660.469696969697" y="748.3484848484849" name="center"/>
+  <anchor x="758.469696969697" y="1494.6969696969697" name="top"/>
   <outline>
     <contour>
-      <point x="101.12121212121212" y="291.8484848484849" type="line"/>
-      <point x="532.1212121212121" y="431.8484848484849" type="line"/>
-      <point x="534.1212121212121" y="543.0" type="line"/>
-      <point x="103.12121212121212" y="402.0" type="line"/>
+      <point x="202.63636363636363" y="583.6969696969697" type="line"/>
+      <point x="1064.6363636363637" y="863.6969696969697" type="line"/>
+      <point x="1068.6363636363637" y="1086.0" type="line"/>
+      <point x="206.63636363636363" y="804.0" type="line"/>
     </contour>
     <contour>
-      <point x="97.12121212121212" y="84.84848484848484" type="line"/>
-      <point x="528.1212121212121" y="224.84848484848484" type="line"/>
-      <point x="530.1212121212121" y="335.3484848484849" type="line"/>
-      <point x="99.12121212121212" y="195.34848484848484" type="line"/>
+      <point x="194.63636363636363" y="169.6969696969697" type="line"/>
+      <point x="1056.6363636363637" y="449.6969696969697" type="line"/>
+      <point x="1060.6363636363637" y="670.6969696969697" type="line"/>
+      <point x="198.63636363636363" y="390.6969696969697" type="line"/>
     </contour>
-    <component base="T" xOffset="37.3030303030303"/>
+    <component base="T" xOffset="75.0"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +27,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 04:04:16</string>
+      <string>2019/04/06 02:57:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="696.3939393939394"/>
+  <advance width="1392.7878787878788"/>
   <unicode hex="FB01"/>
   <note>
 fi
 </note>
-  <anchor x="321.54545454545456" y="0.0" name="caret_1"/>
-  <anchor x="144.98181818181817" y="0.0" name="bottom_1"/>
-  <anchor x="503.40530303030306" y="0.0" name="bottom_2"/>
-  <anchor x="597.2507575757576" y="10.0" name="ogonek"/>
-  <anchor x="295.1363636363636" y="793.8787878787879" name="top_1"/>
-  <anchor x="577.405303030303" y="557.0" name="top_2"/>
+  <anchor x="643.0909090909091" y="0.0" name="caret_1"/>
+  <anchor x="289.8939393939394" y="0.0" name="bottom_1"/>
+  <anchor x="1006.6363636363636" y="0.0" name="bottom_2"/>
+  <anchor x="1194.2575757575758" y="20.0" name="ogonek"/>
+  <anchor x="590.2727272727273" y="1587.7575757575758" name="top_1"/>
+  <anchor x="1154.6363636363637" y="1114.0" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="383.8939393939394"/>
+    <component base="i" xOffset="767.439393939394"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/02 02:30:26</string>
+      <string>2019/04/06 02:53:28</string>
     </dict>
   </lib>
 </glyph>

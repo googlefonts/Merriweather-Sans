@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccaron.sc" format="2">
-  <advance width="539.0"/>
-  <anchor x="293.0" y="0.0" name="bottom"/>
-  <anchor x="380.0" y="871.0" name="top"/>
+  <advance width="1078.0"/>
+  <anchor x="586.0" y="0.0" name="bottom"/>
+  <anchor x="760.0" y="1742.0" name="top"/>
   <outline>
     <component base="c.sc"/>
-    <component base="caroncomb" xOffset="315.0" yOffset="83.0"/>
+    <component base="caroncomb" xOffset="630.0" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 04:56:37</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

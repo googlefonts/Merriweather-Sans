@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tbar" format="2">
-  <advance width="551.575"/>
+  <advance width="1103.0"/>
   <unicode hex="0166"/>
   <note>
 Tbar
 </note>
   <outline>
     <contour>
-      <point x="181.775" y="0.0" type="line"/>
-      <point x="291.45" y="0.0" type="line"/>
-      <point x="335.775" y="346.175" type="line"/>
-      <point x="466.825" y="346.175" type="line"/>
-      <point x="475.8" y="418.6" type="line"/>
-      <point x="345.075" y="418.6" type="line"/>
-      <point x="377.1" y="666.575" type="line"/>
-      <point x="576.575" y="660.9" type="line"/>
-      <point x="588.2" y="747.0" type="line"/>
-      <point x="77.25" y="747.0" type="line"/>
-      <point x="64.625" y="660.9" type="line"/>
-      <point x="267.425" y="666.575" type="line"/>
-      <point x="236.075" y="418.6" type="line"/>
-      <point x="107.0" y="418.6" type="line"/>
-      <point x="98.025" y="346.175" type="line"/>
-      <point x="225.775" y="346.175" type="line"/>
+      <point x="364.0" y="0.0" type="line"/>
+      <point x="583.0" y="0.0" type="line"/>
+      <point x="672.0" y="692.0" type="line"/>
+      <point x="934.0" y="692.0" type="line"/>
+      <point x="952.0" y="837.0" type="line"/>
+      <point x="690.0" y="837.0" type="line"/>
+      <point x="754.0" y="1333.0" type="line"/>
+      <point x="1153.0" y="1322.0" type="line"/>
+      <point x="1176.0" y="1494.0" type="line"/>
+      <point x="155.0" y="1494.0" type="line"/>
+      <point x="129.0" y="1322.0" type="line"/>
+      <point x="535.0" y="1333.0" type="line"/>
+      <point x="472.0" y="837.0" type="line"/>
+      <point x="214.0" y="837.0" type="line"/>
+      <point x="196.0" y="692.0" type="line"/>
+      <point x="452.0" y="692.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ Tbar
 4 1 0 3 1 1 2 0 1 97 8 7 2 5 5 6 89 0 6 6 17 75 0 2 2 18 2 76 0 0 0 15 0 15 17 17 17 17 17 17 17 9 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

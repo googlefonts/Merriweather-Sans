@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scaron.sc" format="2">
-  <advance width="568.0461538461539"/>
-  <anchor x="277.3846153846154" y="0.0" name="bottom"/>
-  <anchor x="273.24615384615385" y="-72.0" name="btm"/>
-  <anchor x="294.96923076923076" y="1096.9339692307692" name="top"/>
+  <advance width="1136.0923076923077"/>
+  <anchor x="554.7692307692308" y="0.0" name="bottom"/>
+  <anchor x="546.4923076923077" y="-144.0" name="btm"/>
+  <anchor x="589.9384615384615" y="2194.0307692307692" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="caroncomb" xOffset="294.96923076923076" yOffset="62.0"/>
+    <component base="caroncomb" xOffset="589.9384615384615" yOffset="124.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 04:29:29</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

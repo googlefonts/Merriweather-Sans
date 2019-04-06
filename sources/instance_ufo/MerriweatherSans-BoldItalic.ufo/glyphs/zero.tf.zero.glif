@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.tf.zero" format="2">
-  <advance width="618.0"/>
+  <advance width="1236.0"/>
   <outline>
     <contour>
-      <point x="181.34848484848484" y="49.0" type="line"/>
-      <point x="237.9003787878788" y="38.0" type="line"/>
-      <point x="458.9003787878788" y="687.0" type="line"/>
-      <point x="403.3484848484849" y="700.0" type="line"/>
+      <point x="362.6969696969697" y="98.0" type="line"/>
+      <point x="475.8181818181818" y="76.0" type="line"/>
+      <point x="917.8181818181819" y="1374.0" type="line"/>
+      <point x="806.6969696969697" y="1400.0" type="line"/>
     </contour>
     <component base="zero.tf"/>
   </outline>
@@ -18,7 +18,7 @@
         <integer>618</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 18:00:27</string>
+      <string>2019/04/06 02:49:35</string>
       <key>com.schriftgestaltung.Glyphs.nodeUserData.0.3</key>
       <dict>
         <key>name</key>

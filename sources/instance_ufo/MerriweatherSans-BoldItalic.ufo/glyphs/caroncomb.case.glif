@@ -3,17 +3,17 @@
   <note>
 caron
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="26.221590909090907" y="817.0" type="line"/>
-      <point x="113.63787878787879" y="817.0" type="line"/>
-      <point x="286.4659090909091" y="990.660606060606" type="line"/>
-      <point x="223.80530303030304" y="1026.3439393939393" type="line"/>
-      <point x="83.9003787878788" y="925.7556818181819" type="line"/>
-      <point x="-25.70151515151515" y="1026.3439393939393" type="line"/>
-      <point x="-81.44810606060607" y="990.3121212121213" type="line"/>
+      <point x="52.53030303030303" y="1634.0" type="line"/>
+      <point x="227.13636363636363" y="1634.0" type="line"/>
+      <point x="573.1060606060606" y="1981.1818181818182" type="line"/>
+      <point x="447.57575757575756" y="2052.757575757576" type="line"/>
+      <point x="167.8181818181818" y="1851.4242424242425" type="line"/>
+      <point x="-51.33333333333333" y="2052.757575757576" type="line"/>
+      <point x="-162.87878787878788" y="1980.4848484848485" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

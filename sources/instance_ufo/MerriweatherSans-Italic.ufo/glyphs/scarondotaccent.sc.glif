@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scarondotaccent.sc" format="2">
-  <advance width="490.0"/>
-  <anchor x="209.0" y="0.0" name="bottom"/>
-  <anchor x="354.65" y="1082.675" name="top"/>
+  <advance width="980.0"/>
+  <anchor x="418.0" y="0.0" name="bottom"/>
+  <anchor x="709.0" y="2165.0" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="caroncomb" xOffset="263.0" yOffset="83.0"/>
-    <component base="dotaccentcomb" xOffset="291.0" yOffset="314.0"/>
+    <component base="caroncomb" xOffset="526.0" yOffset="166.0"/>
+    <component base="dotaccentcomb" xOffset="582.0" yOffset="628.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 17:22:07</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

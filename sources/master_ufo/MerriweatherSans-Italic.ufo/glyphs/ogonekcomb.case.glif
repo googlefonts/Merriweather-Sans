@@ -3,36 +3,36 @@
   <note>
 ogonek
 </note>
-  <anchor x="-36.675" y="0.0" name="_ogonek"/>
+  <anchor x="-73.0" y="0.0" name="_ogonek"/>
   <outline>
     <contour>
-      <point x="-186.8" y="-218.825" type="curve" smooth="yes"/>
-      <point x="-131.25" y="-218.825"/>
-      <point x="-89.275" y="-195.55"/>
-      <point x="-58.675" y="-168.625" type="curve"/>
-      <point x="-82.7" y="-118.65" type="line"/>
-      <point x="-108.675" y="-136.625"/>
-      <point x="-126.675" y="-142.925"/>
-      <point x="-148.325" y="-142.925" type="curve" smooth="yes"/>
-      <point x="-164.625" y="-142.925"/>
-      <point x="-178.975" y="-134.6"/>
-      <point x="-178.975" y="-110.275" type="curve" smooth="yes"/>
-      <point x="-178.975" y="-78.275"/>
-      <point x="-144.025" y="-46.975"/>
-      <point x="-74.4" y="0.0" type="curve"/>
-      <point x="-108.95" y="26.075" type="line"/>
-      <point x="-152.675" y="0.65" type="line"/>
-      <point x="-232.1" y="-40.625"/>
-      <point x="-281.125" y="-82.475"/>
-      <point x="-281.125" y="-142.2" type="curve" smooth="yes"/>
-      <point x="-281.125" y="-183.825"/>
-      <point x="-244.125" y="-218.825"/>
+      <point x="-374.0" y="-438.0" type="curve" smooth="yes"/>
+      <point x="-263.0" y="-438.0"/>
+      <point x="-179.0" y="-391.0"/>
+      <point x="-117.0" y="-337.0" type="curve"/>
+      <point x="-165.0" y="-237.0" type="line"/>
+      <point x="-217.0" y="-273.0"/>
+      <point x="-253.0" y="-286.0"/>
+      <point x="-297.0" y="-286.0" type="curve" smooth="yes"/>
+      <point x="-329.0" y="-286.0"/>
+      <point x="-358.0" y="-269.0"/>
+      <point x="-358.0" y="-221.0" type="curve" smooth="yes"/>
+      <point x="-358.0" y="-157.0"/>
+      <point x="-288.0" y="-94.0"/>
+      <point x="-149.0" y="0.0" type="curve"/>
+      <point x="-218.0" y="52.0" type="line"/>
+      <point x="-305.0" y="1.0" type="line"/>
+      <point x="-464.0" y="-81.0"/>
+      <point x="-562.0" y="-165.0"/>
+      <point x="-562.0" y="-284.0" type="curve" smooth="yes"/>
+      <point x="-562.0" y="-368.0"/>
+      <point x="-488.0" y="-438.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

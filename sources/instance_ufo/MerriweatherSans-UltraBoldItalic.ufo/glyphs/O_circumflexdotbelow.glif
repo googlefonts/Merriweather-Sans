@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflexdotbelow" format="2">
-  <advance width="680.0"/>
+  <advance width="1360.0"/>
   <unicode hex="1ED8"/>
-  <anchor x="272.0" y="-199.0" name="bottom"/>
-  <anchor x="348.0" y="374.0" name="center"/>
-  <anchor x="443.0" y="10.0" name="ogonek"/>
-  <anchor x="437.0" y="976.0" name="top"/>
-  <anchor x="76.0" y="747.0" name="topleft"/>
-  <anchor x="717.0" y="747.0" name="topright"/>
+  <anchor x="544.0" y="-398.0" name="bottom"/>
+  <anchor x="696.0" y="748.0" name="center"/>
+  <anchor x="886.0" y="20.0" name="ogonek"/>
+  <anchor x="874.0" y="1952.0" name="top"/>
+  <anchor x="152.0" y="1494.0" name="topleft"/>
+  <anchor x="1434.0" y="1494.0" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb.case" xOffset="298.0"/>
-    <component base="circumflexcomb.case" xOffset="344.0"/>
+    <component base="dotbelowcomb.case" xOffset="596.0"/>
+    <component base="circumflexcomb.case" xOffset="688.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 14:00:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

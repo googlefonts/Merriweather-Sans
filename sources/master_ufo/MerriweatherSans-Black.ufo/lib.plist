@@ -647,7 +647,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1225</string>
+    <string>1226</string>
     <key>com.schriftgestaltung.customName</key>
     <string>Black</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -672,6 +672,7 @@
       <string>/commercialMinusSign</string>
       <string>/six.sc</string>
       <string>/a.sc</string>
+      <string>/ldot.sc</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>
@@ -692,9 +693,9 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.smallCapHeight</key>
     <integer>646</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.strikeoutPosition</key>
-    <integer>334</integer>
+    <integer>668</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.strikeoutSize</key>
-    <integer>30</integer>
+    <integer>60</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
     <real>180.0</real>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>

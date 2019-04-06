@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_gravecomb.case" format="2">
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="-60.4" y="802.975" type="line"/>
-      <point x="90.65" y="922.1" type="line"/>
-      <point x="191.375" y="806.325" type="line"/>
-      <point x="241.925" y="840.0" type="line"/>
-      <point x="147.3" y="1010.3" type="line"/>
-      <point x="60.3" y="1010.3" type="line"/>
-      <point x="-102.95" y="840.0" type="line"/>
+      <point x="-121.0" y="1606.0" type="line"/>
+      <point x="181.0" y="1844.0" type="line"/>
+      <point x="383.0" y="1613.0" type="line"/>
+      <point x="484.0" y="1680.0" type="line"/>
+      <point x="295.0" y="2021.0" type="line"/>
+      <point x="121.0" y="2021.0" type="line"/>
+      <point x="-206.0" y="1680.0" type="line"/>
     </contour>
     <contour>
-      <point x="344.75" y="932.025" type="curve"/>
-      <point x="383.025" y="963.625" type="line"/>
-      <point x="258.65" y="1116.625" type="line"/>
-      <point x="199.025" y="1070.675" type="line"/>
-      <point x="214.025" y="1023.325"/>
-      <point x="301.1" y="957.025"/>
+      <point x="690.0" y="1864.0" type="curve"/>
+      <point x="766.0" y="1927.0" type="line"/>
+      <point x="517.0" y="2233.0" type="line"/>
+      <point x="398.0" y="2141.0" type="line"/>
+      <point x="428.0" y="2047.0"/>
+      <point x="602.0" y="1914.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacute" format="2">
-  <advance width="499.9230769230769"/>
+  <advance width="999.8461538461538"/>
   <unicode hex="015B"/>
-  <anchor x="248.6769230769231" y="0.0" name="bottom"/>
-  <anchor x="253.3846153846154" y="-83.0" name="btm"/>
-  <anchor x="151.3076923076923" y="1005.7692307692308" name="top"/>
+  <anchor x="497.3538461538462" y="0.0" name="bottom"/>
+  <anchor x="506.7692307692308" y="-166.0" name="btm"/>
+  <anchor x="302.6153846153846" y="2011.5384615384617" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="256.3846153846154" yOffset="-0.5692307692307695"/>
+    <component base="acutecomb" xOffset="512.7692307692308" yOffset="-1.138461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:42:11</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ytilde" format="2">
-  <advance width="629.0"/>
+  <advance width="1258.0"/>
   <unicode hex="1EF8"/>
-  <anchor x="315.0" y="0.0" name="bottom"/>
-  <anchor x="321.0" y="-83.0" name="btm"/>
-  <anchor x="321.0" y="1092.0" name="top"/>
-  <anchor x="20.0" y="743.0" name="topleft"/>
+  <anchor x="630.0" y="0.0" name="bottom"/>
+  <anchor x="642.0" y="-166.0" name="btm"/>
+  <anchor x="642.0" y="2184.0" name="top"/>
+  <anchor x="40.0" y="1486.0" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="tildecomb.case" xOffset="321.0"/>
+    <component base="tildecomb.case" xOffset="642.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/07 21:47:17</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

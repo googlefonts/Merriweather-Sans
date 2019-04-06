@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ihookabove" format="2">
-  <advance width="320.5637587692308"/>
+  <advance width="641.2615384615385"/>
   <unicode hex="1EC9"/>
-  <anchor x="157.24615384615385" y="0.0" name="bottom"/>
-  <anchor x="157.1076923076923" y="-83.0" name="btm"/>
-  <anchor x="229.53846153846155" y="25.0" name="ogonek"/>
-  <anchor x="159.99716923076923" y="983.0" name="top"/>
+  <anchor x="314.4923076923077" y="0.0" name="bottom"/>
+  <anchor x="314.2153846153846" y="-166.0" name="btm"/>
+  <anchor x="459.0769230769231" y="50.0" name="ogonek"/>
+  <anchor x="320.0615384615385" y="1966.0" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="hookabovecomb" xOffset="159.99716923076923"/>
+    <component base="hookabovecomb" xOffset="320.0615384615385"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

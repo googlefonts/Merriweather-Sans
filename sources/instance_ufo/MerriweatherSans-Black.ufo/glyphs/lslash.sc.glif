@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash.sc" format="2">
-  <advance width="533.0"/>
-  <anchor x="286.0" y="-72.0" name="btm"/>
-  <anchor x="176.0" y="722.0" name="top"/>
+  <advance width="1066.0"/>
+  <anchor x="572.0" y="-144.0" name="btm"/>
+  <anchor x="352.0" y="1444.0" name="top"/>
   <outline>
     <contour>
-      <point x="11.0" y="333.0" type="line"/>
-      <point x="46.0" y="241.0" type="line"/>
-      <point x="418.0" y="365.0" type="line"/>
-      <point x="383.0" y="457.0" type="line"/>
+      <point x="22.0" y="666.0" type="line"/>
+      <point x="92.0" y="482.0" type="line"/>
+      <point x="836.0" y="730.0" type="line"/>
+      <point x="766.0" y="914.0" type="line"/>
     </contour>
     <contour>
-      <point x="82.0" y="0.0" type="line"/>
-      <point x="503.0" y="0.0" type="line"/>
-      <point x="503.0" y="140.0" type="line"/>
-      <point x="272.0" y="140.0" type="line"/>
-      <point x="272.0" y="646.0" type="line"/>
-      <point x="82.0" y="646.0" type="line"/>
+      <point x="164.0" y="0.0" type="line"/>
+      <point x="1006.0" y="0.0" type="line"/>
+      <point x="1006.0" y="280.0" type="line"/>
+      <point x="544.0" y="280.0" type="line"/>
+      <point x="544.0" y="1292.0" type="line"/>
+      <point x="164.0" y="1292.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
         <integer>96</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 02:58:27</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

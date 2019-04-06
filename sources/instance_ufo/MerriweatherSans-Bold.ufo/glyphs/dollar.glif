@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dollar" format="2">
-  <advance width="681.6246153846154"/>
+  <advance width="1363.076923076923"/>
   <unicode hex="0024"/>
-  <anchor x="332.38203076923077" y="0.0" name="bottom"/>
-  <anchor x="328.68830769230766" y="-83.0" name="btm"/>
-  <anchor x="353.7496" y="830.0" name="top"/>
+  <anchor x="664.5538461538462" y="0.0" name="bottom"/>
+  <anchor x="657.4153846153846" y="-166.0" name="btm"/>
+  <anchor x="707.3846153846154" y="1660.0" name="top"/>
   <outline>
     <contour>
-      <point x="303.75692307692304" y="719.2662769230769" type="line"/>
-      <point x="395.3382153846154" y="719.2662769230769" type="line"/>
-      <point x="399.4139692307692" y="860.6459076923077" type="line"/>
-      <point x="307.8326769230769" y="860.6459076923077" type="line"/>
+      <point x="607.6" y="1438.5230769230768" type="line"/>
+      <point x="790.5230769230769" y="1438.5230769230768" type="line"/>
+      <point x="798.6461538461539" y="1721.1384615384616" type="line"/>
+      <point x="615.723076923077" y="1721.1384615384616" type="line"/>
     </contour>
     <contour>
-      <point x="278.32756923076926" y="-112.12498461538462" type="line"/>
-      <point x="370.4780923076923" y="-112.12498461538462" type="line"/>
-      <point x="373.9079384615385" y="28.038584615384625" type="line"/>
-      <point x="282.4033230769231" y="28.038584615384625" type="line"/>
+      <point x="556.4923076923077" y="-224.3076923076923" type="line"/>
+      <point x="740.9846153846154" y="-224.3076923076923" type="line"/>
+      <point x="747.9692307692308" y="56.153846153846175" type="line"/>
+      <point x="564.6153846153846" y="56.153846153846175" type="line"/>
     </contour>
-    <component base="S" xOffset="45.46510769230769"/>
+    <component base="S" xOffset="90.89230769230768"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

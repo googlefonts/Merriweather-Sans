@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
-  <advance width="339.6218793846154"/>
+  <advance width="679.1384615384616"/>
   <unicode hex="00AF"/>
-  <anchor x="169.45680000000002" y="830.6459076923077" name="_top"/>
+  <anchor x="338.9230769230769" y="1661.1384615384616" name="_top"/>
   <outline>
     <contour>
-      <point x="25.36806153846154" y="690.0780923076923" type="line"/>
-      <point x="314.2537230769231" y="690.0780923076923" type="line"/>
-      <point x="314.2537230769231" y="791.8243692307692" type="line"/>
-      <point x="25.36806153846154" y="791.8243692307692" type="line"/>
+      <point x="50.70769230769231" y="1380.1846153846154" type="line"/>
+      <point x="628.4307692307692" y="1380.1846153846154" type="line"/>
+      <point x="628.4307692307692" y="1583.753846153846" type="line"/>
+      <point x="50.70769230769231" y="1583.753846153846" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

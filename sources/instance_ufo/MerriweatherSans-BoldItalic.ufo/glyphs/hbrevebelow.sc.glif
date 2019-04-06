@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbrevebelow.sc" format="2">
-  <advance width="695.5"/>
-  <anchor x="315.469696969697" y="0.0" name="bottom"/>
-  <anchor x="393.6875" y="650.0" name="top"/>
+  <advance width="1391.0"/>
+  <anchor x="630.939393939394" y="0.0" name="bottom"/>
+  <anchor x="787.2878787878788" y="1300.0" name="top"/>
   <outline>
     <component base="h.sc"/>
-    <component base="brevebelowcomb" xOffset="315.469696969697"/>
+    <component base="brevebelowcomb" xOffset="630.939393939394"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 18:52:32</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

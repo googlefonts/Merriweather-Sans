@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-  <advance width="398.0"/>
+  <advance width="796.0"/>
   <unicode hex="2020"/>
   <note>
 dagger
 </note>
   <outline>
     <contour>
-      <point x="120.0" y="74.0" type="line"/>
-      <point x="226.0" y="74.0" type="line"/>
-      <point x="291.0" y="461.0" type="line"/>
-      <point x="298.0" y="519.0" type="line"/>
-      <point x="416.0" y="519.0" type="line"/>
-      <point x="432.0" y="624.0" type="line"/>
-      <point x="309.0" y="624.0" type="line"/>
-      <point x="329.0" y="717.0" type="line"/>
-      <point x="343.0" y="804.0" type="line"/>
-      <point x="221.0" y="804.0" type="line"/>
-      <point x="209.0" y="717.0" type="line"/>
-      <point x="199.0" y="624.0" type="line"/>
-      <point x="77.0" y="624.0" type="line"/>
-      <point x="60.0" y="519.0" type="line"/>
-      <point x="177.0" y="519.0" type="line"/>
-      <point x="169.0" y="461.0" type="line"/>
+      <point x="240.0" y="148.0" type="line"/>
+      <point x="452.0" y="148.0" type="line"/>
+      <point x="582.0" y="922.0" type="line"/>
+      <point x="596.0" y="1038.0" type="line"/>
+      <point x="832.0" y="1038.0" type="line"/>
+      <point x="864.0" y="1248.0" type="line"/>
+      <point x="618.0" y="1248.0" type="line"/>
+      <point x="658.0" y="1434.0" type="line"/>
+      <point x="686.0" y="1608.0" type="line"/>
+      <point x="442.0" y="1608.0" type="line"/>
+      <point x="418.0" y="1434.0" type="line"/>
+      <point x="398.0" y="1248.0" type="line"/>
+      <point x="154.0" y="1248.0" type="line"/>
+      <point x="120.0" y="1038.0" type="line"/>
+      <point x="354.0" y="1038.0" type="line"/>
+      <point x="338.0" y="922.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@ NPUSHB[ ]	/* 9 values pushed */
 18 17 18 18 17 16 6 7 26 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

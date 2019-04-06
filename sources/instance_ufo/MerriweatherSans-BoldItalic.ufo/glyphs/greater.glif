@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greater" format="2">
-  <advance width="677.2625"/>
+  <advance width="1354.6818181818182"/>
   <unicode hex="003E"/>
   <note>
 greater
 </note>
   <outline>
     <contour>
-      <point x="124.06780303030303" y="88.41628787878788" type="line"/>
-      <point x="623.4977272727273" y="341.01363636363635" type="line"/>
-      <point x="631.3844696969697" y="404.66515151515154" type="line"/>
-      <point x="190.06780303030303" y="657.1492424242424" type="line"/>
-      <point x="178.65151515151516" y="533.6742424242424" type="line"/>
-      <point x="465.4977272727273" y="378.31666666666666" type="line"/>
-      <point x="140.31666666666666" y="223.72386363636366" type="line"/>
+      <point x="248.25757575757575" y="176.95454545454547" type="line"/>
+      <point x="1247.030303030303" y="682.1666666666666" type="line"/>
+      <point x="1262.6818181818182" y="809.469696969697" type="line"/>
+      <point x="380.25757575757575" y="1314.3333333333333" type="line"/>
+      <point x="357.3030303030303" y="1067.3484848484848" type="line"/>
+      <point x="931.030303030303" y="756.7727272727273" type="line"/>
+      <point x="280.77272727272725" y="447.5" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ greater
 4 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

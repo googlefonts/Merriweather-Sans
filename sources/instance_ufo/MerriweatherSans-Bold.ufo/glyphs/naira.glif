@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="naira" format="2">
-  <advance width="867.9230769230769"/>
+  <advance width="1735.8461538461538"/>
   <unicode hex="20A6"/>
-  <anchor x="418.87692307692305" y="0.0" name="bottom"/>
-  <anchor x="401.87692307692305" y="-83.0" name="btm"/>
-  <anchor x="423.16923076923075" y="830.0" name="top"/>
+  <anchor x="837.7538461538461" y="0.0" name="bottom"/>
+  <anchor x="803.7538461538461" y="-166.0" name="btm"/>
+  <anchor x="846.3384615384615" y="1660.0" name="top"/>
   <outline>
     <contour>
-      <point x="52.599999999999994" y="171.0" type="line"/>
-      <point x="231.6" y="171.0" type="line"/>
-      <point x="230.6" y="267.6923076923077" type="line"/>
-      <point x="51.599999999999994" y="267.6923076923077" type="line"/>
+      <point x="105.19999999999999" y="342.0" type="line"/>
+      <point x="463.2" y="342.0" type="line"/>
+      <point x="461.2" y="535.3846153846154" type="line"/>
+      <point x="103.19999999999999" y="535.3846153846154" type="line"/>
     </contour>
     <contour>
-      <point x="224.6" y="557.0" type="line"/>
-      <point x="46.599999999999994" y="557.0" type="line"/>
-      <point x="47.599999999999994" y="461.3076923076923" type="line"/>
-      <point x="225.6" y="461.3076923076923" type="line"/>
+      <point x="449.2" y="1114.0" type="line"/>
+      <point x="93.19999999999999" y="1114.0" type="line"/>
+      <point x="95.19999999999999" y="922.6153846153846" type="line"/>
+      <point x="451.2" y="922.6153846153846" type="line"/>
     </contour>
     <contour>
-      <point x="633.6" y="170.0" type="line"/>
-      <point x="812.6" y="170.0" type="line"/>
-      <point x="811.6" y="266.6923076923077" type="line"/>
-      <point x="632.6" y="266.6923076923077" type="line"/>
+      <point x="1267.2" y="340.0" type="line"/>
+      <point x="1625.2" y="340.0" type="line"/>
+      <point x="1623.2" y="533.3846153846154" type="line"/>
+      <point x="1265.2" y="533.3846153846154" type="line"/>
     </contour>
     <contour>
-      <point x="805.6" y="556.0" type="line"/>
-      <point x="627.6" y="556.0" type="line"/>
-      <point x="628.6" y="460.3076923076923" type="line"/>
-      <point x="806.6" y="460.3076923076923" type="line"/>
+      <point x="1611.2" y="1112.0" type="line"/>
+      <point x="1255.2" y="1112.0" type="line"/>
+      <point x="1257.2" y="920.6153846153846" type="line"/>
+      <point x="1613.2" y="920.6153846153846" type="line"/>
     </contour>
-    <component base="N" xOffset="32.19999999999999"/>
+    <component base="N" xOffset="64.39999999999998"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 02:33:20</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

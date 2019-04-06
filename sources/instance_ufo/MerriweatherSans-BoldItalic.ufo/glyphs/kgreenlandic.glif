@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="571.7329545454545"/>
+  <advance width="1143.378787878788"/>
   <unicode hex="0138"/>
   <note>
 kgreenlandic
 </note>
   <outline>
     <contour>
-      <point x="388.41174242424245" y="0.0" type="line"/>
-      <point x="553.6469696969697" y="0.0" type="line"/>
-      <point x="390.8098484848485" y="300.3844696969697" type="line"/>
-      <point x="478.7284090909091" y="347.4977272727273"/>
-      <point x="565.6738636363636" y="456.425"/>
-      <point x="571.6515151515151" y="559.0996212121212" type="curve"/>
-      <point x="423.2352272727273" y="559.0996212121212" type="line"/>
-      <point x="395.905303030303" y="462.42992424242425"/>
-      <point x="323.3314393939394" y="346.9647727272727"/>
-      <point x="245.26704545454547" y="303.43939393939394" type="curve"/>
+      <point x="776.6666666666666" y="0.0" type="line"/>
+      <point x="1107.3636363636365" y="0.0" type="line"/>
+      <point x="781.5151515151515" y="600.6818181818181" type="line"/>
+      <point x="957.439393939394" y="695.030303030303"/>
+      <point x="1131.469696969697" y="912.9545454545455"/>
+      <point x="1143.3030303030303" y="1118.1818181818182" type="curve"/>
+      <point x="846.3484848484849" y="1118.1818181818182" type="line"/>
+      <point x="791.9848484848485" y="924.7727272727273"/>
+      <point x="646.5757575757576" y="693.7727272727273"/>
+      <point x="490.6212121212121" y="606.8787878787879" type="curve"/>
     </contour>
     <contour>
-      <point x="38.16742424242424" y="0.0" type="line"/>
-      <point x="189.16742424242426" y="0.0" type="line"/>
-      <point x="265.16742424242426" y="559.0996212121212" type="line"/>
-      <point x="114.16742424242425" y="559.0996212121212" type="line"/>
+      <point x="76.43939393939394" y="0.0" type="line"/>
+      <point x="378.439393939394" y="0.0" type="line"/>
+      <point x="530.439393939394" y="1118.1818181818182" type="line"/>
+      <point x="228.43939393939394" y="1118.1818181818182" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ kgreenlandic
 10 7 2 0 1 1 74 3 4 2 1 1 20 75 2 1 0 0 18 0 76 0 0 17 16 9 8 0 3 0 3 17 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

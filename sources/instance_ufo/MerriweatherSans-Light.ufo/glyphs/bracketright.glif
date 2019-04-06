@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketright" format="2">
-  <advance width="411.0"/>
+  <advance width="822.0"/>
   <unicode hex="005D"/>
   <outline>
-    <component base="bracketleft" xScale="-1.0" xOffset="411.0"/>
+    <component base="bracketleft" xScale="-1.0" xOffset="822.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 17:20:17</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

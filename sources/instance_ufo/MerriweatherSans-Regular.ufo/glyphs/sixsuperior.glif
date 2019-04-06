@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixsuperior" format="2">
-  <advance width="525.95556"/>
+  <advance width="1052.0"/>
   <unicode hex="2076"/>
   <outline>
-    <component base="six.dnom" yOffset="400.0"/>
+    <component base="six.dnom" yOffset="800.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 01:23:36</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

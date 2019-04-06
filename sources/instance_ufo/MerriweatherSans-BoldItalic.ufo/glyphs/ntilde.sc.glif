@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ntilde.sc" format="2">
-  <advance width="697.3636363636364"/>
-  <anchor x="310.35265151515154" y="0.0" name="bottom"/>
-  <anchor x="421.6731060606061" y="837.5549242424242" name="top"/>
+  <advance width="1396.030303030303"/>
+  <anchor x="620.4090909090909" y="0.0" name="bottom"/>
+  <anchor x="843.0151515151515" y="1675.1969696969697" name="top"/>
   <outline>
     <component base="n.sc"/>
-    <component base="tildecomb" xOffset="360.07575757575756" yOffset="83.0"/>
+    <component base="tildecomb" xOffset="719.8030303030303" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 05:17:31</string>
+      <string>2019/04/06 02:57:02</string>
     </dict>
   </lib>
 </glyph>

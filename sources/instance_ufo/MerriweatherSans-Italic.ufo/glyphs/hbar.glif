@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
-  <advance width="594.1"/>
+  <advance width="1188.0"/>
   <unicode hex="0127"/>
   <note>
 hbar
 </note>
-  <anchor x="260.55" y="0.0" name="bottom"/>
-  <anchor x="325.55" y="492.0" name="center"/>
-  <anchor x="196.2" y="758.0" name="top"/>
+  <anchor x="521.0" y="0.0" name="bottom"/>
+  <anchor x="651.0" y="984.0" name="center"/>
+  <anchor x="392.0" y="1516.0" name="top"/>
   <outline>
     <contour>
-      <point x="63.675" y="616.0" type="line"/>
-      <point x="356.475" y="616.0" type="line"/>
-      <point x="363.475" y="680.0" type="line"/>
-      <point x="71.675" y="680.0" type="line"/>
+      <point x="127.0" y="1232.0" type="line"/>
+      <point x="713.0" y="1232.0" type="line"/>
+      <point x="727.0" y="1360.0" type="line"/>
+      <point x="143.0" y="1360.0" type="line"/>
     </contour>
     <component base="h"/>
   </outline>
@@ -26,7 +26,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>h</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

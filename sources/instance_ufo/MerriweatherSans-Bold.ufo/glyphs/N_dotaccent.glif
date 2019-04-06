@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ndotaccent" format="2">
-  <advance width="773.3538461538461"/>
+  <advance width="1546.7076923076922"/>
   <unicode hex="1E44"/>
-  <anchor x="386.67692307692306" y="0.0" name="bottom"/>
-  <anchor x="369.67692307692306" y="-83.0" name="btm"/>
-  <anchor x="390.96923076923076" y="1032.266523076923" name="top"/>
+  <anchor x="773.3538461538461" y="0.0" name="bottom"/>
+  <anchor x="739.3538461538461" y="-166.0" name="btm"/>
+  <anchor x="781.9384615384615" y="2065.107692307692" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="dotaccentcomb.case" xOffset="390.96923076923076" yOffset="6.892307692307687"/>
+    <component base="dotaccentcomb.case" xOffset="781.9384615384615" yOffset="14.215384615384606"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 03:56:23</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

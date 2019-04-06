@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adieresis.sc" format="2">
-  <advance width="676.1076923076923"/>
-  <anchor x="338.5060307692308" y="0.0" name="bottom"/>
-  <anchor x="337.97064615384613" y="-109.0" name="btm"/>
-  <anchor x="623.5230769230769" y="0.0" name="ogonek"/>
-  <anchor x="336.0" y="1108.3692307692309" name="top"/>
+  <advance width="1352.2153846153847"/>
+  <anchor x="677.1076923076923" y="0.0" name="bottom"/>
+  <anchor x="676.123076923077" y="-218.0" name="btm"/>
+  <anchor x="1247.0461538461539" y="0.0" name="ogonek"/>
+  <anchor x="672.0" y="2216.7384615384617" name="top"/>
   <outline>
     <component base="a.sc"/>
-    <component base="dieresiscomb" xOffset="336.0" yOffset="70.0"/>
+    <component base="dieresiscomb" xOffset="672.0" yOffset="140.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 21:03:00</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

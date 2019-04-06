@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="figuredash" format="2">
-  <advance width="612.0909090909091"/>
+  <advance width="1224.878787878788"/>
   <unicode hex="2012"/>
   <outline>
     <contour>
-      <point x="103.62045454545455" y="302.5340909090909" type="line"/>
-      <point x="513.9553030303031" y="302.5340909090909" type="line"/>
-      <point x="529.3852272727273" y="411.57916666666665" type="line"/>
-      <point x="118.93712121212121" y="411.57916666666665" type="line"/>
+      <point x="207.13636363636363" y="605.2424242424242" type="line"/>
+      <point x="1028.0151515151515" y="605.2424242424242" type="line"/>
+      <point x="1058.7878787878788" y="823.1060606060606" type="line"/>
+      <point x="237.9090909090909" y="823.1060606060606" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,7 +17,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>hyphen</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 18:14:47</string>
+      <string>2019/04/06 02:56:54</string>
     </dict>
   </lib>
 </glyph>

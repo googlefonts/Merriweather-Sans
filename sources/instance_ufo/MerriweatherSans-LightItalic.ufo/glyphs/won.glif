@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="1037.0"/>
+  <advance width="2072.0"/>
   <unicode hex="20A9"/>
   <note>
 uni20A9
 </note>
-  <anchor x="487.0" y="0.0" name="bottom"/>
-  <anchor x="586.0" y="747.0" name="top"/>
+  <anchor x="972.0" y="0.0" name="bottom"/>
+  <anchor x="1170.0" y="1494.0" name="top"/>
   <outline>
     <contour>
-      <point x="104.0" y="201.0" type="line"/>
-      <point x="253.0" y="201.0" type="line"/>
-      <point x="263.0" y="272.0" type="line"/>
-      <point x="114.0" y="272.0" type="line"/>
+      <point x="206.0" y="402.0" type="line"/>
+      <point x="504.0" y="402.0" type="line"/>
+      <point x="524.0" y="544.0" type="line"/>
+      <point x="226.0" y="544.0" type="line"/>
     </contour>
     <contour>
-      <point x="247.0" y="557.0" type="line"/>
-      <point x="99.0" y="557.0" type="line"/>
-      <point x="90.0" y="487.0" type="line"/>
-      <point x="238.0" y="487.0" type="line"/>
+      <point x="492.0" y="1114.0" type="line"/>
+      <point x="196.0" y="1114.0" type="line"/>
+      <point x="178.0" y="974.0" type="line"/>
+      <point x="474.0" y="974.0" type="line"/>
     </contour>
     <contour>
-      <point x="746.0" y="200.0" type="line"/>
-      <point x="897.0" y="200.0" type="line"/>
-      <point x="907.0" y="271.0" type="line"/>
-      <point x="756.0" y="271.0" type="line"/>
+      <point x="1490.0" y="400.0" type="line"/>
+      <point x="1792.0" y="400.0" type="line"/>
+      <point x="1812.0" y="542.0" type="line"/>
+      <point x="1510.0" y="542.0" type="line"/>
     </contour>
     <contour>
-      <point x="1011.0" y="556.0" type="line"/>
-      <point x="861.0" y="556.0" type="line"/>
-      <point x="852.0" y="486.0" type="line"/>
-      <point x="1002.0" y="486.0" type="line"/>
+      <point x="2020.0" y="1112.0" type="line"/>
+      <point x="1720.0" y="1112.0" type="line"/>
+      <point x="1702.0" y="972.0" type="line"/>
+      <point x="2002.0" y="972.0" type="line"/>
     </contour>
-    <component base="W" xOffset="92.0"/>
+    <component base="W" xOffset="182.0"/>
   </outline>
   <lib>
     <dict>
@@ -45,7 +45,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>euro</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 04:07:26</string>
+      <string>2019/04/06 02:57:01</string>
     </dict>
   </lib>
 </glyph>

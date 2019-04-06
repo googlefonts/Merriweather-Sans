@@ -3,17 +3,17 @@
   <note>
 circumflex.cap
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="87.0" y="939.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="174.0" y="1878.0" name="top"/>
   <outline>
     <contour>
-      <point x="-43.0" y="781.0" type="line"/>
-      <point x="97.0" y="862.0" type="line"/>
-      <point x="186.0" y="781.0" type="line"/>
-      <point x="257.0" y="819.0" type="line"/>
-      <point x="153.0" y="983.0" type="line"/>
-      <point x="65.0" y="983.0" type="line"/>
-      <point x="-116.0" y="813.0" type="line"/>
+      <point x="-86.0" y="1562.0" type="line"/>
+      <point x="194.0" y="1724.0" type="line"/>
+      <point x="372.0" y="1562.0" type="line"/>
+      <point x="514.0" y="1638.0" type="line"/>
+      <point x="306.0" y="1966.0" type="line"/>
+      <point x="130.0" y="1966.0" type="line"/>
+      <point x="-232.0" y="1626.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ circumflex.cap
 6 5 4 3 2 5 0 71 0 0 0 105 16 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

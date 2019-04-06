@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Llinebelow" format="2">
-  <advance width="535.8153846153846"/>
+  <advance width="1071.6307692307691"/>
   <unicode hex="1E3A"/>
-  <anchor x="265.6923076923077" y="-179.74627692307695" name="bottom"/>
-  <anchor x="290.1384615384615" y="-83.0" name="btm"/>
-  <anchor x="265.6923076923077" y="372.0" name="center"/>
-  <anchor x="162.36923076923077" y="830.0" name="top"/>
-  <anchor x="515.8153846153846" y="743.0" name="topright"/>
+  <anchor x="531.3846153846154" y="-359.5692307692308" name="bottom"/>
+  <anchor x="580.276923076923" y="-166.0" name="btm"/>
+  <anchor x="531.3846153846154" y="744.0" name="center"/>
+  <anchor x="324.73846153846154" y="1660.0" name="top"/>
+  <anchor x="1031.6307692307691" y="1486.0" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="macronbelowcomb.case" xOffset="265.6923076923077"/>
+    <component base="macronbelowcomb.case" xOffset="531.3846153846154"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 03:56:23</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

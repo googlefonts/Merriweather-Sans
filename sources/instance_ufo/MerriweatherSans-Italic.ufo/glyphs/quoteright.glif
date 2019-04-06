@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteright" format="2">
-  <advance width="335.275"/>
+  <advance width="671.0"/>
   <unicode hex="2019"/>
   <note>
 quoteright
 </note>
   <outline>
     <contour>
-      <point x="140.675" y="444.725" type="line"/>
-      <point x="234.675" y="490.075"/>
-      <point x="296.925" y="575.975"/>
-      <point x="296.925" y="687.65" type="curve" smooth="yes"/>
-      <point x="296.925" y="754.05"/>
-      <point x="253.0" y="828.25"/>
-      <point x="208.6" y="847.925" type="curve"/>
-      <point x="147.0" y="792.0" type="line"/>
-      <point x="145.0" y="772.0" type="line"/>
-      <point x="172.0" y="749.0"/>
-      <point x="187.0" y="711.0"/>
-      <point x="187.0" y="666.0" type="curve" smooth="yes"/>
-      <point x="187.0" y="599.0"/>
-      <point x="143.1" y="532.0"/>
-      <point x="101.425" y="512.0" type="curve"/>
-      <point x="100.425" y="501.0" type="line"/>
+      <point x="281.0" y="889.0" type="line"/>
+      <point x="469.0" y="980.0"/>
+      <point x="594.0" y="1152.0"/>
+      <point x="594.0" y="1375.0" type="curve" smooth="yes"/>
+      <point x="594.0" y="1508.0"/>
+      <point x="506.0" y="1657.0"/>
+      <point x="417.0" y="1696.0" type="curve"/>
+      <point x="294.0" y="1584.0" type="line"/>
+      <point x="290.0" y="1544.0" type="line"/>
+      <point x="344.0" y="1498.0"/>
+      <point x="374.0" y="1422.0"/>
+      <point x="374.0" y="1332.0" type="curve" smooth="yes"/>
+      <point x="374.0" y="1198.0"/>
+      <point x="286.0" y="1064.0"/>
+      <point x="203.0" y="1024.0" type="curve"/>
+      <point x="201.0" y="1002.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ quoteright
 13 2 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 20:31:07</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

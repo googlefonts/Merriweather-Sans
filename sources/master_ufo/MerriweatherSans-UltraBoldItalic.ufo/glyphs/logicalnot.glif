@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="logicalnot" format="2">
-  <advance width="669.0"/>
+  <advance width="1338.0"/>
   <unicode hex="00AC"/>
   <note>
 logicalnot
 </note>
   <outline>
     <contour>
-      <point x="424.0" y="157.0" type="line"/>
-      <point x="550.0" y="157.0" type="line"/>
-      <point x="580.0" y="417.0" type="line"/>
-      <point x="111.0" y="417.0" type="line"/>
-      <point x="99.0" y="306.0" type="line"/>
-      <point x="442.0" y="306.0" type="line"/>
+      <point x="848.0" y="314.0" type="line"/>
+      <point x="1100.0" y="314.0" type="line"/>
+      <point x="1160.0" y="834.0" type="line"/>
+      <point x="222.0" y="834.0" type="line"/>
+      <point x="198.0" y="612.0" type="line"/>
+      <point x="884.0" y="612.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@ NPUSHB[ ]	/* 11 values pushed */
 0 0 0 5 0 5 17 17 4 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

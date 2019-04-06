@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
-  <advance width="1039.8280303030303"/>
+  <advance width="2079.621212121212"/>
   <note>
 f_f_i
 </note>
-  <anchor x="317.06060606060606" y="0.0" name="caret_1"/>
-  <anchor x="674.060606060606" y="0.0" name="caret_2"/>
-  <anchor x="144.98181818181817" y="0.0" name="bottom_1"/>
-  <anchor x="508.8757575757576" y="0.0" name="bottom_2"/>
-  <anchor x="866.9507575757576" y="0.0" name="bottom_3"/>
-  <anchor x="960.7962121212122" y="10.0" name="ogonek"/>
-  <anchor x="295.1363636363636" y="793.8787878787879" name="top_1"/>
-  <anchor x="659.030303030303" y="793.8787878787879" name="top_2"/>
-  <anchor x="940.9507575757576" y="557.0" name="top_3"/>
+  <anchor x="634.1212121212121" y="0.0" name="caret_1"/>
+  <anchor x="1348.121212121212" y="0.0" name="caret_2"/>
+  <anchor x="289.8939393939394" y="0.0" name="bottom_1"/>
+  <anchor x="1017.3333333333334" y="0.0" name="bottom_2"/>
+  <anchor x="1734.0757575757575" y="0.0" name="bottom_3"/>
+  <anchor x="1921.6969696969697" y="20.0" name="ogonek"/>
+  <anchor x="590.2727272727273" y="1587.7575757575758" name="top_1"/>
+  <anchor x="1317.7121212121212" y="1587.7575757575758" name="top_2"/>
+  <anchor x="1882.0757575757575" y="1114.0" name="top_3"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="363.8939393939394"/>
-    <component base="idotless" xOffset="747.439393939394"/>
-    <component base="dotaccent" xOffset="862.0814393939394" yOffset="0.5837121212121211"/>
+    <component base="f" xOffset="727.439393939394"/>
+    <component base="idotless" xOffset="1494.878787878788"/>
+    <component base="dotaccent" xOffset="1724.0757575757575" yOffset="1.0454545454545452"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/02 02:30:05</string>
+      <string>2019/04/06 02:53:28</string>
     </dict>
   </lib>
 </glyph>

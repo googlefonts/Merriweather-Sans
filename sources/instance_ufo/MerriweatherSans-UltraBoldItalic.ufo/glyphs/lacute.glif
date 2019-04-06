@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute" format="2">
-  <advance width="325.0"/>
+  <advance width="650.0"/>
   <unicode hex="013A"/>
   <note>
 lacute
 </note>
-  <anchor x="130.0" y="0.0" name="bottom"/>
-  <anchor x="191.0" y="492.0" name="center"/>
-  <anchor x="263.0" y="1013.0" name="top"/>
-  <anchor x="357.0" y="711.0" name="topright"/>
+  <anchor x="260.0" y="0.0" name="bottom"/>
+  <anchor x="382.0" y="984.0" name="center"/>
+  <anchor x="526.0" y="2026.0" name="top"/>
+  <anchor x="714.0" y="1422.0" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb.case" xOffset="170.0" yOffset="37.0"/>
+    <component base="acutecomb.case" xOffset="340.0" yOffset="74.0"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@ lacute
 5 4 1 3 1 72 2 1 1 1 17 75 0 0 0 18 0 76 6 6 6 9 6 9 23 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

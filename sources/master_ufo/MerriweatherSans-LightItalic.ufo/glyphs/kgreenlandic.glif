@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="500.0"/>
+  <advance width="1000.0"/>
   <unicode hex="0138"/>
   <note>
 kgreenlandic
 </note>
   <outline>
     <contour>
-      <point x="388.0" y="0.0" type="line"/>
-      <point x="472.0" y="0.0" type="line"/>
-      <point x="267.0" y="294.0" type="line"/>
-      <point x="371.0" y="347.0"/>
-      <point x="484.0" y="450.0"/>
-      <point x="492.0" y="562.0" type="curve"/>
-      <point x="422.0" y="562.0" type="line"/>
-      <point x="398.0" y="455.0"/>
-      <point x="298.0" y="371.0"/>
-      <point x="183.0" y="305.0" type="curve"/>
+      <point x="776.0" y="0.0" type="line"/>
+      <point x="944.0" y="0.0" type="line"/>
+      <point x="534.0" y="588.0" type="line"/>
+      <point x="742.0" y="694.0"/>
+      <point x="968.0" y="900.0"/>
+      <point x="984.0" y="1124.0" type="curve"/>
+      <point x="844.0" y="1124.0" type="line"/>
+      <point x="796.0" y="910.0"/>
+      <point x="596.0" y="742.0"/>
+      <point x="366.0" y="610.0" type="curve"/>
     </contour>
     <contour>
-      <point x="41.0" y="0.0" type="line"/>
-      <point x="113.0" y="0.0" type="line"/>
-      <point x="188.0" y="562.0" type="line"/>
-      <point x="116.0" y="562.0" type="line"/>
+      <point x="82.0" y="0.0" type="line"/>
+      <point x="226.0" y="0.0" type="line"/>
+      <point x="376.0" y="1124.0" type="line"/>
+      <point x="232.0" y="1124.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ kgreenlandic
 10 7 2 0 1 1 74 3 4 2 1 1 20 75 2 1 0 0 18 0 76 0 0 17 16 9 8 0 3 0 3 17 5 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

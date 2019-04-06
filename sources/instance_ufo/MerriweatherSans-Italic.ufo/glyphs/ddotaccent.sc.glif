@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ddotaccent.sc" format="2">
-  <advance width="645.0"/>
-  <anchor x="288.975" y="0.0" name="bottom"/>
-  <anchor x="332.975" y="326.0" name="center"/>
-  <anchor x="381.65" y="851.675" name="top"/>
+  <advance width="1289.0"/>
+  <anchor x="577.0" y="0.0" name="bottom"/>
+  <anchor x="665.0" y="652.0" name="center"/>
+  <anchor x="762.0" y="1703.0" name="top"/>
   <outline>
     <component base="d.sc"/>
-    <component base="dotaccentcomb" xOffset="318.0" yOffset="83.0"/>
+    <component base="dotaccentcomb" xOffset="635.0" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 18:33:19</string>
+      <string>2019/04/06 02:56:56</string>
     </dict>
   </lib>
 </glyph>

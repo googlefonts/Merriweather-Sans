@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="655.0"/>
+  <advance width="1310.0"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="71.0" y="184.0" type="line"/>
-      <point x="607.0" y="184.0" type="line"/>
-      <point x="607.0" y="247.0" type="line"/>
-      <point x="142.0" y="247.0" type="line"/>
-      <point x="174.0" y="303.0" type="line"/>
-      <point x="196.0" y="345.0"/>
-      <point x="366.0" y="665.0"/>
-      <point x="391.0" y="724.0" type="curve"/>
-      <point x="340.0" y="755.0" type="line"/>
-      <point x="311.0" y="755.0" type="line"/>
-      <point x="287.0" y="696.0"/>
-      <point x="74.0" y="267.0"/>
-      <point x="51.0" y="223.0" type="curve"/>
+      <point x="142.0" y="368.0" type="line"/>
+      <point x="1214.0" y="368.0" type="line"/>
+      <point x="1214.0" y="494.0" type="line"/>
+      <point x="284.0" y="494.0" type="line"/>
+      <point x="348.0" y="606.0" type="line"/>
+      <point x="392.0" y="690.0"/>
+      <point x="732.0" y="1330.0"/>
+      <point x="782.0" y="1448.0" type="curve"/>
+      <point x="680.0" y="1510.0" type="line"/>
+      <point x="622.0" y="1510.0" type="line"/>
+      <point x="574.0" y="1392.0"/>
+      <point x="148.0" y="534.0"/>
+      <point x="102.0" y="446.0" type="curve"/>
     </contour>
     <contour>
-      <point x="404.0" y="0.0" type="line"/>
-      <point x="485.0" y="0.0" type="line"/>
-      <point x="485.0" y="485.0" type="line"/>
-      <point x="410.0" y="485.0" type="line"/>
-      <point x="404.0" y="247.0" type="line"/>
+      <point x="808.0" y="0.0" type="line"/>
+      <point x="970.0" y="0.0" type="line"/>
+      <point x="970.0" y="970.0" type="line"/>
+      <point x="820.0" y="970.0" type="line"/>
+      <point x="808.0" y="494.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 17:24:57</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

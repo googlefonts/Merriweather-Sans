@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="summation" format="2">
-  <advance width="746.8416666666667"/>
+  <advance width="1493.7878787878788"/>
   <unicode hex="2211"/>
   <note>
 summation
 </note>
   <outline>
     <contour>
-      <point x="43.33939393939393" y="-83.0" type="line"/>
-      <point x="594.5791666666667" y="-83.0" type="line"/>
-      <point x="610.592803030303" y="31.35303030303031" type="line"/>
-      <point x="271.8325757575758" y="31.35303030303031" type="line"/>
-      <point x="516.8416666666667" y="335.067803030303" type="line"/>
-      <point x="352.40265151515155" y="627.1087121212121" type="line"/>
-      <point x="671.3348484848485" y="627.1087121212121" type="line"/>
-      <point x="688.0" y="747.0" type="line"/>
-      <point x="161.10416666666666" y="747.0" type="line"/>
-      <point x="141.9909090909091" y="708.0" type="line"/>
-      <point x="356.5746212121212" y="332.1810606060606" type="line"/>
-      <point x="35.64242424242424" y="-50.68333333333334" type="line"/>
+      <point x="86.81818181818181" y="-166.0" type="line"/>
+      <point x="1189.1060606060605" y="-166.0" type="line"/>
+      <point x="1221.2727272727273" y="62.63636363636364" type="line"/>
+      <point x="543.5606060606061" y="62.63636363636364" type="line"/>
+      <point x="1033.7878787878788" y="670.2575757575758" type="line"/>
+      <point x="704.7878787878788" y="1254.060606060606" type="line"/>
+      <point x="1342.530303030303" y="1254.060606060606" type="line"/>
+      <point x="1376.0" y="1494.0" type="line"/>
+      <point x="322.1212121212121" y="1494.0" type="line"/>
+      <point x="284.1212121212121" y="1416.0" type="line"/>
+      <point x="713.1666666666666" y="664.2575757575758" type="line"/>
+      <point x="71.42424242424241" y="-101.22727272727272" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ summation
 8 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

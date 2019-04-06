@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotbelow.sc" format="2">
-  <advance width="317.0"/>
-  <anchor x="158.467" y="-215.089" name="bottom"/>
-  <anchor x="160.844" y="-72.0" name="btm"/>
-  <anchor x="186.0" y="0.0" name="ogonek"/>
-  <anchor x="158.0" y="900.0" name="top"/>
+  <advance width="633.0"/>
+  <anchor x="317.0" y="-430.0" name="bottom"/>
+  <anchor x="322.0" y="-144.0" name="btm"/>
+  <anchor x="372.0" y="0.0" name="ogonek"/>
+  <anchor x="316.0" y="1800.0" name="top"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dotbelowcomb" xOffset="159.0"/>
+    <component base="dotbelowcomb" xOffset="318.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 02:58:27</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

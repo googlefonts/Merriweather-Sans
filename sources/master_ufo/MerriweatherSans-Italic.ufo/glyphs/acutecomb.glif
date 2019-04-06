@@ -4,22 +4,22 @@
   <note>
 acute
 </note>
-  <anchor x="57.25" y="557.0" name="_top"/>
-  <anchor x="8.175" y="724.725" name="top"/>
+  <anchor x="115.0" y="1114.0" name="_top"/>
+  <anchor x="16.0" y="1449.0" name="top"/>
   <outline>
     <contour>
-      <point x="37.925" y="650.4" type="line"/>
-      <point x="85.575" y="667.4"/>
-      <point x="202.85" y="771.025"/>
-      <point x="225.85" y="814.375" type="curve"/>
-      <point x="153.0" y="887.0" type="line"/>
-      <point x="1.0" y="687.0" type="line"/>
+      <point x="76.0" y="1301.0" type="line"/>
+      <point x="171.0" y="1335.0"/>
+      <point x="406.0" y="1542.0"/>
+      <point x="452.0" y="1629.0" type="curve"/>
+      <point x="306.0" y="1774.0" type="line"/>
+      <point x="2.0" y="1374.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 20:18:08</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

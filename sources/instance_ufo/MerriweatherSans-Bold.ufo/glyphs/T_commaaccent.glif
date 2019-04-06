@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcommaaccent" format="2">
-  <advance width="620.1846153846154"/>
+  <advance width="1240.8"/>
   <unicode hex="021A"/>
-  <anchor x="310.3171692307692" y="-273.0" name="bottom"/>
-  <anchor x="310.17372307692307" y="372.0" name="center"/>
-  <anchor x="308.0343384615384" y="830.0" name="top"/>
+  <anchor x="620.1846153846154" y="-546.0" name="bottom"/>
+  <anchor x="620.1846153846154" y="744.0" name="center"/>
+  <anchor x="616.0307692307692" y="1660.0" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb.case" xOffset="217.9076923076923"/>
+    <component base="commaaccentcomb.case" xOffset="435.38461538461536"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

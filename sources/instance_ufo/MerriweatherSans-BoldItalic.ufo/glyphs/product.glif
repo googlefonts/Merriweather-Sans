@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="product" format="2">
-  <advance width="862.8685606060606"/>
+  <advance width="1725.8939393939395"/>
   <unicode hex="220F"/>
   <note>
 product
 </note>
   <outline>
     <contour>
-      <point x="118.73219696969697" y="-83.65151515151516" type="line"/>
-      <point x="274.3844696969697" y="-83.65151515151516" type="line"/>
-      <point x="373.71931818181815" y="627.7602272727273" type="line"/>
-      <point x="579.0541666666667" y="627.7602272727273" type="line"/>
-      <point x="479.71931818181815" y="-83.65151515151516" type="line"/>
-      <point x="634.6068181818182" y="-83.65151515151516" type="line"/>
-      <point x="733.9416666666666" y="627.7602272727273" type="line"/>
-      <point x="848.2034090909091" y="627.7602272727273" type="line"/>
-      <point x="864.8685606060606" y="747.0" type="line"/>
-      <point x="122.65151515151516" y="747.0" type="line"/>
-      <point x="105.98636363636363" y="627.7602272727273" type="line"/>
-      <point x="218.06704545454545" y="627.7602272727273" type="line"/>
+      <point x="237.62121212121212" y="-167.3030303030303" type="line"/>
+      <point x="548.6818181818182" y="-167.3030303030303" type="line"/>
+      <point x="747.5606060606061" y="1255.3636363636363" type="line"/>
+      <point x="1158.090909090909" y="1255.3636363636363" type="line"/>
+      <point x="959.560606060606" y="-167.3030303030303" type="line"/>
+      <point x="1269.3181818181818" y="-167.3030303030303" type="line"/>
+      <point x="1467.8484848484848" y="1255.3636363636363" type="line"/>
+      <point x="1696.4242424242425" y="1255.3636363636363" type="line"/>
+      <point x="1729.8939393939395" y="1494.0" type="line"/>
+      <point x="245.3030303030303" y="1494.0" type="line"/>
+      <point x="211.83333333333334" y="1255.3636363636363" type="line"/>
+      <point x="436.1515151515151" y="1255.3636363636363" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ product
 5 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 04:39:16</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tlinebelow" format="2">
-  <advance width="620.1846153846154"/>
+  <advance width="1240.8"/>
   <unicode hex="1E6E"/>
-  <anchor x="310.3076923076923" y="-179.74627692307695" name="bottom"/>
-  <anchor x="310.17372307692307" y="372.0" name="center"/>
-  <anchor x="308.0343384615384" y="830.0" name="top"/>
+  <anchor x="620.1846153846154" y="-359.5692307692308" name="bottom"/>
+  <anchor x="620.1846153846154" y="744.0" name="center"/>
+  <anchor x="616.0307692307692" y="1660.0" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="macronbelowcomb.case" xOffset="310.3076923076923"/>
+    <component base="macronbelowcomb.case" xOffset="620.1846153846154"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

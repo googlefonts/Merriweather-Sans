@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hdotbelow" format="2">
-  <advance width="771.6307692307693"/>
+  <advance width="1543.2615384615385"/>
   <unicode hex="1E24"/>
-  <anchor x="386.01655384615384" y="-230.9768" name="bottom"/>
-  <anchor x="384.6615384615385" y="-83.0" name="btm"/>
-  <anchor x="385.81538461538463" y="372.0" name="center"/>
-  <anchor x="385.81538461538463" y="830.0" name="top"/>
-  <anchor x="15.13846153846154" y="743.0" name="topleft"/>
+  <anchor x="771.6307692307693" y="-461.8769230769231" name="bottom"/>
+  <anchor x="769.323076923077" y="-166.0" name="btm"/>
+  <anchor x="771.6307692307693" y="744.0" name="center"/>
+  <anchor x="771.6307692307693" y="1660.0" name="top"/>
+  <anchor x="30.27692307692308" y="1486.0" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="dotbelowcomb.case" xOffset="386.24615384615385"/>
+    <component base="dotbelowcomb.case" xOffset="772.0615384615385"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 03:56:23</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

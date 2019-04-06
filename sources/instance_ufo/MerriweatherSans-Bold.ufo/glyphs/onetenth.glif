@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onetenth" format="2">
-  <advance width="1626.7846153846153"/>
+  <advance width="3253.138461538462"/>
   <unicode hex="2152"/>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="363.44615384615383"/>
-    <component base="one.dnom" xOffset="676.8000000000001"/>
-    <component base="zero.dnom" xOffset="1076.8"/>
+    <component base="fraction" xOffset="726.8923076923077"/>
+    <component base="one.dnom" xOffset="1353.6000000000001"/>
+    <component base="zero.dnom" xOffset="2153.6"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 02:17:52</string>
+      <string>2019/04/06 02:56:27</string>
     </dict>
   </lib>
 </glyph>

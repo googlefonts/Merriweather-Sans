@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asciicircum" format="2">
-  <advance width="663.0"/>
+  <advance width="1326.0"/>
   <unicode hex="005E"/>
   <note>
 asciicircum
 </note>
   <outline>
     <contour>
-      <point x="91.0" y="249.0" type="line"/>
-      <point x="157.0" y="249.0" type="line"/>
-      <point x="375.0" y="676.0" type="line"/>
-      <point x="485.0" y="249.0" type="line"/>
-      <point x="549.0" y="249.0" type="line"/>
-      <point x="418.0" y="747.0" type="line"/>
-      <point x="344.0" y="747.0" type="line"/>
+      <point x="182.0" y="498.0" type="line"/>
+      <point x="314.0" y="498.0" type="line"/>
+      <point x="750.0" y="1352.0" type="line"/>
+      <point x="970.0" y="498.0" type="line"/>
+      <point x="1098.0" y="498.0" type="line"/>
+      <point x="836.0" y="1494.0" type="line"/>
+      <point x="688.0" y="1494.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

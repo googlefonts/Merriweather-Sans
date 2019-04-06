@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="comma" format="2">
-  <advance width="257.0"/>
+  <advance width="514.0"/>
   <unicode hex="002C"/>
   <note>
 comma
 </note>
   <outline>
     <contour>
-      <point x="30.0" y="-246.3" type="line"/>
-      <point x="91.3" y="-225.3"/>
-      <point x="139.95" y="-179.65"/>
-      <point x="165.275" y="-118.675" type="curve" smooth="yes"/>
-      <point x="178.275" y="-87.675"/>
-      <point x="184.275" y="-54.35"/>
-      <point x="184.275" y="-19.35" type="curve" smooth="yes"/>
-      <point x="184.275" y="41.325"/>
-      <point x="157.975" y="106.6"/>
-      <point x="90.625" y="131.6" type="curve"/>
-      <point x="34.725" y="64.725" type="line"/>
-      <point x="31.4" y="38.4" type="line"/>
-      <point x="58.425" y="29.4"/>
-      <point x="77.75" y="-9.975"/>
-      <point x="77.75" y="-53.65" type="curve" smooth="yes"/>
-      <point x="77.75" y="-111.375"/>
-      <point x="42.725" y="-164.7"/>
-      <point x="-5.625" y="-189.375" type="curve"/>
-      <point x="-7.625" y="-199.375" type="line"/>
+      <point x="60.0" y="-493.0" type="line"/>
+      <point x="183.0" y="-451.0"/>
+      <point x="280.0" y="-359.0"/>
+      <point x="331.0" y="-237.0" type="curve" smooth="yes"/>
+      <point x="357.0" y="-175.0"/>
+      <point x="369.0" y="-109.0"/>
+      <point x="369.0" y="-39.0" type="curve" smooth="yes"/>
+      <point x="369.0" y="83.0"/>
+      <point x="316.0" y="213.0"/>
+      <point x="181.0" y="263.0" type="curve"/>
+      <point x="69.0" y="129.0" type="line"/>
+      <point x="63.0" y="77.0" type="line"/>
+      <point x="117.0" y="59.0"/>
+      <point x="156.0" y="-20.0"/>
+      <point x="156.0" y="-107.0" type="curve" smooth="yes"/>
+      <point x="156.0" y="-223.0"/>
+      <point x="85.0" y="-329.0"/>
+      <point x="-11.0" y="-379.0" type="curve"/>
+      <point x="-15.0" y="-399.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 00:48:45</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

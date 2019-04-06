@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="518.0"/>
+  <advance width="1036.0"/>
   <unicode hex="007A"/>
-  <anchor x="257.0" y="0.0" name="bottom"/>
-  <anchor x="257.0" y="-83.0" name="btm"/>
-  <anchor x="257.0" y="279.0" name="center"/>
-  <anchor x="263.0" y="830.0" name="top"/>
+  <anchor x="514.0" y="0.0" name="bottom"/>
+  <anchor x="514.0" y="-166.0" name="btm"/>
+  <anchor x="514.0" y="558.0" name="center"/>
+  <anchor x="526.0" y="1660.0" name="top"/>
   <outline>
     <contour>
-      <point x="57.0" y="0.0" type="line"/>
-      <point x="470.0" y="0.0" type="line"/>
-      <point x="470.0" y="60.0" type="line"/>
-      <point x="150.0" y="60.0" type="line"/>
-      <point x="185.0" y="107.0" type="line"/>
-      <point x="475.0" y="521.0" type="line"/>
-      <point x="461.0" y="557.0" type="line"/>
-      <point x="64.0" y="557.0" type="line"/>
-      <point x="64.0" y="494.0" type="line"/>
-      <point x="365.0" y="494.0" type="line"/>
-      <point x="331.0" y="446.0" type="line"/>
-      <point x="40.0" y="32.0" type="line"/>
+      <point x="114.0" y="0.0" type="line"/>
+      <point x="940.0" y="0.0" type="line"/>
+      <point x="940.0" y="120.0" type="line"/>
+      <point x="300.0" y="120.0" type="line"/>
+      <point x="370.0" y="214.0" type="line"/>
+      <point x="950.0" y="1042.0" type="line"/>
+      <point x="922.0" y="1114.0" type="line"/>
+      <point x="128.0" y="1114.0" type="line"/>
+      <point x="128.0" y="988.0" type="line"/>
+      <point x="730.0" y="988.0" type="line"/>
+      <point x="662.0" y="892.0" type="line"/>
+      <point x="80.0" y="64.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 03:28:22</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

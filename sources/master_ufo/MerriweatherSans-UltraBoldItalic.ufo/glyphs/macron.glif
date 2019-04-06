@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
-  <advance width="303.0"/>
+  <advance width="606.0"/>
   <unicode hex="00AF"/>
   <note>
 macron
 </note>
   <outline>
     <contour>
-      <point x="8.0" y="681.0" type="line"/>
-      <point x="299.0" y="681.0" type="line"/>
-      <point x="308.0" y="788.0" type="line"/>
-      <point x="17.0" y="788.0" type="line"/>
+      <point x="16.0" y="1362.0" type="line"/>
+      <point x="598.0" y="1362.0" type="line"/>
+      <point x="616.0" y="1576.0" type="line"/>
+      <point x="34.0" y="1576.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

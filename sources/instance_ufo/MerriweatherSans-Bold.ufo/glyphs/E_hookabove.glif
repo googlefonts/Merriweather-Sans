@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ehookabove" format="2">
-  <advance width="605.2307692307693"/>
+  <advance width="1210.4615384615386"/>
   <unicode hex="1EBA"/>
-  <anchor x="300.4" y="0.0" name="bottom"/>
-  <anchor x="325.9846153846154" y="-83.0" name="btm"/>
-  <anchor x="539.1384615384616" y="10.0" name="ogonek"/>
-  <anchor x="316.7076923076923" y="983.0" name="top"/>
-  <anchor x="15.13846153846154" y="743.0" name="topleft"/>
+  <anchor x="600.8" y="0.0" name="bottom"/>
+  <anchor x="651.9692307692308" y="-166.0" name="btm"/>
+  <anchor x="1078.2769230769231" y="20.0" name="ogonek"/>
+  <anchor x="633.4153846153846" y="1966.0" name="top"/>
+  <anchor x="30.27692307692308" y="1486.0" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="hookabovecomb.case" xOffset="316.7076923076923" yOffset="-7.0"/>
+    <component base="hookabovecomb.case" xOffset="633.4153846153846" yOffset="-14.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 03:56:23</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

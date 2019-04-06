@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="867.3"/>
+  <advance width="1734.0"/>
   <unicode hex="0153"/>
   <note>
 oe
 </note>
-  <anchor x="241.95" y="0.0" name="bottom_1"/>
-  <anchor x="601.8" y="0.0" name="bottom_2"/>
-  <anchor x="278.95" y="279.0" name="center"/>
-  <anchor x="332.775" y="10.0" name="ogonek_1"/>
-  <anchor x="679.625" y="10.0" name="ogonek_2"/>
-  <anchor x="325.95" y="557.0" name="top_1"/>
-  <anchor x="689.05" y="557.0" name="top_2"/>
-  <anchor x="574.575" y="557.0" name="topright"/>
+  <anchor x="484.0" y="0.0" name="bottom_1"/>
+  <anchor x="1203.0" y="0.0" name="bottom_2"/>
+  <anchor x="558.0" y="558.0" name="center"/>
+  <anchor x="666.0" y="20.0" name="ogonek_1"/>
+  <anchor x="1359.0" y="20.0" name="ogonek_2"/>
+  <anchor x="652.0" y="1114.0" name="top_1"/>
+  <anchor x="1378.0" y="1114.0" name="top_2"/>
+  <anchor x="1149.0" y="1114.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="e" xOffset="356.125"/>
+    <component base="e" xOffset="712.0"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@ oe
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:56:54</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

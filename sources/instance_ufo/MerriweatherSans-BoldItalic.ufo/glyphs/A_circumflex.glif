@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflex" format="2">
-  <advance width="645.5"/>
+  <advance width="1291.0"/>
   <unicode hex="00C2"/>
   <note>
 Acircumflex
 </note>
-  <anchor x="286.1628787878788" y="0.0" name="bottom"/>
-  <anchor x="605.7333333333333" y="0.0" name="ogonek"/>
-  <anchor x="430.40909090909093" y="976.3484848484849" name="top"/>
+  <anchor x="572.5" y="0.0" name="bottom"/>
+  <anchor x="1211.6060606060605" y="0.0" name="ogonek"/>
+  <anchor x="861.1666666666666" y="1952.6969696969697" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="337.40909090909093" yOffset="0.34848484848484845"/>
+    <component base="circumflexcomb.case" xOffset="675.1666666666666" yOffset="0.6969696969696969"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

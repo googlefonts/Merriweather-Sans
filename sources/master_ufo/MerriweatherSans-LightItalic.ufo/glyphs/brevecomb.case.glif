@@ -3,24 +3,24 @@
   <note>
 breve
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="75.0" y="817.0" type="curve" smooth="yes"/>
-      <point x="160.0" y="817.0"/>
-      <point x="238.0" y="891.0"/>
-      <point x="238.0" y="985.0" type="curve"/>
-      <point x="189.0" y="985.0" type="line"/>
-      <point x="181.0" y="932.0"/>
-      <point x="141.0" y="872.0"/>
-      <point x="77.0" y="872.0" type="curve" smooth="yes"/>
-      <point x="16.0" y="872.0"/>
-      <point x="-19.0" y="924.0"/>
-      <point x="-19.0" y="985.0" type="curve"/>
-      <point x="-69.0" y="985.0" type="line"/>
-      <point x="-82.0" y="900.0"/>
-      <point x="-12.0" y="817.0"/>
+      <point x="150.0" y="1634.0" type="curve" smooth="yes"/>
+      <point x="320.0" y="1634.0"/>
+      <point x="476.0" y="1782.0"/>
+      <point x="476.0" y="1970.0" type="curve"/>
+      <point x="378.0" y="1970.0" type="line"/>
+      <point x="362.0" y="1864.0"/>
+      <point x="282.0" y="1744.0"/>
+      <point x="154.0" y="1744.0" type="curve" smooth="yes"/>
+      <point x="32.0" y="1744.0"/>
+      <point x="-38.0" y="1848.0"/>
+      <point x="-38.0" y="1970.0" type="curve"/>
+      <point x="-138.0" y="1970.0" type="line"/>
+      <point x="-164.0" y="1800.0"/>
+      <point x="-24.0" y="1634.0"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

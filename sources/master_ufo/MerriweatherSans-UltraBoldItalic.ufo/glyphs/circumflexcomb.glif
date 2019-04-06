@@ -4,17 +4,17 @@
   <note>
 circumflex
 </note>
-  <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="67.0" y="788.0" name="top"/>
+  <anchor x="74.0" y="1114.0" name="_top"/>
+  <anchor x="134.0" y="1576.0" name="top"/>
   <outline>
     <contour>
-      <point x="-70.0" y="627.0" type="line"/>
-      <point x="72.0" y="721.0" type="line"/>
-      <point x="160.0" y="627.0" type="line"/>
-      <point x="236.0" y="660.0" type="line"/>
-      <point x="130.0" y="832.0" type="line"/>
-      <point x="42.0" y="832.0" type="line"/>
-      <point x="-137.0" y="660.0" type="line"/>
+      <point x="-140.0" y="1254.0" type="line"/>
+      <point x="144.0" y="1442.0" type="line"/>
+      <point x="320.0" y="1254.0" type="line"/>
+      <point x="472.0" y="1320.0" type="line"/>
+      <point x="260.0" y="1664.0" type="line"/>
+      <point x="84.0" y="1664.0" type="line"/>
+      <point x="-274.0" y="1320.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 18:15:49</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

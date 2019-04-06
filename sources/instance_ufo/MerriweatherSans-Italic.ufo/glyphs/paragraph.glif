@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="paragraph" format="2">
-  <advance width="619.95"/>
+  <advance width="1240.0"/>
   <unicode hex="00B6"/>
   <note>
 paragraph
 </note>
   <outline>
     <contour>
-      <point x="181.325" y="0.0" type="line"/>
-      <point x="281.825" y="0.0" type="line"/>
-      <point x="367.825" y="682.85" type="line"/>
-      <point x="462.825" y="682.85" type="line"/>
-      <point x="377.825" y="0.0" type="line"/>
-      <point x="477.3" y="0.0" type="line"/>
-      <point x="564.65" y="684.175" type="line"/>
-      <point x="645.975" y="700.85" type="line"/>
-      <point x="652.95" y="758.0" type="line"/>
-      <point x="518.8" y="758.0" type="line" smooth="yes"/>
-      <point x="482.125" y="758.0"/>
-      <point x="393.85" y="767.0"/>
-      <point x="335.175" y="767.0" type="curve" smooth="yes"/>
-      <point x="143.95" y="767.0"/>
-      <point x="57.675" y="684.075"/>
-      <point x="57.675" y="547.75" type="curve" smooth="yes"/>
-      <point x="57.675" y="440.4"/>
-      <point x="122.675" y="373.2"/>
-      <point x="231.325" y="370.2" type="curve"/>
+      <point x="363.0" y="0.0" type="line"/>
+      <point x="564.0" y="0.0" type="line"/>
+      <point x="736.0" y="1366.0" type="line"/>
+      <point x="926.0" y="1366.0" type="line"/>
+      <point x="756.0" y="0.0" type="line"/>
+      <point x="955.0" y="0.0" type="line"/>
+      <point x="1129.0" y="1368.0" type="line"/>
+      <point x="1292.0" y="1402.0" type="line"/>
+      <point x="1306.0" y="1516.0" type="line"/>
+      <point x="1038.0" y="1516.0" type="line" smooth="yes"/>
+      <point x="964.0" y="1516.0"/>
+      <point x="788.0" y="1534.0"/>
+      <point x="670.0" y="1534.0" type="curve" smooth="yes"/>
+      <point x="288.0" y="1534.0"/>
+      <point x="115.0" y="1368.0"/>
+      <point x="115.0" y="1096.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="881.0"/>
+      <point x="245.0" y="746.0"/>
+      <point x="463.0" y="740.0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -64,7 +64,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 25 0 25 17 49 22 34 37 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

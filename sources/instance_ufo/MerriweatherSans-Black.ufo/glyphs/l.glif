@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="315.0"/>
+  <advance width="630.0"/>
   <unicode hex="006C"/>
-  <anchor x="158.0" y="0.0" name="bottom"/>
-  <anchor x="154.0" y="-83.0" name="btm"/>
-  <anchor x="158.0" y="492.0" name="center"/>
-  <anchor x="157.0" y="904.0" name="top"/>
-  <anchor x="306.0" y="983.0" name="topright"/>
+  <anchor x="316.0" y="0.0" name="bottom"/>
+  <anchor x="308.0" y="-166.0" name="btm"/>
+  <anchor x="316.0" y="984.0" name="center"/>
+  <anchor x="314.0" y="1808.0" name="top"/>
+  <anchor x="612.0" y="1966.0" name="topright"/>
   <outline>
     <contour>
-      <point x="67.0" y="0.0" type="line"/>
-      <point x="248.0" y="0.0" type="line"/>
-      <point x="248.0" y="812.0" type="line"/>
-      <point x="67.0" y="812.0" type="line"/>
+      <point x="134.0" y="0.0" type="line"/>
+      <point x="496.0" y="0.0" type="line"/>
+      <point x="496.0" y="1624.0" type="line"/>
+      <point x="134.0" y="1624.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:28:27</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

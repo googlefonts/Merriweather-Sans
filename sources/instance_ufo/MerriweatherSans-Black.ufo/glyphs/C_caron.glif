@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccaron" format="2">
-  <advance width="644.0"/>
+  <advance width="1288.0"/>
   <unicode hex="010C"/>
-  <anchor x="319.0" y="0.0" name="bottom"/>
-  <anchor x="386.0" y="-83.0" name="btm"/>
-  <anchor x="410.0" y="1053.0" name="top"/>
+  <anchor x="638.0" y="0.0" name="bottom"/>
+  <anchor x="772.0" y="-166.0" name="btm"/>
+  <anchor x="820.0" y="2106.0" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="caroncomb.case" xOffset="410.0"/>
+    <component base="caroncomb.case" xOffset="820.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 01:06:32</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

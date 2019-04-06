@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotesingle" format="2">
-  <advance width="357.0"/>
+  <advance width="714.0"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="146.0" y="462.0" type="line"/>
-      <point x="211.0" y="462.0" type="line"/>
-      <point x="223.0" y="823.0" type="line"/>
-      <point x="134.0" y="823.0" type="line"/>
+      <point x="292.0" y="924.0" type="line"/>
+      <point x="422.0" y="924.0" type="line"/>
+      <point x="446.0" y="1646.0" type="line"/>
+      <point x="268.0" y="1646.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 14:28:35</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

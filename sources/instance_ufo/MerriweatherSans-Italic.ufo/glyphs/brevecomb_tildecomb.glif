@@ -1,57 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_tildecomb" format="2">
-  <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="67.0" y="788.0" name="top"/>
+  <anchor x="74.0" y="1114.0" name="_top"/>
+  <anchor x="134.0" y="1576.0" name="top"/>
   <outline>
     <contour>
-      <point x="47.625" y="635.375" type="curve" smooth="yes"/>
-      <point x="143.55" y="635.375"/>
-      <point x="213.6" y="716.4"/>
-      <point x="213.6" y="809.325" type="curve"/>
-      <point x="145.375" y="809.325" type="line"/>
-      <point x="137.45" y="748.95"/>
-      <point x="111.625" y="705.9"/>
-      <point x="51.6" y="705.9" type="curve" smooth="yes"/>
-      <point x="-1.0" y="705.9"/>
-      <point x="-29.125" y="737.175"/>
-      <point x="-29.125" y="809.325" type="curve"/>
-      <point x="-95.975" y="809.325" type="line"/>
-      <point x="-108.875" y="710.625"/>
-      <point x="-52.25" y="635.375"/>
+      <point x="95.0" y="1271.0" type="curve" smooth="yes"/>
+      <point x="287.0" y="1271.0"/>
+      <point x="427.0" y="1433.0"/>
+      <point x="427.0" y="1619.0" type="curve"/>
+      <point x="291.0" y="1619.0" type="line"/>
+      <point x="275.0" y="1498.0"/>
+      <point x="223.0" y="1412.0"/>
+      <point x="103.0" y="1412.0" type="curve" smooth="yes"/>
+      <point x="-2.0" y="1412.0"/>
+      <point x="-58.0" y="1474.0"/>
+      <point x="-58.0" y="1619.0" type="curve"/>
+      <point x="-192.0" y="1619.0" type="line"/>
+      <point x="-218.0" y="1421.0"/>
+      <point x="-105.0" y="1271.0"/>
     </contour>
     <contour>
-      <point x="140.3" y="887.725" type="curve" smooth="yes"/>
-      <point x="189.375" y="887.725"/>
-      <point x="227.25" y="923.35"/>
-      <point x="241.6" y="965.05" type="curve"/>
-      <point x="206.325" y="1004.625" type="line"/>
-      <point x="191.6" y="976.8"/>
-      <point x="174.3" y="959.275"/>
-      <point x="142.65" y="959.275" type="curve" smooth="yes"/>
-      <point x="129.0" y="959.275"/>
-      <point x="118.0" y="965.25"/>
-      <point x="102.35" y="981.25" type="curve" smooth="yes"/>
-      <point x="81.675" y="1002.625"/>
-      <point x="52.7" y="1017.95"/>
-      <point x="25.7" y="1017.95" type="curve" smooth="yes"/>
-      <point x="-20.675" y="1017.95"/>
-      <point x="-62.9" y="982.625"/>
-      <point x="-80.225" y="946.625" type="curve"/>
-      <point x="-45.275" y="909.375" type="line"/>
-      <point x="-27.95" y="934.8"/>
-      <point x="-12.625" y="946.4"/>
-      <point x="15.075" y="946.4" type="curve" smooth="yes"/>
-      <point x="32.375" y="946.4"/>
-      <point x="43.725" y="937.725"/>
-      <point x="60.35" y="921.05" type="curve" smooth="yes"/>
-      <point x="79.65" y="901.35"/>
-      <point x="108.0" y="887.725"/>
+      <point x="281.0" y="1775.0" type="curve" smooth="yes"/>
+      <point x="379.0" y="1775.0"/>
+      <point x="455.0" y="1847.0"/>
+      <point x="483.0" y="1930.0" type="curve"/>
+      <point x="413.0" y="2009.0" type="line"/>
+      <point x="383.0" y="1954.0"/>
+      <point x="349.0" y="1919.0"/>
+      <point x="285.0" y="1919.0" type="curve" smooth="yes"/>
+      <point x="258.0" y="1919.0"/>
+      <point x="236.0" y="1931.0"/>
+      <point x="205.0" y="1963.0" type="curve" smooth="yes"/>
+      <point x="163.0" y="2005.0"/>
+      <point x="105.0" y="2036.0"/>
+      <point x="51.0" y="2036.0" type="curve" smooth="yes"/>
+      <point x="-41.0" y="2036.0"/>
+      <point x="-126.0" y="1965.0"/>
+      <point x="-160.0" y="1893.0" type="curve"/>
+      <point x="-91.0" y="1819.0" type="line"/>
+      <point x="-56.0" y="1870.0"/>
+      <point x="-25.0" y="1893.0"/>
+      <point x="30.0" y="1893.0" type="curve" smooth="yes"/>
+      <point x="65.0" y="1893.0"/>
+      <point x="87.0" y="1875.0"/>
+      <point x="121.0" y="1842.0" type="curve" smooth="yes"/>
+      <point x="159.0" y="1803.0"/>
+      <point x="216.0" y="1775.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

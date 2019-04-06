@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onesixth" format="2">
-  <advance width="1066.0"/>
+  <advance width="2132.0"/>
   <unicode hex="2159"/>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="338.0"/>
-    <component base="six.dnom" xOffset="560.0"/>
+    <component base="fraction" xOffset="676.0"/>
+    <component base="six.dnom" xOffset="1120.0"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 20:02:17</string>
+      <string>2019/04/06 02:57:02</string>
     </dict>
   </lib>
 </glyph>

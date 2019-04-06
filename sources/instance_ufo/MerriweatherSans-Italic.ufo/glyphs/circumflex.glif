@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="388.65"/>
+  <advance width="777.0"/>
   <unicode hex="02C6"/>
   <note>
 circumflex
 </note>
   <outline>
     <contour>
-      <point x="78.4" y="601.1" type="line"/>
-      <point x="229.45" y="726.3" type="line"/>
-      <point x="330.175" y="604.45" type="line"/>
-      <point x="380.725" y="638.125" type="line"/>
-      <point x="286.1" y="820.45" type="line"/>
-      <point x="199.1" y="820.45" type="line"/>
-      <point x="35.85" y="638.125" type="line"/>
+      <point x="157.0" y="1202.0" type="line"/>
+      <point x="459.0" y="1453.0" type="line"/>
+      <point x="660.0" y="1209.0" type="line"/>
+      <point x="761.0" y="1276.0" type="line"/>
+      <point x="572.0" y="1641.0" type="line"/>
+      <point x="398.0" y="1641.0" type="line"/>
+      <point x="72.0" y="1276.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

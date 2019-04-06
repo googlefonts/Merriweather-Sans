@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetleft" format="2">
-  <advance width="973.3384615384615"/>
+  <advance width="1947.1076923076923"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="112.78627692307693" y="239.4814153846154" type="line"/>
-      <point x="422.9382153846154" y="36.266276923076916" type="line"/>
-      <point x="459.2425846153846" y="142.1644923076923" type="line"/>
-      <point x="224.05206153846154" y="327.36664615384615" type="line"/>
-      <point x="224.05206153846154" y="273.2025846153846" type="line"/>
-      <point x="459.2425846153846" y="459.1896" type="line"/>
-      <point x="422.9382153846154" y="565.3034461538462" type="line"/>
-      <point x="112.78627692307693" y="359.5943384615385" type="line"/>
+      <point x="225.47692307692307" y="478.8" type="line"/>
+      <point x="845.723076923077" y="72.52307692307691" type="line"/>
+      <point x="918.5230769230769" y="284.33846153846156" type="line"/>
+      <point x="448.12307692307695" y="654.5230769230769" type="line"/>
+      <point x="448.12307692307695" y="546.6153846153846" type="line"/>
+      <point x="918.5230769230769" y="918.5230769230769" type="line"/>
+      <point x="845.723076923077" y="1130.4923076923078" type="line"/>
+      <point x="225.47692307692307" y="719.323076923077" type="line"/>
     </contour>
     <contour>
-      <point x="495.60873846153845" y="239.4814153846154" type="line"/>
-      <point x="815.7602461538462" y="36.266276923076916" type="line"/>
-      <point x="852.0646153846154" y="142.1644923076923" type="line"/>
-      <point x="606.8740923076923" y="327.36664615384615" type="line"/>
-      <point x="606.8740923076923" y="273.2025846153846" type="line"/>
-      <point x="852.0646153846154" y="459.1896" type="line"/>
-      <point x="815.7602461538462" y="565.3034461538462" type="line"/>
-      <point x="495.60873846153845" y="359.5943384615385" type="line"/>
+      <point x="991.1692307692308" y="478.8" type="line"/>
+      <point x="1631.4153846153847" y="72.52307692307691" type="line"/>
+      <point x="1704.2153846153847" y="284.33846153846156" type="line"/>
+      <point x="1213.8153846153846" y="654.5230769230769" type="line"/>
+      <point x="1213.8153846153846" y="546.6153846153846" type="line"/>
+      <point x="1704.2153846153847" y="918.5230769230769" type="line"/>
+      <point x="1631.4153846153847" y="1130.4923076923078" type="line"/>
+      <point x="991.1692307692308" y="719.323076923077" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 16:29:57</string>
+      <string>2019/04/06 02:56:25</string>
     </dict>
   </lib>
 </glyph>

@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="degree" format="2">
-  <advance width="443.55"/>
+  <advance width="887.0"/>
   <unicode hex="00B0"/>
   <note>
 degree
 </note>
   <outline>
     <contour>
-      <point x="233.8" y="463.075" type="curve" smooth="yes"/>
-      <point x="298.1" y="463.075"/>
-      <point x="351.75" y="493.4"/>
-      <point x="381.4" y="543.375" type="curve" smooth="yes"/>
-      <point x="396.4" y="568.7"/>
-      <point x="403.725" y="596.35"/>
-      <point x="403.725" y="627.0" type="curve" smooth="yes"/>
-      <point x="403.725" y="683.975"/>
-      <point x="373.4" y="734.95"/>
-      <point x="324.75" y="763.275" type="curve" smooth="yes"/>
-      <point x="300.425" y="776.925"/>
-      <point x="272.775" y="783.925"/>
-      <point x="243.125" y="783.925" type="curve" smooth="yes"/>
-      <point x="179.475" y="783.925"/>
-      <point x="126.175" y="753.275"/>
-      <point x="97.2" y="704.3" type="curve" smooth="yes"/>
-      <point x="82.2" y="678.975"/>
-      <point x="74.875" y="651.325"/>
-      <point x="74.875" y="621.0" type="curve" smooth="yes"/>
-      <point x="74.875" y="563.7"/>
-      <point x="104.2" y="512.4"/>
-      <point x="153.175" y="484.4" type="curve" smooth="yes"/>
-      <point x="176.825" y="470.075"/>
-      <point x="204.15" y="463.075"/>
+      <point x="468.0" y="926.0" type="curve" smooth="yes"/>
+      <point x="596.0" y="926.0"/>
+      <point x="704.0" y="987.0"/>
+      <point x="763.0" y="1087.0" type="curve" smooth="yes"/>
+      <point x="793.0" y="1137.0"/>
+      <point x="807.0" y="1193.0"/>
+      <point x="807.0" y="1254.0" type="curve" smooth="yes"/>
+      <point x="807.0" y="1368.0"/>
+      <point x="747.0" y="1470.0"/>
+      <point x="650.0" y="1527.0" type="curve" smooth="yes"/>
+      <point x="601.0" y="1554.0"/>
+      <point x="546.0" y="1568.0"/>
+      <point x="486.0" y="1568.0" type="curve" smooth="yes"/>
+      <point x="359.0" y="1568.0"/>
+      <point x="252.0" y="1507.0"/>
+      <point x="194.0" y="1409.0" type="curve" smooth="yes"/>
+      <point x="164.0" y="1358.0"/>
+      <point x="150.0" y="1303.0"/>
+      <point x="150.0" y="1242.0" type="curve" smooth="yes"/>
+      <point x="150.0" y="1127.0"/>
+      <point x="208.0" y="1025.0"/>
+      <point x="306.0" y="969.0" type="curve" smooth="yes"/>
+      <point x="354.0" y="940.0"/>
+      <point x="408.0" y="926.0"/>
     </contour>
     <contour>
-      <point x="237.125" y="527.275" type="curve" smooth="yes"/>
-      <point x="187.1" y="527.275"/>
-      <point x="148.75" y="569.975"/>
-      <point x="148.75" y="622.0" type="curve" smooth="yes"/>
-      <point x="148.75" y="677.375"/>
-      <point x="187.425" y="719.725"/>
-      <point x="240.8" y="719.725" type="curve" smooth="yes"/>
-      <point x="291.15" y="719.725"/>
-      <point x="329.85" y="677.025"/>
-      <point x="329.85" y="625.675" type="curve" smooth="yes"/>
-      <point x="329.85" y="570.975"/>
-      <point x="291.5" y="527.275"/>
+      <point x="474.0" y="1055.0" type="curve" smooth="yes"/>
+      <point x="374.0" y="1055.0"/>
+      <point x="298.0" y="1140.0"/>
+      <point x="298.0" y="1244.0" type="curve" smooth="yes"/>
+      <point x="298.0" y="1355.0"/>
+      <point x="375.0" y="1439.0"/>
+      <point x="482.0" y="1439.0" type="curve" smooth="yes"/>
+      <point x="582.0" y="1439.0"/>
+      <point x="660.0" y="1354.0"/>
+      <point x="660.0" y="1251.0" type="curve" smooth="yes"/>
+      <point x="660.0" y="1142.0"/>
+      <point x="583.0" y="1055.0"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

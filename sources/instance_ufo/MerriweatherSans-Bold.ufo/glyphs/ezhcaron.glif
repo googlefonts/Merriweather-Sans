@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ezhcaron" format="2">
-  <advance width="489.5076923076923"/>
+  <advance width="979.0153846153846"/>
   <unicode hex="01EF"/>
-  <anchor x="240.27692307692308" y="0.0" name="bottom"/>
-  <anchor x="220.73846153846154" y="1035.9339692307692" name="top"/>
+  <anchor x="480.55384615384617" y="0.0" name="bottom"/>
+  <anchor x="441.4769230769231" y="2072.0307692307692" name="top"/>
   <outline>
     <component base="ezh"/>
-    <component base="caroncomb" xOffset="220.73846153846154" yOffset="1.0"/>
+    <component base="caroncomb" xOffset="441.4769230769231" yOffset="2.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/30 17:39:48</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

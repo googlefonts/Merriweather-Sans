@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="less" format="2">
-  <advance width="670.275"/>
+  <advance width="1341.0"/>
   <unicode hex="003C"/>
   <note>
 less
 </note>
   <outline>
     <contour>
-      <point x="531.625" y="86.325" type="line"/>
-      <point x="541.95" y="180.775" type="line"/>
-      <point x="218.325" y="362.975" type="line"/>
-      <point x="584.975" y="544.85" type="line"/>
-      <point x="597.95" y="648.275" type="line"/>
-      <point x="103.325" y="398.3" type="line"/>
-      <point x="95.325" y="335.975" type="line"/>
+      <point x="1063.0" y="173.0" type="line"/>
+      <point x="1084.0" y="362.0" type="line"/>
+      <point x="437.0" y="726.0" type="line"/>
+      <point x="1170.0" y="1090.0" type="line"/>
+      <point x="1196.0" y="1297.0" type="line"/>
+      <point x="207.0" y="797.0" type="line"/>
+      <point x="191.0" y="672.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ less
 4 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

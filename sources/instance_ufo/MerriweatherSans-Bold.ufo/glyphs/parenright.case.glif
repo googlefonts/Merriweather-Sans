@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright.case" format="2">
-  <advance width="412.0478627692308"/>
+  <advance width="824.0"/>
   <outline>
-    <component base="parenleft" xScale="-1.0" yScale="-1.0" xOffset="409.38793846153845" yOffset="695.1389538461539"/>
+    <component base="parenleft" xScale="-1.0" yScale="-1.0" xOffset="818.5846153846154" yOffset="1390.1538461538462"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twofifths" format="2">
-  <advance width="1209.530303030303"/>
+  <advance width="2419.060606060606"/>
   <unicode hex="2156"/>
   <outline>
     <component base="two.numr"/>
-    <component base="fraction" xOffset="528.8939393939394"/>
-    <component base="five.dnom" xOffset="744.969696969697"/>
+    <component base="fraction" xOffset="1057.7878787878788"/>
+    <component base="five.dnom" xOffset="1490.2878787878788"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>two.numr</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 03:34:17</string>
+      <string>2019/04/06 02:57:02</string>
     </dict>
   </lib>
 </glyph>

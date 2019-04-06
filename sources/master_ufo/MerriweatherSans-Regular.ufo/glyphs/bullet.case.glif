@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullet.case" format="2">
-  <advance width="421.44444"/>
+  <advance width="843.0"/>
   <outline>
     <contour>
-      <point x="206.133" y="261.689" type="curve" smooth="yes"/>
-      <point x="267.622" y="261.689"/>
-      <point x="319.4" y="313.822"/>
-      <point x="322.222" y="376.422" type="curve" smooth="yes"/>
-      <point x="325.044" y="440.378"/>
-      <point x="276.8" y="489.267"/>
-      <point x="216.311" y="489.267" type="curve" smooth="yes"/>
-      <point x="155.0" y="489.267"/>
-      <point x="102.044" y="438.133"/>
-      <point x="99.222" y="374.533" type="curve" smooth="yes"/>
-      <point x="96.4" y="312.578"/>
-      <point x="144.822" y="261.689"/>
+      <point x="412.0" y="523.0" type="curve" smooth="yes"/>
+      <point x="535.0" y="523.0"/>
+      <point x="639.0" y="628.0"/>
+      <point x="644.0" y="753.0" type="curve" smooth="yes"/>
+      <point x="650.0" y="881.0"/>
+      <point x="554.0" y="979.0"/>
+      <point x="433.0" y="979.0" type="curve" smooth="yes"/>
+      <point x="310.0" y="979.0"/>
+      <point x="204.0" y="876.0"/>
+      <point x="198.0" y="749.0" type="curve" smooth="yes"/>
+      <point x="193.0" y="625.0"/>
+      <point x="290.0" y="523.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 02:59:57</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

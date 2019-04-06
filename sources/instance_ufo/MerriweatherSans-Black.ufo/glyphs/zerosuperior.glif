@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zerosuperior" format="2">
-  <advance width="553.0"/>
+  <advance width="1106.0"/>
   <unicode hex="2070"/>
   <outline>
-    <component base="zero.dnom" yOffset="400.0"/>
+    <component base="zero.dnom" yOffset="800.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 01:22:27</string>
+      <string>2019/04/06 02:48:41</string>
     </dict>
   </lib>
 </glyph>

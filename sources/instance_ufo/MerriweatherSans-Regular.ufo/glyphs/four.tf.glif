@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tf" format="2">
-  <advance width="632.51111"/>
+  <advance width="1265.0"/>
   <outline>
     <contour>
-      <point x="74.111" y="146.178" type="line"/>
-      <point x="604.511" y="146.178" type="line"/>
-      <point x="604.511" y="234.689" type="line"/>
-      <point x="172.333" y="234.689" type="line"/>
-      <point x="212.978" y="306.556" type="line"/>
-      <point x="285.622" y="450.489"/>
-      <point x="326.044" y="567.8"/>
-      <point x="398.689" y="711.556" type="curve"/>
-      <point x="321.511" y="755.933" type="line"/>
-      <point x="285.156" y="755.933" type="line"/>
-      <point x="196.4" y="561.756"/>
-      <point x="137.333" y="394.378"/>
-      <point x="46.156" y="199.667" type="curve"/>
+      <point x="148.0" y="292.0" type="line"/>
+      <point x="1209.0" y="292.0" type="line"/>
+      <point x="1209.0" y="469.0" type="line"/>
+      <point x="345.0" y="469.0" type="line"/>
+      <point x="426.0" y="613.0" type="line"/>
+      <point x="571.0" y="901.0"/>
+      <point x="652.0" y="1136.0"/>
+      <point x="797.0" y="1423.0" type="curve"/>
+      <point x="643.0" y="1512.0" type="line"/>
+      <point x="570.0" y="1512.0" type="line"/>
+      <point x="393.0" y="1124.0"/>
+      <point x="275.0" y="789.0"/>
+      <point x="92.0" y="399.0" type="curve"/>
     </contour>
     <contour>
-      <point x="381.756" y="0.0" type="line"/>
-      <point x="495.689" y="0.0" type="line"/>
-      <point x="495.689" y="482.556" type="line"/>
-      <point x="393.178" y="482.556" type="line"/>
-      <point x="381.756" y="241.267" type="line"/>
+      <point x="764.0" y="0.0" type="line"/>
+      <point x="991.0" y="0.0" type="line"/>
+      <point x="991.0" y="965.0" type="line"/>
+      <point x="786.0" y="965.0" type="line"/>
+      <point x="764.0" y="483.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <integer>620</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-  <advance width="314.2396590769231"/>
+  <advance width="628.5846153846154"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="comma" xOffset="-5.549353846153848"/>
-    <component base="period" yOffset="370.5446153846154"/>
+    <component base="comma" xOffset="-11.261538461538464"/>
+    <component base="period" yOffset="741.2615384615384"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 17:19:12</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

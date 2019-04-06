@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wcircumflex" format="2">
-  <advance width="840.4461538461538"/>
+  <advance width="1680.8923076923077"/>
   <unicode hex="0175"/>
-  <anchor x="420.6511384615385" y="0.0" name="bottom"/>
-  <anchor x="422.7278153846154" y="-81.86104615384615" name="btm"/>
-  <anchor x="422.9384615384615" y="1071.1076923076923" name="top"/>
+  <anchor x="841.4461538461538" y="0.0" name="bottom"/>
+  <anchor x="845.4461538461538" y="-163.84615384615384" name="btm"/>
+  <anchor x="845.4461538461538" y="2141.7846153846153" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="circumflexcomb" xOffset="422.9384615384615" yOffset="2.723076923076922"/>
+    <component base="circumflexcomb" xOffset="845.4461538461538" yOffset="5.0153846153846136"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

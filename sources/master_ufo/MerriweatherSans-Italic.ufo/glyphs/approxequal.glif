@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="approxequal" format="2">
-  <advance width="519.0"/>
+  <advance width="1038.0"/>
   <unicode hex="2248"/>
   <note>
 approxequal
 </note>
   <outline>
-    <component base="asciitilde" xOffset="-38.325" yOffset="-212.0"/>
-    <component base="asciitilde" xOffset="-11.7" yOffset="9.225"/>
+    <component base="asciitilde" xOffset="-77.0" yOffset="-424.0"/>
+    <component base="asciitilde" xOffset="-23.0" yOffset="18.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

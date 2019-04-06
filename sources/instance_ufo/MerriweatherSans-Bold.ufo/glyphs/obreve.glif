@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="obreve" format="2">
-  <advance width="613.8"/>
+  <advance width="1227.6"/>
   <unicode hex="014F"/>
-  <anchor x="307.2087384615385" y="0.0" name="bottom"/>
-  <anchor x="300.7933538461538" y="-83.0" name="btm"/>
-  <anchor x="307.2087384615385" y="279.0" name="center"/>
-  <anchor x="359.81538461538463" y="0.0" name="ogonek"/>
-  <anchor x="310.83076923076925" y="982.4307692307692" name="top"/>
-  <anchor x="428.5230769230769" y="527.0" name="topright"/>
+  <anchor x="614.3692307692307" y="0.0" name="bottom"/>
+  <anchor x="601.5384615384615" y="-166.0" name="btm"/>
+  <anchor x="614.3692307692307" y="558.0" name="center"/>
+  <anchor x="719.6307692307693" y="0.0" name="ogonek"/>
+  <anchor x="622.0923076923077" y="1964.8615384615384" name="top"/>
+  <anchor x="857.0461538461539" y="1054.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="brevecomb" xOffset="310.83076923076925" yOffset="-0.5692307692307695"/>
+    <component base="brevecomb" xOffset="622.0923076923077" yOffset="-1.138461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:42:11</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

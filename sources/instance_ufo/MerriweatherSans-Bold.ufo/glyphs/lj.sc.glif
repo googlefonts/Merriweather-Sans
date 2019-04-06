@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lj.sc" format="2">
-  <advance width="885.6153846153846"/>
-  <anchor x="278.0153846153846" y="0.0" name="bottom_1"/>
-  <anchor x="701.0246153846155" y="0.0" name="bottom_2"/>
-  <anchor x="634.2165538461538" y="-72.0" name="btm"/>
-  <anchor x="253.7076923076923" y="323.0" name="center"/>
-  <anchor x="170.93846153846155" y="896.0" name="top_1"/>
-  <anchor x="717.9230769230769" y="896.0" name="top_2"/>
-  <anchor x="405.15384615384613" y="377.0615384615385" name="topright"/>
+  <advance width="1771.2307692307693"/>
+  <anchor x="556.0307692307692" y="0.0" name="bottom_1"/>
+  <anchor x="1401.876923076923" y="0.0" name="bottom_2"/>
+  <anchor x="1268.4615384615386" y="-144.0" name="btm"/>
+  <anchor x="507.4153846153846" y="646.0" name="center"/>
+  <anchor x="341.8769230769231" y="1792.0" name="top_1"/>
+  <anchor x="1435.8461538461538" y="1792.0" name="top_2"/>
+  <anchor x="810.3076923076923" y="754.123076923077" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="j.sc" xOffset="516.2615384615385"/>
+    <component base="j.sc" xOffset="1032.523076923077"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 13:43:27</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

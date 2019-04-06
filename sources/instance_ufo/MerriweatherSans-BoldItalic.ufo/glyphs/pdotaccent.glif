@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pdotaccent" format="2">
-  <advance width="610.6212121212121"/>
+  <advance width="1221.2424242424242"/>
   <unicode hex="1E57"/>
-  <anchor x="268.8280303030303" y="0.0" name="bottom"/>
-  <anchor x="371.81742424242424" y="779.9625" name="top"/>
+  <anchor x="537.6212121212121" y="0.0" name="bottom"/>
+  <anchor x="743.1818181818182" y="1559.8030303030303" name="top"/>
   <outline>
     <component base="p"/>
-    <component base="dotaccentcomb" xOffset="305.9848484848485"/>
+    <component base="dotaccentcomb" xOffset="611.6212121212121"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

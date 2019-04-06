@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-  <advance width="589.925"/>
+  <advance width="1180.0"/>
   <unicode hex="25CA"/>
   <note>
 lozenge
 </note>
   <outline>
     <contour>
-      <point x="294.775" y="0.0" type="line"/>
-      <point x="297.1" y="0.0" type="line"/>
-      <point x="564.6" y="372.65" type="line"/>
-      <point x="564.6" y="378.65" type="line"/>
-      <point x="297.1" y="742.925" type="line"/>
-      <point x="295.1" y="742.925" type="line"/>
-      <point x="26.925" y="378.65" type="line"/>
-      <point x="26.925" y="372.65" type="line"/>
+      <point x="590.0" y="0.0" type="line"/>
+      <point x="594.0" y="0.0" type="line"/>
+      <point x="1129.0" y="745.0" type="line"/>
+      <point x="1129.0" y="757.0" type="line"/>
+      <point x="594.0" y="1486.0" type="line"/>
+      <point x="590.0" y="1486.0" type="line"/>
+      <point x="54.0" y="757.0" type="line"/>
+      <point x="54.0" y="745.0" type="line"/>
     </contour>
     <contour>
-      <point x="295.1" y="152.75" type="line"/>
-      <point x="143.0" y="374.325" type="line"/>
-      <point x="143.0" y="377.325" type="line"/>
-      <point x="295.1" y="590.225" type="line"/>
-      <point x="296.775" y="590.225" type="line"/>
-      <point x="448.525" y="377.325" type="line"/>
-      <point x="448.525" y="375.325" type="line"/>
-      <point x="296.775" y="152.75" type="line"/>
+      <point x="590.0" y="306.0" type="line"/>
+      <point x="286.0" y="749.0" type="line"/>
+      <point x="286.0" y="755.0" type="line"/>
+      <point x="590.0" y="1180.0" type="line"/>
+      <point x="594.0" y="1180.0" type="line"/>
+      <point x="897.0" y="755.0" type="line"/>
+      <point x="897.0" y="751.0" type="line"/>
+      <point x="594.0" y="306.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

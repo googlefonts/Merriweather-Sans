@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="951.9848484848485"/>
+  <advance width="1902.3181818181818"/>
   <note>
 guillemotright
 </note>
   <outline>
-    <component base="guillemetright" xOffset="9.0" yOffset="66.13636363636364"/>
+    <component base="guillemetright" xOffset="17.045454545454547" yOffset="132.27272727272728"/>
   </outline>
   <lib>
     <dict>
@@ -18,7 +18,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guillemetright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 18:15:01</string>
+      <string>2019/04/06 02:57:01</string>
     </dict>
   </lib>
 </glyph>

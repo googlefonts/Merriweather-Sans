@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth.sc" format="2">
-  <advance width="682.0"/>
+  <advance width="1364.0"/>
   <note>
 Eth
 </note>
-  <anchor x="310.0" y="0.0" name="bottom"/>
-  <anchor x="354.0" y="325.0" name="center"/>
-  <anchor x="376.0" y="649.0" name="top"/>
+  <anchor x="620.0" y="0.0" name="bottom"/>
+  <anchor x="708.0" y="650.0" name="center"/>
+  <anchor x="752.0" y="1298.0" name="top"/>
   <outline>
     <contour>
-      <point x="414.0" y="403.0" type="line"/>
-      <point x="29.0" y="403.0" type="line"/>
-      <point x="19.0" y="279.0" type="line"/>
-      <point x="403.0" y="279.0" type="line"/>
+      <point x="828.0" y="806.0" type="line"/>
+      <point x="58.0" y="806.0" type="line"/>
+      <point x="38.0" y="558.0" type="line"/>
+      <point x="806.0" y="558.0" type="line"/>
     </contour>
-    <component base="d.sc" xOffset="10.0"/>
+    <component base="d.sc" xOffset="20.0"/>
   </outline>
   <lib>
     <dict>
@@ -49,7 +49,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>d.sc</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 21:06:04</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

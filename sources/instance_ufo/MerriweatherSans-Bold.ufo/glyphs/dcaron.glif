@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="661.2769230769231"/>
+  <advance width="1322.5538461538463"/>
   <unicode hex="010F"/>
-  <anchor x="322.54603076923075" y="0.0" name="bottom"/>
-  <anchor x="315.6705230769231" y="-83.0" name="btm"/>
-  <anchor x="322.54603076923075" y="279.0" name="center"/>
-  <anchor x="200.76024615384617" y="830.6459076923077" name="top"/>
-  <anchor x="626.2305230769231" y="557.0" name="topright"/>
+  <anchor x="645.0153846153846" y="0.0" name="bottom"/>
+  <anchor x="631.4461538461538" y="-166.0" name="btm"/>
+  <anchor x="645.0153846153846" y="558.0" name="center"/>
+  <anchor x="401.41538461538465" y="1661.1384615384616" name="top"/>
+  <anchor x="1252.3076923076924" y="1114.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="caroncomb.alt" xOffset="594.2305230769231" yOffset="1.0"/>
+    <component base="caroncomb.alt" xOffset="1188.3076923076924" yOffset="2.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 05:21:06</string>
+      <string>2019/04/06 02:48:40</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

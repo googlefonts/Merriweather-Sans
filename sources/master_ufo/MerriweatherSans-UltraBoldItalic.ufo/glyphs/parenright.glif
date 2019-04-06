@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright" format="2">
-  <advance width="415.0"/>
+  <advance width="830.0"/>
   <unicode hex="0029"/>
   <note>
 parenright
 </note>
   <outline>
     <contour>
-      <point x="72.0" y="-177.0" type="line"/>
-      <point x="238.0" y="-72.0"/>
-      <point x="372.0" y="194.0"/>
-      <point x="372.0" y="434.0" type="curve" smooth="yes"/>
-      <point x="372.0" y="603.0"/>
-      <point x="314.0" y="772.0"/>
-      <point x="198.0" y="869.0" type="curve"/>
-      <point x="104.0" y="817.0" type="line"/>
-      <point x="167.0" y="728.0"/>
-      <point x="221.0" y="607.0"/>
-      <point x="221.0" y="439.0" type="curve" smooth="yes"/>
-      <point x="221.0" y="205.0"/>
-      <point x="146.0" y="46.0"/>
-      <point x="-15.0" y="-119.0" type="curve"/>
+      <point x="144.0" y="-354.0" type="line"/>
+      <point x="476.0" y="-144.0"/>
+      <point x="744.0" y="388.0"/>
+      <point x="744.0" y="868.0" type="curve" smooth="yes"/>
+      <point x="744.0" y="1206.0"/>
+      <point x="628.0" y="1544.0"/>
+      <point x="396.0" y="1738.0" type="curve"/>
+      <point x="208.0" y="1634.0" type="line"/>
+      <point x="334.0" y="1456.0"/>
+      <point x="442.0" y="1214.0"/>
+      <point x="442.0" y="878.0" type="curve" smooth="yes"/>
+      <point x="442.0" y="410.0"/>
+      <point x="292.0" y="92.0"/>
+      <point x="-30.0" y="-238.0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@ parenright
 13 3 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 04:32:29</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

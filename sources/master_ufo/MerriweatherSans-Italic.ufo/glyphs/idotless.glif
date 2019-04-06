@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="291.5"/>
+  <advance width="583.0"/>
   <unicode hex="0131"/>
   <note>
 dotlessi
 </note>
-  <anchor x="109.25" y="0.0" name="bottom"/>
-  <anchor x="187.85" y="10.0" name="ogonek"/>
-  <anchor x="183.25" y="557.0" name="top"/>
+  <anchor x="219.0" y="0.0" name="bottom"/>
+  <anchor x="376.0" y="20.0" name="ogonek"/>
+  <anchor x="367.0" y="1114.0" name="top"/>
   <outline>
     <contour>
-      <point x="57.425" y="0.0" type="line"/>
-      <point x="165.425" y="0.0" type="line"/>
-      <point x="240.75" y="557.0" type="line"/>
-      <point x="132.75" y="557.0" type="line"/>
+      <point x="115.0" y="0.0" type="line"/>
+      <point x="331.0" y="0.0" type="line"/>
+      <point x="482.0" y="1114.0" type="line"/>
+      <point x="266.0" y="1114.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

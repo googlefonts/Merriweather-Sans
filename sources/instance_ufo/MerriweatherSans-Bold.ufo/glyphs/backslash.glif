@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="backslash" format="2">
-  <advance width="470.3538461538462"/>
+  <advance width="940.7076923076924"/>
   <unicode hex="005C"/>
   <outline>
-    <component base="slash" xScale="-1.0" xOffset="463.46153846153845"/>
+    <component base="slash" xScale="-1.0" xOffset="926.9230769230769"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 05:20:15</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

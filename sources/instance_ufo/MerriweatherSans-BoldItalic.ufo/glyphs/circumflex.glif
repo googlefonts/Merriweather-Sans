@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="390.83257575757574"/>
+  <advance width="781.560606060606"/>
   <unicode hex="02C6"/>
   <note>
 circumflex
 </note>
   <outline>
     <contour>
-      <point x="82.04848484848485" y="600.3833333333333" type="line"/>
-      <point x="227.2022727272727" y="699.3924242424242" type="line"/>
-      <point x="319.6367424242424" y="601.5507575757576" type="line"/>
-      <point x="386.767803030303" y="634.7859848484849" type="line"/>
-      <point x="286.0348484848485" y="816.8992424242424" type="line"/>
-      <point x="198.38333333333333" y="816.8992424242424" type="line"/>
-      <point x="23.568939393939395" y="634.7859848484849" type="line"/>
+      <point x="164.16666666666666" y="1200.6969696969697" type="line"/>
+      <point x="454.43939393939394" y="1398.9242424242425" type="line"/>
+      <point x="639.1515151515151" y="1203.1363636363637" type="line"/>
+      <point x="773.3787878787879" y="1269.4848484848485" type="line"/>
+      <point x="572.0" y="1633.8333333333333" type="line"/>
+      <point x="396.6969696969697" y="1633.8333333333333" type="line"/>
+      <point x="47.24242424242424" y="1269.4848484848485" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-  <advance width="398.0"/>
+  <advance width="796.0"/>
   <unicode hex="2020"/>
   <note>
 dagger
 </note>
   <outline>
     <contour>
-      <point x="127.00454545454545" y="74.0" type="line"/>
-      <point x="218.6469696969697" y="74.0" type="line"/>
-      <point x="288.31666666666666" y="470.1041666666667" type="line"/>
-      <point x="294.2625" y="528.1041666666666" type="line"/>
-      <point x="416.3484848484849" y="528.1041666666666" type="line"/>
-      <point x="430.5973484848485" y="624.0" type="line"/>
-      <point x="301.6469696969697" y="624.0" type="line"/>
-      <point x="324.5655303030303" y="717.0" type="line"/>
-      <point x="338.9140151515152" y="804.0" type="line"/>
-      <point x="225.4344696969697" y="804.0" type="line"/>
-      <point x="213.4344696969697" y="717.0" type="line"/>
-      <point x="206.00454545454545" y="624.0" type="line"/>
-      <point x="77.0" y="624.0" type="line"/>
-      <point x="61.75113636363636" y="528.1041666666666" type="line"/>
-      <point x="184.23977272727274" y="528.1041666666666" type="line"/>
-      <point x="174.83712121212122" y="470.1041666666667" type="line"/>
+      <point x="253.93939393939394" y="148.0" type="line"/>
+      <point x="437.3636363636364" y="148.0" type="line"/>
+      <point x="576.7727272727273" y="940.1212121212121" type="line"/>
+      <point x="588.6818181818182" y="1056.121212121212" type="line"/>
+      <point x="832.6969696969697" y="1056.121212121212" type="line"/>
+      <point x="861.2121212121212" y="1248.0" type="line"/>
+      <point x="603.3636363636364" y="1248.0" type="line"/>
+      <point x="649.2878787878788" y="1434.0" type="line"/>
+      <point x="677.9848484848485" y="1608.0" type="line"/>
+      <point x="450.7121212121212" y="1608.0" type="line"/>
+      <point x="426.7121212121212" y="1434.0" type="line"/>
+      <point x="411.93939393939394" y="1248.0" type="line"/>
+      <point x="154.0" y="1248.0" type="line"/>
+      <point x="123.48484848484848" y="1056.121212121212" type="line"/>
+      <point x="368.6363636363636" y="1056.121212121212" type="line"/>
+      <point x="349.8484848484849" y="940.1212121212121" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ dagger
 4 1 1 2 1 74 0 5 0 5 115 3 1 1 4 1 0 5 1 0 98 0 2 2 19 2 76 18 17 18 18 17 16 6 7 26 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

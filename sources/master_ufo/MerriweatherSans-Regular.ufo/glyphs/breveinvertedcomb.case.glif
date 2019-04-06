@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvertedcomb.case" format="2">
-  <anchor x="0.0" y="830.0" name="_top"/>
-  <anchor x="0.0" y="1043.0" name="top"/>
+  <anchor x="0.0" y="1660.0" name="_top"/>
+  <anchor x="0.0" y="2086.0" name="top"/>
   <outline>
     <contour>
-      <point x="0.0" y="993.422" type="curve" smooth="yes"/>
-      <point x="-111.711" y="993.422"/>
-      <point x="-176.067" y="903.311"/>
-      <point x="-168.956" y="816.0" type="curve"/>
-      <point x="-90.222" y="816.0" type="line"/>
-      <point x="-89.044" y="830.6"/>
-      <point x="-89.156" y="905.511"/>
-      <point x="1.0" y="905.511" type="curve" smooth="yes"/>
-      <point x="90.622" y="905.511"/>
-      <point x="91.689" y="830.6"/>
-      <point x="93.044" y="816.0" type="curve"/>
-      <point x="169.778" y="816.0" type="line"/>
-      <point x="177.067" y="903.311"/>
-      <point x="106.711" y="993.422"/>
+      <point x="0.0" y="1987.0" type="curve" smooth="yes"/>
+      <point x="-223.0" y="1987.0"/>
+      <point x="-352.0" y="1807.0"/>
+      <point x="-338.0" y="1632.0" type="curve"/>
+      <point x="-180.0" y="1632.0" type="line"/>
+      <point x="-178.0" y="1661.0"/>
+      <point x="-178.0" y="1811.0"/>
+      <point x="2.0" y="1811.0" type="curve" smooth="yes"/>
+      <point x="181.0" y="1811.0"/>
+      <point x="183.0" y="1661.0"/>
+      <point x="186.0" y="1632.0" type="curve"/>
+      <point x="340.0" y="1632.0" type="line"/>
+      <point x="354.0" y="1807.0"/>
+      <point x="213.0" y="1987.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

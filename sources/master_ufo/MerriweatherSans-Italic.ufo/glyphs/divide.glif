@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="divide" format="2">
-  <advance width="657.875"/>
+  <advance width="1316.0"/>
   <unicode hex="00F7"/>
   <note>
 divide
 </note>
   <outline>
     <contour>
-      <point x="116.7" y="336.75" type="line"/>
-      <point x="548.175" y="336.75" type="line"/>
-      <point x="558.15" y="421.875" type="line"/>
-      <point x="126.325" y="422.2" type="line"/>
+      <point x="233.0" y="674.0" type="line"/>
+      <point x="1096.0" y="674.0" type="line"/>
+      <point x="1116.0" y="844.0" type="line"/>
+      <point x="253.0" y="844.0" type="line"/>
     </contour>
-    <component base="period" xOffset="213.0" yOffset="119.0"/>
-    <component base="period" xOffset="258.0" yOffset="514.0"/>
+    <component base="period" xOffset="426.0" yOffset="238.0"/>
+    <component base="period" xOffset="516.0" yOffset="1028.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 01:43:42</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

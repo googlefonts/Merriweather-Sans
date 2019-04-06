@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdouble" format="2">
-  <advance width="652.7117963076923"/>
+  <advance width="1305.5384615384614"/>
   <unicode hex="203C"/>
   <outline>
-    <component base="exclam" xOffset="5.945107692307687"/>
-    <component base="exclam" xOffset="331.4643692307692"/>
+    <component base="exclam" xOffset="11.938461538461528"/>
+    <component base="exclam" xOffset="662.8615384615384"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

@@ -4,14 +4,14 @@
   <note>
 macron
 </note>
-  <anchor x="37.0" y="557.0" name="_top"/>
-  <anchor x="58.0" y="720.973106060606" name="top"/>
+  <anchor x="74.0" y="1114.0" name="_top"/>
+  <anchor x="116.0" y="1441.8939393939395" name="top"/>
   <outline>
     <contour>
-      <point x="-87.54242424242425" y="651.7598484848485" type="line"/>
-      <point x="190.39810606060607" y="651.7598484848485" type="line"/>
-      <point x="201.7689393939394" y="748.4969696969697" type="line"/>
-      <point x="-76.40681818181818" y="748.4969696969697" type="line"/>
+      <point x="-175.01515151515153" y="1303.4848484848485" type="line"/>
+      <point x="380.8484848484849" y="1303.4848484848485" type="line"/>
+      <point x="403.7121212121212" y="1496.9242424242425" type="line"/>
+      <point x="-152.84848484848484" y="1496.9242424242425" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 20:19:01</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

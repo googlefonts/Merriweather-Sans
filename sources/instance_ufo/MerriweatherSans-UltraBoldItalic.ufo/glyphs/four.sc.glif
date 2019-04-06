@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.sc" format="2">
-  <advance width="594.0"/>
+  <advance width="1188.0"/>
   <outline>
     <contour>
-      <point x="288.0" y="0.0" type="line"/>
-      <point x="440.0" y="0.0" type="line"/>
-      <point x="456.0" y="127.0" type="line"/>
-      <point x="546.0" y="127.0" type="line"/>
-      <point x="562.0" y="249.0" type="line"/>
-      <point x="472.0" y="244.0" type="line"/>
-      <point x="494.0" y="442.0" type="line"/>
-      <point x="346.0" y="428.0" type="line"/>
-      <point x="321.0" y="241.0" type="line"/>
-      <point x="156.0" y="233.0" type="line"/>
-      <point x="197.0" y="278.0" type="line"/>
-      <point x="429.0" y="624.0" type="line"/>
-      <point x="406.0" y="646.0" type="line"/>
-      <point x="231.0" y="646.0" type="line"/>
-      <point x="165.0" y="512.0"/>
-      <point x="67.0" y="309.0"/>
-      <point x="-7.0" y="206.0" type="curve"/>
-      <point x="33.0" y="127.0" type="line"/>
-      <point x="306.0" y="127.0" type="line"/>
+      <point x="576.0" y="0.0" type="line"/>
+      <point x="880.0" y="0.0" type="line"/>
+      <point x="912.0" y="254.0" type="line"/>
+      <point x="1092.0" y="254.0" type="line"/>
+      <point x="1124.0" y="498.0" type="line"/>
+      <point x="944.0" y="488.0" type="line"/>
+      <point x="988.0" y="884.0" type="line"/>
+      <point x="692.0" y="856.0" type="line"/>
+      <point x="642.0" y="482.0" type="line"/>
+      <point x="312.0" y="466.0" type="line"/>
+      <point x="394.0" y="556.0" type="line"/>
+      <point x="858.0" y="1248.0" type="line"/>
+      <point x="812.0" y="1292.0" type="line"/>
+      <point x="462.0" y="1292.0" type="line"/>
+      <point x="330.0" y="1024.0"/>
+      <point x="134.0" y="618.0"/>
+      <point x="-14.0" y="412.0" type="curve"/>
+      <point x="66.0" y="254.0" type="line"/>
+      <point x="612.0" y="254.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
         <integer>95</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 21:02:33</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

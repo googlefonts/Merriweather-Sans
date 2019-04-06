@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plusminus" format="2">
-  <advance width="666.35"/>
+  <advance width="1333.0"/>
   <unicode hex="00B1"/>
   <note>
 plusminus
 </note>
   <outline>
     <contour>
-      <point x="266.45" y="140.425" type="line"/>
-      <point x="360.925" y="140.425" type="line"/>
-      <point x="374.575" y="261.025" type="line"/>
-      <point x="379.25" y="339.075" type="line"/>
-      <point x="432.95" y="335.075" type="line"/>
-      <point x="559.25" y="335.075" type="line"/>
-      <point x="568.875" y="421.2" type="line"/>
-      <point x="443.25" y="421.2" type="line"/>
-      <point x="388.55" y="416.2" type="line"/>
-      <point x="402.225" y="493.925" type="line"/>
-      <point x="415.225" y="610.15" type="line"/>
-      <point x="320.75" y="610.15" type="line"/>
-      <point x="307.425" y="493.925" type="line"/>
-      <point x="300.75" y="415.2" type="line"/>
-      <point x="234.7" y="421.2" type="line"/>
-      <point x="122.75" y="421.2" type="line"/>
-      <point x="113.45" y="335.075" type="line"/>
-      <point x="225.075" y="335.075" type="line"/>
-      <point x="292.1" y="339.075" type="line"/>
-      <point x="279.775" y="261.025" type="line"/>
+      <point x="533.0" y="281.0" type="line"/>
+      <point x="722.0" y="281.0" type="line"/>
+      <point x="749.0" y="522.0" type="line"/>
+      <point x="759.0" y="678.0" type="line"/>
+      <point x="866.0" y="670.0" type="line"/>
+      <point x="1119.0" y="670.0" type="line"/>
+      <point x="1138.0" y="842.0" type="line"/>
+      <point x="887.0" y="842.0" type="line"/>
+      <point x="777.0" y="832.0" type="line"/>
+      <point x="804.0" y="988.0" type="line"/>
+      <point x="830.0" y="1220.0" type="line"/>
+      <point x="642.0" y="1220.0" type="line"/>
+      <point x="615.0" y="988.0" type="line"/>
+      <point x="602.0" y="830.0" type="line"/>
+      <point x="469.0" y="842.0" type="line"/>
+      <point x="246.0" y="842.0" type="line"/>
+      <point x="227.0" y="670.0" type="line"/>
+      <point x="450.0" y="670.0" type="line"/>
+      <point x="584.0" y="678.0" type="line"/>
+      <point x="560.0" y="522.0" type="line"/>
     </contour>
     <contour>
-      <point x="83.35" y="12.4" type="line"/>
-      <point x="510.275" y="12.4" type="line"/>
-      <point x="518.95" y="90.275" type="line"/>
-      <point x="91.35" y="90.275" type="line"/>
+      <point x="167.0" y="25.0" type="line"/>
+      <point x="1021.0" y="25.0" type="line"/>
+      <point x="1038.0" y="181.0" type="line"/>
+      <point x="183.0" y="181.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@ NPUSHB[ ]	/* 16 values pushed */
 27 27 27 30 27 30 19 21 33 34 22 33 32 9 7 27 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

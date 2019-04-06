@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sacutedotaccent" format="2">
-  <advance width="509.0"/>
+  <advance width="1018.0"/>
   <unicode hex="1E64"/>
-  <anchor x="218.65" y="0.0" name="bottom"/>
-  <anchor x="377.0" y="1162.0" name="top"/>
+  <anchor x="437.0" y="0.0" name="bottom"/>
+  <anchor x="754.0" y="2324.0" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="acutecomb.case" xOffset="259.0"/>
-    <component base="dotaccentcomb.case" xOffset="290.0" yOffset="229.0"/>
+    <component base="acutecomb.case" xOffset="518.0"/>
+    <component base="dotaccentcomb.case" xOffset="580.0" yOffset="458.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 20:28:54</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

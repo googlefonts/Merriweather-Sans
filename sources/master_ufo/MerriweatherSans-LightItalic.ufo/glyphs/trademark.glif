@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="trademark" format="2">
-  <advance width="1031.0"/>
+  <advance width="2062.0"/>
   <unicode hex="2122"/>
   <note>
 trademark
 </note>
   <outline>
     <contour>
-      <point x="667.0" y="364.0" type="line"/>
-      <point x="715.0" y="364.0" type="line"/>
-      <point x="863.0" y="660.0" type="line"/>
-      <point x="889.0" y="712.0" type="line"/>
-      <point x="882.0" y="604.0" type="line"/>
-      <point x="869.0" y="368.0" type="line"/>
-      <point x="934.0" y="368.0" type="line"/>
-      <point x="950.0" y="747.0" type="line"/>
-      <point x="843.0" y="747.0" type="line"/>
-      <point x="701.0" y="445.0" type="line"/>
-      <point x="682.0" y="517.0" type="line"/>
-      <point x="624.0" y="747.0" type="line"/>
-      <point x="522.0" y="747.0" type="line"/>
-      <point x="448.0" y="368.0" type="line"/>
-      <point x="508.0" y="368.0" type="line"/>
-      <point x="558.0" y="628.0" type="line"/>
-      <point x="573.0" y="713.0" type="line"/>
-      <point x="595.0" y="631.0" type="line"/>
+      <point x="1334.0" y="728.0" type="line"/>
+      <point x="1430.0" y="728.0" type="line"/>
+      <point x="1726.0" y="1320.0" type="line"/>
+      <point x="1778.0" y="1424.0" type="line"/>
+      <point x="1764.0" y="1208.0" type="line"/>
+      <point x="1738.0" y="736.0" type="line"/>
+      <point x="1868.0" y="736.0" type="line"/>
+      <point x="1900.0" y="1494.0" type="line"/>
+      <point x="1686.0" y="1494.0" type="line"/>
+      <point x="1402.0" y="890.0" type="line"/>
+      <point x="1364.0" y="1034.0" type="line"/>
+      <point x="1248.0" y="1494.0" type="line"/>
+      <point x="1044.0" y="1494.0" type="line"/>
+      <point x="896.0" y="736.0" type="line"/>
+      <point x="1016.0" y="736.0" type="line"/>
+      <point x="1116.0" y="1256.0" type="line"/>
+      <point x="1146.0" y="1426.0" type="line"/>
+      <point x="1190.0" y="1262.0" type="line"/>
     </contour>
     <contour>
-      <point x="173.0" y="368.0" type="line"/>
-      <point x="237.0" y="368.0" type="line"/>
-      <point x="281.0" y="693.0" type="line"/>
-      <point x="414.0" y="693.0" type="line"/>
-      <point x="420.0" y="747.0" type="line"/>
-      <point x="95.0" y="747.0" type="line"/>
-      <point x="87.0" y="693.0" type="line"/>
-      <point x="217.0" y="693.0" type="line"/>
+      <point x="346.0" y="736.0" type="line"/>
+      <point x="474.0" y="736.0" type="line"/>
+      <point x="562.0" y="1386.0" type="line"/>
+      <point x="828.0" y="1386.0" type="line"/>
+      <point x="840.0" y="1494.0" type="line"/>
+      <point x="190.0" y="1494.0" type="line"/>
+      <point x="174.0" y="1386.0" type="line"/>
+      <point x="434.0" y="1386.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@ trademark
 18 8 6 1 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="x.sc" format="2">
-  <advance width="578.9772727272727"/>
+  <advance width="1157.9545454545455"/>
   <note>
 X
 </note>
-  <anchor x="252.81439393939394" y="0.0" name="bottom"/>
-  <anchor x="339.0496212121212" y="649.6969696969697" name="top"/>
+  <anchor x="505.8030303030303" y="0.0" name="bottom"/>
+  <anchor x="678.1515151515151" y="1299.3939393939395" name="top"/>
   <outline>
     <contour>
-      <point x="-42.27613636363637" y="0.0" type="line"/>
-      <point x="129.42083333333335" y="0.0" type="line"/>
-      <point x="283.81439393939394" y="224.84166666666664" type="line"/>
-      <point x="384.8189393939394" y="0.0" type="line"/>
-      <point x="551.8189393939394" y="0.0" type="line"/>
-      <point x="384.932196969697" y="309.9640151515151" type="line"/>
-      <point x="635.0" y="646.0" type="line"/>
-      <point x="468.3484848484849" y="646.0" type="line"/>
-      <point x="316.0768939393939" y="438.3306818181818" type="line"/>
-      <point x="225.5757575757576" y="646.0" type="line"/>
-      <point x="61.57575757575758" y="646.0" type="line"/>
-      <point x="217.1401515151515" y="341.0590909090909" type="line"/>
+      <point x="-84.5" y="0.0" type="line"/>
+      <point x="258.8939393939394" y="0.0" type="line"/>
+      <point x="567.8030303030303" y="449.78787878787875" type="line"/>
+      <point x="769.7424242424242" y="0.0" type="line"/>
+      <point x="1103.7424242424242" y="0.0" type="line"/>
+      <point x="769.7424242424242" y="620.0151515151515" type="line"/>
+      <point x="1270.0" y="1292.0" type="line"/>
+      <point x="936.6969696969697" y="1292.0" type="line"/>
+      <point x="632.1363636363636" y="876.8181818181819" type="line"/>
+      <point x="451.1515151515152" y="1292.0" type="line"/>
+      <point x="123.15151515151516" y="1292.0" type="line"/>
+      <point x="434.45454545454544" y="682.2575757575758" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@ X
 11 8 5 2 4 2 0 1 74 1 1 0 0 17 75 3 1 2 2 18 2 76 18 18 18 16 4 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 19:35:07</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

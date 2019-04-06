@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dlinebelow.sc" format="2">
-  <advance width="662.5909090909091"/>
-  <anchor x="294.85492424242426" y="0.0" name="bottom"/>
-  <anchor x="338.85492424242426" y="325.3484848484849" name="center"/>
-  <anchor x="374.54545454545456" y="640.0" name="top"/>
+  <advance width="1324.8333333333333"/>
+  <anchor x="589.3787878787879" y="0.0" name="bottom"/>
+  <anchor x="677.3787878787879" y="650.6969696969697" name="center"/>
+  <anchor x="748.7424242424242" y="1280.0" name="top"/>
   <outline>
     <component base="d.sc"/>
-    <component base="macronbelowcomb" xOffset="294.8636363636364"/>
+    <component base="macronbelowcomb" xOffset="589.3787878787879"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 18:33:19</string>
+      <string>2019/04/06 02:56:56</string>
     </dict>
   </lib>
 </glyph>

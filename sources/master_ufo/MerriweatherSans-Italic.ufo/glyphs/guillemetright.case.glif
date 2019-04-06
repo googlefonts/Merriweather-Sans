@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="894.0"/>
+  <advance width="1787.0"/>
   <note>
 guillemotright
 </note>
   <outline>
-    <component base="guillemetright" xOffset="9.0" yOffset="72.0"/>
+    <component base="guillemetright" xOffset="19.0" yOffset="144.0"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@ guillemotright
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guillemetright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 18:15:01</string>
+      <string>2019/04/06 02:57:01</string>
     </dict>
   </lib>
 </glyph>

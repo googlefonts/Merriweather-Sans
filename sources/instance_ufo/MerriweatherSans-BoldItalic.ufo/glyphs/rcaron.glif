@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcaron" format="2">
-  <advance width="424.92424242424244"/>
+  <advance width="850.1969696969697"/>
   <unicode hex="0159"/>
   <note>
 rcaron
 </note>
-  <anchor x="116.31704545454545" y="0.0" name="bottom"/>
-  <anchor x="317.6363636363636" y="788.0" name="top"/>
+  <anchor x="232.65151515151516" y="0.0" name="bottom"/>
+  <anchor x="635.2727272727273" y="1576.0" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="caroncomb" xOffset="252.63636363636363"/>
+    <component base="caroncomb" xOffset="505.27272727272725"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

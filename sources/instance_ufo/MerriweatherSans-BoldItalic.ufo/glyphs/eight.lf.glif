@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.lf" format="2">
-  <advance width="626.3371212121212"/>
+  <advance width="1252.8484848484848"/>
   <outline>
     <component base="eight"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 18:09:15</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

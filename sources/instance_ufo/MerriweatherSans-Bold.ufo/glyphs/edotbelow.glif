@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edotbelow" format="2">
-  <advance width="579.6307692307693"/>
+  <advance width="1159.2615384615385"/>
   <unicode hex="1EB9"/>
-  <anchor x="290.01655384615384" y="-230.9768" name="bottom"/>
-  <anchor x="310.24615384615385" y="-83.0" name="btm"/>
-  <anchor x="402.8615384615385" y="25.0" name="ogonek"/>
-  <anchor x="309.5230769230769" y="830.5692307692308" name="top"/>
+  <anchor x="579.6307692307693" y="-461.8769230769231" name="bottom"/>
+  <anchor x="620.4923076923077" y="-166.0" name="btm"/>
+  <anchor x="805.723076923077" y="50.0" name="ogonek"/>
+  <anchor x="619.0461538461539" y="1661.1384615384616" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotbelowcomb" xOffset="290.24615384615385"/>
+    <component base="dotbelowcomb" xOffset="580.0615384615385"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:42:11</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

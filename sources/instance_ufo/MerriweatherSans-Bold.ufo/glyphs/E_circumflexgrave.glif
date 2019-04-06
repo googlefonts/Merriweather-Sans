@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflexgrave" format="2">
-  <advance width="605.2307692307693"/>
+  <advance width="1210.4615384615386"/>
   <unicode hex="1EC0"/>
-  <anchor x="300.4" y="0.0" name="bottom"/>
-  <anchor x="325.9846153846154" y="-83.0" name="btm"/>
-  <anchor x="539.1384615384616" y="10.0" name="ogonek"/>
-  <anchor x="356.6319384615384" y="1118.7076923076922" name="top"/>
-  <anchor x="15.13846153846154" y="743.0" name="topleft"/>
+  <anchor x="600.8" y="0.0" name="bottom"/>
+  <anchor x="651.9692307692308" y="-166.0" name="btm"/>
+  <anchor x="1078.2769230769231" y="20.0" name="ogonek"/>
+  <anchor x="713.723076923077" y="2237.4153846153845" name="top"/>
+  <anchor x="30.27692307692308" y="1486.0" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb_gravecomb.case" xOffset="316.2769230769231" yOffset="-0.5692307692307695"/>
+    <component base="circumflexcomb_gravecomb.case" xOffset="632.9846153846154" yOffset="-1.138461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 03:56:23</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

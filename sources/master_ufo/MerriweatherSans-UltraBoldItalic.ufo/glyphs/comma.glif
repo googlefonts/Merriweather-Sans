@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="comma" format="2">
-  <advance width="257.0"/>
+  <advance width="514.0"/>
   <unicode hex="002C"/>
   <note>
 comma
 </note>
   <outline>
     <contour>
-      <point x="30.0" y="-253.0" type="line"/>
-      <point x="98.0" y="-233.0"/>
-      <point x="149.0" y="-183.0"/>
-      <point x="177.0" y="-118.0" type="curve" smooth="yes"/>
-      <point x="190.0" y="-85.0"/>
-      <point x="197.0" y="-51.0"/>
-      <point x="197.0" y="-15.0" type="curve" smooth="yes"/>
-      <point x="197.0" y="45.0"/>
-      <point x="166.0" y="118.0"/>
-      <point x="99.0" y="144.0" type="curve"/>
-      <point x="22.0" y="52.0" type="line"/>
-      <point x="19.0" y="26.0" type="line"/>
-      <point x="42.0" y="17.0"/>
-      <point x="61.0" y="-17.0"/>
-      <point x="61.0" y="-58.0" type="curve" smooth="yes"/>
-      <point x="61.0" y="-105.0"/>
-      <point x="31.0" y="-158.0"/>
-      <point x="-14.0" y="-181.0" type="curve"/>
-      <point x="-16.0" y="-191.0" type="line"/>
+      <point x="60.0" y="-506.0" type="line"/>
+      <point x="196.0" y="-466.0"/>
+      <point x="298.0" y="-366.0"/>
+      <point x="354.0" y="-236.0" type="curve" smooth="yes"/>
+      <point x="380.0" y="-170.0"/>
+      <point x="394.0" y="-102.0"/>
+      <point x="394.0" y="-30.0" type="curve" smooth="yes"/>
+      <point x="394.0" y="90.0"/>
+      <point x="332.0" y="236.0"/>
+      <point x="198.0" y="288.0" type="curve"/>
+      <point x="44.0" y="104.0" type="line"/>
+      <point x="38.0" y="52.0" type="line"/>
+      <point x="84.0" y="34.0"/>
+      <point x="122.0" y="-34.0"/>
+      <point x="122.0" y="-116.0" type="curve" smooth="yes"/>
+      <point x="122.0" y="-210.0"/>
+      <point x="62.0" y="-316.0"/>
+      <point x="-28.0" y="-362.0" type="curve"/>
+      <point x="-32.0" y="-382.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@ comma
 9 1 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 00:48:45</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

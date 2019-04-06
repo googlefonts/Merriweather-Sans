@@ -2,26 +2,26 @@
 <glyph name="four" format="2">
   <outline>
     <contour>
-      <point x="70.0" y="146.0" type="line"/>
-      <point x="613.0" y="146.0" type="line"/>
-      <point x="613.0" y="199.0" type="line"/>
-      <point x="124.0" y="198.0" type="line"/>
-      <point x="160.0" y="265.0" type="line"/>
-      <point x="192.0" y="330.0"/>
-      <point x="344.0" y="653.0"/>
-      <point x="374.0" y="735.0" type="curve"/>
-      <point x="358.0" y="760.0" type="line"/>
-      <point x="306.0" y="760.0" type="line"/>
-      <point x="281.0" y="690.0"/>
-      <point x="93.0" y="252.0"/>
-      <point x="54.0" y="179.0" type="curve"/>
+      <point x="140.0" y="292.0" type="line"/>
+      <point x="1226.0" y="292.0" type="line"/>
+      <point x="1226.0" y="398.0" type="line"/>
+      <point x="248.0" y="396.0" type="line"/>
+      <point x="320.0" y="530.0" type="line"/>
+      <point x="384.0" y="660.0"/>
+      <point x="688.0" y="1306.0"/>
+      <point x="748.0" y="1470.0" type="curve"/>
+      <point x="716.0" y="1520.0" type="line"/>
+      <point x="612.0" y="1520.0" type="line"/>
+      <point x="562.0" y="1380.0"/>
+      <point x="186.0" y="504.0"/>
+      <point x="108.0" y="358.0" type="curve"/>
     </contour>
     <contour>
-      <point x="417.0" y="0.0" type="line"/>
-      <point x="480.0" y="0.0" type="line"/>
-      <point x="480.0" y="450.0" type="line"/>
-      <point x="422.0" y="450.0" type="line"/>
-      <point x="417.0" y="198.0" type="line"/>
+      <point x="834.0" y="0.0" type="line"/>
+      <point x="960.0" y="0.0" type="line"/>
+      <point x="960.0" y="900.0" type="line"/>
+      <point x="844.0" y="900.0" type="line"/>
+      <point x="834.0" y="396.0" type="line"/>
     </contour>
   </outline>
 </glyph>

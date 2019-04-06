@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullet" format="2">
-  <advance width="419.0"/>
+  <advance width="838.0"/>
   <unicode hex="2022"/>
   <note>
 bullet
 </note>
   <outline>
     <contour>
-      <point x="205.0" y="272.0" type="curve" smooth="yes"/>
-      <point x="258.0" y="272.0"/>
-      <point x="299.0" y="321.0"/>
-      <point x="299.0" y="370.0" type="curve" smooth="yes"/>
-      <point x="299.0" y="407.0"/>
-      <point x="272.0" y="435.0"/>
-      <point x="233.0" y="435.0" type="curve" smooth="yes"/>
-      <point x="181.0" y="435.0"/>
-      <point x="138.0" y="386.0"/>
-      <point x="138.0" y="338.0" type="curve" smooth="yes"/>
-      <point x="138.0" y="301.0"/>
-      <point x="167.0" y="272.0"/>
+      <point x="410.0" y="544.0" type="curve" smooth="yes"/>
+      <point x="516.0" y="544.0"/>
+      <point x="598.0" y="642.0"/>
+      <point x="598.0" y="740.0" type="curve" smooth="yes"/>
+      <point x="598.0" y="814.0"/>
+      <point x="544.0" y="870.0"/>
+      <point x="466.0" y="870.0" type="curve" smooth="yes"/>
+      <point x="362.0" y="870.0"/>
+      <point x="276.0" y="772.0"/>
+      <point x="276.0" y="676.0" type="curve" smooth="yes"/>
+      <point x="276.0" y="602.0"/>
+      <point x="334.0" y="544.0"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ bullet
 0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 37 34 2 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 19:13:27</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

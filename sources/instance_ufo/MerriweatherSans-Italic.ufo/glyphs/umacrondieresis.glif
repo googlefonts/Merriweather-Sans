@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacrondieresis" format="2">
-  <advance width="582.0"/>
+  <advance width="1165.0"/>
   <unicode hex="1E7B"/>
-  <anchor x="254.55" y="0.0" name="bottom"/>
-  <anchor x="485.5" y="10.0" name="ogonek"/>
-  <anchor x="367.0" y="892.0" name="top"/>
-  <anchor x="599.425" y="557.0" name="topright"/>
+  <anchor x="509.0" y="0.0" name="bottom"/>
+  <anchor x="971.0" y="20.0" name="ogonek"/>
+  <anchor x="735.0" y="1783.0" name="top"/>
+  <anchor x="1199.0" y="1114.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="macroncomb" xOffset="284.0"/>
-    <component base="dieresiscomb" xOffset="305.0" yOffset="155.0"/>
+    <component base="macroncomb" xOffset="569.0"/>
+    <component base="dieresiscomb" xOffset="611.0" yOffset="309.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 19:45:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

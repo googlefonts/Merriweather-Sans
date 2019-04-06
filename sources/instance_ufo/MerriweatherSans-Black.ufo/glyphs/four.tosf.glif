@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.tosf" format="2">
-  <advance width="677.0"/>
+  <advance width="1354.0"/>
   <outline>
     <contour>
-      <point x="73.0" y="0.0" type="line"/>
-      <point x="657.0" y="0.0" type="line"/>
-      <point x="657.0" y="128.0" type="line"/>
-      <point x="226.0" y="128.0" type="line"/>
-      <point x="273.0" y="210.0" type="line"/>
-      <point x="338.0" y="336.0"/>
-      <point x="404.0" y="463.0"/>
-      <point x="469.0" y="589.0" type="curve"/>
-      <point x="328.0" y="656.0" type="line"/>
-      <point x="293.0" y="656.0" type="line"/>
-      <point x="206.0" y="459.0"/>
-      <point x="119.0" y="261.0"/>
-      <point x="32.0" y="64.0" type="curve"/>
+      <point x="146.0" y="0.0" type="line"/>
+      <point x="1314.0" y="0.0" type="line"/>
+      <point x="1314.0" y="256.0" type="line"/>
+      <point x="452.0" y="256.0" type="line"/>
+      <point x="546.0" y="420.0" type="line"/>
+      <point x="676.0" y="672.0"/>
+      <point x="808.0" y="926.0"/>
+      <point x="938.0" y="1178.0" type="curve"/>
+      <point x="656.0" y="1312.0" type="line"/>
+      <point x="586.0" y="1312.0" type="line"/>
+      <point x="412.0" y="918.0"/>
+      <point x="238.0" y="522.0"/>
+      <point x="64.0" y="128.0" type="curve"/>
     </contour>
     <contour>
-      <point x="382.0" y="-184.0" type="line"/>
-      <point x="553.0" y="-184.0" type="line"/>
-      <point x="553.0" y="311.0" type="line"/>
-      <point x="399.0" y="311.0" type="line"/>
-      <point x="382.0" y="128.0" type="line"/>
+      <point x="764.0" y="-368.0" type="line"/>
+      <point x="1106.0" y="-368.0" type="line"/>
+      <point x="1106.0" y="622.0" type="line"/>
+      <point x="798.0" y="622.0" type="line"/>
+      <point x="764.0" y="256.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
         <integer>677</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

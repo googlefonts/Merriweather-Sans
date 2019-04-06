@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t.sc" format="2">
-  <advance width="608.4615384615385"/>
-  <anchor x="304.0153846153846" y="0.0" name="bottom"/>
-  <anchor x="301.7230769230769" y="-72.0" name="btm"/>
-  <anchor x="304.0153846153846" y="323.0" name="center"/>
-  <anchor x="305.5846153846154" y="900.0" name="top"/>
+  <advance width="1216.923076923077"/>
+  <anchor x="608.0307692307692" y="0.0" name="bottom"/>
+  <anchor x="603.4461538461538" y="-144.0" name="btm"/>
+  <anchor x="608.0307692307692" y="646.0" name="center"/>
+  <anchor x="611.1692307692308" y="1800.0" name="top"/>
   <outline>
     <contour>
-      <point x="224.09230769230768" y="0.0" type="line"/>
-      <point x="383.5076923076923" y="0.0" type="line"/>
-      <point x="383.5076923076923" y="524.8307692307692" type="line"/>
-      <point x="583.2923076923076" y="524.8307692307692" type="line"/>
-      <point x="583.2923076923076" y="646.0" type="line"/>
-      <point x="25.169230769230765" y="646.0" type="line"/>
-      <point x="25.169230769230765" y="524.8307692307692" type="line"/>
-      <point x="224.09230769230768" y="524.8307692307692" type="line"/>
+      <point x="448.18461538461537" y="0.0" type="line"/>
+      <point x="767.0153846153846" y="0.0" type="line"/>
+      <point x="767.0153846153846" y="1049.6615384615384" type="line"/>
+      <point x="1166.5846153846153" y="1049.6615384615384" type="line"/>
+      <point x="1166.5846153846153" y="1292.0" type="line"/>
+      <point x="50.33846153846153" y="1292.0" type="line"/>
+      <point x="50.33846153846153" y="1049.6615384615384" type="line"/>
+      <point x="448.18461538461537" y="1049.6615384615384" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
         <integer>96</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 04:15:52</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

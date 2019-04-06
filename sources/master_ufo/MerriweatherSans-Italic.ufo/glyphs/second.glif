@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="second" format="2">
-  <advance width="500.175"/>
+  <advance width="1000.0"/>
   <unicode hex="2033"/>
   <note>
 second
 </note>
   <outline>
     <component base="minute"/>
-    <component base="minute" xOffset="195.5"/>
+    <component base="minute" xOffset="391.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

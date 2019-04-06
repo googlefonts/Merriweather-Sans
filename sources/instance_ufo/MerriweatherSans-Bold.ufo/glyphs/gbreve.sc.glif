@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve.sc" format="2">
-  <advance width="703.3692307692307"/>
-  <anchor x="351.2416615384615" y="0.0" name="bottom"/>
-  <anchor x="380.8755076923077" y="-72.0" name="btm"/>
-  <anchor x="389.24615384615385" y="1044.4307692307693" name="top"/>
+  <advance width="1406.7384615384615"/>
+  <anchor x="702.6461538461539" y="0.0" name="bottom"/>
+  <anchor x="761.5692307692308" y="-144.0" name="btm"/>
+  <anchor x="778.4923076923077" y="2088.8615384615387" name="top"/>
   <outline>
     <component base="g.sc"/>
-    <component base="brevecomb" xOffset="389.24615384615385" yOffset="61.43076923076923"/>
+    <component base="brevecomb" xOffset="778.4923076923077" yOffset="122.86153846153846"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 04:28:09</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

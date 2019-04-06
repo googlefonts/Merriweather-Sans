@@ -3,16 +3,16 @@
   <note>
 grave
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="119.07651515151515" y="817.0" type="curve"/>
-      <point x="174.23939393939395" y="860.9140151515152" type="line"/>
-      <point x="17.660227272727273" y="1073.2579545454546" type="line"/>
-      <point x="-76.93257575757576" y="984.9003787878788" type="line"/>
-      <point x="-56.19015151515152" y="944.7416666666667"/>
-      <point x="69.04545454545455" y="835.7734848484848"/>
+      <point x="238.25757575757575" y="1634.0" type="curve"/>
+      <point x="348.40909090909093" y="1721.9848484848485" type="line"/>
+      <point x="35.303030303030305" y="2146.3939393939395" type="line"/>
+      <point x="-153.96969696969697" y="1969.8181818181818" type="line"/>
+      <point x="-112.4848484848485" y="1889.378787878788"/>
+      <point x="138.0909090909091" y="1671.6515151515152"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ grave
 2 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

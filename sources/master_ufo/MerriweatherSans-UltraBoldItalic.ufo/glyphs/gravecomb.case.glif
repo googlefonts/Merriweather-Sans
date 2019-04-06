@@ -3,16 +3,16 @@
   <note>
 grave
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="93.0" y="976.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="186.0" y="1952.0" name="top"/>
   <outline>
     <contour>
-      <point x="120.0" y="817.0" type="curve"/>
-      <point x="181.0" y="865.0" type="line"/>
-      <point x="18.0" y="1084.0" type="line"/>
-      <point x="-85.0" y="987.0" type="line"/>
-      <point x="-66.0" y="948.0"/>
-      <point x="68.0" y="836.0"/>
+      <point x="240.0" y="1634.0" type="curve"/>
+      <point x="362.0" y="1730.0" type="line"/>
+      <point x="36.0" y="2168.0" type="line"/>
+      <point x="-170.0" y="1974.0" type="line"/>
+      <point x="-132.0" y="1896.0"/>
+      <point x="136.0" y="1672.0"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ grave
 2 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

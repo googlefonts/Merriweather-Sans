@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rdblgrave" format="2">
-  <advance width="438.2923076923077"/>
+  <advance width="876.5846153846154"/>
   <unicode hex="0211"/>
-  <anchor x="148.23076923076923" y="0.0" name="bottom"/>
-  <anchor x="147.36923076923077" y="-83.0" name="btm"/>
-  <anchor x="194.3846153846154" y="990.876923076923" name="top"/>
+  <anchor x="296.46153846153845" y="0.0" name="bottom"/>
+  <anchor x="294.73846153846154" y="-166.0" name="btm"/>
+  <anchor x="388.7692307692308" y="1981.323076923077" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="dblgravecomb" xOffset="251.52307692307693" yOffset="7.876923076923074"/>
+    <component base="dblgravecomb" xOffset="503.04615384615386" yOffset="15.323076923076918"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:44:29</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

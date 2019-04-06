@@ -4,24 +4,24 @@
   <note>
 hungarumlaut
 </note>
-  <anchor x="43.75" y="557.0" name="_top"/>
-  <anchor x="73.75" y="788.0" name="top"/>
+  <anchor x="88.0" y="1114.0" name="_top"/>
+  <anchor x="148.0" y="1576.0" name="top"/>
   <outline>
     <contour>
-      <point x="143.3" y="614.825" type="line"/>
-      <point x="186.65" y="635.175"/>
-      <point x="274.475" y="743.475"/>
-      <point x="293.525" y="789.425" type="curve"/>
-      <point x="217.325" y="849.375" type="line"/>
-      <point x="94.7" y="643.1" type="line"/>
+      <point x="287.0" y="1230.0" type="line"/>
+      <point x="373.0" y="1270.0"/>
+      <point x="549.0" y="1487.0"/>
+      <point x="587.0" y="1579.0" type="curve"/>
+      <point x="435.0" y="1699.0" type="line"/>
+      <point x="189.0" y="1286.0" type="line"/>
     </contour>
     <contour>
-      <point x="-68.6" y="614.825" type="line"/>
-      <point x="-24.275" y="639.85"/>
-      <point x="55.625" y="741.15"/>
-      <point x="75.65" y="790.075" type="curve"/>
-      <point x="-0.22499999999999964" y="849.375" type="line"/>
-      <point x="-117.825" y="643.1" type="line"/>
+      <point x="-137.0" y="1230.0" type="line"/>
+      <point x="-49.0" y="1280.0"/>
+      <point x="111.0" y="1482.0"/>
+      <point x="151.0" y="1580.0" type="curve"/>
+      <point x="0.0" y="1699.0" type="line"/>
+      <point x="-236.0" y="1286.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@ hungarumlaut
 11 6 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

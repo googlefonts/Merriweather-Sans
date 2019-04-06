@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ucircumflex" format="2">
-  <advance width="703.0"/>
+  <advance width="1406.0"/>
   <unicode hex="00DB"/>
   <note>
 Ucircumflex
 </note>
-  <anchor x="315.0" y="0.0" name="bottom"/>
-  <anchor x="434.0" y="0.0" name="ogonek"/>
-  <anchor x="445.0" y="976.0" name="top"/>
-  <anchor x="745.0" y="747.0" name="topright"/>
+  <anchor x="630.0" y="0.0" name="bottom"/>
+  <anchor x="868.0" y="0.0" name="ogonek"/>
+  <anchor x="890.0" y="1952.0" name="top"/>
+  <anchor x="1490.0" y="1494.0" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="circumflexcomb.case" xOffset="352.0"/>
+    <component base="circumflexcomb.case" xOffset="704.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 17:18:48</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

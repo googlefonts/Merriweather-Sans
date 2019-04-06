@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcedilla.sc" format="2">
-  <advance width="608.4615384615385"/>
-  <anchor x="304.0726769230769" y="-227.0" name="bottom"/>
-  <anchor x="301.7230769230769" y="-72.0" name="btm"/>
-  <anchor x="304.0153846153846" y="323.0" name="center"/>
-  <anchor x="305.5846153846154" y="900.0" name="top"/>
+  <advance width="1216.923076923077"/>
+  <anchor x="608.0307692307692" y="-454.0" name="bottom"/>
+  <anchor x="603.4461538461538" y="-144.0" name="btm"/>
+  <anchor x="608.0307692307692" y="646.0" name="center"/>
+  <anchor x="611.1692307692308" y="1800.0" name="top"/>
   <outline>
     <component base="t.sc"/>
-    <component base="cedillacomb" xOffset="335.2"/>
+    <component base="cedillacomb" xOffset="670.4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/30 17:31:57</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

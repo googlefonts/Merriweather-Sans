@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ezhcaron.sc" format="2">
-  <advance width="581.0"/>
-  <anchor x="295.0" y="1112.0" name="top"/>
+  <advance width="1162.0"/>
+  <anchor x="590.0" y="2224.0" name="top"/>
   <outline>
     <component base="ezh.sc"/>
-    <component base="caroncomb" xOffset="295.0" yOffset="66.0"/>
+    <component base="caroncomb" xOffset="590.0" yOffset="132.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 21:03:00</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

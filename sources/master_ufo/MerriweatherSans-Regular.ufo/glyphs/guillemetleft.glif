@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetleft" format="2">
-  <advance width="950.0"/>
+  <advance width="1901.0"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="119.111" y="250.689" type="line"/>
-      <point x="424.178" y="48.511" type="line"/>
-      <point x="452.956" y="130.489" type="line"/>
-      <point x="202.978" y="321.244" type="line"/>
-      <point x="202.978" y="278.756" type="line"/>
-      <point x="452.956" y="471.333" type="line"/>
-      <point x="424.178" y="555.133" type="line"/>
-      <point x="119.111" y="345.844" type="line"/>
+      <point x="238.0" y="501.0" type="line"/>
+      <point x="848.0" y="97.0" type="line"/>
+      <point x="906.0" y="261.0" type="line"/>
+      <point x="406.0" y="642.0" type="line"/>
+      <point x="406.0" y="558.0" type="line"/>
+      <point x="906.0" y="943.0" type="line"/>
+      <point x="848.0" y="1110.0" type="line"/>
+      <point x="238.0" y="692.0" type="line"/>
     </contour>
     <contour>
-      <point x="480.556" y="250.689" type="line"/>
-      <point x="795.622" y="48.511" type="line"/>
-      <point x="824.4" y="130.489" type="line"/>
-      <point x="564.422" y="321.244" type="line"/>
-      <point x="564.422" y="278.756" type="line"/>
-      <point x="824.4" y="471.333" type="line"/>
-      <point x="795.622" y="555.133" type="line"/>
-      <point x="480.556" y="345.844" type="line"/>
+      <point x="961.0" y="501.0" type="line"/>
+      <point x="1591.0" y="97.0" type="line"/>
+      <point x="1649.0" y="261.0" type="line"/>
+      <point x="1129.0" y="642.0" type="line"/>
+      <point x="1129.0" y="558.0" type="line"/>
+      <point x="1649.0" y="943.0" type="line"/>
+      <point x="1591.0" y="1110.0" type="line"/>
+      <point x="961.0" y="692.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>guilsinglleft</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 16:29:57</string>
+      <string>2019/04/06 02:56:25</string>
     </dict>
   </lib>
 </glyph>

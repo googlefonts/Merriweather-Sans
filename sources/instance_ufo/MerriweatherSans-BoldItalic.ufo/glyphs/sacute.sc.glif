@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sacute.sc" format="2">
-  <advance width="487.3939393939394"/>
-  <anchor x="207.04545454545456" y="0.0" name="bottom"/>
-  <anchor x="244.54583333333335" y="822.2375" name="top"/>
+  <advance width="974.7878787878788"/>
+  <anchor x="414.0909090909091" y="0.0" name="bottom"/>
+  <anchor x="488.6212121212121" y="1644.3181818181818" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="acutecomb" xOffset="244.95454545454547" yOffset="83.0"/>
+    <component base="acutecomb" xOffset="489.56060606060606" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 19:23:26</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

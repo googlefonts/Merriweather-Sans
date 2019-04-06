@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v.sc" format="2">
-  <advance width="552.0"/>
+  <advance width="1104.0"/>
   <note>
 V
 </note>
-  <anchor x="240.0" y="0.0" name="bottom"/>
-  <anchor x="326.0" y="650.0" name="top"/>
+  <anchor x="480.0" y="0.0" name="bottom"/>
+  <anchor x="652.0" y="1300.0" name="top"/>
   <outline>
     <contour>
-      <point x="190.0" y="-1.0" type="line"/>
-      <point x="270.0" y="-1.0" type="line"/>
-      <point x="586.0" y="646.0" type="line"/>
-      <point x="507.0" y="646.0" type="line"/>
-      <point x="290.0" y="183.0" type="line"/>
-      <point x="240.0" y="77.0" type="line"/>
-      <point x="221.0" y="183.0" type="line"/>
-      <point x="136.0" y="646.0" type="line"/>
-      <point x="62.0" y="646.0" type="line"/>
+      <point x="380.0" y="-2.0" type="line"/>
+      <point x="540.0" y="-2.0" type="line"/>
+      <point x="1172.0" y="1292.0" type="line"/>
+      <point x="1014.0" y="1292.0" type="line"/>
+      <point x="580.0" y="366.0" type="line"/>
+      <point x="480.0" y="154.0" type="line"/>
+      <point x="442.0" y="366.0" type="line"/>
+      <point x="272.0" y="1292.0" type="line"/>
+      <point x="124.0" y="1292.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@ V
 2 1 1 0 1 74 3 2 2 0 0 17 75 0 1 1 18 1 76 0 0 0 8 0 8 17 20 4 7 22 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 01:39:21</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

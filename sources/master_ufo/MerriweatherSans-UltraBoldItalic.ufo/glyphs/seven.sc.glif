@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.sc" format="2">
-  <advance width="504.0"/>
+  <advance width="1008.0"/>
   <outline>
     <contour>
-      <point x="73.0" y="0.0" type="line"/>
-      <point x="269.0" y="0.0" type="line"/>
-      <point x="535.0" y="615.0" type="line"/>
-      <point x="511.0" y="646.0" type="line"/>
-      <point x="71.0" y="646.0" type="line"/>
-      <point x="53.0" y="515.0" type="line"/>
-      <point x="336.0" y="515.0" type="line"/>
+      <point x="146.0" y="0.0" type="line"/>
+      <point x="538.0" y="0.0" type="line"/>
+      <point x="1070.0" y="1230.0" type="line"/>
+      <point x="1022.0" y="1292.0" type="line"/>
+      <point x="142.0" y="1292.0" type="line"/>
+      <point x="106.0" y="1030.0" type="line"/>
+      <point x="672.0" y="1030.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
         <integer>95</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 21:01:38</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

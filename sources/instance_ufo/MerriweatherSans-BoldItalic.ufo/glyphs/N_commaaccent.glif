@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ncommaaccent" format="2">
-  <advance width="718.060606060606"/>
+  <advance width="1436.121212121212"/>
   <unicode hex="0145"/>
   <note>
 Ncommaaccent
 </note>
-  <anchor x="296.030303030303" y="-199.0" name="bottom"/>
-  <anchor x="420.99545454545455" y="747.3397727272727" name="top"/>
+  <anchor x="592.060606060606" y="-398.0" name="bottom"/>
+  <anchor x="842.060606060606" y="1494.6969696969697" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="commaaccentcomb.case" xOffset="322.030303030303"/>
+    <component base="commaaccentcomb.case" xOffset="644.060606060606"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

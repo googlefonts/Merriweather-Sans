@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccedillaacute.sc" format="2">
-  <advance width="545.0"/>
-  <anchor x="326.0" y="0.0" name="bottom"/>
-  <anchor x="310.175" y="807.725" name="top"/>
+  <advance width="1089.0"/>
+  <anchor x="652.0" y="0.0" name="bottom"/>
+  <anchor x="619.0" y="1615.0" name="top"/>
   <outline>
     <component base="c.sc"/>
-    <component base="cedillacomb" xOffset="326.0"/>
-    <component base="acutecomb" xOffset="302.0" yOffset="83.0"/>
+    <component base="cedillacomb" xOffset="652.0"/>
+    <component base="acutecomb" xOffset="603.0" yOffset="166.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 04:56:37</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

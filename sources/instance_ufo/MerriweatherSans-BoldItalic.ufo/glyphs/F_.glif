@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="F" format="2">
-  <advance width="523.8462121212121"/>
+  <advance width="1047.7272727272727"/>
   <unicode hex="0046"/>
   <note>
 F
 </note>
-  <anchor x="225.24886363636364" y="0.0" name="bottom"/>
-  <anchor x="340.6488636363636" y="747.3397727272727" name="top"/>
+  <anchor x="450.5151515151515" y="0.0" name="bottom"/>
+  <anchor x="681.4545454545455" y="1494.6969696969697" name="top"/>
   <outline>
     <contour>
-      <point x="40.48863636363636" y="0.0" type="line"/>
-      <point x="191.0723484848485" y="0.0" type="line"/>
-      <point x="233.7693181818182" y="311.592803030303" type="line"/>
-      <point x="451.0768939393939" y="307.0768939393939" type="line"/>
-      <point x="465.5746212121212" y="431.6787878787879" type="line"/>
-      <point x="250.50227272727273" y="428.330303030303" type="line"/>
-      <point x="278.2534090909091" y="632.2761363636364" type="line"/>
-      <point x="536.2625" y="629.6924242424242" type="line"/>
-      <point x="553.0632575757576" y="747.0" type="line"/>
-      <point x="143.75113636363636" y="747.0" type="line"/>
+      <point x="81.15151515151516" y="0.0" type="line"/>
+      <point x="382.19696969696975" y="0.0" type="line"/>
+      <point x="467.5909090909091" y="623.2727272727273" type="line"/>
+      <point x="902.1363636363636" y="614.1363636363636" type="line"/>
+      <point x="931.1666666666666" y="863.2878787878788" type="line"/>
+      <point x="500.969696969697" y="856.5909090909091" type="line"/>
+      <point x="556.4545454545455" y="1264.5" type="line"/>
+      <point x="1072.6818181818182" y="1259.4545454545455" type="line"/>
+      <point x="1105.969696969697" y="1494.0" type="line"/>
+      <point x="287.4848484848485" y="1494.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@ F
 0 1 0 2 3 1 2 97 0 0 0 4 89 5 1 4 4 17 75 0 3 3 18 3 76 0 0 0 9 0 9 17 17 17 17 6 7 24 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eightsuperior" format="2">
-  <advance width="519.5538461538462"/>
+  <advance width="1039.5384615384614"/>
   <unicode hex="2078"/>
   <outline>
-    <component base="eight.dnom" yOffset="400.0"/>
+    <component base="eight.dnom" yOffset="800.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/31 01:23:55</string>
+      <string>2019/04/06 02:48:41</string>
     </dict>
   </lib>
 </glyph>

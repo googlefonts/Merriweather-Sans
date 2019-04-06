@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="underscore" format="2">
-  <advance width="652.0"/>
+  <advance width="1304.0"/>
   <unicode hex="005F"/>
   <note>
 underscore
 </note>
   <outline>
     <contour>
-      <point x="-54.0" y="-181.99545454545455" type="line"/>
-      <point x="619.0" y="-181.99545454545455" type="line"/>
-      <point x="628.0" y="-91.0" type="line"/>
-      <point x="-44.0" y="-91.0" type="line"/>
+      <point x="-108.0" y="-364.06060606060606" type="line"/>
+      <point x="1238.0" y="-364.06060606060606" type="line"/>
+      <point x="1256.0" y="-182.0" type="line"/>
+      <point x="-88.0" y="-182.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

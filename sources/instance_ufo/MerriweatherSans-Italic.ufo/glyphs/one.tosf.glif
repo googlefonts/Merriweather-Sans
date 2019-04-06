@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.tosf" format="2">
-  <advance width="593.6"/>
+  <advance width="1187.0"/>
   <outline>
     <contour>
-      <point x="97.425" y="0.0" type="line"/>
-      <point x="505.6" y="0.0" type="line"/>
-      <point x="508.55" y="80.175" type="line"/>
-      <point x="366.825" y="80.175" type="line"/>
-      <point x="435.825" y="558.975" type="line"/>
-      <point x="379.475" y="567.0" type="line"/>
-      <point x="379.15" y="567.0" type="line"/>
-      <point x="313.075" y="532.0"/>
-      <point x="204.45" y="483.675"/>
-      <point x="122.375" y="468.675" type="curve"/>
-      <point x="134.675" y="399.15" type="line"/>
-      <point x="193.825" y="405.85"/>
-      <point x="250.1" y="413.525"/>
-      <point x="302.175" y="426.525" type="curve"/>
-      <point x="253.15" y="80.175" type="line"/>
-      <point x="100.375" y="80.175" type="line"/>
+      <point x="195.0" y="0.0" type="line"/>
+      <point x="1011.0" y="0.0" type="line"/>
+      <point x="1017.0" y="160.0" type="line"/>
+      <point x="734.0" y="160.0" type="line"/>
+      <point x="872.0" y="1118.0" type="line"/>
+      <point x="759.0" y="1134.0" type="line"/>
+      <point x="758.0" y="1134.0" type="line"/>
+      <point x="626.0" y="1064.0"/>
+      <point x="409.0" y="967.0"/>
+      <point x="245.0" y="937.0" type="curve"/>
+      <point x="269.0" y="798.0" type="line"/>
+      <point x="388.0" y="812.0"/>
+      <point x="500.0" y="827.0"/>
+      <point x="604.0" y="853.0" type="curve"/>
+      <point x="506.0" y="160.0" type="line"/>
+      <point x="201.0" y="160.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

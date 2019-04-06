@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="746.5401704615385"/>
+  <advance width="1492.9846153846154"/>
   <unicode hex="00D0"/>
-  <anchor x="368.81538461538463" y="0.0" name="bottom"/>
-  <anchor x="337.3538461538462" y="-83.0" name="btm"/>
-  <anchor x="368.81538461538463" y="372.0" name="center"/>
-  <anchor x="365.5230769230769" y="830.0" name="top"/>
+  <anchor x="737.6307692307693" y="0.0" name="bottom"/>
+  <anchor x="674.7076923076924" y="-166.0" name="btm"/>
+  <anchor x="737.6307692307693" y="744.0" name="center"/>
+  <anchor x="731.0461538461539" y="1660.0" name="top"/>
   <outline>
     <contour>
-      <point x="30.44566153846154" y="338.4814153846154" type="line"/>
-      <point x="408.1171692307692" y="338.4814153846154" type="line"/>
-      <point x="408.1171692307692" y="437.5185846153846" type="line"/>
-      <point x="30.44566153846154" y="437.5185846153846" type="line"/>
+      <point x="61.01538461538461" y="676.8" type="line"/>
+      <point x="816.2153846153847" y="676.8" type="line"/>
+      <point x="816.2153846153847" y="875.2" type="line"/>
+      <point x="61.01538461538461" y="875.2" type="line"/>
     </contour>
     <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="685.0"/>
+  <advance width="1370.0"/>
   <unicode hex="004E"/>
   <note>
 N
 </note>
-  <anchor x="306.0" y="0.0" name="bottom"/>
-  <anchor x="405.0" y="747.0" name="top"/>
+  <anchor x="612.0" y="0.0" name="bottom"/>
+  <anchor x="810.0" y="1494.0" name="top"/>
   <outline>
     <contour>
-      <point x="59.0" y="0.0" type="line"/>
-      <point x="128.0" y="0.0" type="line"/>
-      <point x="193.0" y="524.0" type="line"/>
-      <point x="208.0" y="665.0" type="line"/>
-      <point x="243.0" y="548.0" type="line"/>
-      <point x="484.0" y="0.0" type="line"/>
-      <point x="557.0" y="0.0" type="line"/>
-      <point x="651.0" y="747.0" type="line"/>
-      <point x="581.0" y="747.0" type="line"/>
-      <point x="516.0" y="212.0" type="line"/>
-      <point x="505.0" y="96.0" type="line"/>
-      <point x="470.0" y="197.0" type="line"/>
-      <point x="230.0" y="747.0" type="line"/>
-      <point x="153.0" y="747.0" type="line"/>
+      <point x="118.0" y="0.0" type="line"/>
+      <point x="256.0" y="0.0" type="line"/>
+      <point x="386.0" y="1048.0" type="line"/>
+      <point x="416.0" y="1330.0" type="line"/>
+      <point x="486.0" y="1096.0" type="line"/>
+      <point x="968.0" y="0.0" type="line"/>
+      <point x="1114.0" y="0.0" type="line"/>
+      <point x="1302.0" y="1494.0" type="line"/>
+      <point x="1162.0" y="1494.0" type="line"/>
+      <point x="1032.0" y="424.0" type="line"/>
+      <point x="1010.0" y="192.0" type="line"/>
+      <point x="940.0" y="394.0" type="line"/>
+      <point x="460.0" y="1494.0" type="line"/>
+      <point x="306.0" y="1494.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@ N
 9 2 2 1 0 1 74 4 3 2 0 0 17 75 2 1 1 1 18 1 76 0 0 0 13 0 13 20 17 20 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

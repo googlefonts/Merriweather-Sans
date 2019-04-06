@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="410.0"/>
+  <advance width="820.0"/>
   <unicode hex="0167"/>
   <note>
 tbar
 </note>
-  <anchor x="164.0" y="0.0" name="bottom"/>
-  <anchor x="201.0" y="279.0" name="center"/>
-  <anchor x="257.0" y="643.0" name="top"/>
-  <anchor x="423.0" y="557.0" name="topright"/>
+  <anchor x="328.0" y="0.0" name="bottom"/>
+  <anchor x="402.0" y="558.0" name="center"/>
+  <anchor x="514.0" y="1286.0" name="top"/>
+  <anchor x="846.0" y="1114.0" name="topright"/>
   <outline>
     <contour>
-      <point x="375.0" y="369.0" type="line"/>
-      <point x="50.0" y="369.0" type="line"/>
-      <point x="38.0" y="271.0" type="line"/>
-      <point x="363.0" y="271.0" type="line"/>
+      <point x="750.0" y="738.0" type="line"/>
+      <point x="100.0" y="738.0" type="line"/>
+      <point x="76.0" y="542.0" type="line"/>
+      <point x="726.0" y="542.0" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
@@ -38,7 +38,7 @@ NPUSHB[ ]	/* 20 values pushed */
 0 0 0 39 0 39 38 37 17 17 17 17 22 37 40 17 17 12 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

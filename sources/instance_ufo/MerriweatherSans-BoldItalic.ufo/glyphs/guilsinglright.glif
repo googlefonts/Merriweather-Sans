@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright" format="2">
-  <advance width="573.3636363636364"/>
+  <advance width="1146.7272727272727"/>
   <unicode hex="203A"/>
   <note>
 guilsinglright
 </note>
   <outline>
     <contour>
-      <point x="133.07575757575756" y="64.18181818181819" type="line"/>
-      <point x="488.40909090909093" y="257.1818181818182" type="line"/>
-      <point x="502.3636363636364" y="346.0" type="line"/>
-      <point x="192.46969696969697" y="537.2121212121212" type="line"/>
-      <point x="144.04545454545453" y="461.92424242424244" type="line"/>
-      <point x="329.0151515151515" y="307.6060606060606" type="line"/>
-      <point x="107.51515151515152" y="151.28787878787878" type="line"/>
+      <point x="266.1515151515151" y="128.36363636363637" type="line"/>
+      <point x="976.8181818181819" y="514.3636363636364" type="line"/>
+      <point x="1004.7272727272727" y="692.0" type="line"/>
+      <point x="384.93939393939394" y="1074.4242424242425" type="line"/>
+      <point x="288.09090909090907" y="923.8484848484849" type="line"/>
+      <point x="658.030303030303" y="615.2121212121212" type="line"/>
+      <point x="215.03030303030303" y="302.57575757575756" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ guilsinglright
 4 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 03:30:54</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresismacron" format="2">
-  <advance width="738.7846153846154"/>
+  <advance width="1477.1384615384616"/>
   <unicode hex="01D5"/>
-  <anchor x="369.0404923076923" y="0.0" name="bottom"/>
-  <anchor x="370.1041230769231" y="-83.0" name="btm"/>
-  <anchor x="665.0674461538462" y="10.0" name="ogonek"/>
-  <anchor x="371.6923076923077" y="1208.8615384615384" name="top"/>
-  <anchor x="568.723076923077" y="743.0" name="topright"/>
+  <anchor x="738.2153846153847" y="0.0" name="bottom"/>
+  <anchor x="740.2461538461539" y="-166.0" name="btm"/>
+  <anchor x="1330.1538461538462" y="20.0" name="ogonek"/>
+  <anchor x="743.3846153846154" y="2417.723076923077" name="top"/>
+  <anchor x="1137.446153846154" y="1486.0" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="371.6923076923077"/>
-    <component base="macroncomb.case" xOffset="371.6923076923077" yOffset="203.61538461538464"/>
+    <component base="dieresiscomb.case" xOffset="743.3846153846154"/>
+    <component base="macroncomb.case" xOffset="743.3846153846154" yOffset="407.2307692307693"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 03:20:18</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

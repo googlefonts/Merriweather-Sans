@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
-  <advance width="1096.0"/>
-  <anchor x="367.163" y="0.0" name="caret_1"/>
-  <anchor x="734.326" y="0.0" name="caret_2"/>
-  <anchor x="948.0" y="0.0" name="bottom"/>
-  <anchor x="200.133" y="0.0" name="bottom_1"/>
-  <anchor x="600.133" y="0.0" name="bottom_2"/>
-  <anchor x="940.0" y="-83.0" name="btm"/>
-  <anchor x="189.844" y="-83.0" name="btm_1"/>
-  <anchor x="589.844" y="-83.0" name="btm_2"/>
-  <anchor x="948.0" y="492.0" name="center"/>
-  <anchor x="949.0" y="880.0" name="top"/>
-  <anchor x="142.0" y="1018.0" name="top_1"/>
-  <anchor x="542.0" y="1018.0" name="top_2"/>
-  <anchor x="1078.0" y="983.0" name="topright"/>
+  <advance width="2192.0"/>
+  <anchor x="734.0" y="0.0" name="caret_1"/>
+  <anchor x="1469.0" y="0.0" name="caret_2"/>
+  <anchor x="1896.0" y="0.0" name="bottom"/>
+  <anchor x="400.0" y="0.0" name="bottom_1"/>
+  <anchor x="1200.0" y="0.0" name="bottom_2"/>
+  <anchor x="1880.0" y="-166.0" name="btm"/>
+  <anchor x="380.0" y="-166.0" name="btm_1"/>
+  <anchor x="1180.0" y="-166.0" name="btm_2"/>
+  <anchor x="1896.0" y="984.0" name="center"/>
+  <anchor x="1898.0" y="1760.0" name="top"/>
+  <anchor x="284.0" y="2036.0" name="top_1"/>
+  <anchor x="1084.0" y="2036.0" name="top_2"/>
+  <anchor x="2156.0" y="1966.0" name="topright"/>
   <outline>
     <component base="f_f"/>
-    <component base="l" xOffset="800.0"/>
+    <component base="l" xOffset="1600.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:29:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

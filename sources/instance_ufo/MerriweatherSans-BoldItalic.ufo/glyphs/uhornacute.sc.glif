@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhornacute.sc" format="2">
-  <advance width="672.1969696969697"/>
-  <anchor x="299.5113636363636" y="0.0" name="bottom"/>
-  <anchor x="452.8314393939394" y="8.818939393939393" name="ogonek"/>
-  <anchor x="331.4094696969697" y="831.9344696969697" name="top"/>
-  <anchor x="700.0227272727273" y="649.6969696969697" name="topright"/>
+  <advance width="1344.0454545454545"/>
+  <anchor x="599.1969696969697" y="0.0" name="bottom"/>
+  <anchor x="905.5757575757576" y="17.742424242424242" name="ogonek"/>
+  <anchor x="662.6969696969697" y="1663.7121212121212" name="top"/>
+  <anchor x="1400.0454545454545" y="1299.3939393939395" name="topright"/>
   <outline>
     <component base="uhorn.sc"/>
-    <component base="acutecomb" xOffset="331.8181818181818" yOffset="92.6969696969697"/>
+    <component base="acutecomb" xOffset="663.6363636363636" yOffset="185.3939393939394"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 18:12:05</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

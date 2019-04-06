@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="delta.sc" format="2">
-  <advance width="775.5692307692308"/>
+  <advance width="1551.1384615384616"/>
   <outline>
     <contour>
-      <point x="37.0" y="0.0" type="line"/>
-      <point x="737.5692307692308" y="0.0" type="line"/>
-      <point x="745.5692307692308" y="13.0" type="line"/>
-      <point x="387.4307692307692" y="651.2923076923076" type="line"/>
-      <point x="369.5846153846154" y="651.2923076923076" type="line"/>
-      <point x="30.0" y="11.0" type="line"/>
+      <point x="74.0" y="0.0" type="line"/>
+      <point x="1475.1384615384616" y="0.0" type="line"/>
+      <point x="1491.1384615384616" y="26.0" type="line"/>
+      <point x="774.8615384615384" y="1302.5846153846153" type="line"/>
+      <point x="739.1692307692308" y="1302.5846153846153" type="line"/>
+      <point x="60.0" y="22.0" type="line"/>
     </contour>
     <contour>
-      <point x="216.38461538461542" y="126.15384615384617" type="line"/>
-      <point x="378.3076923076923" y="420.0615384615384" type="line"/>
-      <point x="540.6153846153845" y="126.15384615384617" type="line"/>
+      <point x="432.76923076923083" y="252.30769230769235" type="line"/>
+      <point x="756.6153846153846" y="840.1230769230768" type="line"/>
+      <point x="1081.230769230769" y="252.30769230769235" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 03:11:02</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

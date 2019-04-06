@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotaccent.sc" format="2">
-  <advance width="614.0"/>
-  <anchor x="313.0" y="0.0" name="bottom"/>
-  <anchor x="304.0" y="-72.0" name="btm"/>
-  <anchor x="313.0" y="323.0" name="center"/>
-  <anchor x="309.0" y="1111.0" name="top"/>
+  <advance width="1228.0"/>
+  <anchor x="626.0" y="0.0" name="bottom"/>
+  <anchor x="608.0" y="-144.0" name="btm"/>
+  <anchor x="626.0" y="646.0" name="center"/>
+  <anchor x="618.0" y="2222.0" name="top"/>
   <outline>
     <component base="z.sc"/>
-    <component base="dotaccentcomb" xOffset="309.0" yOffset="69.0"/>
+    <component base="dotaccentcomb" xOffset="618.0" yOffset="138.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 13:36:25</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

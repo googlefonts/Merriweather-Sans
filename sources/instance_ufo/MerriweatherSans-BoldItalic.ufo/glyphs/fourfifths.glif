@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fourfifths" format="2">
-  <advance width="1200.8939393939395"/>
+  <advance width="2401.787878787879"/>
   <unicode hex="2158"/>
   <outline>
     <component base="four.numr"/>
-    <component base="fraction" xOffset="520.2575757575758"/>
-    <component base="five.dnom" xOffset="736.3333333333334"/>
+    <component base="fraction" xOffset="1040.5151515151515"/>
+    <component base="five.dnom" xOffset="1473.0151515151515"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>four.numr</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 20:06:27</string>
+      <string>2019/04/06 02:57:02</string>
     </dict>
   </lib>
 </glyph>

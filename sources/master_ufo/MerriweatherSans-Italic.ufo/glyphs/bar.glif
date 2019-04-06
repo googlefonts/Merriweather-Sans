@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
-  <advance width="417.0"/>
+  <advance width="834.0"/>
   <unicode hex="007C"/>
   <note>
 bar
 </note>
   <outline>
     <contour>
-      <point x="170.4" y="-91.0" type="line"/>
-      <point x="260.9" y="-91.0" type="line"/>
-      <point x="260.9" y="869.0" type="line"/>
-      <point x="170.4" y="869.0" type="line"/>
+      <point x="341.0" y="-182.0" type="line"/>
+      <point x="522.0" y="-182.0" type="line"/>
+      <point x="522.0" y="1738.0" type="line"/>
+      <point x="341.0" y="1738.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

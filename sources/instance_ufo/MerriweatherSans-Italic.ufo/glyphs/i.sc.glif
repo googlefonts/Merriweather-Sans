@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.sc" format="2">
-  <advance width="289.4"/>
+  <advance width="579.0"/>
   <note>
 I
 </note>
-  <anchor x="108.2" y="0.0" name="bottom"/>
-  <anchor x="224.425" y="9.0" name="ogonek"/>
-  <anchor x="196.0" y="640.0" name="top"/>
-  <anchor x="70.0" y="651.0" name="topleft"/>
+  <anchor x="216.0" y="0.0" name="bottom"/>
+  <anchor x="449.0" y="18.0" name="ogonek"/>
+  <anchor x="392.0" y="1280.0" name="top"/>
+  <anchor x="140.0" y="1302.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="56.725" y="0.0" type="line"/>
-      <point x="167.4" y="0.0" type="line"/>
-      <point x="251.675" y="647.0" type="line"/>
-      <point x="141.0" y="647.0" type="line"/>
+      <point x="113.0" y="0.0" type="line"/>
+      <point x="335.0" y="0.0" type="line"/>
+      <point x="503.0" y="1294.0" type="line"/>
+      <point x="282.0" y="1294.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ I
 2 1 1 1 17 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/23 14:02:21</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brokenbar" format="2">
-  <advance width="417.0"/>
+  <advance width="834.0"/>
   <unicode hex="00A6"/>
   <note>
 brokenbar
 </note>
   <outline>
     <contour>
-      <point x="170.4" y="81.57499999999999" type="line"/>
-      <point x="260.9" y="81.57499999999999" type="line"/>
-      <point x="260.9" y="515.975" type="line"/>
-      <point x="170.4" y="515.975" type="line"/>
+      <point x="341.0" y="163.0" type="line"/>
+      <point x="522.0" y="163.0" type="line"/>
+      <point x="522.0" y="1032.0" type="line"/>
+      <point x="341.0" y="1032.0" type="line"/>
     </contour>
     <contour>
-      <point x="170.4" y="262.7" type="line"/>
-      <point x="260.9" y="262.7" type="line"/>
-      <point x="260.9" y="696.425" type="line"/>
-      <point x="170.4" y="696.425" type="line"/>
+      <point x="341.0" y="525.0" type="line"/>
+      <point x="522.0" y="525.0" type="line"/>
+      <point x="522.0" y="1393.0" type="line"/>
+      <point x="341.0" y="1393.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ brokenbar
 4 1 1 0 0 3 1 0 97 5 1 3 2 2 3 85 5 1 3 3 2 89 0 2 3 2 77 4 4 0 0 4 7 4 7 6 5 0 3 0 3 17 6 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

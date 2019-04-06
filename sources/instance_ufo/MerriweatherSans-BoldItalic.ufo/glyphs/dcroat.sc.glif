@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat.sc" format="2">
-  <advance width="672.5909090909091"/>
-  <anchor x="306.5151515151515" y="0.0" name="bottom"/>
-  <anchor x="350.5151515151515" y="325.3484848484849" name="center"/>
-  <anchor x="372.5151515151515" y="649.6969696969697" name="top"/>
+  <advance width="1345.1818181818182"/>
+  <anchor x="613.030303030303" y="0.0" name="bottom"/>
+  <anchor x="701.030303030303" y="650.6969696969697" name="center"/>
+  <anchor x="745.030303030303" y="1299.3939393939395" name="top"/>
   <outline>
     <component base="eth.sc"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 21:06:04</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="380.0"/>
+  <advance width="760.0"/>
   <unicode hex="0072"/>
   <note>
 r
 </note>
-  <anchor x="84.0" y="0.0" name="bottom"/>
-  <anchor x="257.0" y="557.0" name="top"/>
+  <anchor x="168.0" y="0.0" name="bottom"/>
+  <anchor x="514.0" y="1114.0" name="top"/>
   <outline>
     <contour>
-      <point x="45.0" y="0.0" type="line"/>
-      <point x="118.0" y="0.0" type="line"/>
-      <point x="162.0" y="332.0" type="line"/>
-      <point x="189.0" y="400.0"/>
-      <point x="264.0" y="487.0"/>
-      <point x="333.0" y="487.0" type="curve" smooth="yes"/>
-      <point x="354.0" y="487.0"/>
-      <point x="368.0" y="485.0"/>
-      <point x="377.0" y="481.0" type="curve"/>
-      <point x="394.0" y="558.0" type="line"/>
-      <point x="389.0" y="562.0"/>
-      <point x="379.0" y="564.0"/>
-      <point x="362.0" y="564.0" type="curve" smooth="yes"/>
-      <point x="286.0" y="564.0"/>
-      <point x="209.0" y="503.0"/>
-      <point x="176.0" y="434.0" type="curve"/>
-      <point x="188.0" y="557.0" type="line"/>
-      <point x="120.0" y="557.0" type="line"/>
+      <point x="90.0" y="0.0" type="line"/>
+      <point x="236.0" y="0.0" type="line"/>
+      <point x="324.0" y="664.0" type="line"/>
+      <point x="378.0" y="800.0"/>
+      <point x="528.0" y="974.0"/>
+      <point x="666.0" y="974.0" type="curve" smooth="yes"/>
+      <point x="708.0" y="974.0"/>
+      <point x="736.0" y="970.0"/>
+      <point x="754.0" y="962.0" type="curve"/>
+      <point x="788.0" y="1116.0" type="line"/>
+      <point x="778.0" y="1124.0"/>
+      <point x="758.0" y="1128.0"/>
+      <point x="724.0" y="1128.0" type="curve" smooth="yes"/>
+      <point x="572.0" y="1128.0"/>
+      <point x="418.0" y="1006.0"/>
+      <point x="352.0" y="868.0" type="curve"/>
+      <point x="376.0" y="1114.0" type="line"/>
+      <point x="240.0" y="1114.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +58,7 @@ NPUSHB[ ]	/* 12 values pushed */
 0 0 0 17 0 16 17 20 35 5 7 23 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/26 19:54:07</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

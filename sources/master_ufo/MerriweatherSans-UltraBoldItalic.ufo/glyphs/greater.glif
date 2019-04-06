@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greater" format="2">
-  <advance width="681.0"/>
+  <advance width="1362.0"/>
   <unicode hex="003E"/>
   <note>
 greater
 </note>
   <outline>
     <contour>
-      <point x="125.0" y="89.0" type="line"/>
-      <point x="627.0" y="343.0" type="line"/>
-      <point x="635.0" y="407.0" type="line"/>
-      <point x="191.0" y="661.0" type="line"/>
-      <point x="179.0" y="522.0" type="line"/>
-      <point x="446.0" y="381.0" type="line"/>
-      <point x="143.0" y="241.0" type="line"/>
+      <point x="250.0" y="178.0" type="line"/>
+      <point x="1254.0" y="686.0" type="line"/>
+      <point x="1270.0" y="814.0" type="line"/>
+      <point x="382.0" y="1322.0" type="line"/>
+      <point x="358.0" y="1044.0" type="line"/>
+      <point x="892.0" y="762.0" type="line"/>
+      <point x="286.0" y="482.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ greater
 4 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

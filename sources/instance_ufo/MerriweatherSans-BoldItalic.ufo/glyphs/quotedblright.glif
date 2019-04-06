@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright" format="2">
-  <advance width="587.292803030303"/>
+  <advance width="1174.7424242424242"/>
   <unicode hex="201D"/>
   <note>
 quotedblright
 </note>
   <outline>
     <component base="quoteright"/>
-    <component base="quoteright" xOffset="245.03030303030303"/>
+    <component base="quoteright" xOffset="490.06060606060606"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>quoteright</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 02:02:11</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

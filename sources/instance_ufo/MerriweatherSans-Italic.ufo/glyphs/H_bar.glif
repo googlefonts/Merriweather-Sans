@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbar" format="2">
-  <advance width="696.125"/>
+  <advance width="1392.0"/>
   <unicode hex="0126"/>
   <note>
 Hbar
 </note>
   <outline>
     <contour>
-      <point x="51.725" y="0.0" type="line"/>
-      <point x="160.4" y="0.0" type="line"/>
-      <point x="196.425" y="276.975" type="line"/>
-      <point x="502.1" y="276.975" type="line"/>
-      <point x="465.75" y="0.0" type="line"/>
-      <point x="575.425" y="0.0" type="line"/>
-      <point x="637.075" y="480.825" type="line"/>
-      <point x="741.775" y="480.825" type="line"/>
-      <point x="749.75" y="562.3" type="line"/>
-      <point x="648.05" y="562.3" type="line"/>
-      <point x="671.7" y="747.0" type="line"/>
-      <point x="562.025" y="747.0" type="line"/>
-      <point x="538.7" y="562.3" type="line"/>
-      <point x="233.025" y="562.3" type="line"/>
-      <point x="257.35" y="747.0" type="line"/>
-      <point x="148.0" y="747.0" type="line"/>
-      <point x="124.675" y="562.3" type="line"/>
-      <point x="28.75" y="562.3" type="line"/>
-      <point x="21.1" y="480.825" type="line"/>
-      <point x="113.375" y="480.825" type="line"/>
+      <point x="103.0" y="0.0" type="line"/>
+      <point x="321.0" y="0.0" type="line"/>
+      <point x="393.0" y="554.0" type="line"/>
+      <point x="1004.0" y="554.0" type="line"/>
+      <point x="932.0" y="0.0" type="line"/>
+      <point x="1151.0" y="0.0" type="line"/>
+      <point x="1274.0" y="962.0" type="line"/>
+      <point x="1484.0" y="962.0" type="line"/>
+      <point x="1500.0" y="1125.0" type="line"/>
+      <point x="1296.0" y="1125.0" type="line"/>
+      <point x="1343.0" y="1494.0" type="line"/>
+      <point x="1124.0" y="1494.0" type="line"/>
+      <point x="1077.0" y="1125.0" type="line"/>
+      <point x="466.0" y="1125.0" type="line"/>
+      <point x="515.0" y="1494.0" type="line"/>
+      <point x="296.0" y="1494.0" type="line"/>
+      <point x="249.0" y="1125.0" type="line"/>
+      <point x="58.0" y="1125.0" type="line"/>
+      <point x="42.0" y="962.0" type="line"/>
+      <point x="227.0" y="962.0" type="line"/>
     </contour>
     <contour>
-      <point x="206.725" y="358.1" type="line"/>
-      <point x="222.725" y="480.825" type="line"/>
-      <point x="528.075" y="480.825" type="line"/>
-      <point x="512.4" y="358.1" type="line"/>
+      <point x="413.0" y="716.0" type="line"/>
+      <point x="445.0" y="962.0" type="line"/>
+      <point x="1056.0" y="962.0" type="line"/>
+      <point x="1025.0" y="716.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@ Hbar
 0 11 0 2 1 11 2 97 8 1 6 6 17 75 10 4 2 0 0 5 89 9 7 2 5 5 20 75 3 1 1 1 18 1 76 23 22 21 20 19 18 17 17 17 17 17 17 17 17 16 12 7 29 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

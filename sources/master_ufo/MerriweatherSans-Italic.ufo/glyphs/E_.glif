@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="561.2"/>
+  <advance width="1122.0"/>
   <unicode hex="0045"/>
   <note>
 E
 </note>
-  <anchor x="288.0" y="0.0" name="bottom"/>
-  <anchor x="469.875" y="10.0" name="ogonek"/>
-  <anchor x="351.3" y="747.0" name="top"/>
-  <anchor x="82.0" y="747.975" name="topleft"/>
+  <anchor x="576.0" y="0.0" name="bottom"/>
+  <anchor x="940.0" y="20.0" name="ogonek"/>
+  <anchor x="703.0" y="1494.0" name="top"/>
+  <anchor x="164.0" y="1496.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="50.75" y="0.0" type="line"/>
-      <point x="497.9" y="0.0" type="line"/>
-      <point x="506.85" y="90.1" type="line"/>
-      <point x="170.05" y="82.75" type="line"/>
-      <point x="203.75" y="342.775" type="line"/>
-      <point x="418.8" y="335.425" type="line"/>
-      <point x="426.75" y="425.2" type="line"/>
-      <point x="214.375" y="422.2" type="line"/>
-      <point x="245.075" y="664.25" type="line"/>
-      <point x="527.45" y="660.9" type="line"/>
-      <point x="533.05" y="747.0" type="line"/>
-      <point x="147.025" y="747.0" type="line"/>
+      <point x="102.0" y="0.0" type="line"/>
+      <point x="996.0" y="0.0" type="line"/>
+      <point x="1014.0" y="180.0" type="line"/>
+      <point x="340.0" y="166.0" type="line"/>
+      <point x="408.0" y="686.0" type="line"/>
+      <point x="838.0" y="671.0" type="line"/>
+      <point x="854.0" y="850.0" type="line"/>
+      <point x="429.0" y="844.0" type="line"/>
+      <point x="490.0" y="1329.0" type="line"/>
+      <point x="1055.0" y="1322.0" type="line"/>
+      <point x="1066.0" y="1494.0" type="line"/>
+      <point x="294.0" y="1494.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eth" format="2">
-  <advance width="675.9"/>
+  <advance width="1352.0"/>
   <unicode hex="00D0"/>
   <note>
 Eth
 </note>
-  <anchor x="300.95" y="0.0" name="bottom"/>
-  <anchor x="350.95" y="374.325" name="center"/>
-  <anchor x="399.95" y="747.975" name="top"/>
+  <anchor x="602.0" y="0.0" name="bottom"/>
+  <anchor x="702.0" y="749.0" name="center"/>
+  <anchor x="800.0" y="1496.0" name="top"/>
   <outline>
     <contour>
-      <point x="394.525" y="421.85" type="line"/>
-      <point x="27.675" y="421.85" type="line"/>
-      <point x="20.025" y="349.1" type="line"/>
-      <point x="385.875" y="349.1" type="line"/>
+      <point x="789.0" y="844.0" type="line"/>
+      <point x="55.0" y="844.0" type="line"/>
+      <point x="40.0" y="698.0" type="line"/>
+      <point x="772.0" y="698.0" type="line"/>
     </contour>
     <component base="D"/>
   </outline>
@@ -39,7 +39,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>D</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

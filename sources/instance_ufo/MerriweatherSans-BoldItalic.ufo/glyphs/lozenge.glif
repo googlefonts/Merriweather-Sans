@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-  <advance width="642.7465909090909"/>
+  <advance width="1285.5454545454545"/>
   <unicode hex="25CA"/>
   <note>
 lozenge
 </note>
   <outline>
     <contour>
-      <point x="324.89128787878786" y="-0.6515151515151516" type="line"/>
-      <point x="327.65606060606063" y="-0.6515151515151516" type="line"/>
-      <point x="616.3303030303031" y="374.1810606060606" type="line"/>
-      <point x="616.3303030303031" y="380.1810606060606" type="line"/>
-      <point x="327.65606060606063" y="751.4435606060606" type="line"/>
-      <point x="325.65606060606063" y="751.4435606060606" type="line"/>
-      <point x="36.74659090909091" y="380.1810606060606" type="line"/>
-      <point x="36.74659090909091" y="374.1810606060606" type="line"/>
+      <point x="649.939393939394" y="-1.3030303030303032" type="line"/>
+      <point x="655.2424242424242" y="-1.3030303030303032" type="line"/>
+      <point x="1232.590909090909" y="748.2575757575758" type="line"/>
+      <point x="1232.590909090909" y="760.2575757575758" type="line"/>
+      <point x="655.2424242424242" y="1502.939393939394" type="line"/>
+      <point x="651.2424242424242" y="1502.939393939394" type="line"/>
+      <point x="73.54545454545455" y="760.2575757575758" type="line"/>
+      <point x="73.54545454545455" y="748.2575757575758" type="line"/>
     </contour>
     <contour>
-      <point x="325.65606060606063" y="185.48863636363637" type="line"/>
-      <point x="186.0" y="375.4162878787879" type="line"/>
-      <point x="186.0" y="378.4162878787879" type="line"/>
-      <point x="325.65606060606063" y="560.7602272727273" type="line"/>
-      <point x="326.89128787878786" y="560.7602272727273" type="line"/>
-      <point x="467.0768939393939" y="378.4162878787879" type="line"/>
-      <point x="467.0768939393939" y="376.4162878787879" type="line"/>
-      <point x="326.89128787878786" y="185.48863636363637" type="line"/>
+      <point x="651.2424242424242" y="371.1515151515152" type="line"/>
+      <point x="372.0" y="750.9545454545455" type="line"/>
+      <point x="372.0" y="756.9545454545455" type="line"/>
+      <point x="651.2424242424242" y="1121.3636363636363" type="line"/>
+      <point x="653.939393939394" y="1121.3636363636363" type="line"/>
+      <point x="934.1363636363636" y="756.9545454545455" type="line"/>
+      <point x="934.1363636363636" y="752.9545454545455" type="line"/>
+      <point x="653.939393939394" y="371.1515151515152" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@ lozenge
 14 10 5 1 2 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

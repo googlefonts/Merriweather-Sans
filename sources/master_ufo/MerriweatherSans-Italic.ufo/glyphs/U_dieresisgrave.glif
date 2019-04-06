@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresisgrave" format="2">
-  <advance width="672.0"/>
+  <advance width="1344.0"/>
   <unicode hex="01DB"/>
-  <anchor x="299.25" y="0.0" name="bottom"/>
-  <anchor x="387.5" y="0.0" name="ogonek"/>
-  <anchor x="451.0" y="1181.0" name="top"/>
-  <anchor x="714.175" y="747.975" name="topright"/>
+  <anchor x="599.0" y="0.0" name="bottom"/>
+  <anchor x="775.0" y="0.0" name="ogonek"/>
+  <anchor x="901.0" y="2362.0" name="top"/>
+  <anchor x="1428.0" y="1496.0" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresiscomb.case" xOffset="331.0" yOffset="1.0"/>
-    <component base="gravecomb.case" xOffset="358.0" yOffset="205.0"/>
+    <component base="dieresiscomb.case" xOffset="662.0" yOffset="2.0"/>
+    <component base="gravecomb.case" xOffset="715.0" yOffset="410.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 17:18:48</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

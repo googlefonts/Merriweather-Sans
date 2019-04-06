@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a.sc" format="2">
-  <advance width="666.77778"/>
-  <anchor x="333.889" y="0.0" name="bottom"/>
-  <anchor x="335.289" y="-109.0" name="btm"/>
-  <anchor x="611.0" y="0.0" name="ogonek"/>
-  <anchor x="336.0" y="900.0" name="top"/>
+  <advance width="1334.0"/>
+  <anchor x="668.0" y="0.0" name="bottom"/>
+  <anchor x="671.0" y="-218.0" name="btm"/>
+  <anchor x="1222.0" y="0.0" name="ogonek"/>
+  <anchor x="672.0" y="1800.0" name="top"/>
   <outline>
     <contour>
-      <point x="133.222" y="0.0" type="line"/>
-      <point x="315.0" y="476.0" type="line"/>
-      <point x="336.0" y="542.0" type="line"/>
-      <point x="356.0" y="476.0" type="line"/>
-      <point x="531.556" y="0.0" type="line"/>
-      <point x="657.0" y="0.0" type="line"/>
-      <point x="393.511" y="652.644" type="line"/>
-      <point x="276.2" y="652.644" type="line"/>
-      <point x="9.0" y="0.0" type="line"/>
+      <point x="266.0" y="0.0" type="line"/>
+      <point x="630.0" y="952.0" type="line"/>
+      <point x="672.0" y="1084.0" type="line"/>
+      <point x="712.0" y="952.0" type="line"/>
+      <point x="1063.0" y="0.0" type="line"/>
+      <point x="1314.0" y="0.0" type="line"/>
+      <point x="787.0" y="1305.0" type="line"/>
+      <point x="552.0" y="1305.0" type="line"/>
+      <point x="18.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="143.178" y="147.667" type="line"/>
-      <point x="510.178" y="147.667" type="line"/>
-      <point x="490.356" y="234.0" type="line"/>
-      <point x="163.178" y="234.0" type="line"/>
+      <point x="286.0" y="295.0" type="line"/>
+      <point x="1020.0" y="295.0" type="line"/>
+      <point x="981.0" y="468.0" type="line"/>
+      <point x="326.0" y="468.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
         <integer>96</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 04:42:21</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

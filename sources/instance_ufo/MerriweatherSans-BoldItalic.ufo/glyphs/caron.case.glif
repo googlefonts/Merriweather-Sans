@@ -3,17 +3,17 @@
   <note>
 caron.cap
 </note>
-  <anchor x="62.0" y="747.0" name="_top"/>
-  <anchor x="87.0" y="939.0" name="top"/>
+  <anchor x="124.0" y="1494.0" name="_top"/>
+  <anchor x="174.0" y="1878.0" name="top"/>
   <outline>
     <contour>
-      <point x="12.072348484848483" y="784.5109848484849" type="line"/>
-      <point x="99.48863636363636" y="784.5109848484849" type="line"/>
-      <point x="272.55189393939395" y="947.3931818181818" type="line"/>
-      <point x="209.89128787878786" y="982.6602272727273" type="line"/>
-      <point x="66.0405303030303" y="888.1397727272728" type="line"/>
-      <point x="-33.76931818181818" y="982.6602272727273" type="line"/>
-      <point x="-96.59734848484848" y="943.1443181818182" type="line"/>
+      <point x="24.19696969696969" y="1568.969696969697" type="line"/>
+      <point x="199.15151515151516" y="1568.969696969697" type="line"/>
+      <point x="545.1212121212121" y="1894.6818181818182" type="line"/>
+      <point x="419.93939393939394" y="1965.3030303030303" type="line"/>
+      <point x="131.92424242424244" y="1776.2272727272727" type="line"/>
+      <point x="-67.5909090909091" y="1965.3030303030303" type="line"/>
+      <point x="-193.21212121212122" y="1886.1666666666667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@ caron.cap
 6 3 2 1 4 0 72 0 0 0 105 20 1 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

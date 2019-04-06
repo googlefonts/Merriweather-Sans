@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedi" format="2">
-  <advance width="684.0"/>
+  <advance width="1368.0"/>
   <unicode hex="20B5"/>
   <note>
 uni20B5
 </note>
   <outline>
     <contour>
-      <point x="282.0" y="-171.0" type="line"/>
-      <point x="350.0" y="-171.0" type="line"/>
-      <point x="374.0" y="-7.0" type="line"/>
-      <point x="470.0" y="-3.0"/>
-      <point x="548.0" y="20.0"/>
-      <point x="584.0" y="57.0" type="curve"/>
-      <point x="555.0" y="126.0" type="line"/>
-      <point x="507.0" y="94.0"/>
-      <point x="459.0" y="76.0"/>
-      <point x="385.0" y="73.0" type="curve"/>
-      <point x="469.0" y="672.0" type="line"/>
-      <point x="533.0" y="672.0"/>
-      <point x="588.0" y="656.0"/>
-      <point x="604.0" y="640.0" type="curve"/>
-      <point x="636.0" y="729.0" type="line"/>
-      <point x="584.0" y="745.0"/>
-      <point x="543.0" y="754.0"/>
-      <point x="481.0" y="755.0" type="curve"/>
-      <point x="499.0" y="886.0" type="line"/>
-      <point x="430.0" y="886.0" type="line"/>
-      <point x="411.0" y="750.0" type="line"/>
-      <point x="206.0" y="719.0"/>
-      <point x="81.0" y="541.0"/>
-      <point x="81.0" y="316.0" type="curve" smooth="yes"/>
-      <point x="81.0" y="160.0"/>
-      <point x="152.0" y="16.0"/>
-      <point x="305.0" y="-5.0" type="curve"/>
+      <point x="564.0" y="-342.0" type="line"/>
+      <point x="700.0" y="-342.0" type="line"/>
+      <point x="748.0" y="-14.0" type="line"/>
+      <point x="940.0" y="-6.0"/>
+      <point x="1096.0" y="40.0"/>
+      <point x="1168.0" y="114.0" type="curve"/>
+      <point x="1110.0" y="252.0" type="line"/>
+      <point x="1014.0" y="188.0"/>
+      <point x="918.0" y="152.0"/>
+      <point x="770.0" y="146.0" type="curve"/>
+      <point x="938.0" y="1344.0" type="line"/>
+      <point x="1066.0" y="1344.0"/>
+      <point x="1176.0" y="1312.0"/>
+      <point x="1208.0" y="1280.0" type="curve"/>
+      <point x="1272.0" y="1458.0" type="line"/>
+      <point x="1168.0" y="1490.0"/>
+      <point x="1086.0" y="1508.0"/>
+      <point x="962.0" y="1510.0" type="curve"/>
+      <point x="998.0" y="1772.0" type="line"/>
+      <point x="860.0" y="1772.0" type="line"/>
+      <point x="822.0" y="1500.0" type="line"/>
+      <point x="412.0" y="1438.0"/>
+      <point x="162.0" y="1082.0"/>
+      <point x="162.0" y="632.0" type="curve" smooth="yes"/>
+      <point x="162.0" y="320.0"/>
+      <point x="304.0" y="32.0"/>
+      <point x="610.0" y="-10.0" type="curve"/>
     </contour>
     <contour>
-      <point x="317.0" y="79.0" type="line"/>
-      <point x="236.0" y="101.0"/>
-      <point x="199.0" y="189.0"/>
-      <point x="199.0" y="316.0" type="curve" smooth="yes"/>
-      <point x="199.0" y="483.0"/>
-      <point x="257.0" y="631.0"/>
-      <point x="400.0" y="665.0" type="curve"/>
+      <point x="634.0" y="158.0" type="line"/>
+      <point x="472.0" y="202.0"/>
+      <point x="398.0" y="378.0"/>
+      <point x="398.0" y="632.0" type="curve" smooth="yes"/>
+      <point x="398.0" y="966.0"/>
+      <point x="514.0" y="1262.0"/>
+      <point x="800.0" y="1330.0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@ NPUSHB[ ]	/* 14 values pushed */
 0 0 0 27 0 27 26 17 20 17 21 7 7 25 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 02:11:26</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

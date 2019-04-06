@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="314.3538461538462"/>
+  <advance width="628.7076923076924"/>
   <unicode hex="00EC"/>
-  <anchor x="157.24615384615385" y="0.0" name="bottom"/>
-  <anchor x="157.1076923076923" y="-83.0" name="btm"/>
-  <anchor x="229.53846153846155" y="25.0" name="ogonek"/>
-  <anchor x="82.08024615384615" y="882.7342153846154" name="top"/>
+  <anchor x="314.4923076923077" y="0.0" name="bottom"/>
+  <anchor x="314.2153846153846" y="-166.0" name="btm"/>
+  <anchor x="459.0769230769231" y="50.0" name="ogonek"/>
+  <anchor x="163.96923076923076" y="1765.3538461538462" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="gravecomb" xOffset="156.6769230769231" yOffset="-0.5692307692307695"/>
+    <component base="gravecomb" xOffset="313.3538461538462" yOffset="-1.138461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 02:29:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

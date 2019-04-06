@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.lf" format="2">
-  <advance width="644.0"/>
+  <advance width="1288.0"/>
   <outline>
     <component base="eight"/>
   </outline>
@@ -11,7 +11,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>eight</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 15:40:38</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

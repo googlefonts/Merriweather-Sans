@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gdotaccent" format="2">
-  <advance width="684.4545454545455"/>
+  <advance width="1368.909090909091"/>
   <unicode hex="0120"/>
   <note>
 Gdotaccent
 </note>
-  <anchor x="305.57916666666665" y="0.0" name="bottom"/>
-  <anchor x="432.3333333333333" y="956.8030303030303" name="top"/>
+  <anchor x="611.1060606060606" y="0.0" name="bottom"/>
+  <anchor x="864.3181818181819" y="1913.6060606060605" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="dotaccentcomb.case" xOffset="342.72727272727275" yOffset="0.34848484848484845"/>
+    <component base="dotaccentcomb.case" xOffset="685.1060606060606" yOffset="0.6969696969696969"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

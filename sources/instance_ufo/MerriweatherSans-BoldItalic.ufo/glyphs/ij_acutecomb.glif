@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij_acutecomb" format="2">
-  <advance width="625.0"/>
+  <advance width="1249.6515151515152"/>
   <note>
 ij_acutecomb
 </note>
-  <anchor x="119.51136363636364" y="0.0" name="bottom_1"/>
-  <anchor x="396.0113636363636" y="-273.0" name="bottom_2"/>
-  <anchor x="213.3568181818182" y="10.0" name="ogonek"/>
-  <anchor x="129.5003787878788" y="739.2375" name="top_1"/>
-  <anchor x="513.9242424242424" y="557.0" name="top_2"/>
+  <anchor x="239.1969696969697" y="0.0" name="bottom_1"/>
+  <anchor x="791.8484848484849" y="-546.0" name="bottom_2"/>
+  <anchor x="426.8181818181818" y="20.0" name="ogonek"/>
+  <anchor x="258.8787878787879" y="1478.3181818181818" name="top_1"/>
+  <anchor x="1027.5" y="1114.0" name="top_2"/>
   <outline>
     <component base="iacute"/>
-    <component base="jdotless" xOffset="312.8484848484849"/>
-    <component base="acutecomb" xOffset="450.40909090909093"/>
+    <component base="jdotless" xOffset="625.3484848484849"/>
+    <component base="acutecomb" xOffset="900.1212121212121"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@ CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>ij</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/25 15:16:20</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

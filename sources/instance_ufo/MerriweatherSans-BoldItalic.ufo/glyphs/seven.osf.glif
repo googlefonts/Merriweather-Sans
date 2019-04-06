@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.osf" format="2">
-  <advance width="549.1628787878788"/>
+  <advance width="1098.5"/>
   <note>
 seven
 </note>
   <outline>
     <contour>
-      <point x="243.59280303030303" y="-166.02727272727273" type="line"/>
-      <point x="545.6742424242424" y="528.4344696969697" type="line"/>
-      <point x="524.0090909090909" y="557.8189393939394" type="line"/>
-      <point x="67.41628787878788" y="557.8189393939394" type="line"/>
-      <point x="40.7375" y="439.69242424242424" type="line"/>
-      <point x="370.9412878787879" y="440.27613636363634" type="line"/>
-      <point x="114.86893939393939" y="-119.75113636363636" type="line"/>
+      <point x="487.27272727272725" y="-331.9848484848485" type="line"/>
+      <point x="1091.3484848484848" y="1056.7121212121212" type="line"/>
+      <point x="1047.878787878788" y="1115.7424242424242" type="line"/>
+      <point x="134.95454545454547" y="1115.7424242424242" type="line"/>
+      <point x="81.31818181818181" y="879.4545454545455" type="line"/>
+      <point x="741.969696969697" y="880.5" type="line"/>
+      <point x="229.77272727272728" y="-239.4848484848485" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ seven
 5 1 1 71 2 1 1 1 0 89 0 0 0 20 1 76 0 0 0 6 0 6 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 01:39:54</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

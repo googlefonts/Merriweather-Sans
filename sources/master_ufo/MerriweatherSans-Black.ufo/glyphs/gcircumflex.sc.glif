@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcircumflex.sc" format="2">
-  <advance width="715.0"/>
-  <anchor x="358.0" y="0.0" name="bottom"/>
-  <anchor x="381.0" y="-72.0" name="btm"/>
-  <anchor x="397.0" y="1139.0" name="top"/>
+  <advance width="1430.0"/>
+  <anchor x="716.0" y="0.0" name="bottom"/>
+  <anchor x="762.0" y="-144.0" name="btm"/>
+  <anchor x="794.0" y="2278.0" name="top"/>
   <outline>
     <component base="g.sc"/>
-    <component base="circumflexcomb" xOffset="397.0" yOffset="62.0"/>
+    <component base="circumflexcomb" xOffset="794.0" yOffset="124.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 04:28:09</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

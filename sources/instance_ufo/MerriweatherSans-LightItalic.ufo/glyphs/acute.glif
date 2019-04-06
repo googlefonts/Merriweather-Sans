@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="273.0"/>
+  <advance width="546.0"/>
   <unicode hex="00B4"/>
   <note>
 acute
 </note>
   <outline>
     <contour>
-      <point x="59.0" y="610.0" type="line"/>
-      <point x="105.0" y="636.0"/>
-      <point x="209.0" y="740.0"/>
-      <point x="235.0" y="781.0" type="curve"/>
-      <point x="179.0" y="832.0" type="line"/>
-      <point x="28.0" y="637.0" type="line"/>
+      <point x="118.0" y="1220.0" type="line"/>
+      <point x="210.0" y="1272.0"/>
+      <point x="418.0" y="1480.0"/>
+      <point x="470.0" y="1562.0" type="curve"/>
+      <point x="358.0" y="1664.0" type="line"/>
+      <point x="56.0" y="1274.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ acute
 5 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

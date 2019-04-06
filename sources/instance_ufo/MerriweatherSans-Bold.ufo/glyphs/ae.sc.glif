@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ae.sc" format="2">
-  <advance width="913.5719667692308"/>
-  <anchor x="456.8243692307692" y="0.0" name="bottom"/>
-  <anchor x="659.7351384615384" y="-72.0" name="btm"/>
-  <anchor x="539.4153846153846" y="905.6" name="top"/>
+  <advance width="1827.076923076923"/>
+  <anchor x="913.7538461538462" y="0.0" name="bottom"/>
+  <anchor x="1319.6615384615384" y="-144.0" name="btm"/>
+  <anchor x="1078.8307692307692" y="1811.2" name="top"/>
   <outline>
     <contour>
-      <point x="-48.17895384615385" y="0.0" type="line"/>
-      <point x="122.03526153846155" y="0.0" type="line"/>
-      <point x="398.12307692307695" y="594.5846153846154" type="line"/>
-      <point x="291.81704615384615" y="646.0" type="line"/>
+      <point x="-96.4923076923077" y="0.0" type="line"/>
+      <point x="243.90769230769234" y="0.0" type="line"/>
+      <point x="796.2461538461539" y="1189.1692307692308" type="line"/>
+      <point x="583.5384615384615" y="1292.0" type="line"/>
     </contour>
     <contour>
-      <point x="404.7351384615385" y="646.0" type="line"/>
-      <point x="291.81704615384615" y="646.0" type="line"/>
-      <point x="311.89230769230767" y="537.9230769230769" type="line"/>
-      <point x="432.8615384615385" y="537.9230769230769" type="line"/>
+      <point x="809.6615384615385" y="1292.0" type="line"/>
+      <point x="583.5384615384615" y="1292.0" type="line"/>
+      <point x="623.7846153846153" y="1075.8461538461538" type="line"/>
+      <point x="865.723076923077" y="1075.8461538461538" type="line"/>
     </contour>
     <contour>
-      <point x="128.57987692307694" y="138.60781538461538" type="line"/>
-      <point x="485.5235692307692" y="138.60781538461538" type="line"/>
-      <point x="474.9339692307692" y="247.5060307692308" type="line"/>
-      <point x="149.94793846153846" y="247.5060307692308" type="line"/>
+      <point x="257.1692307692308" y="277.29230769230765" type="line"/>
+      <point x="970.9230769230769" y="277.29230769230765" type="line"/>
+      <point x="950.0307692307692" y="495.10769230769233" type="line"/>
+      <point x="299.8769230769231" y="495.10769230769233" type="line"/>
     </contour>
     <contour>
-      <point x="404.7351384615385" y="0.0" type="line"/>
-      <point x="872.1278153846154" y="0.0" type="line"/>
-      <point x="872.1278153846154" y="121.48049230769232" type="line"/>
-      <point x="560.9502769230769" y="121.48049230769232" type="line"/>
-      <point x="560.9502769230769" y="273.75975384615384" type="line"/>
-      <point x="773.8137230769231" y="273.75975384615384" type="line"/>
-      <point x="773.8137230769231" y="389.8104" type="line"/>
-      <point x="560.9502769230769" y="389.8104" type="line"/>
-      <point x="560.9502769230769" y="528.0887384615385" type="line"/>
-      <point x="841.849476923077" y="528.0887384615385" type="line"/>
-      <point x="841.849476923077" y="646.0" type="line"/>
-      <point x="404.7351384615385" y="646.0" type="line"/>
+      <point x="809.6615384615385" y="0.0" type="line"/>
+      <point x="1744.246153846154" y="0.0" type="line"/>
+      <point x="1744.246153846154" y="242.92307692307696" type="line"/>
+      <point x="1121.9384615384615" y="242.92307692307696" type="line"/>
+      <point x="1121.9384615384615" y="547.5384615384615" type="line"/>
+      <point x="1547.7230769230769" y="547.5384615384615" type="line"/>
+      <point x="1547.7230769230769" y="779.4769230769231" type="line"/>
+      <point x="1121.9384615384615" y="779.4769230769231" type="line"/>
+      <point x="1121.9384615384615" y="1056.2153846153847" type="line"/>
+      <point x="1683.5076923076924" y="1056.2153846153847" type="line"/>
+      <point x="1683.5076923076924" y="1292.0" type="line"/>
+      <point x="809.6615384615385" y="1292.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
         <integer>96</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/01 13:45:11</string>
+      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

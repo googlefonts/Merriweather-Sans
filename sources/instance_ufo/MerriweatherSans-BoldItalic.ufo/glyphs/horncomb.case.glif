@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb.case" format="2">
   <outline>
-    <component base="horncomb" yxScale="0.07999303030303032" xOffset="-43.95454545454546"/>
+    <component base="horncomb" yxScale="0.07999303030303032" xOffset="-87.90909090909092"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

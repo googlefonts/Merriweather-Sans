@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uogonek" format="2">
-  <advance width="610.6666666666666"/>
+  <advance width="1221.6818181818182"/>
   <unicode hex="0173"/>
   <note>
 uogonek
 </note>
-  <anchor x="267.2219696969697" y="0.0" name="bottom"/>
-  <anchor x="512.5378787878788" y="10.0" name="ogonek"/>
-  <anchor x="345.27159090909095" y="557.0" name="top"/>
-  <anchor x="627.8147727272727" y="557.0" name="topright"/>
+  <anchor x="534.4090909090909" y="0.0" name="bottom"/>
+  <anchor x="1025.0757575757575" y="20.0" name="ogonek"/>
+  <anchor x="690.560606060606" y="1114.0" name="top"/>
+  <anchor x="1255.6818181818182" y="1114.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xOffset="548.7121212121212"/>
+    <component base="ogonekcomb" xOffset="1097.0757575757575"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +33,7 @@ NPUSHB[ ]	/* 15 values pushed */
 0 0 0 51 0 50 17 20 41 23 42 36 8 7 26 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 19:45:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

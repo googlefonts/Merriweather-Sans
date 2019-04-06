@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.case" format="2">
-  <advance width="314.2396590769231"/>
+  <advance width="628.5846153846154"/>
   <outline>
     <component base="periodcentered"/>
   </outline>
@@ -11,7 +11,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>periodcentered</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/29 02:59:54</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

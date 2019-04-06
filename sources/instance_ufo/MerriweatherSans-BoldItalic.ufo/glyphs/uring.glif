@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uring" format="2">
-  <advance width="610.6666666666666"/>
+  <advance width="1221.6818181818182"/>
   <unicode hex="016F"/>
   <note>
 uring
 </note>
-  <anchor x="267.2219696969697" y="0.0" name="bottom"/>
-  <anchor x="512.5378787878788" y="10.0" name="ogonek"/>
-  <anchor x="436.7825757575758" y="738.8375" name="top"/>
-  <anchor x="627.8147727272727" y="557.0" name="topright"/>
+  <anchor x="534.4090909090909" y="0.0" name="bottom"/>
+  <anchor x="1025.0757575757575" y="20.0" name="ogonek"/>
+  <anchor x="873.8787878787879" y="1477.7272727272727" name="top"/>
+  <anchor x="1255.6818181818182" y="1114.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="ringcomb" xOffset="308.1060606060606"/>
+    <component base="ringcomb" xOffset="616.560606060606"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/27 19:45:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

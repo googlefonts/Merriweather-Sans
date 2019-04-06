@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="logicalnot" format="2">
-  <advance width="720.6598295384615"/>
+  <advance width="1441.4153846153847"/>
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="118.36806153846155" y="310.82344615384613" type="line"/>
-      <point x="482.76024615384614" y="310.82344615384613" type="line"/>
-      <point x="482.76024615384614" y="151.16923076923075" type="line"/>
-      <point x="602.2918153846153" y="151.16923076923075" type="line"/>
-      <point x="602.2918153846153" y="416.0" type="line"/>
-      <point x="118.36806153846155" y="416.0" type="line"/>
+      <point x="236.7076923076923" y="621.4461538461538" type="line"/>
+      <point x="965.4153846153846" y="621.4461538461538" type="line"/>
+      <point x="965.4153846153846" y="302.3384615384615" type="line"/>
+      <point x="1204.7076923076922" y="302.3384615384615" type="line"/>
+      <point x="1204.7076923076922" y="832.0" type="line"/>
+      <point x="236.7076923076923" y="832.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:01</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

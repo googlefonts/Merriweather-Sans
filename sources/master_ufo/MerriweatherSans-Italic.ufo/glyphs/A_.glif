@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="624.175"/>
+  <advance width="1248.0"/>
   <unicode hex="0041"/>
   <note>
 A
 </note>
-  <anchor x="275.25" y="0.0" name="bottom"/>
-  <anchor x="582.8" y="0.0" name="ogonek"/>
-  <anchor x="374.25" y="747.975" name="top"/>
+  <anchor x="551.0" y="0.0" name="bottom"/>
+  <anchor x="1166.0" y="0.0" name="ogonek"/>
+  <anchor x="749.0" y="1496.0" name="top"/>
   <outline>
     <contour>
-      <point x="-40.9" y="0.0" type="line"/>
-      <point x="76.4" y="0.0" type="line"/>
-      <point x="159.875" y="184.55" type="line"/>
-      <point x="444.675" y="184.55" type="line"/>
-      <point x="474.075" y="0.0" type="line"/>
-      <point x="583.425" y="0.0" type="line"/>
-      <point x="448.3" y="747.0" type="line"/>
-      <point x="322.775" y="747.0" type="line"/>
+      <point x="-82.0" y="0.0" type="line"/>
+      <point x="153.0" y="0.0" type="line"/>
+      <point x="320.0" y="369.0" type="line"/>
+      <point x="889.0" y="369.0" type="line"/>
+      <point x="948.0" y="0.0" type="line"/>
+      <point x="1167.0" y="0.0" type="line"/>
+      <point x="897.0" y="1494.0" type="line"/>
+      <point x="646.0" y="1494.0" type="line"/>
     </contour>
     <contour>
-      <point x="196.475" y="265.375" type="line"/>
-      <point x="348.575" y="601.425" type="line"/>
-      <point x="372.925" y="657.725" type="line"/>
-      <point x="378.6" y="601.075" type="line"/>
-      <point x="431.675" y="265.375" type="line"/>
+      <point x="393.0" y="531.0" type="line"/>
+      <point x="697.0" y="1203.0" type="line"/>
+      <point x="746.0" y="1315.0" type="line"/>
+      <point x="757.0" y="1202.0" type="line"/>
+      <point x="863.0" y="531.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 01:59:01</string>
+      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

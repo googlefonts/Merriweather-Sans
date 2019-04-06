@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aeacute" format="2">
-  <advance width="898.9076923076923"/>
+  <advance width="1797.8153846153846"/>
   <unicode hex="01FD"/>
-  <anchor x="449.9633230769231" y="0.0" name="bottom"/>
-  <anchor x="346.89230769230767" y="1005.7692307692308" name="top"/>
+  <anchor x="899.9076923076923" y="0.0" name="bottom"/>
+  <anchor x="693.7846153846153" y="2011.5384615384617" name="top"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="451.96923076923076" yOffset="-0.5692307692307695"/>
+    <component base="acutecomb" xOffset="903.9384615384615" yOffset="-1.138461538461539"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:30:31</string>
+      <string>2019/04/06 02:48:40</string>
     </dict>
   </lib>
 </glyph>

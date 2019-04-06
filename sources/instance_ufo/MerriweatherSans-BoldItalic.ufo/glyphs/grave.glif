@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="266.1810606060606"/>
+  <advance width="532.2575757575758"/>
   <unicode hex="0060"/>
   <note>
 grave
 </note>
-  <anchor x="36.0" y="557.0" name="_top"/>
-  <anchor x="67.0" y="792.0" name="top"/>
+  <anchor x="72.0" y="1114.0" name="_top"/>
+  <anchor x="134.0" y="1584.0" name="top"/>
   <outline>
     <contour>
-      <point x="201.11704545454546" y="603.4518939393939" type="curve"/>
-      <point x="256.2799242424242" y="647.3659090909091" type="line"/>
-      <point x="99.70075757575758" y="859.7098484848485" type="line"/>
-      <point x="5.7594696969696955" y="771.3522727272727" type="line"/>
-      <point x="26.50189393939393" y="731.1935606060606"/>
-      <point x="151.08598484848486" y="622.2253787878788"/>
+      <point x="402.1818181818182" y="1207.060606060606" type="curve"/>
+      <point x="512.6818181818182" y="1294.6969696969697" type="line"/>
+      <point x="199.57575757575756" y="1719.4545454545455" type="line"/>
+      <point x="11.606060606060602" y="1542.878787878788" type="line"/>
+      <point x="53.09090909090908" y="1462.439393939394"/>
+      <point x="302.0151515151515" y="1244.3636363636363"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@ grave
 2 0 1 48 
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:10</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

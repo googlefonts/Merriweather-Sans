@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-  <advance width="735.0"/>
+  <advance width="1470.0"/>
   <unicode hex="00A5"/>
   <note>
 yen
 </note>
   <outline>
     <contour>
-      <point x="281.6" y="0.0" type="line"/>
-      <point x="382.875" y="0.0" type="line"/>
-      <point x="404.2" y="179.775" type="line"/>
-      <point x="608.2" y="179.775" type="line"/>
-      <point x="616.2" y="247.0" type="line"/>
-      <point x="412.85" y="247.0" type="line"/>
-      <point x="425.525" y="353.1" type="line"/>
-      <point x="630.875" y="353.1" type="line"/>
-      <point x="638.875" y="421.0" type="line"/>
-      <point x="469.1" y="421.0" type="line"/>
-      <point x="709.175" y="747.0" type="line"/>
-      <point x="596.3" y="747.0" type="line"/>
-      <point x="424.45" y="479.025" type="line"/>
-      <point x="393.075" y="421.675" type="line"/>
-      <point x="374.375" y="475.675" type="line"/>
-      <point x="257.2" y="747.0" type="line"/>
-      <point x="150.2" y="747.0" type="line"/>
-      <point x="300.325" y="421.0" type="line"/>
-      <point x="133.6" y="421.0" type="line"/>
-      <point x="124.925" y="353.1" type="line"/>
-      <point x="323.6" y="353.1" type="line"/>
-      <point x="311.25" y="247.0" type="line"/>
-      <point x="111.25" y="247.0" type="line"/>
-      <point x="102.25" y="179.775" type="line"/>
-      <point x="302.6" y="179.775" type="line"/>
+      <point x="563.0" y="0.0" type="line"/>
+      <point x="766.0" y="0.0" type="line"/>
+      <point x="808.0" y="360.0" type="line"/>
+      <point x="1216.0" y="360.0" type="line"/>
+      <point x="1232.0" y="494.0" type="line"/>
+      <point x="826.0" y="494.0" type="line"/>
+      <point x="851.0" y="706.0" type="line"/>
+      <point x="1262.0" y="706.0" type="line"/>
+      <point x="1278.0" y="842.0" type="line"/>
+      <point x="938.0" y="842.0" type="line"/>
+      <point x="1418.0" y="1494.0" type="line"/>
+      <point x="1193.0" y="1494.0" type="line"/>
+      <point x="849.0" y="958.0" type="line"/>
+      <point x="786.0" y="843.0" type="line"/>
+      <point x="749.0" y="951.0" type="line"/>
+      <point x="514.0" y="1494.0" type="line"/>
+      <point x="300.0" y="1494.0" type="line"/>
+      <point x="601.0" y="842.0" type="line"/>
+      <point x="267.0" y="842.0" type="line"/>
+      <point x="250.0" y="706.0" type="line"/>
+      <point x="647.0" y="706.0" type="line"/>
+      <point x="623.0" y="494.0" type="line"/>
+      <point x="223.0" y="494.0" type="line"/>
+      <point x="205.0" y="360.0" type="line"/>
+      <point x="605.0" y="360.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/03/28 04:04:41</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

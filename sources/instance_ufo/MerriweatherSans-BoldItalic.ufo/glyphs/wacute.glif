@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wacute" format="2">
-  <advance width="846.7121212121212"/>
+  <advance width="1693.4242424242425"/>
   <unicode hex="1E83"/>
   <note>
 wacute
 </note>
-  <anchor x="386.6469696969697" y="0.0" name="bottom"/>
-  <anchor x="396.75795454545454" y="739.2375" name="top"/>
+  <anchor x="773.3636363636364" y="0.0" name="bottom"/>
+  <anchor x="793.0454545454545" y="1478.3181818181818" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="acutecomb" xOffset="397.1666666666667"/>
+    <component base="acutecomb" xOffset="793.9848484848485"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/02/18 20:31:35</string>
+      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>
