@@ -258,13 +258,6 @@ Failed to sanitize file!
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Stricter unitsPerEm criteria for Google Fonts. </summary>
-
-* [com.google.fonts/check/unitsperem_strict](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/unitsperem_strict)
-* ⚠ **WARN** Even though unitsPerEm (1000) in this font is reasonable. It is strongly advised to consider changing it to 2000, since it will likely improve the quality of Variable Fonts by avoiding excessive rounding of coordinates on interpolations.
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'.</summary>
 
 * [com.google.fonts/check/name/rfn](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/name/rfn)
@@ -651,9 +644,9 @@ Failed to sanitize file!
 
 |  | fonts/variable/MerriweatherSans-Roman-VF.ttf |
 |:--- | ---:|
-| Dehinted Size | 265.4kb |
-| Hinted Size | 264.9kb |
-| Increase | -576 bytes |
+| Dehinted Size | 268.9kb |
+| Hinted Size | 268.3kb |
+| Increase | -608 bytes |
 | Change   | -0.2 % |
 
 
@@ -662,7 +655,7 @@ Failed to sanitize file!
 <summary>ℹ <b>INFO:</b> Font has old ttfautohint applied?</summary>
 
 * [com.google.fonts/check/old_ttfautohint](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/old_ttfautohint)
-* ℹ **INFO** Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.007']
+* ℹ **INFO** Could not detect which version of ttfautohint was used in this font. It is typically specified as a comment in the font version entries of the 'name' table. Such font version strings are currently: ['Version 1.008']
 
 </details>
 <details>
@@ -692,7 +685,7 @@ PPM <= 65535:
 <summary>ℹ <b>INFO:</b> Check for font-v versioning </summary>
 
 * [com.google.fonts/check/fontv](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/fontv)
-* ℹ **INFO** Version string is: "Version 1.007"
+* ℹ **INFO** Version string is: "Version 1.008"
 The version string must ideally include a git commit hash and either a 'dev' or a 'release' suffix such as in the example below:
 "Version 1.3; git-0d08353-release"
 
@@ -701,7 +694,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [GSUB, prep, loca, gasp, GPOS, DSIG]
+* ℹ **INFO** This font contains the following optional tables [loca, prep, DSIG, gasp, GSUB, GPOS]
 * 🍞 **PASS** Font contains all required tables.
 
 </details>
@@ -773,6 +766,13 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 * [com.google.fonts/check/name/ascii_only_entries](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/name/ascii_only_entries)
 * 🍞 **PASS** None of the ASCII-only NAME table entries contain non-ASCII characteres.
+
+</details>
+<details>
+<summary>🍞 <b>PASS:</b> Stricter unitsPerEm criteria for Google Fonts. </summary>
+
+* [com.google.fonts/check/unitsperem_strict](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/unitsperem_strict)
+* 🍞 **PASS** Font em size is good (unitsPerEm = 2000).
 
 </details>
 <details>
@@ -926,7 +926,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>🍞 <b>PASS:</b> Checking unitsPerEm value is reasonable.</summary>
 
 * [com.google.fonts/check/unitsperem](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/unitsperem)
-* 🍞 **PASS** unitsPerEm value (1000) on the 'head' table is reasonable.
+* 🍞 **PASS** unitsPerEm value (2000) on the 'head' table is reasonable.
 
 </details>
 <details>
@@ -1104,5 +1104,5 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS |
 |:-----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 6 | 66 | 7 | 69 |
-| 0% | 1% | 4% | 44% | 5% | 46% |
+| 0 | 2 | 5 | 66 | 7 | 70 |
+| 0% | 1% | 3% | 44% | 5% | 47% |
