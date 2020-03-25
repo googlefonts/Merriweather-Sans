@@ -1,0 +1,227 @@
+**Diffenator**
+
+Displaying the 20 most significant items in each table. To increase use the '-ol' flag
+
+
+****names missing: 1****
+
+id                  string              
+(10, 3, 1, 1033)... Merriweather San... 
+
+****names modified: 6****
+
+id                  string_a            string_b            
+(0, 3, 1, 1033)     Copyright (c) 20... Copyright 2019 M... 
+(2, 3, 1, 1033)     Bold Italic         Italic              
+(3, 3, 1, 1033)     1.006;STC ;Merri... 1.008;STC ;Merri... 
+(4, 3, 1, 1033)     Merriweather San... Merriweather San... 
+(5, 3, 1, 1033)     Version 1.006; t... Version 1.008       
+(6, 3, 1, 1033)     MerriweatherSans... MerriweatherSans... 
+
+****attribs modified: 29****
+
+table               attrib              value_a             value_b             
+OS/2                fsSelection         33                  1                   
+OS/2                ySuperscriptYSiz... 1199                1200                
+OS/2                panose              0-0-8-0-0-0-0-0-... 0-0-0-0-0-0-0-0-... 
+OS/2                usWinDescent        547                 660                 
+OS/2                ulUnicodeRange1     7                   2684355839          
+OS/2                ySubscriptYOffse... 149                 150                 
+OS/2                sxHeight            1113                1114                
+OS/2                sTypoAscender       1967                1968                
+OS/2                ySuperscriptYOff... 699                 700                 
+OS/2                yStrikeoutSize      137                 134                 
+OS/2                ySubscriptYSize     1199                1200                
+OS/2                sCapHeight          1501                1494                
+OS/2                sTypoDescender      -547                -546                
+OS/2                usWinAscent         1967                2580                
+OS/2                ulUnicodeRange2     0                   1073750139          
+head                macStyle            3                   2                   
+head                yMax                2058                2566                
+head                unitsPerEm          2048                2000                
+head                fontRevision        1.00599670410156... 1.00799560546875... 
+head                xMin                -342                -574                
+
+****glyphs new: 708****
+
+glyph               area                string              
+Aringacute          -1256089            Ǻ                   
+Ohorn               -1105187            Ơ                   
+Uhorn               -1070335            Ư                   
+a.sc                -818590             A                   
+aacute.sc           -929601             Á                   
+abreve.sc           -972483             Ă                   
+acircumflex.sc      -966454             Â                   
+acutecomb           -111010             ́                   
+acutecomb.case      -112593             ́                   
+adieresis.sc        -954577             Ä                   
+ae.sc               -1280740            Æ                   
+aeacute.sc          -1391751            Ǽ                   
+agrave.sc           -931012             À                   
+amacron.sc          -926182             Ā                   
+aogonek.sc          -960345             Ą                   
+aring.sc            -1033723            Å                   
+aringacute          -1079994            ǻ                   
+aringacute.sc       -1144733            Ǻ                   
+arrowdown           -563066             ↓                   
+arrowleft           -562832             ←                   
+
+****glyphs missing: 7****
+
+glyph               area                string              
+IJ_acutecomb        -1110423            ÍJ                  
+ij_acutecomb        -1010640            íj                  
+nonmarkingreturn... 0                                      
+one.numr            -294596             1                   
+three.numr          -469864             3                   
+two.numr            -482642             2                   
+uni01F4             -975931             Ǵ                   
+
+****glyphs modified: 451****
+
+glyph               diff                string              
+tilde.cap           0.9333                                  
+uni2219             0.8889              ∙                   
+periodcentered      0.85                ·                   
+macron              0.8438              ¯                   
+ogonek              0.8367              ˛                   
+uni02C9             0.8333              ˉ                   
+minus               0.7955              −                   
+circumflex          0.7833              ˆ                   
+tilde               0.7818              ˜                   
+grave               0.7755              `                   
+Oslashacute         0.7634              Ǿ                   
+hyphen              0.7576              -                   
+approxequal         0.7564              ≈                   
+brokenbar           0.75                ¦                   
+zero                0.7481              0                   
+quotereversed       0.7273              ‛                   
+two                 0.7222              2                   
+Egrave              0.7198              È                   
+emdash              0.7167              —                   
+endash              0.7143              –                   
+
+****kerns new: 9527****
+
+left                right               value               string              
+backslash           j                   279                 \j                  
+backslash           uni0237             279                 \ȷ                  
+backslash           jcircumflex         279                 \ĵ                  
+Wgrave              backslash           233                 Ẁ\                  
+Wacute              backslash           233                 Ẃ\                  
+Wcircumflex         backslash           233                 Ŵ\                  
+W                   backslash           233                 W\                  
+Wdieresis           backslash           233                 Ẅ\                  
+uni1E1F             backslash           214                 ḟ\                  
+f                   backslash           214                 f\                  
+f_f                 backslash           214                 ff\                 
+questiondown        jcircumflex         180                 ¿ĵ                  
+guilsinglleft       questiondown        -180                ‹¿                  
+quotereversed       questiondown        -180                ‛¿                  
+quotedblleft        questiondown        -180                “¿                  
+quoteright          questiondown        -180                ’¿                  
+guillemotleft       questiondown        -180                «¿                  
+quoteleft           questiondown        -180                ‘¿                  
+questiondown        uni0237             180                 ¿ȷ                  
+questiondown        j                   180                 ¿j                  
+
+****metrics modified: 451****
+
+glyph               diff_adv            
+uni02C9             617.0               
+fraction            583.632000000000... 
+uni20A9             572.656             
+cedilla             482.0               
+onequarter          352.255999999999... 
+onehalf             334.847999999999... 
+caronvertical       317.0               
+uni00B9             259.168             
+section             199.664             
+uni2074             163.016000000000... 
+franc               161.503999999999... 
+dong                146.016000000000... 
+uni00A0             116.360000000000... 
+questiondown        113.087999999999... 
+braceright          112.639999999999... 
+braceleft           111.615999999999... 
+question            105.087999999999... 
+peseta              90.8320000000001... 
+product             80.4239999999999... 
+uni00B2             79.6079999999999... 
+
+****marks_new: 21****
+
+base_glyph          base_x              base_y              mark_glyph          mark_x              mark_y              
+i                   239                 0                   uni0326             0                   0                   
+dotlessi            239                 0                   uni0326             0                   0                   
+f                   290                 0                   uni0326             0                   0                   
+z                   404                 0                   uni0326             0                   0                   
+x                   426                 0                   uni0326             0                   0                   
+v                   463                 0                   uni0326             0                   0                   
+o                   497                 0                   uni0326             0                   0                   
+a                   529                 0                   uni0326             0                   0                   
+d                   532                 0                   uni0326             0                   0                   
+q                   533                 0                   uni0326             0                   0                   
+u                   534                 0                   uni0326             0                   0                   
+p                   538                 0                   uni0326             0                   0                   
+b                   538                 0                   uni0326             0                   0                   
+h                   552                 0                   uni0326             0                   0                   
+uni0237             166                 -546                uni0326             0                   0                   
+ae                  733                 0                   uni0326             0                   0                   
+w                   773                 0                   uni0326             0                   0                   
+m                   858                 0                   uni0326             0                   0                   
+AE                  865                 0                   uni0326             0                   0                   
+y                   867                 0                   uni0326             0                   0                   
+
+****marks_missing: 158****
+
+base_glyph          base_x              base_y              mark_glyph          mark_x              mark_y              
+rcommaaccent        199                 -168                uni0326             -208                -170                
+rcaron              199                 -168                uni0326             -208                -170                
+racute              199                 -168                uni0326             -208                -170                
+lcaron              212                 -168                uni0326             -208                -170                
+lslash              212                 -168                uni0326             -208                -170                
+uni01C9             212                 -168                uni0326             -208                -170                
+ldot                212                 -168                uni0326             -208                -170                
+lcommaaccent        212                 -168                uni0326             -208                -170                
+uni1E56             252                 -170                uni0326             -208                -170                
+Jcircumflex         273                 -168                uni0326             -208                -170                
+tcaron              312                 -168                uni0326             -208                -170                
+uni021B             312                 -168                uni0326             -208                -170                
+uni1E6B             312                 -168                uni0326             -208                -170                
+tbar                312                 -168                uni0326             -208                -170                
+uni0163             312                 -168                uni0326             -208                -170                
+Iogonek             317                 -168                uni0326             -208                -170                
+Idotaccent          317                 -168                uni0326             -208                -170                
+Ibreve              317                 -168                uni0326             -208                -170                
+uni01CF             317                 -168                uni0326             -208                -170                
+Icircumflex         317                 -168                uni0326             -208                -170                
+
+****marks_modified: 33****
+
+base_glyph          mark_glyph          diff_x              diff_y              
+e                   uni0326             -522.928            -235.0              
+D                   uni0326             -440.24             -2.0                
+M                   uni0326             -416.12             -2.0                
+H                   uni0326             -373.664            -2.0                
+F                   uni0326             -356.176            -2.0                
+B                   uni0326             -350.32000000000... -2.0                
+E                   uni0326             -316.17600000000... -2.0                
+V                   uni0326             -294.544            0.0                 
+X                   uni0326             -281.472            0.0                 
+G                   uni0326             -268.336            0.0                 
+Z                   uni0326             -268.192            0.0                 
+I                   uni0326             -264.904            -2.0                
+W                   uni0326             -260.75199999999... 0.0                 
+k                   uni0326             -254.024            -2.0                
+R                   uni0326             -237.27200000000... 0.0                 
+A                   uni0326             -233.27200000000... -2.0                
+J                   uni0326             -225.0              -2.0                
+U                   uni0326             -214.144            0.0                 
+Y                   uni0326             -204.40800000000... 0.0                 
+O                   uni0326             -203.57600000000... 0.0                 
+
+****mkmks_new: 1****
+
+base_glyph          base_x              base_y              mark_glyph          mark_x              mark_y              
+uni0326             0                   0                   uni0326             -52                 -398                

@@ -634,6 +634,26 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>5</integer>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>92BHXoifedxdKOpegGdPIFa6UrKySSNx8ULruXKFtbE</string>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>qcurve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -2917,5 +2937,7 @@
       <key>zerowidthspace</key>
       <string>uni200B</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>
