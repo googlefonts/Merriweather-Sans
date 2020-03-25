@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek" format="2">
+  <advance width="1198"/>
+  <unicode hex="01EB"/>
+  <anchor x="599" y="1114" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="ogonekcomb" xOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:48:40</string>
+    </dict>
+  </lib>
+</glyph>

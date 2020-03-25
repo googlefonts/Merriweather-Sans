@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <unicode hex="02C8"/>
+  <anchor x="76" y="1114" name="_top"/>
+  <anchor x="132" y="1560" name="top"/>
+  <outline>
+    <contour>
+      <point x="-63" y="1323" type="line"/>
+      <point x="60" y="1323" type="line"/>
+      <point x="104" y="2080" type="line"/>
+      <point x="-104" y="2080" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>

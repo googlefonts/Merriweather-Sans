@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.case" format="2">
+  <note>
+tilde.cap
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="174" y="1878" name="top"/>
+  <outline>
+    <contour>
+      <point x="292" y="1654" type="curve" smooth="yes"/>
+      <point x="432" y="1654"/>
+      <point x="504" y="1732"/>
+      <point x="536" y="1824" type="curve"/>
+      <point x="470" y="1892" type="line"/>
+      <point x="432" y="1832"/>
+      <point x="394" y="1774"/>
+      <point x="320" y="1774" type="curve" smooth="yes"/>
+      <point x="282" y="1774"/>
+      <point x="256" y="1794"/>
+      <point x="214" y="1834" type="curve" smooth="yes"/>
+      <point x="158" y="1890"/>
+      <point x="120" y="1918"/>
+      <point x="50" y="1918" type="curve" smooth="yes"/>
+      <point x="-86" y="1918"/>
+      <point x="-170" y="1840"/>
+      <point x="-212" y="1756" type="curve"/>
+      <point x="-148" y="1692" type="line"/>
+      <point x="-100" y="1748"/>
+      <point x="-64" y="1796"/>
+      <point x="10" y="1796" type="curve" smooth="yes"/>
+      <point x="56" y="1796"/>
+      <point x="80" y="1776"/>
+      <point x="126" y="1734" type="curve" smooth="yes"/>
+      <point x="182" y="1680"/>
+      <point x="220" y="1654"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 43 values pushed */
+14 13 2 3 0 29 28 2 2 1 2 74 0 0 0 3 1 0 3 99 0 1 2 2 1 87 0 1 1 2 91 0 2 1 2 79 36 39 36 34 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>

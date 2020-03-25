@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotaccent.sc" format="2">
+  <advance width="1048"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="dotaccentcomb" xOffset="546" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>
