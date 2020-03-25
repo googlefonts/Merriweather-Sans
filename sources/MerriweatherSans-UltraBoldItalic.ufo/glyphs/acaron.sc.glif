@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acaron.sc" format="2">
+  <advance width="1264"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="caroncomb" xOffset="660" yOffset="164"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>

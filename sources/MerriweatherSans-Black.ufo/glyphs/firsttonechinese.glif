@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="684"/>
+  <unicode hex="02C9"/>
+  <anchor x="326" y="1662" name="_top"/>
+  <outline>
+    <contour>
+      <point x="40" y="1680" type="line"/>
+      <point x="644" y="1680" type="line"/>
+      <point x="644" y="1920" type="line"/>
+      <point x="40" y="1920" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:48:40</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourthtonechinese" format="2">
+  <unicode hex="02CB"/>
+  <anchor x="76" y="1114" name="_top"/>
+  <anchor x="132" y="1560" name="top"/>
+  <outline>
+    <component base="gravecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ndotaccent.sc" format="2">
+  <advance width="1340"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="dotaccentcomb" xOffset="697" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:57:02</string>
+    </dict>
+  </lib>
+</glyph>

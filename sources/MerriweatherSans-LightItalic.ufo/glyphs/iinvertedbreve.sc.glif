@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve.sc" format="2">
+  <advance width="544"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="breveinvertedcomb" xOffset="300" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>

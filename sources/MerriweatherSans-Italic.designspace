@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
+      <map input="300" output="72"/>
+      <map input="400" output="107"/>
+      <map input="700" output="150"/>
+      <map input="800" output="173"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="MerriweatherSans-LightItalic.ufo" name="Merriweather Sans Light Italic" familyname="Merriweather Sans" stylename="Light Italic">
+      <location>
+        <dimension name="Weight" xvalue="72"/>
+      </location>
+    </source>
+    <source filename="MerriweatherSans-Italic.ufo" name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="107"/>
+      </location>
+    </source>
+    <source filename="MerriweatherSans-UltraBoldItalic.ufo" name="Merriweather Sans UltraBold Italic" familyname="Merriweather Sans" stylename="UltraBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="173"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Merriweather Sans Light Italic" familyname="Merriweather Sans" stylename="Light Italic" filename="instance_ufos/MerriweatherSans-LightItalic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="72"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>A8DD961D-2AAA-4421-B000-699D061D5CAD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic" filename="instance_ufos/MerriweatherSans-Italic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="107"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>FC25F90A-4039-49BA-9FA9-48428CE1BED8</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic" filename="instance_ufos/MerriweatherSans-BoldItalic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>9808B12E-936F-4588-BC0B-2F1DE3B33DAD</key>
+            <real>0.65152</real>
+            <key>FC25F90A-4039-49BA-9FA9-48428CE1BED8</key>
+            <real>0.34848</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Merriweather Sans UltraBold Italic" familyname="Merriweather Sans" stylename="UltraBold Italic" filename="instance_ufos/MerriweatherSans-UltraBoldItalic.ufo">
+      <location>
+        <dimension name="Weight" xvalue="173"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>9808B12E-936F-4588-BC0B-2F1DE3B33DAD</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>UltraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+</designspace>

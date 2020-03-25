@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="-63" y="-572" type="line"/>
+      <point x="60" y="-572" type="line"/>
+      <point x="105" y="190" type="line"/>
+      <point x="-105" y="190" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/06 02:49:35</string>
+    </dict>
+  </lib>
+</glyph>
