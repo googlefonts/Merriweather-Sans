@@ -10,7 +10,7 @@ cd $DIR
 echo $(pwd)
 
 echo "Generating VFs"
-mkdir -p ../fonts/vf
+mkdir -p ../fonts/variable
 fontmake -m MerriweatherSans.designspace -o variable --output-path ../fonts/variable/MerriweatherSans[wght].ttf
 fontmake -m MerriweatherSans-Italic.designspace -o variable --output-path ../fonts/variable/MerriweatherSans-Italic[wght].ttf
 
