@@ -10,13 +10,13 @@ cd $DIR
 echo $(pwd)
 
 echo "Generating VFs"
-mkdir -p ../fonts/vf
-fontmake -m MerriweatherSans.designspace -o variable --output-path ../fonts/vf/MerriweatherSans[wght].ttf
-fontmake -m MerriweatherSans-Italic.designspace -o variable --output-path ../fonts/vf/MerriweatherSans-Italic[wght].ttf
+mkdir -p ../fonts/variable
+fontmake -m MerriweatherSans.designspace -o variable --output-path ../fonts/variable/MerriweatherSans[wght].ttf
+fontmake -m MerriweatherSans-Italic.designspace -o variable --output-path ../fonts/variable/MerriweatherSans-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
-vfs=$(ls ../fonts/vf/*\[wght\].ttf)
+vfs=$(ls ../fonts/variable/*\[wght\].ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
@@ -27,7 +27,7 @@ do
 	# python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
 	# mv "$vf.fix" $vf;
 done
-rm ../fonts/vf/*gasp.ttf
+rm ../fonts/variable/*gasp.ttf
 
 echo "Dropping MVAR"
 for vf in $vfs
@@ -35,7 +35,7 @@ do
 	# mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
