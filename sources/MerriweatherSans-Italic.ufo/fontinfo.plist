@@ -17,6 +17,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>n1S8JiwwPf</string>
         <key>x</key>
         <integer>182</integer>
         <key>y</key>
@@ -25,6 +27,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>f7ENEy8hmg</string>
         <key>x</key>
         <integer>576</integer>
         <key>y</key>
@@ -33,6 +37,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>lUdlz6aq0h</string>
         <key>x</key>
         <integer>432</integer>
         <key>y</key>
@@ -41,6 +47,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>W1I8TQyYOY</string>
         <key>x</key>
         <integer>374</integer>
         <key>y</key>
@@ -49,6 +57,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>Mg52XnZnvl</string>
         <key>x</key>
         <integer>374</integer>
         <key>y</key>
@@ -57,6 +67,8 @@
       <dict>
         <key>angle</key>
         <real>262.7889</real>
+        <key>identifier</key>
+        <string>Ie9u1BmiaP</string>
         <key>x</key>
         <integer>26</integer>
         <key>y</key>
@@ -65,6 +77,8 @@
       <dict>
         <key>angle</key>
         <real>262.7889</real>
+        <key>identifier</key>
+        <string>v27xdbrmEN</string>
         <key>x</key>
         <integer>612</integer>
         <key>y</key>
@@ -73,6 +87,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>fuDwQXEHd7</string>
         <key>x</key>
         <integer>542</integer>
         <key>y</key>
@@ -81,6 +97,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>A1A0zE5XyZ</string>
         <key>x</key>
         <integer>542</integer>
         <key>y</key>
@@ -89,6 +107,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>RcVgCeNpI7</string>
         <key>x</key>
         <integer>542</integer>
         <key>y</key>
