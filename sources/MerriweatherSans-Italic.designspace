@@ -23,7 +23,7 @@
         <dimension name="Weight" xvalue="107"/>
       </location>
     </source>
-    <source filename="MerriweatherSans-UltraBoldItalic.ufo" name="Merriweather Sans UltraBold Italic" familyname="Merriweather Sans" stylename="UltraBold Italic">
+    <source filename="MerriweatherSans-ExtraBoldItalic.ufo" name="Merriweather Sans ExtraBold Italic" familyname="Merriweather Sans" stylename="ExtraBold Italic">
       <location>
         <dimension name="Weight" xvalue="173"/>
       </location>
@@ -104,7 +104,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Merriweather Sans UltraBold Italic" familyname="Merriweather Sans" stylename="UltraBold Italic" filename="instance_ufos/MerriweatherSans-UltraBoldItalic.ufo">
+    <instance name="Merriweather Sans ExtraBold Italic" familyname="Merriweather Sans" stylename="ExtraBold Italic" filename="instance_ufos/MerriweatherSans-ExtraBoldItalic.ufo">
       <location>
         <dimension name="Weight" xvalue="173"/>
       </location>
@@ -122,7 +122,7 @@
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
           <key>com.schriftgestaltung.weight</key>
-          <string>UltraBold</string>
+          <string>ExtraBold</string>
           <key>com.schriftgestaltung.width</key>
           <string>Medium (normal)</string>
         </dict>
