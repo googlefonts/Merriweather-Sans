@@ -5,10 +5,4 @@
   <outline>
     <component base="quoteright" yOffset="-1420"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

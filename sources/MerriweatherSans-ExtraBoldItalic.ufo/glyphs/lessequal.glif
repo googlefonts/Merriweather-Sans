@@ -28,8 +28,6 @@ lessequal
       <string>PUSHB[ ]	/* 6 values pushed */
 8 7 4 0 2 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

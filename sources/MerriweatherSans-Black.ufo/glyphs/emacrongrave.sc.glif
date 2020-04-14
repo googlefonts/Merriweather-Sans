@@ -6,10 +6,4 @@
     <component base="macroncomb" xOffset="612" yOffset="130"/>
     <component base="gravecomb" xOffset="612" yOffset="556"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

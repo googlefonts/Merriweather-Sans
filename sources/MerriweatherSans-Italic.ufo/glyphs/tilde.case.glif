@@ -35,10 +35,4 @@ tilde.cap
       <point x="204" y="1616"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

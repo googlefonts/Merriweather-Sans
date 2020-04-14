@@ -57,10 +57,4 @@ uni2116
       <point x="2120" y="693"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="dotaccentcomb" xOffset="738" yOffset="138"/>
     <component base="macroncomb" xOffset="738" yOffset="560"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

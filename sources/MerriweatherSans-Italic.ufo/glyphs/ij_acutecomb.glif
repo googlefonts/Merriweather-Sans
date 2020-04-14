@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij_acutecomb" format="2">
   <advance width="1163"/>
-  <note>
-ij_acutecomb
-</note>
   <outline>
     <component base="iacute"/>
     <component base="jdotless" xOffset="583"/>
@@ -13,8 +10,6 @@ ij_acutecomb
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>ij</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -5,10 +5,4 @@
     <component base="n.sc"/>
     <component base="dotbelowcomb" xOffset="595"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:57:02</string>
-    </dict>
-  </lib>
 </glyph>

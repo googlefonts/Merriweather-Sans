@@ -7,10 +7,4 @@
     <component base="ringcomb.case" xOffset="625" yOffset="2"/>
     <component base="acutecomb.case" xOffset="689" yOffset="460"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

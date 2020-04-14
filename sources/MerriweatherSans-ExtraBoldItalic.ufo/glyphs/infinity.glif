@@ -67,8 +67,6 @@ infinity
       <string>PUSHB[ ]	/* 8 values pushed */
 49 41 33 27 16 2 3 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -63,8 +63,6 @@ uni2116
       <string>NPUSHB[ ]	/* 10 values pushed */
 43 42 33 30 22 16 6 0 4 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

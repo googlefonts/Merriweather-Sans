@@ -10,10 +10,4 @@ threequarters
     <component base="fraction" xOffset="928"/>
     <component base="four.dnom" xOffset="1339"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:53:28</string>
-    </dict>
-  </lib>
 </glyph>

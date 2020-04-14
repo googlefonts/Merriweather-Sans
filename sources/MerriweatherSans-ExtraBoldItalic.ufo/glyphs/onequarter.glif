@@ -53,8 +53,6 @@ CALL[ ]	/* CallFunction */
 PUSHB[ ]	/* 2 values pushed */
 6 0 
 WCVTP[ ]	/* WriteCVTInPixels */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:53:28</string>
     </dict>
   </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="dieresiscomb" xOffset="352" yOffset="186"/>
     <component base="acutecomb" xOffset="352" yOffset="602"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

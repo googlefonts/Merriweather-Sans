@@ -6,10 +6,4 @@
     <component base="d"/>
     <component base="zcaron" xOffset="1244"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:53:28</string>
-    </dict>
-  </lib>
 </glyph>

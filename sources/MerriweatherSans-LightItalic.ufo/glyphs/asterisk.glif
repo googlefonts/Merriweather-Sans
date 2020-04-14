@@ -45,8 +45,6 @@ asterisk
       <string>NPUSHB[ ]	/* 35 values pushed */
 29 28 26 21 19 18 16 14 13 11 6 4 3 1 14 1 0 1 74 0 1 1 0 89 0 0 0 19 1 76 30 24 2 7 22 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

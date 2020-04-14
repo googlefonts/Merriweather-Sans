@@ -9,10 +9,4 @@ Ncaron
     <component base="N"/>
     <component base="caroncomb.case" xOffset="732"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

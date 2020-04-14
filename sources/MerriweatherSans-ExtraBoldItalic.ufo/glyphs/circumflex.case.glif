@@ -22,8 +22,6 @@ circumflex.cap
       <string>NPUSHB[ ]	/* 16 values pushed */
 6 5 4 3 2 5 0 71 0 0 0 105 16 1 7 21 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -15,10 +15,4 @@ divide
     <component base="period" xOffset="426" yOffset="238"/>
     <component base="period" xOffset="516" yOffset="1028"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

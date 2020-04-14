@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b.sc" format="2">
   <advance width="1284"/>
-  <note>
-B
-</note>
   <anchor x="566" y="0" name="bottom"/>
   <anchor x="738" y="1280" name="top"/>
   <outline>
@@ -93,8 +90,6 @@ NPUSHB[ ]	/* 21 values pushed */
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:56:54</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

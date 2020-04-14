@@ -43,8 +43,6 @@ trademark
       <string>PUSHB[ ]	/* 6 values pushed */
 18 8 6 1 2 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

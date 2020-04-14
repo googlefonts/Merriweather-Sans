@@ -27,8 +27,6 @@ period
       <string>NPUSHB[ ]	/* 22 values pushed */
 2 1 1 1 0 91 0 0 0 26 0 76 0 0 0 13 0 12 37 3 7 21 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

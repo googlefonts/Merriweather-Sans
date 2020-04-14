@@ -2,9 +2,6 @@
 <glyph name="K" format="2">
   <advance width="1294"/>
   <unicode hex="004B"/>
-  <note>
-K
-</note>
   <anchor x="648" y="0" name="bottom"/>
   <anchor x="766" y="1494" name="top"/>
   <outline>
@@ -39,8 +36,6 @@ K
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

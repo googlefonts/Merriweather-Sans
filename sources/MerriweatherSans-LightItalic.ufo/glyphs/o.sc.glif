@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o.sc" format="2">
   <advance width="1264"/>
-  <note>
-O
-</note>
   <anchor x="566" y="0" name="bottom"/>
   <anchor x="648" y="650" name="center"/>
   <anchor x="736" y="18" name="ogonek"/>
@@ -57,8 +54,6 @@ O
       <string>NPUSHB[ ]	/* 28 values pushed */
 0 2 2 0 91 0 0 0 25 75 0 3 3 1 91 0 1 1 26 1 76 37 37 38 34 4 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

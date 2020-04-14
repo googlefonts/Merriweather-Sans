@@ -9,10 +9,4 @@ Yacute
     <component base="Y"/>
     <component base="acutecomb.case" xOffset="530"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

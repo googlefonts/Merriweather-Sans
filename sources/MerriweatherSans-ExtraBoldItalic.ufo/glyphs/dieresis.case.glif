@@ -41,8 +41,6 @@ dieresis.cap
       <string>NPUSHB[ ]	/* 26 values pushed */
 2 1 0 1 1 0 87 2 1 0 0 1 91 3 1 1 0 1 79 37 38 37 34 4 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

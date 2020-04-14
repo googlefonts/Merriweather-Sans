@@ -5,10 +5,4 @@
     <component base="d.sc"/>
     <component base="caroncomb" xOffset="714" yOffset="158"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

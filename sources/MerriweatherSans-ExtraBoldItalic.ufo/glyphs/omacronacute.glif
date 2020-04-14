@@ -7,10 +7,4 @@
     <component base="macroncomb" xOffset="580"/>
     <component base="acutecomb" xOffset="562" yOffset="338"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

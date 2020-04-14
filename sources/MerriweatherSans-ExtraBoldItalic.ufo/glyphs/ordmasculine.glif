@@ -41,8 +41,6 @@ ordmasculine
       <string>PUSHB[ ]	/* 6 values pushed */
 24 17 10 2 2 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

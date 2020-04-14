@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j.sc" format="2">
   <advance width="590"/>
-  <note>
-J
-</note>
   <anchor x="240" y="0" name="bottom"/>
   <anchor x="416" y="1280" name="top"/>
   <outline>
@@ -39,8 +36,6 @@ J
       <string>NPUSHB[ ]	/* 20 values pushed */
 8 1 0 71 1 1 0 0 17 0 76 0 0 0 16 0 16 2 7 20 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -9,10 +9,4 @@ scommaaccent
     <component base="s"/>
     <component base="commaaccentcomb" xOffset="344"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

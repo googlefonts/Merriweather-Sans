@@ -26,8 +26,6 @@ T
       <string>NPUSHB[ ]	/* 30 values pushed */
 4 3 2 1 1 0 89 0 0 0 17 75 0 2 2 18 2 76 0 0 0 7 0 7 17 17 17 5 7 23 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

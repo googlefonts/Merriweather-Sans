@@ -22,8 +22,6 @@ acute
       <string>PUSHB[ ]	/* 4 values pushed */
 5 0 1 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

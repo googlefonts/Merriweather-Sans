@@ -11,10 +11,4 @@ ij
     <component base="jdotless" xOffset="583"/>
     <component base="dotaccent" xOffset="811" yOffset="3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

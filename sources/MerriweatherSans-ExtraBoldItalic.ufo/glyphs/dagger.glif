@@ -42,8 +42,6 @@ EIF[ ]	/* EndIf */
 NPUSHB[ ]	/* 9 values pushed */
 18 17 18 18 17 16 6 7 26 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -9,10 +9,4 @@ colon
     <component base="period" xOffset="-20"/>
     <component base="period" xOffset="70" yOffset="790"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

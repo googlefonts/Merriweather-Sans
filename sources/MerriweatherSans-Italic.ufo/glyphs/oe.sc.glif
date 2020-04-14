@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe.sc" format="2">
   <advance width="1939"/>
-  <note>
-OE
-</note>
   <outline>
     <contour>
       <point x="565" y="-14" type="curve" smooth="yes"/>
@@ -53,8 +50,6 @@ OE
       <string>o.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e.sc</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:57:01</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

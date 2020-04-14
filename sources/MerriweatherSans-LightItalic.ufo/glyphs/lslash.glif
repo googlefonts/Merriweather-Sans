@@ -27,8 +27,6 @@ lslash
       <string>NPUSHB[ ]	/* 27 values pushed */
 11 10 6 5 4 0 6 0 1 1 74 0 1 1 19 75 0 0 0 18 0 76 21 18 2 7 22 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

@@ -70,8 +70,6 @@ CALL[ ]	/* CallFunction */</string>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:56:54</string>
     </dict>
   </lib>
 </glyph>

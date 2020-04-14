@@ -8,10 +8,4 @@ I.uc
     <component base="I"/>
     <component base="dotaccent.case" xOffset="284"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

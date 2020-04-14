@@ -7,10 +7,4 @@
     <component base="caroncomb" xOffset="490"/>
     <component base="dotaccentcomb" xOffset="490" yOffset="381"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

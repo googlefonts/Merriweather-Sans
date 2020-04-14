@@ -47,8 +47,6 @@ braceleft
       <string>NPUSHB[ ]	/* 39 values pushed */
 46 32 3 3 2 1 1 74 0 0 0 1 2 0 1 97 0 2 3 3 2 85 0 2 2 3 91 0 3 2 3 79 37 30 37 44 4 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

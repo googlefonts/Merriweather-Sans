@@ -2,9 +2,6 @@
 <glyph name="K" format="2">
   <advance width="1228"/>
   <unicode hex="004B"/>
-  <note>
-K
-</note>
   <anchor x="616" y="0" name="bottom"/>
   <anchor x="738" y="1496" name="top"/>
   <outline>
@@ -35,8 +32,6 @@ K
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

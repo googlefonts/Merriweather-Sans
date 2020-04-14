@@ -31,8 +31,6 @@ dagger
       <string>NPUSHB[ ]	/* 36 values pushed */
 4 1 1 2 1 74 0 5 0 5 115 3 1 1 4 1 0 5 1 0 98 0 2 2 19 2 76 18 17 18 18 17 16 6 7 26 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

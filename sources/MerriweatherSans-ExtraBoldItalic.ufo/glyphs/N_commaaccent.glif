@@ -9,10 +9,4 @@ Ncommaaccent
     <component base="N"/>
     <component base="commaaccentcomb.case" xOffset="658"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

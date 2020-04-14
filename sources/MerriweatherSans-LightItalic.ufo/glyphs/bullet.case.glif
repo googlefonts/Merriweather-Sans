@@ -26,8 +26,6 @@ bullet
       <string>NPUSHB[ ]	/* 21 values pushed */
 0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 37 34 2 7 22 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>
