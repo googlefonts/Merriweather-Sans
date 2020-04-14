@@ -683,8 +683,6 @@
     <integer>180</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>23A20576-2241-481A-AD5B-28E85381F753</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>2</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

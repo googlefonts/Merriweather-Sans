@@ -36,23 +36,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A8DD961D-2AAA-4421-B000-699D061D5CAD</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
     <instance name="Merriweather Sans Italic" familyname="Merriweather Sans" stylename="Italic" filename="instance_ufos/MerriweatherSans-Italic.ufo">
       <location>
@@ -60,23 +43,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>FC25F90A-4039-49BA-9FA9-48428CE1BED8</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
     <instance name="Merriweather Sans Bold Italic" familyname="Merriweather Sans" stylename="Bold Italic" filename="instance_ufos/MerriweatherSans-BoldItalic.ufo">
       <location>
@@ -84,25 +50,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9808B12E-936F-4588-BC0B-2F1DE3B33DAD</key>
-            <real>0.65152</real>
-            <key>FC25F90A-4039-49BA-9FA9-48428CE1BED8</key>
-            <real>0.34848</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
     <instance name="Merriweather Sans ExtraBold Italic" familyname="Merriweather Sans" stylename="ExtraBold Italic" filename="instance_ufos/MerriweatherSans-ExtraBoldItalic.ufo">
       <location>
@@ -110,23 +57,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>9808B12E-936F-4588-BC0B-2F1DE3B33DAD</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
   </instances>
 </designspace>

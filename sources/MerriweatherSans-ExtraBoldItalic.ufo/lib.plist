@@ -609,8 +609,6 @@
     <integer>173</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>5</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>9808B12E-936F-4588-BC0B-2F1DE3B33DAD</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>2</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
