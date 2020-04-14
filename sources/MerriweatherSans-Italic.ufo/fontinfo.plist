@@ -187,6 +187,10 @@
     <integer>-244</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>110</integer>
+    <key>styleMapFamilyName</key>
+    <string>Merriweather Sans</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
     <string>Italic</string>
     <key>trademark</key>
