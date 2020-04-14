@@ -1080,6 +1080,7 @@
           <string>minute</string>
           <string>second</string>
           <string>bar</string>
+          <string>brokenbar</string>
           <string>literSign</string>
           <string>dagger</string>
           <string>daggerdbl</string>
@@ -1180,7 +1181,6 @@
           <string>circumflexcomb_hookabovecomb.case</string>
           <string>circumflexcomb_tildecomb.case</string>
           <string>uni0000</string>
-          <string>brokenbar</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -2974,6 +2974,7 @@
       <string>minute</string>
       <string>second</string>
       <string>bar</string>
+      <string>brokenbar</string>
       <string>literSign</string>
       <string>dagger</string>
       <string>daggerdbl</string>
@@ -3074,7 +3075,6 @@
       <string>circumflexcomb_hookabovecomb.case</string>
       <string>circumflexcomb_tildecomb.case</string>
       <string>uni0000</string>
-      <string>brokenbar</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
