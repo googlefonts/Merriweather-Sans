@@ -30,14 +30,14 @@
     </source>
   </sources>
   <instances>
-    <instance name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light" filename="instance_ufos/MerriweatherSans-Light.ufo">
+    <instance name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light" filename="instance_ufos/MerriweatherSans-Light.ufo" stylemapfamilyname="Merriweather Sans Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="82"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular" filename="instance_ufos/MerriweatherSans-Regular.ufo">
+    <instance name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular" filename="instance_ufos/MerriweatherSans-Regular.ufo" stylemapfamilyname="Merriweather Sans" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="115"/>
       </location>
@@ -51,7 +51,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Merriweather Sans Black" familyname="Merriweather Sans" stylename="Black" filename="instance_ufos/MerriweatherSans-Black.ufo">
+    <instance name="Merriweather Sans Black" familyname="Merriweather Sans" stylename="Black" filename="instance_ufos/MerriweatherSans-Black.ufo" stylemapfamilyname="Merriweather Sans Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="180"/>
       </location>
