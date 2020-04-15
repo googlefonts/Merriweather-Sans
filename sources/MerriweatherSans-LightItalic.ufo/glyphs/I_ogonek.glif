@@ -7,7 +7,7 @@ Iogonek
 </note>
   <outline>
     <component base="I"/>
-    <component base="ogonekcomb.case" xOffset="504" yOffset="20"/>
+    <component base="ogonekcomb.case" xOffset="390"/>
   </outline>
   <lib>
     <dict>

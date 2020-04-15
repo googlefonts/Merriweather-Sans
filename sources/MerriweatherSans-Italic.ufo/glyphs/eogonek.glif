@@ -7,6 +7,6 @@ eogonek
 </note>
   <outline>
     <component base="e"/>
-    <component base="ogonekcomb" xOffset="719"/>
+    <component base="ogonekcomb" xOffset="172"/>
   </outline>
 </glyph>

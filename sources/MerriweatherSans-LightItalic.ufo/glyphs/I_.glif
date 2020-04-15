@@ -6,7 +6,7 @@
 I
 </note>
   <anchor x="206" y="0" name="bottom"/>
-  <anchor x="432" y="20" name="ogonek"/>
+  <anchor x="290" y="0" name="ogonek"/>
   <anchor x="408" y="1494" name="top"/>
   <anchor x="164" y="1494" name="topleft"/>
   <outline>

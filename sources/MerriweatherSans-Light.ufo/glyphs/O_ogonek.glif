@@ -2,9 +2,8 @@
 <glyph name="Oogonek" format="2">
   <advance width="1518"/>
   <unicode hex="01EA"/>
-  <anchor x="768" y="1486" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="ogonekcomb.case" xOffset="568" yOffset="-30"/>
+    <component base="ogonekcomb.case" xOffset="575"/>
   </outline>
 </glyph>

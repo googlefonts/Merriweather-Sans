@@ -2,7 +2,7 @@
 <glyph name="u.sc" format="2">
   <advance width="1384"/>
   <anchor x="692" y="0" name="bottom"/>
-  <anchor x="816" y="0" name="ogonek"/>
+  <anchor x="851" y="0" name="ogonek"/>
   <anchor x="700" y="1800" name="top"/>
   <anchor x="1046" y="1292" name="topright"/>
   <outline>

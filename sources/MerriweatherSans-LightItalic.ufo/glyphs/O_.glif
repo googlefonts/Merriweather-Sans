@@ -7,7 +7,7 @@ O
 </note>
   <anchor x="600" y="0" name="bottom"/>
   <anchor x="700" y="748" name="center"/>
-  <anchor x="770" y="20" name="ogonek"/>
+  <anchor x="730" y="0" name="ogonek"/>
   <anchor x="810" y="1494" name="top"/>
   <anchor x="164" y="1494" name="topleft"/>
   <anchor x="1430" y="1494" name="topright"/>

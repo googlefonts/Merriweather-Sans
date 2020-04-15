@@ -6,6 +6,7 @@
 i
 </note>
   <anchor x="250" y="0" name="bottom"/>
+  <anchor x="426" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>

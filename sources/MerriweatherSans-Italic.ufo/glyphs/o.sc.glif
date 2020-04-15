@@ -3,7 +3,7 @@
   <advance width="1303"/>
   <anchor x="578" y="0" name="bottom"/>
   <anchor x="666" y="652" name="center"/>
-  <anchor x="788" y="18" name="ogonek"/>
+  <anchor x="695" y="0" name="ogonek"/>
   <anchor x="754" y="1280" name="top"/>
   <anchor x="141" y="1302" name="topleft"/>
   <anchor x="1359" y="1302" name="topright"/>

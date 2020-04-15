@@ -3,6 +3,6 @@
   <advance width="544"/>
   <outline>
     <component base="i.sc"/>
-    <component base="ogonekcomb" xOffset="488" yOffset="-2"/>
+    <component base="ogonekcomb" xOffset="-75"/>
   </outline>
 </glyph>

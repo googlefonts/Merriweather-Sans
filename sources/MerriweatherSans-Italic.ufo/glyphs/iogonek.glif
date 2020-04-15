@@ -8,6 +8,6 @@ iogonek
   <outline>
     <component base="idotless"/>
     <component base="dotaccentcomb" xOffset="293"/>
-    <component base="ogonekcomb" xOffset="448"/>
+    <component base="ogonekcomb" xOffset="-65"/>
   </outline>
 </glyph>
