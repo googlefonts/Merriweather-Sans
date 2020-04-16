@@ -1186,6 +1186,15 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.IJ_acutecomb</key>
     <dict>
       <key>com.typemytype.robofont.mark</key>
