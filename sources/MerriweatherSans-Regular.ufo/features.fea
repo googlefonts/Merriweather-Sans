@@ -14,15 +14,14 @@
 # automatic
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem cyrl dflt;
 languagesystem latn CAT;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn KAZ;
+languagesystem latn TAT;
 languagesystem latn TRK;
 languagesystem latn CRT;
 languagesystem latn AZE;
-languagesystem cyrl TAT;
 
 
 feature aalt {
@@ -31,7 +30,6 @@ feature locl;
 feature frac;
 feature subs;
 feature sinf;
-feature sups;
 feature sups;
 feature numr;
 feature dnom;
@@ -110,15 +108,13 @@ sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
 language KAZ;
 sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
 language TRK;
 sub i by idotaccent;
 language CRT;
 sub i by idotaccent;
 language AZE;
-sub i by idotaccent;
-
-script cyrl;
-language TAT;
 sub i by idotaccent;
 
 } locl;
