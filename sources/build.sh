@@ -54,7 +54,7 @@ ttf=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttf
 do
 	gftools fix-dsig -f $ttf;
-	python3 -m ttfautohint $ttf "$ttf.fix";
+	python3 -m ttfautohint -l 6 -r 50 -G 0 -x 11 -H 220 -D latn -f none -a qqq -X "" $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 done
 
