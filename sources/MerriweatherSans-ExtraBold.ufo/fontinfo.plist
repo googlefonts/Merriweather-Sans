@@ -120,11 +120,11 @@
     <key>postscriptUnderlineThickness</key>
     <integer>110</integer>
     <key>styleMapFamilyName</key>
-    <string>Merriweather Sans Black</string>
+    <string>Merriweather Sans ExtraBold</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>Black</string>
+    <string>ExtraBold</string>
     <key>trademark</key>
     <string>Merriweather is a trademark of Sorkin Type Co.</string>
     <key>unitsPerEm</key>
