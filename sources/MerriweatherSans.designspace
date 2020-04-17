@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="300" maximum="900" default="400">
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
       <map input="300" output="82"/>
       <map input="400" output="115"/>
       <map input="700" output="152"/>
-      <map input="900" output="180"/>
+      <map input="800" output="180"/>
     </axis>
   </axes>
   <sources>
@@ -23,7 +23,7 @@
         <dimension name="Weight" xvalue="115"/>
       </location>
     </source>
-    <source filename="MerriweatherSans-Black.ufo" name="Merriweather Sans Black" familyname="Merriweather Sans" stylename="Black">
+    <source filename="MerriweatherSans-ExtraBold.ufo" name="Merriweather Sans ExtraBold" familyname="Merriweather Sans" stylename="ExtraBold">
       <location>
         <dimension name="Weight" xvalue="180"/>
       </location>
@@ -51,7 +51,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Merriweather Sans Black" familyname="Merriweather Sans" stylename="Black" filename="instance_ufos/MerriweatherSans-Black.ufo" stylemapfamilyname="Merriweather Sans Black" stylemapstylename="regular">
+    <instance name="Merriweather Sans ExtraBold" familyname="Merriweather Sans" stylename="ExtraBold" filename="instance_ufos/MerriweatherSans-ExtraBold.ufo" stylemapfamilyname="Merriweather Sans ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="180"/>
       </location>
