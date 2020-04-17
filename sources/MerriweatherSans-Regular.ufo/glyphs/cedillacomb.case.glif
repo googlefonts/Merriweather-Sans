@@ -3,7 +3,7 @@
   <anchor x="-84" y="0" name="_bottom"/>
   <anchor x="-84" y="-454" name="bottom"/>
   <outline>
-    <component base="cedillacomb" xOffset="-80"/>
+    <component base="cedillacomb" xOffset="-16"/>
   </outline>
   <lib>
     <dict>

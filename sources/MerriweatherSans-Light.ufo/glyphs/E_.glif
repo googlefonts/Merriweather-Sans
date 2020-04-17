@@ -2,7 +2,7 @@
 <glyph name="E" format="2">
   <advance width="1160"/>
   <unicode hex="0045"/>
-  <anchor x="574" y="0" name="bottom"/>
+  <anchor x="642" y="0" name="bottom"/>
   <anchor x="640" y="-166" name="btm"/>
   <anchor x="1010" y="0" name="ogonek"/>
   <anchor x="604" y="1660" name="top"/>

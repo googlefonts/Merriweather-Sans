@@ -3,6 +3,6 @@
   <anchor x="-46" y="0" name="_bottom"/>
   <anchor x="-46" y="-454" name="bottom"/>
   <outline>
-    <component base="cedillacomb" xOffset="-66"/>
+    <component base="cedillacomb" xOffset="-36"/>
   </outline>
 </glyph>
