@@ -658,7 +658,7 @@
     <key>com.schriftgestaltung.appVersion</key>
     <string>1230</string>
     <key>com.schriftgestaltung.customName</key>
-    <string>Black</string>
+    <string>Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
     <array>
       <dict>
@@ -676,6 +676,8 @@
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>1</integer>
+    <key>com.schriftgestaltung.customParameter.GSFontMaster.Master Name</key>
+    <string>ExtraBold</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
@@ -685,7 +687,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-    <string>Bold</string>
+    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.smallCapHeight</key>
     <integer>646</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
@@ -697,7 +699,7 @@
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
-    <string>Regular</string>
+    <string>Bold</string>
     <key>com.schriftgestaltung.weightValue</key>
     <integer>180</integer>
     <key>com.schriftgestaltung.width</key>
