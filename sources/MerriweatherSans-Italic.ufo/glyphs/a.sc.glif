@@ -5,7 +5,7 @@
 A
 </note>
   <anchor x="533" y="0" name="bottom"/>
-  <anchor x="1017" y="18" name="ogonek"/>
+  <anchor x="1129" y="0" name="ogonek"/>
   <anchor x="704" y="1282" name="top"/>
   <outline>
     <contour>
@@ -28,8 +28,6 @@ A
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

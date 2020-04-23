@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="q.sc" format="2">
   <advance width="1319"/>
-  <note>
-Q
-</note>
   <anchor x="578" y="0" name="bottom"/>
   <anchor x="666" y="652" name="center"/>
   <anchor x="788" y="18" name="ogonek"/>
@@ -68,8 +65,6 @@ Q
       <string>o.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o.sc</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:57:01</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

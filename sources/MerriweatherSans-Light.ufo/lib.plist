@@ -1080,6 +1080,7 @@
           <string>minute</string>
           <string>second</string>
           <string>bar</string>
+          <string>brokenbar</string>
           <string>literSign</string>
           <string>dagger</string>
           <string>daggerdbl</string>
@@ -1180,10 +1181,18 @@
           <string>circumflexcomb_hookabovecomb.case</string>
           <string>circumflexcomb_tildecomb.case</string>
           <string>uni0000</string>
-          <string>brokenbar</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
+      </dict>
+    </array>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
       </dict>
     </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.IJ_acutecomb</key>
@@ -1841,25 +1850,12 @@
         <string>wght</string>
       </dict>
     </array>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>/dotbelowcomb/mdotbelow.sc</string>
-      <string>/commaaccentcomb/tcommaaccent.sc</string>
-      <string>/dieresiscomb/odieresismacron</string>
-      <string>/dotaccentcomb/odotaccentmacron</string>
-      <string>f</string>
-      <string>/macroncomb.case/macroncomb.case/macroncomb.case/Umacrondieresis</string>
-      <string>/hookabovecomb.case/Ahookabove</string>
-      <string>/hookabovecomb/uhornhookabove</string>
-      <string>/commercialMinusSign</string>
-      <string>/six.sc</string>
-      <string>/a.sc</string>
-      <string>/ldot.sc</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -1878,8 +1874,6 @@
     <integer>82</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>8BC678DE-46B6-4C98-A96E-C0ED61786D32</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -2987,6 +2981,7 @@
       <string>minute</string>
       <string>second</string>
       <string>bar</string>
+      <string>brokenbar</string>
       <string>literSign</string>
       <string>dagger</string>
       <string>daggerdbl</string>
@@ -3087,7 +3082,6 @@
       <string>circumflexcomb_hookabovecomb.case</string>
       <string>circumflexcomb_tildecomb.case</string>
       <string>uni0000</string>
-      <string>brokenbar</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -4200,7 +4194,5 @@
       <key>zerowidthspace</key>
       <string>uni200B</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
   </dict>
 </plist>

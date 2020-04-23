@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls.sc" format="2">
   <advance width="1238"/>
-  <note>
-uni1E9E
-</note>
   <outline>
     <contour>
       <point x="704" y="-20" type="curve" smooth="yes"/>
@@ -51,8 +48,6 @@ uni1E9E
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

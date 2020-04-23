@@ -7,12 +7,6 @@ aogonek
 </note>
   <outline>
     <component base="a"/>
-    <component base="ogonekcomb" xOffset="1012"/>
+    <component base="ogonekcomb" xOffset="507"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

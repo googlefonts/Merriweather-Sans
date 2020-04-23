@@ -12,10 +12,4 @@ f_f_i
     <component base="idotless" xOffset="1416"/>
     <component base="dotaccent" xOffset="1608" yOffset="2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:53:28</string>
-    </dict>
-  </lib>
 </glyph>

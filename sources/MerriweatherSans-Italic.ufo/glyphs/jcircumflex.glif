@@ -9,10 +9,4 @@ jcircumflex
     <component base="jdotless"/>
     <component base="circumflexcomb" xOffset="306"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

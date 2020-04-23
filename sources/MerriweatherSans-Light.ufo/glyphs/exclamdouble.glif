@@ -6,10 +6,4 @@
     <component base="exclam" xOffset="30"/>
     <component base="exclam" xOffset="684"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j.sc" format="2">
   <advance width="618"/>
-  <note>
-J
-</note>
   <anchor x="256" y="0" name="bottom"/>
   <anchor x="434" y="1280" name="top"/>
   <outline>
@@ -24,8 +21,6 @@ J
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

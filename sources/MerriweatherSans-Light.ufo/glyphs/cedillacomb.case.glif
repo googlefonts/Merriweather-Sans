@@ -3,12 +3,6 @@
   <anchor x="-96" y="0" name="_bottom"/>
   <anchor x="-96" y="-454" name="bottom"/>
   <outline>
-    <component base="cedillacomb" xOffset="-98"/>
+    <component base="cedillacomb" xOffset="-16"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

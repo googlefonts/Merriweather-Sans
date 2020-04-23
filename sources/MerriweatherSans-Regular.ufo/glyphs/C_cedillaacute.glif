@@ -4,13 +4,7 @@
   <unicode hex="1E08"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="725"/>
+    <component base="cedillacomb.case" xOffset="855"/>
     <component base="acutecomb.case" xOffset="782"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

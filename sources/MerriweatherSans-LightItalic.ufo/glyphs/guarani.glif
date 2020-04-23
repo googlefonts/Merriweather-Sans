@@ -78,8 +78,6 @@ NPUSHB[ ]	/* 11 values pushed */
 CALL[ ]	/* CallFunction */</string>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>cedi</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:57:01</string>
     </dict>
   </lib>
 </glyph>

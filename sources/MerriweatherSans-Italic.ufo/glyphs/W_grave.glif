@@ -9,10 +9,4 @@ Wgrave
     <component base="W"/>
     <component base="gravecomb.case" xOffset="869" yOffset="2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

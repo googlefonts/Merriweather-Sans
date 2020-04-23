@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o.sc" format="2">
   <advance width="1303"/>
-  <note>
-O
-</note>
   <anchor x="578" y="0" name="bottom"/>
   <anchor x="666" y="652" name="center"/>
-  <anchor x="788" y="18" name="ogonek"/>
+  <anchor x="695" y="0" name="ogonek"/>
   <anchor x="754" y="1280" name="top"/>
   <anchor x="141" y="1302" name="topleft"/>
   <anchor x="1359" y="1302" name="topright"/>
@@ -42,8 +39,6 @@ O
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

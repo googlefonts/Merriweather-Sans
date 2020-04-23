@@ -6,10 +6,4 @@
     <component base="r"/>
     <component base="dblgravecomb" xOffset="474"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

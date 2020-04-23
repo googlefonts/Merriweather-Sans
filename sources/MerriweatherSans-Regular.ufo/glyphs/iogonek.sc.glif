@@ -3,12 +3,6 @@
   <advance width="633"/>
   <outline>
     <component base="i.sc"/>
-    <component base="ogonekcomb"/>
+    <component base="ogonekcomb" xOffset="407"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:11</string>
-    </dict>
-  </lib>
 </glyph>

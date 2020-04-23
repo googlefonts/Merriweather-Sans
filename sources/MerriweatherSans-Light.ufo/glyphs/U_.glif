@@ -4,7 +4,7 @@
   <unicode hex="0055"/>
   <anchor x="720" y="0" name="bottom"/>
   <anchor x="732" y="-166" name="btm"/>
-  <anchor x="1296" y="20" name="ogonek"/>
+  <anchor x="865" y="0" name="ogonek"/>
   <anchor x="730" y="1660" name="top"/>
   <anchor x="1150" y="1486" name="topright"/>
   <outline>
@@ -31,8 +31,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

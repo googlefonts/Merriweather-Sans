@@ -2,17 +2,11 @@
 <glyph name="i" format="2">
   <advance width="590"/>
   <unicode hex="0069"/>
-  <anchor x="299" y="50" name="_ogonek"/>
   <anchor x="299" y="0" name="bottom"/>
   <anchor x="299" y="-166" name="btm"/>
+  <anchor x="410" y="0" name="ogonek"/>
   <outline>
     <component base="idotless"/>
     <component base="dotaccent" xOffset="88"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

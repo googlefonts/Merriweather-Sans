@@ -7,7 +7,7 @@ O
 </note>
   <anchor x="600" y="0" name="bottom"/>
   <anchor x="700" y="748" name="center"/>
-  <anchor x="770" y="20" name="ogonek"/>
+  <anchor x="730" y="0" name="ogonek"/>
   <anchor x="810" y="1494" name="top"/>
   <anchor x="164" y="1494" name="topleft"/>
   <anchor x="1430" y="1494" name="topright"/>
@@ -47,8 +47,6 @@ O
       <string>NPUSHB[ ]	/* 28 values pushed */
 0 2 2 0 91 0 0 0 25 75 0 3 3 1 91 0 1 1 26 1 76 37 37 38 34 4 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

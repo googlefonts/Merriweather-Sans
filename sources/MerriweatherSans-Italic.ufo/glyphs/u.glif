@@ -6,7 +6,7 @@
 u
 </note>
   <anchor x="509" y="0" name="bottom"/>
-  <anchor x="971" y="20" name="ogonek"/>
+  <anchor x="931" y="0" name="ogonek"/>
   <anchor x="643" y="1114" name="top"/>
   <anchor x="1199" y="1114" name="topright"/>
   <outline>
@@ -43,10 +43,4 @@ u
       <point x="188" y="-20"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

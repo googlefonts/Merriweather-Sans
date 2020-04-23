@@ -3,7 +3,7 @@
   <advance width="1454"/>
   <anchor x="728" y="0" name="bottom"/>
   <anchor x="728" y="646" name="center"/>
-  <anchor x="816" y="0" name="ogonek"/>
+  <anchor x="856" y="0" name="ogonek"/>
   <anchor x="730" y="1800" name="top"/>
   <anchor x="24" y="1292" name="topleft"/>
   <anchor x="1430" y="1292" name="topright"/>
@@ -39,8 +39,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

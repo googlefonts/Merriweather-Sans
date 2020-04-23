@@ -6,7 +6,7 @@
 E
 </note>
   <anchor x="576" y="0" name="bottom"/>
-  <anchor x="940" y="20" name="ogonek"/>
+  <anchor x="938" y="0" name="ogonek"/>
   <anchor x="703" y="1494" name="top"/>
   <anchor x="164" y="1496" name="topleft"/>
   <outline>
@@ -27,8 +27,6 @@ E
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

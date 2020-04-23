@@ -99,8 +99,6 @@ ampersand
       <string>NPUSHB[ ]	/* 68 values pushed */
 62 1 6 7 44 28 2 0 6 82 79 54 46 6 5 1 0 18 13 2 2 1 4 74 0 6 5 1 0 1 6 0 99 0 7 7 4 91 0 4 4 25 75 8 1 1 1 2 91 3 1 2 2 26 2 76 38 41 37 31 45 35 35 55 16 9 7 29 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

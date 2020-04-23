@@ -6,7 +6,7 @@
 u
 </note>
   <anchor x="500" y="0" name="bottom"/>
-  <anchor x="958" y="20" name="ogonek"/>
+  <anchor x="896" y="0" name="ogonek"/>
   <anchor x="618" y="1114" name="top"/>
   <anchor x="1180" y="1114" name="topright"/>
   <outline>
@@ -62,8 +62,6 @@ EIF[ ]	/* EndIf */
 NPUSHB[ ]	/* 13 values pushed */
 0 0 0 30 0 30 41 23 35 17 6 7 24 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

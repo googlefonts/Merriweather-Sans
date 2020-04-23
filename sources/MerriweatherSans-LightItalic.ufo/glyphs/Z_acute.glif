@@ -9,10 +9,4 @@ Zacute
     <component base="Z"/>
     <component base="acutecomb.case" xOffset="606"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

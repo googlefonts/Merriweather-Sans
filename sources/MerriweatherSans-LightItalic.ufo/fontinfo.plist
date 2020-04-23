@@ -158,10 +158,6 @@
       <integer>1966</integer>
       <integer>1998</integer>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-578</integer>
@@ -181,6 +177,10 @@
     <integer>-244</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>110</integer>
+    <key>styleMapFamilyName</key>
+    <string>Merriweather Sans Light</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
     <key>styleName</key>
     <string>Light Italic</string>
     <key>trademark</key>
@@ -188,9 +188,9 @@
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>8</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>1114</integer>
   </dict>

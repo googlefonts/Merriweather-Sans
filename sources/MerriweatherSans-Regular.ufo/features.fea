@@ -14,15 +14,14 @@
 # automatic
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem cyrl dflt;
 languagesystem latn CAT;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn KAZ;
+languagesystem latn TAT;
 languagesystem latn TRK;
 languagesystem latn CRT;
 languagesystem latn AZE;
-languagesystem cyrl TAT;
 
 
 feature aalt {
@@ -31,7 +30,6 @@ feature locl;
 feature frac;
 feature subs;
 feature sinf;
-feature sups;
 feature sups;
 feature numr;
 feature dnom;
@@ -48,7 +46,6 @@ feature zero;
 } aalt;
 
 feature ccmp {
-# automatic
 lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb slashlongcomb slashshortcomb strokelongcomb strokeshortcomb];
@@ -56,8 +53,13 @@ lookup ccmp_Other_1 {
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb breve tilde brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case breve.case tilde.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
-	sub @Markscomb @Markscomb' by @MarkscombCase;
+	@CombiningTopAccentsCase = [acutecomb.case brevecomb.case breveinvertedcomb.case caroncomb.case circumflexcomb.case commaturnedabovecomb.case dblgravecomb.case dieresiscomb.case dotaccentcomb.case gravecomb.case hookabovecomb.case hungarumlautcomb.case macroncomb.case ringcomb.case tildecomb.case];
 	sub @Uppercase @Markscomb' by @MarkscombCase;
+	sub @CombiningTopAccents @CombiningTopAccents' by @CombiningTopAccentsCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+	sub iogonek' @CombiningTopAccents by idotless ogonekcomb;
+	sub iogonek' @CombiningNonTopAccents @CombiningTopAccents by idotless ogonekcomb;
+
 } ccmp_Other_1;
 
 lookup ccmp_Other_2 {
@@ -108,6 +110,8 @@ sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
 language KAZ;
 sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
 language TRK;
 sub i by idotaccent;
 language CRT;
@@ -115,14 +119,10 @@ sub i by idotaccent;
 language AZE;
 sub i by idotaccent;
 
-script cyrl;
-language TAT;
-sub i by idotaccent;
-
 } locl;
 
 feature frac {
- lookup FractionBar {
+lookup FractionBar {
         ignore sub slash
             @figures
             @figures

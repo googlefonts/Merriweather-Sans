@@ -6,32 +6,9 @@
 i
 </note>
   <anchor x="219" y="0" name="bottom"/>
+  <anchor x="331" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="115" y="0" type="line"/>
-      <point x="331" y="0" type="line"/>
-      <point x="482" y="1114" type="line"/>
-      <point x="266" y="1114" type="line"/>
-    </contour>
-    <contour>
-      <point x="418" y="1334" type="curve" smooth="yes"/>
-      <point x="505" y="1334"/>
-      <point x="579" y="1406"/>
-      <point x="579" y="1490" type="curve" smooth="yes"/>
-      <point x="579" y="1556"/>
-      <point x="524" y="1606"/>
-      <point x="450" y="1606" type="curve" smooth="yes"/>
-      <point x="369" y="1606"/>
-      <point x="298" y="1533"/>
-      <point x="298" y="1453" type="curve" smooth="yes"/>
-      <point x="298" y="1387"/>
-      <point x="355" y="1334"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="dotaccent" xOffset="249" yOffset="3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
-    </dict>
-  </lib>
 </glyph>

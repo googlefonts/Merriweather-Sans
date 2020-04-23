@@ -7,10 +7,4 @@
     <component base="fraction" xOffset="824"/>
     <component base="four.dnom" xOffset="1264"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:11</string>
-    </dict>
-  </lib>
 </glyph>

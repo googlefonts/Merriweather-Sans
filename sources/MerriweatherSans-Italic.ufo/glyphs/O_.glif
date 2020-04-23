@@ -7,7 +7,7 @@ O
 </note>
   <anchor x="610" y="0" name="bottom"/>
   <anchor x="710" y="748" name="center"/>
-  <anchor x="822" y="20" name="ogonek"/>
+  <anchor x="725" y="0" name="ogonek"/>
   <anchor x="814" y="1496" name="top"/>
   <anchor x="172" y="1496" name="topleft"/>
   <anchor x="1440" y="1496" name="topright"/>
@@ -43,8 +43,6 @@ O
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

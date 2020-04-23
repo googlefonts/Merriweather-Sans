@@ -10,10 +10,4 @@ onehalf
     <component base="fraction" xOffset="696"/>
     <component base="two.dnom" xOffset="1107"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:53:28</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,15 +2,8 @@
 <glyph name="Oogonek" format="2">
   <advance width="1518"/>
   <unicode hex="01EA"/>
-  <anchor x="768" y="1486" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="ogonekcomb.case" xOffset="568" yOffset="-30"/>
+    <component base="ogonekcomb.case" xOffset="575"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:48:40</string>
-    </dict>
-  </lib>
 </glyph>

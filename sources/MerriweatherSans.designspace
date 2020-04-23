@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="300" maximum="900" default="400">
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
       <map input="300" output="82"/>
       <map input="400" output="115"/>
       <map input="700" output="152"/>
-      <map input="900" output="180"/>
+      <map input="800" output="180"/>
     </axis>
   </axes>
   <sources>
@@ -23,60 +23,26 @@
         <dimension name="Weight" xvalue="115"/>
       </location>
     </source>
-    <source filename="MerriweatherSans-Black.ufo" name="Merriweather Sans Black" familyname="Merriweather Sans" stylename="Black">
+    <source filename="MerriweatherSans-ExtraBold.ufo" name="Merriweather Sans ExtraBold" familyname="Merriweather Sans" stylename="ExtraBold">
       <location>
         <dimension name="Weight" xvalue="180"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light" filename="instance_ufos/MerriweatherSans-Light.ufo">
+    <instance name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light" filename="instance_ufos/MerriweatherSans-Light.ufo" stylemapfamilyname="Merriweather Sans Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="82"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>8BC678DE-46B6-4C98-A96E-C0ED61786D32</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular" filename="instance_ufos/MerriweatherSans-Regular.ufo">
+    <instance name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular" filename="instance_ufos/MerriweatherSans-Regular.ufo" stylemapfamilyname="Merriweather Sans" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="115"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>247DB4A4-D150-4133-9396-DC38172DD635</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
     <instance name="Merriweather Sans Bold" familyname="Merriweather Sans" stylename="Bold" filename="instance_ufos/MerriweatherSans-Bold.ufo" stylemapfamilyname="Merriweather Sans" stylemapstylename="bold">
       <location>
@@ -84,49 +50,13 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>23A20576-2241-481A-AD5B-28E85381F753</key>
-            <real>0.56923</real>
-            <key>247DB4A4-D150-4133-9396-DC38172DD635</key>
-            <real>0.43077</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Merriweather Sans Black" familyname="Merriweather Sans" stylename="Black" filename="instance_ufos/MerriweatherSans-Black.ufo">
+    <instance name="Merriweather Sans ExtraBold" familyname="Merriweather Sans" stylename="ExtraBold" filename="instance_ufos/MerriweatherSans-ExtraBold.ufo" stylemapfamilyname="Merriweather Sans ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="180"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>23A20576-2241-481A-AD5B-28E85381F753</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
   </instances>
   <lib>

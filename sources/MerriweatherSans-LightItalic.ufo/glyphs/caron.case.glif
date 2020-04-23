@@ -22,8 +22,6 @@ caron.cap
       <string>NPUSHB[ ]	/* 15 values pushed */
 6 3 2 1 4 0 72 0 0 0 105 20 1 7 21 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

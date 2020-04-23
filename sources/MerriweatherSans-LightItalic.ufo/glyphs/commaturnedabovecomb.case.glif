@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedabovecomb.case" format="2">
-  <note>
-uni0326
-</note>
   <anchor x="124" y="1494" name="_top"/>
   <anchor x="174" y="1878" name="top"/>
   <outline>
@@ -31,8 +28,6 @@ uni0326
       <string>PUSHB[ ]	/* 4 values pushed */
 8 1 1 48 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>

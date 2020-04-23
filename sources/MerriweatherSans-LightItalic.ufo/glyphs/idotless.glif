@@ -6,7 +6,7 @@
 dotlessi
 </note>
   <anchor x="202" y="0" name="bottom"/>
-  <anchor x="346" y="20" name="ogonek"/>
+  <anchor x="274" y="0" name="ogonek"/>
   <anchor x="350" y="1114" name="top"/>
   <outline>
     <contour>
@@ -22,8 +22,6 @@ dotlessi
       <string>NPUSHB[ ]	/* 22 values pushed */
 2 1 1 1 20 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
 CALL[ ]	/* CallFunction */</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/04/06 02:49:35</string>
     </dict>
   </lib>
 </glyph>
