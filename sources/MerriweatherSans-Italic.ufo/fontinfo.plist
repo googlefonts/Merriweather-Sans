@@ -168,6 +168,10 @@
       <integer>1966</integer>
       <integer>1998</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-578</integer>
