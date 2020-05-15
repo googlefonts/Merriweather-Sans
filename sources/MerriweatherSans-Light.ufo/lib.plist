@@ -1162,8 +1162,6 @@
           <string>ogonekcomb.case</string>
           <string>brevebelowcomb.case</string>
           <string>macronbelowcomb.case</string>
-          <string>breve.case</string>
-          <string>tilde.case</string>
           <string>brevecomb_acutecomb</string>
           <string>brevecomb_gravecomb</string>
           <string>brevecomb_hookabovecomb</string>
@@ -3063,8 +3061,6 @@
       <string>ogonekcomb.case</string>
       <string>brevebelowcomb.case</string>
       <string>macronbelowcomb.case</string>
-      <string>breve.case</string>
-      <string>tilde.case</string>
       <string>brevecomb_acutecomb</string>
       <string>brevecomb_gravecomb</string>
       <string>brevecomb_hookabovecomb</string>

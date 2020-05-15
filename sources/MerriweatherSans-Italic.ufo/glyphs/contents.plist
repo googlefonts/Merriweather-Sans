@@ -692,8 +692,6 @@
     <string>bracketright.case.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
-    <key>breve.case</key>
-    <string>breve.case.glif</string>
     <key>brevebelowcomb</key>
     <string>brevebelowcomb.glif</string>
     <key>brevebelowcomb.case</key>
@@ -2056,8 +2054,6 @@
     <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
-    <key>tilde.case</key>
-    <string>tilde.case.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>
