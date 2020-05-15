@@ -2,7 +2,6 @@
 <glyph name="cedilla" format="2">
   <advance width="458"/>
   <unicode hex="00B8"/>
-  <anchor x="322" y="-166" name="_btm"/>
   <outline>
     <contour>
       <point x="46" y="-426" type="line"/>

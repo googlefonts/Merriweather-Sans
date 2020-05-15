@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringhalfright" format="2">
   <unicode hex="02BE"/>
-  <anchor x="76" y="1114" name="_top"/>
-  <anchor x="132" y="1560" name="top"/>
   <outline>
     <contour>
       <point x="0" y="1266" type="line"/>
