@@ -1478,6 +1478,8 @@
     <string>nacute.sc.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
+    <key>napostrophe</key>
+    <string>napostrophe.glif</string>
     <key>narrownbspace</key>
     <string>narrownbspace.glif</string>
     <key>nbspace</key>
