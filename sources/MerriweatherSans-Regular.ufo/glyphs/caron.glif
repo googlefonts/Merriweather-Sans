@@ -2,7 +2,6 @@
 <glyph name="caron" format="2">
   <advance width="806"/>
   <unicode hex="02C7"/>
-  <anchor x="414" y="1635" name="_top"/>
   <outline>
     <contour>
       <point x="45" y="1585" type="line"/>

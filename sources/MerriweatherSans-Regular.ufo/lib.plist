@@ -10,6 +10,10 @@
         <key>pre</key>
         <true/>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+      </dict>
     </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.IJ_acutecomb</key>
     <dict>
@@ -1879,8 +1883,6 @@
       <string>ogonekcomb.case</string>
       <string>brevebelowcomb.case</string>
       <string>macronbelowcomb.case</string>
-      <string>breve.case</string>
-      <string>tilde.case</string>
       <string>brevecomb_acutecomb</string>
       <string>brevecomb_gravecomb</string>
       <string>brevecomb_hookabovecomb</string>

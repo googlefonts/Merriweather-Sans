@@ -474,10 +474,6 @@
     <array>
       <string>breve</string>
     </array>
-    <key>public.kern1.breve.case</key>
-    <array>
-      <string>breve.case</string>
-    </array>
     <key>public.kern1.brevebelowcomb</key>
     <array>
       <string>brevebelowcomb</string>
@@ -1916,10 +1912,6 @@
     <array>
       <string>tilde</string>
     </array>
-    <key>public.kern1.tilde.case</key>
-    <array>
-      <string>tilde.case</string>
-    </array>
     <key>public.kern1.tildecomb</key>
     <array>
       <string>tildecomb</string>
@@ -2666,10 +2658,6 @@
     <key>public.kern2.breve</key>
     <array>
       <string>breve</string>
-    </array>
-    <key>public.kern2.breve.case</key>
-    <array>
-      <string>breve.case</string>
     </array>
     <key>public.kern2.brevebelowcomb</key>
     <array>
@@ -4048,10 +4036,6 @@
     <key>public.kern2.tilde</key>
     <array>
       <string>tilde</string>
-    </array>
-    <key>public.kern2.tilde.case</key>
-    <array>
-      <string>tilde.case</string>
     </array>
     <key>public.kern2.tildecomb</key>
     <array>

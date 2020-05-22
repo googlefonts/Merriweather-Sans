@@ -2,8 +2,6 @@
 <glyph name="abrevegrave" format="2">
   <advance width="1234"/>
   <unicode hex="1EB1"/>
-  <anchor x="598" y="1964" name="_top"/>
-  <anchor x="598" y="1964" name="top"/>
   <outline>
     <component base="a"/>
     <component base="brevecomb_gravecomb" xOffset="598"/>

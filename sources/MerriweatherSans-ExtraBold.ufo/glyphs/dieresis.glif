@@ -2,7 +2,6 @@
 <glyph name="dieresis" format="2">
   <advance width="1010"/>
   <unicode hex="00A8"/>
-  <anchor x="504" y="1662" name="_top"/>
   <outline>
     <contour>
       <point x="246" y="1250" type="curve" smooth="yes"/>
