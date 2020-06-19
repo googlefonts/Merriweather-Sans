@@ -3,6 +3,6 @@
   <advance width="1040"/>
   <outline>
     <component base="l.sc"/>
-    <component base="periodcentered" xOffset="560"/>
+    <component base="periodcentered" xOffset="550" yOffset="-40"/>
   </outline>
 </glyph>

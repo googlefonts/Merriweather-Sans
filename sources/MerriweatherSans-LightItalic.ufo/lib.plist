@@ -1829,6 +1829,7 @@
       <string>circumflexcomb_hookabovecomb.case</string>
       <string>circumflexcomb_tildecomb.case</string>
       <string>uni0000</string>
+      <string>napostrophe</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

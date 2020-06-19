@@ -1908,6 +1908,8 @@
     <string>qcurve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4622213008</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -3082,6 +3084,7 @@
       <string>circumflexcomb_hookabovecomb.case</string>
       <string>circumflexcomb_tildecomb.case</string>
       <string>uni0000</string>
+      <string>napostrophe</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

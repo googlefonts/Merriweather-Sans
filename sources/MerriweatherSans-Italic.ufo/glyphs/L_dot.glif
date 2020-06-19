@@ -7,7 +7,7 @@ Ldot
 </note>
   <outline>
     <component base="L"/>
-    <component base="period" xOffset="674" yOffset="755"/>
+    <component base="period" xOffset="664" yOffset="655"/>
   </outline>
   <lib>
     <dict>
