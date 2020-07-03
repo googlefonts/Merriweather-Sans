@@ -4,6 +4,8 @@
   <dict>
     <key>Ezh</key>
     <string>E_zh.glif</string>
+    <key>acutecomb</key>
+    <string>acutecomb.glif</string>
     <key>delta.sc</key>
     <string>delta.sc.glif</string>
     <key>omega.sc</key>
