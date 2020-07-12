@@ -13,48 +13,7 @@
     <key>familyName</key>
     <string>Merriweather Sans</string>
     <key>guidelines</key>
-    <array>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>vLei2l5Nbb</string>
-        <key>x</key>
-        <integer>22</integer>
-        <key>y</key>
-        <integer>1618</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>feGTL0OM8C</string>
-        <key>x</key>
-        <integer>42</integer>
-        <key>y</key>
-        <integer>1562</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>9CLVcAxDUa</string>
-        <key>x</key>
-        <integer>-152</integer>
-        <key>y</key>
-        <integer>1386</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>3UpmNij5qQ</string>
-        <key>x</key>
-        <integer>376</integer>
-        <key>y</key>
-        <integer>238</integer>
-      </dict>
-    </array>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>

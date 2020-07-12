@@ -4,14 +4,14 @@
   <anchor x="-113" y="2018" name="top"/>
   <outline>
     <contour>
-      <point x="128" y="1710" type="line"/>
-      <point x="119" y="1719"/>
-      <point x="-191" y="1997"/>
-      <point x="-197" y="2018" type="curve"/>
-      <point x="-353" y="1888" type="line"/>
-      <point x="-277" y="1798"/>
-      <point x="-64" y="1648"/>
-      <point x="29" y="1614" type="curve"/>
+      <point x="128" y="1715" type="line"/>
+      <point x="119" y="1724"/>
+      <point x="-191" y="2002"/>
+      <point x="-197" y="2023" type="curve"/>
+      <point x="-353" y="1893" type="line"/>
+      <point x="-277" y="1803"/>
+      <point x="-64" y="1653"/>
+      <point x="29" y="1619" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -3,10 +3,10 @@
   <advance width="1354"/>
   <outline>
     <contour>
-      <point x="438" y="128" type="line" name="hr00"/>
-      <point x="556" y="106" type="line"/>
-      <point x="914" y="1048" type="line"/>
-      <point x="798" y="1074" type="line"/>
+      <point x="470" y="211" type="line" name="hr00"/>
+      <point x="588" y="189" type="line"/>
+      <point x="946" y="1131" type="line"/>
+      <point x="830" y="1157" type="line"/>
     </contour>
     <component base="zero.tosf"/>
   </outline>
